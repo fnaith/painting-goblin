@@ -3,689 +3,851 @@ tags: ['#idea', '#task/suspend', '#game', '#wip']
 ---
 
 # OpenSpec Proposal Series
-# 崩壞將棋（Collapse Shogi）
+# Project: Scrolling Shogi Roguelite
+# Tech Stack: Python + pygame-ce
 
-## 專案概念
+---
 
-崩壞將棋是一種將棋變體。
+# Overview
 
-除了正常將棋規則之外，棋盤會隨時間逐漸崩壞。
+## High Concept
 
-在每位玩家的奇數回合結束時，系統會從該玩家側的棋盤邊緣隨機選擇一格進行標記。
+將棋 Roguelite 生存遊戲。
 
-被標記的格子會在下一個對應玩家回合結束時永久消失。
+玩家控制己方王將，在持續崩壞並向下捲動的棋盤上生存。
 
-若格子消失時上面存在棋子，該棋子會一同被移除。
+每隔固定回合：
 
-若被移除的是王將，該玩家立即敗北。
+- 最底排消失
+- 棋盤整體向下推進
+- 最上排生成新格子與敵軍
+
+玩家必須：
+
+- 不斷向上推進
+- 擊敗敵人
+- 收集持駒
+- 建立防線
+- 獲得升級
+- 擊敗 Boss
+
+靈感來源：
+
+- Shotgun King
+- Downwell
+- Into the Breach
+- 將棋
 
 ---
 
 # Proposal 001
-# Project Bootstrap
+# Playable Board
 
 ## Goal
 
-建立最小可執行 pygame 專案。
+建立最小可玩的棋盤系統。
 
-## Scope
+## Features
 
 - 9x9 棋盤
-- 格子渲染
-- 滑鼠選取格子
-- 回合切換
+- 格子繪製
+- 玩家王將
+- 游標選取
+- 移動王將
 
-## Out of Scope
+## Controls
 
-- 棋子
-- 將棋規則
-- 崩壞系統
+### Arrow Keys
+
+移動游標
+
+### Space
+
+確認移動
+
+## Files
+
+```text
+main.py
+board.py
+piece.py
+renderer.py
+```
 
 ## Acceptance Criteria
 
 - 顯示 9x9 棋盤
-- 可選取格子
-- 顯示目前玩家
-- Space 鍵切換回合
-
-## Architecture
-
-```text
-Game
-├─ Board
-├─ Renderer
-└─ TurnManager
-```
+- 王將可移動
+- 不可超出邊界
 
 ---
 
 # Proposal 002
-# Piece Prototype
+# Turn System
 
 ## Goal
 
-建立最小棋子系統。
+建立回合制架構。
 
-## Scope
+## Features
 
-僅實作：
+新增遊戲狀態：
 
-- 王將
-- 步兵
+```python
+PlayerTurn
+EnemyTurn
+```
 
-## Rules
+新增：
 
-### 王將
+```python
+TurnManager
+```
 
-八方向移動一格。
+## Turn Flow
 
-### 步兵
+```text
+Player Turn
+↓
+Enemy Turn
+↓
+Turn +1
+↓
+Player Turn
+```
 
-向前移動一格。
+## Files
+
+```text
+turn_manager.py
+game_state.py
+```
 
 ## Acceptance Criteria
 
-- 棋子可選取
-- 顯示合法移動位置
-- 可執行移動
+畫面顯示：
 
-## Data Model
-
-```python
-class Piece:
-    owner
-    piece_type
-    position
+```text
+Turn: 1
+Player Turn
 ```
 
 ---
 
 # Proposal 003
-# Capture System
+# Enemy Pawns
 
 ## Goal
 
-加入吃子機制。
+建立第一種敵人。
 
-## Rules
+## New Piece
 
-移動到敵方棋子所在格：
+```text
+Enemy Pawn
+```
 
-- 敵方棋子消失
+## Behaviour
 
-## Victory Condition
+每回合：
 
-敵方王將被吃掉：
+```text
+向下前進一格
+```
 
-- 立即勝利
+## Spawn
+
+固定生成於最上排。
+
+## Files
+
+```text
+enemy.py
+enemy_spawner.py
+```
 
 ## Acceptance Criteria
 
-- 棋子可被移除
-- 顯示勝負結果
+敵人持續接近玩家。
 
 ---
 
 # Proposal 004
-# Board Collapse Prototype
+# Capture System
 
 ## Goal
 
-加入棋盤崩壞機制。
-
-## Tile State
-
-```python
-class TileState(Enum):
-    NORMAL
-    MARKED
-    REMOVED
-```
+實作吃子。
 
 ## Rules
 
-玩家奇數回合結束後：
+移動到敵方格：
 
 ```text
-Turn 1
-Turn 3
-Turn 5
-...
-```
-
-系統：
-
-- 從玩家側邊緣選一格
-- 標記為 MARKED
-
-## Visual
-
-### NORMAL
-
-白色
-
-### MARKED
-
-紅色閃爍
-
-### REMOVED
-
-黑色空洞
-
-## Acceptance Criteria
-
-- 奇數回合產生標記
-- 標記正確顯示
-
----
-
-# Proposal 005
-# Piece Destruction
-
-## Goal
-
-格子消失時摧毀棋子。
-
-## Rules
-
-當格子變成 REMOVED：
-
-- 若存在棋子
-- 棋子同步移除
-
-## Special Rule
-
-若移除王將：
-
-- 玩家立即敗北
-
-## Acceptance Criteria
-
-- 棋子會隨格子消失
-- 王將掉落判負
-
----
-
-# Proposal 006
-# Collapse Scheduler
-
-## Goal
-
-支援延遲崩壞事件。
-
-## Data Model
-
-```python
-class CollapseEvent:
-    owner
-    target_tile
-    created_turn
-    execute_turn
-```
-
-## Example
-
-```text
-Turn 1
-標記 A
-
-Turn 2
-A 消失
-
-Turn 3
-標記 B
-
-Turn 4
-B 消失
-```
-
-## Acceptance Criteria
-
-- 多個事件可同時存在
-- 事件正確執行
-
----
-
-# Proposal 007
-# Edge Selection Rules
-
-## Goal
-
-定義崩壞格選取規則。
-
-## Selection Pool
-
-### 先手
-
-```text
-第 9 排
-```
-
-### 後手
-
-```text
-第 1 排
-```
-
-## Invalid Targets
-
-不可選：
-
-- MARKED
-- REMOVED
-
-## Fallback
-
-若整排無合法格：
-
-```text
-向內搜尋下一排
-```
-
-## Acceptance Criteria
-
-- 永遠能找到合法目標
-
----
-
-# Proposal 008
-# Full Shogi Lite
-
-## Goal
-
-加入主要棋種。
-
-## Pieces
-
-- 王
-- 金
-- 銀
-- 桂
-- 香
-- 飛
-- 角
-- 步
-
-## Out of Scope
-
-- 成棋
-- 持駒
-- 打入
-
-## Acceptance Criteria
-
-- 可進行簡化版將棋對局
-
----
-
-# Proposal 009
-# Promotion System
-
-## Goal
-
-加入升變。
-
-## Promotion Zone
-
-敵陣三排。
-
-## Supported Pieces
-
-- 步
-- 香
-- 桂
-- 銀
-- 飛
-- 角
-
-## Acceptance Criteria
-
-- 進入升變區可選擇升變
-- 升變後移動規則正確
-
----
-
-# Proposal 010
-# Hand Pieces
-
-## Goal
-
-加入完整將棋特色。
-
-## Rules
-
-吃到敵方棋子：
-
-```text
-加入持駒區
-```
-
-玩家可：
-
-```text
-將持駒打入棋盤
-```
-
-## Future Restrictions
-
-- 二步
-- 打步詰
-- 不合法打入
-
-## Acceptance Criteria
-
-- 可使用持駒
-
----
-
-# Proposal 011
-# Collapse Strategy Layer
-
-## Goal
-
-讓崩壞規則可替換。
-
-## Mode
-
-### RANDOM
-
-```text
-完全隨機
-```
-
-### CHOOSE_ONE
-
-```text
-系統提出兩格
-玩家選擇一格
-```
-
-### PLAYER_CONTROLLED
-
-```text
-玩家指定崩壞位置
-```
-
-## Data Model
-
-```python
-class CollapseMode(Enum):
-    RANDOM
-    CHOOSE_ONE
-    PLAYER_CONTROLLED
-```
-
-## Acceptance Criteria
-
-- 規則可自由切換
-
----
-
-# Proposal 012
-# Sudden Death
-
-## Goal
-
-加速終局。
-
-## Trigger
-
-剩餘格數：
-
-```text
-<= 30
-```
-
-## Effect
-
-每次崩壞：
-
-```text
-標記 2 格
-```
-
-## Acceptance Criteria
-
-- 終局速度顯著提升
-
----
-
-# Proposal 013
-# AI Opponent
-
-## Goal
-
-加入單機 AI。
-
-## Phase 1
-
-隨機合法移動。
-
-## Phase 2
-
-加入權重：
-
-- 保護王將
-- 吃子
-- 遠離崩壞格
-
-## Phase 3
-
-Minimax
-
-```text
-Depth 2~3
-```
-
-## Acceptance Criteria
-
-- AI 可完成對局
-
----
-
-# Proposal 014
-# Replay System
-
-## Goal
-
-方便測試與除錯。
-
-## Save Format
-
-```json
-{
-  "turn": 17,
-  "moves": [],
-  "collapse_events": []
-}
+吃掉敵方棋子
 ```
 
 ## Features
 
-- Replay
-- Pause
-- Step
-- Fast Forward
+新增：
+
+```python
+capture_piece()
+```
+
+## UI
+
+顯示：
+
+```text
+Kills: 0
+```
 
 ## Acceptance Criteria
 
-- 可重播完整對局
+玩家可消滅敵人。
 
 ---
 
-# Proposal 015
-# Rule DSL
+# Proposal 005
+# Scrolling Board
 
 ## Goal
 
-讓所有環境規則資料化。
+建立核心玩法。
 
-## DSL Example
+## Rules
 
-```yaml
-collapse:
-  enabled: true
+每 5 回合：
 
-  trigger:
-    odd_turn_end: true
+### Step 1
 
-  source:
-    side: self
+刪除最底排
 
-  selection:
-    mode: random
+### Step 2
 
-  delay_turns: 1
+全部棋子往下移動
 
-  destroy_piece: true
+### Step 3
 
-  king_fall_loss: true
-```
+新增最上排
 
----
+### Step 4
 
-# Core Data Model
+生成敵軍
 
-## Board
+## Example
 
-```python
-class Board:
-    width = 9
-    height = 9
-    tiles
-```
-
-## Tile
-
-```python
-class Tile:
-    state
-    piece
-```
-
-## Piece
-
-```python
-class Piece:
-    owner
-    piece_type
-    promoted
-    position
-```
-
-## Collapse Event
-
-```python
-class CollapseEvent:
-    target_tile
-    execute_turn
-```
-
-## Game State
-
-```python
-class GameState:
-    board
-    players
-    turn
-    collapse_events
-    winner
-```
-
----
-
-# Future Environment Expansions
-
-透過 DSL 可快速製作不同棋盤災害。
-
-## 火山將棋
-
-```yaml
-volcano:
-  eruption_every: 5
-```
-
-效果：
-
-- 隨機區域爆炸
-- 周圍棋子摧毀
-
----
-
-## 冰河將棋
-
-```yaml
-ice:
-  slide_enabled: true
-```
-
-效果：
-
-- 棋子進入冰面會持續滑行
-
----
-
-## 毒霧將棋
-
-```yaml
-poison:
-  spread_each_turn: true
-```
-
-效果：
-
-- 毒區持續擴散
-- 停留扣血
-
----
-
-## 黑洞將棋
-
-```yaml
-blackhole:
-  attract_radius: 2
-```
-
-效果：
-
-- 棋子逐漸被拉向中心
-
----
-
-## 地震將棋
-
-```yaml
-earthquake:
-  random_shift: true
-```
-
-效果：
-
-- 棋子位置可能被震動改變
-
----
-
-# Recommended Development Order
+Before
 
 ```text
-001 Project Bootstrap
-002 Piece Prototype
-003 Capture System
-004 Board Collapse Prototype
-005 Piece Destruction
-006 Collapse Scheduler
-007 Edge Selection Rules
-008 Full Shogi Lite
-009 Promotion System
-010 Hand Pieces
-011 Collapse Strategy Layer
-012 Sudden Death
-013 AI Opponent
-014 Replay System
-015 Rule DSL
+A
+B
+C
+D
 ```
 
-預計完成 Proposal 005 後，即可得到第一個可遊玩的 MVP 版本。
+After
+
+```text
+NEW
+A
+B
+C
+```
+
+## Failure Condition
+
+玩家被推出棋盤：
+
+```text
+Game Over
+```
+
+## Files
+
+```text
+board_scroll.py
+```
+
+## Acceptance Criteria
+
+棋盤持續向下捲動。
+
+---
+
+# Proposal 006
+# Wave Generator
+
+## Goal
+
+建立敵人生成系統。
+
+## API
+
+```python
+generate_wave(turn)
+```
+
+## Difficulty Curve
+
+### Wave 1~10
+
+```text
+Pawn
+```
+
+### Wave 11~20
+
+```text
+Pawn
+Lance
+```
+
+### Wave 21~30
+
+```text
+Pawn
+Lance
+Knight
+```
+
+### Wave 31~50
+
+```text
+Pawn
+Lance
+Knight
+Silver
+```
+
+## Files
+
+```text
+wave_generator.py
+```
+
+## Acceptance Criteria
+
+敵軍數量與品質隨時間成長。
+
+---
+
+# Proposal 007
+# Shogi Piece Framework
+
+## Goal
+
+導入完整棋種架構。
+
+## Implement
+
+```text
+Pawn
+Lance
+Knight
+Silver
+Gold
+Bishop
+Rook
+```
+
+## Architecture
+
+```python
+MovementPattern
+```
+
+## Example
+
+```python
+piece.get_valid_moves()
+```
+
+## Files
+
+```text
+movement.py
+piece_factory.py
+```
+
+## Acceptance Criteria
+
+所有棋種具備正確走法。
+
+---
+
+# Proposal 008
+# Hand Piece System
+
+## Goal
+
+導入持駒。
+
+## Rules
+
+擊敗敵人：
+
+```text
+加入持駒
+```
+
+例如：
+
+```text
+Pawn x2
+Knight x1
+```
+
+## Controls
+
+### H
+
+開啟持駒介面
+
+### Enter
+
+放置持駒
+
+## UI
+
+```text
+Hand:
+Pawn x2
+Knight x1
+```
+
+## Files
+
+```text
+hand.py
+drop_phase.py
+```
+
+## Acceptance Criteria
+
+玩家可打入持駒。
+
+---
+
+# Proposal 009
+# Friendly Army
+
+## Goal
+
+建立己方部隊。
+
+## Available Units
+
+```text
+Pawn
+Lance
+Knight
+Silver
+Gold
+```
+
+## AI
+
+### Default Behaviour
+
+```text
+優先前進
+
+發現敵人時攻擊
+```
+
+## Files
+
+```text
+friendly_ai.py
+```
+
+## Acceptance Criteria
+
+己方部隊可協助戰鬥。
+
+---
+
+# Proposal 010
+# Upgrade Selection
+
+## Goal
+
+建立 Roguelite 成長系統。
+
+## Trigger
+
+每 10 回合。
+
+## UI
+
+三選一。
+
+## Example Upgrades
+
+### Rook Soul
+
+王將獲得飛車走法
+
+### Bishop Soul
+
+王將獲得角行走法
+
+### Reinforcement
+
+獲得持步 x2
+
+### Veteran Army
+
+所有步兵攻擊力增加
+
+### Supply Wagon
+
+持駒容量增加
+
+## Files
+
+```text
+upgrade.py
+upgrade_pool.py
+upgrade_ui.py
+```
+
+## Acceptance Criteria
+
+玩家可於每局持續變強。
+
+---
+
+# Proposal 011
+# Boss Framework
+
+## Goal
+
+建立 Boss 系統。
+
+## Boss Properties
+
+```python
+hp
+size
+skills
+```
+
+## Example Boss
+
+### Giant Rook
+
+```text
+HP: 20
+Size: 2x2
+```
+
+### Fortress
+
+```text
+HP: 50
+```
+
+持續召喚敵軍。
+
+## Spawn
+
+每 20 Wave。
+
+## Files
+
+```text
+boss.py
+boss_manager.py
+```
+
+## Acceptance Criteria
+
+Boss 戰可正常進行。
+
+---
+
+# Proposal 012
+# Complete Roguelite Loop
+
+## Goal
+
+完成 MVP。
+
+## New Systems
+
+### Soul Currency
+
+擊殺獲得：
+
+```text
+Soul
+```
+
+### Unlock System
+
+解鎖：
+
+```text
+新升級
+新敵人
+新Boss
+```
+
+### Statistics
+
+紀錄：
+
+```text
+存活回合
+擊殺數
+Boss擊破數
+```
+
+### End Screen
+
+顯示：
+
+```text
+Run Summary
+```
+
+## Files
+
+```text
+meta_progression.py
+statistics.py
+end_screen.py
+```
+
+## Acceptance Criteria
+
+完整流程：
+
+```text
+開始遊戲
+↓
+戰鬥
+↓
+棋盤捲動
+↓
+升級
+↓
+Boss
+↓
+死亡
+↓
+結算
+↓
+重新開始
+```
+
+---
+
+# Post-MVP Roadmap
+
+## Proposal 013
+Promotion System
+
+### Features
+
+- 成銀
+- 成桂
+- 成香
+- 龍王
+- 龍馬
+
+---
+
+## Proposal 014
+Elite Enemies
+
+### Examples
+
+#### Bomb Pawn
+
+死亡爆炸
+
+#### Ghost Bishop
+
+無視阻擋
+
+#### Berserker Rook
+
+強制前進
+
+---
+
+## Proposal 015
+Relic System
+
+永久被動能力。
+
+### Examples
+
+```text
+Double Souls
+Auto Promotion
+Extra Hand Capacity
+```
+
+---
+
+## Proposal 016
+Event Rooms
+
+特殊波次。
+
+### Examples
+
+```text
+Treasure Wave
+Merchant
+Shrine
+Ambush
+```
+
+---
+
+## Proposal 017
+Alternative Kings
+
+不同起始職業。
+
+### Examples
+
+#### Warrior King
+
+近戰強化
+
+#### Rook King
+
+飛車移動
+
+#### Summoner King
+
+初始持駒增加
+
+---
+
+## Proposal 018
+Loadout System
+
+開局選擇：
+
+```text
+起始升級
+起始部隊
+起始持駒
+```
+
+---
+
+## Proposal 019
+Daily Challenge
+
+每日固定種子。
+
+排行榜模式。
+
+---
+
+## Proposal 020
+Endless Mode
+
+無限生存。
+
+持續生成：
+
+- Elite
+- Boss
+- Mega Boss
+
+直到死亡。
+
+---
+
+# Milestone Plan
+
+## Milestone A
+Core Prototype
+
+```text
+001
+002
+003
+004
+005
+006
+```
+
+完成後可驗證：
+
+- 回合制
+- 敵軍
+- 棋盤捲動
+
+---
+
+## Milestone B
+Shogi Identity
+
+```text
+007
+008
+009
+```
+
+完成後可驗證：
+
+- 將棋特色
+- 持駒
+- 部隊戰鬥
+
+---
+
+## Milestone C
+Roguelite Identity
+
+```text
+010
+011
+012
+```
+
+完成後可驗證：
+
+- 成長
+- Boss
+- 完整遊戲循環
+
+---
+
+# MVP Definition
+
+完成以下 Proposal 即視為 MVP：
+
+```text
+001
+002
+003
+004
+005
+006
+007
+008
+009
+010
+011
+012
+```
+
+最終產出：
+
+「Shotgun King + Downwell + 將棋」
+垂直捲軸 Roguelite 生存遊戲。
 
 ---
 
