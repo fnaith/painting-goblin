@@ -22,3 +22,4 @@ tags: ['#ref']
 - [Monodraw allows you to easily create text-based art](https://monodraw.helftone.com)
 - [ASCIIFlow: Infinite ASCII diagrams](https://files.littlebird.com.au/ascii-sketch.html)
 - [Firm: A text-based work management system for technologists](https://github.com/42futures/firm)
+- [Text Art Tool](https://hlnet.notion.site/text-art-tools)
