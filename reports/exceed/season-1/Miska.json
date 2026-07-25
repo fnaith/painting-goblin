@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Silver Fang",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "On Patrol",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add this card to your Gauge, then move your Bear Marker to any space."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent up to 3 spaces.",
+      "AFTER: Move your Bear Marker to any space."
+    ]
+  },
+  {
+    "name": "Bear Rush",
+    "type": "special",
+    "cost": null,
+    "range": "0-1",
+    "power": "1",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Iron Will",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor and +3 Guard."
+      ]
+    },
+    "effect": [
+      "This attack always calculates its range from your Bear Marker.",
+      "HIT: +1 Power for each card in your opponent's hand and move them 1 space."
+    ]
+  },
+  {
+    "name": "Knee Capper",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Acrobatics",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 4 spaces."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Move up to 2 spaces."
+    ]
+  },
+  {
+    "name": "Canine Strike",
+    "type": "special",
+    "cost": null,
+    "range": "3-7",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "A Helping Hand",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power and +2 Speed. If you are not in the same space as your Bear Marker when you play this, discard it."
+      ]
+    },
+    "effect": [
+      "BEFORE: Retreat as far as possible."
+    ]
+  },
+  {
+    "name": "Fire In The Hole!",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "6",
+    "speed": "0",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Protect Your Master",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "If the opponent is in the same space as your Bear Marker, move him up to 3 spaces."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Push the opponent as far as possible."
+    ]
+  },
+  {
+    "name": "Savage Wildsider",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "0",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Priority Requisition",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Search your deck for a card, add it to your hand, then Strike. Shuffle your deck afterwards."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "This attack always calculates its range from your Bear Marker."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Scorched Earth",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "4-8",
+    "power": "10",
+    "speed": "0",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Brilliant Tactician",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Speed."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Push the opponent as far as possible."
+    ],
+    "exceed_cost": "3G"
+  }
+]

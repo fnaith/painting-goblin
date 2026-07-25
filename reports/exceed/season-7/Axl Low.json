@@ -1,0 +1,159 @@
+[
+  {
+    "name": "Snail",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dogs On The Run",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Advance 2 or 3."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1. Draw 1."
+    ]
+  },
+  {
+    "name": "Sickle Flash (x4)",
+    "type": "special",
+    "cost": null,
+    "range": "3-8",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "A Slow Waker",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Retreat 2 or 3."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1; if the opponent was Pushed fewer than 1 space, +2 Power."
+    ]
+  },
+  {
+    "name": "Rainwater",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Make Oneself",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may Retreat 1.",
+      "HIT: Retreat 1."
+    ]
+  },
+  {
+    "name": "Axl Bomber",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Wise Remarks",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Power.",
+        "AFTER: If the opponent is stunned (even if they were faster), draw 1."
+      ]
+    },
+    "effect": [
+      "If you Initiated, +2 Power.",
+      "HIT: Advance 2. You may spend 1 Gauge; if you do, gain Advantage."
+    ]
+  },
+  {
+    "name": "Winter Mantis",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "The March Of The Wicked King",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Spend up to 2 Force. For each Force spent, Push 1 and draw 2."
+      ]
+    },
+    "effect": [
+      "Ignore Armor. Ignore Guard.",
+      "BEFORE: Pull 8 without Pulling past yourself.",
+      "HIT: Advance 2."
+    ]
+  },
+  {
+    "name": "One Vision",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Out Of The Box",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "ACTION: Discard this from play and take 3 actions; you cannot Cancel during them. (Striking ends your turn.)"
+      ]
+    },
+    "effect": [
+      "HIT: Draw 4. Gain Advantage.",
+      "AFTER: Play this as its Boost and sustain it."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Sickle Storm",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "3",
+    "guard": "3",
+    "boost": {
+      "name": "Idealism",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 3 cards of your deck. You may Boost or Strike with one of them (you cannot Cancel it). Discard the rest."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1. Lose all Armor.",
+      "AFTER: If the opponent is stunned, Push 2."
+    ],
+    "exceed_cost": "2G"
+  }
+]

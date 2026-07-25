@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Falling Fang",
+    "type": "special",
+    "cost": "1F",
+    "range": "2-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Shadow Serpent",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 1 or 2, then draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: Push up to 1. Gain Advantage."
+    ]
+  },
+  {
+    "name": "Hungry Coils",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Serpent's Benediction",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your Force costs are reduced by 1.",
+        "NOW: You may Strike. If you do, the opponent sets their card first."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 4. The opponent must discard a card at random.",
+      "AFTER: Gain Advantage."
+    ]
+  },
+  {
+    "name": "Venom Sword",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Serpent's Redemption",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your Force Costs are reduced by 1.",
+        "NOW: Advance or Retreat 2."
+      ]
+    },
+    "effect": [
+      "HIT: Push until the opponent is at this attack's Maximum Range.",
+      "AFTER: Draw 1."
+    ]
+  },
+  {
+    "name": "Devouring Fang",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-2",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bloody Fangs",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 1.",
+        "AFTER: If the opponent is stunned, draw 2."
+      ]
+    },
+    "effect": [
+      "Ignore Armor."
+    ]
+  },
+  {
+    "name": "Rising Fang",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-2",
+    "power": "4",
+    "speed": "2",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "Vengeful Viper",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: You may play and sustain the topmost Continuous Boost from your discard pile."
+      ]
+    },
+    "effect": [
+      "If you initiated this Strike, +2 Armor.",
+      "BEFORE: Close 1.",
+      "HIT: Push 1, then lose all Armor."
+    ]
+  },
+  {
+    "name": "Serpent's Infernal Rapture",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "7",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Check Out My Snake!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 3 and Strike."
+      ]
+    },
+    "effect": [],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Eternal Coils of the Dragon Serpent",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-4",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Having Fun Yet?",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Spend up to 5 Force. The opponent must discard that many cards at random. Then, you may Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Spend up to 5 Force. For each Force spent, +1 Power and Pull 8 (each Pull is separate)."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Hungry Darkness of 1000 Souls",
+    "type": "astral",
+    "cost": "4G",
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: The opponent must discard their hand. For each card discarded this way, +1 Power and you may draw 1."
+    ]
+  }
+]

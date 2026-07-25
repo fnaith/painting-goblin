@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Cannon Spike",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Backflip",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat up to 4."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 3."
+    ]
+  },
+  {
+    "name": "Dive Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Slide",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your Normal Attacks have \"BEFORE: Advance 3.\"",
+        "CLEANUP: If you did not use a Normal Attack, you may sustain this card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2.",
+      "AFTER: Attacks at range 1 do not hit you."
+    ]
+  },
+  {
+    "name": "Spiral Arrow",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ejection Kick",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "If the opponent is at range 1, Push 3."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +1 Armor and +4 Guard.",
+      "BEFORE: Advance 4."
+    ]
+  },
+  {
+    "name": "Cannonball",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Skip",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed.",
+        "At the end of your turn, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "CRITICAL: Ignore Guard.",
+      "BEFORE: Advance 3.",
+      "HIT: Pull 3 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Razor's Edge Slicer",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "High Jump",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 3."
+      ]
+    },
+    "effect": [
+      "CRITICAL: Attacks at range 4 or 5 do not hit you.",
+      "BEFORE: Advance 4.",
+      "HIT: If the opponent is at the edge of the arena, +2 Power."
+    ]
+  },
+  {
+    "name": "Gyro Drive Smasher",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hooligan Combination",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Retreat up to 3, then Strike."
+      ]
+    },
+    "effect": [
+      "Attacks at range 4 or 5 do not hit you.",
+      "BEFORE: Advance as far as possible.",
+      "HIT: Pull any number of spaces. +1 Power for each space pulled this way."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "CQC",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Acrobatics",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Attacks at range 1 do not hit you.",
+        "At the end of your next turn, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "Attacks at range 1 do not hit you.",
+      "HIT: Push or Pull any number of spaces."
+    ],
+    "exceed_cost": "3G"
+  }
+]

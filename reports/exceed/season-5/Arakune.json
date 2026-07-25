@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Disjoint union",
+    "type": "special",
+    "cost": null,
+    "range": "4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bell Bug",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "HIT: Draw 1, then add this to your Overdrive."
+      ]
+    },
+    "effect": [
+      "BEFORE, RANGE 1: You may Push 3 or 4.",
+      "AFTER: If the opponent is stunned, add the top card of your discard pile to your Overdrive."
+    ]
+  },
+  {
+    "name": "If p, then q",
+    "type": "special",
+    "cost": "1F",
+    "range": "1",
+    "power": "N/A",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Equals 0",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "-1 Speed. Attacks at Range X do not hit you. X is the number of cards in your Overdrive.",
+        "NOW: Draw 1."
+      ]
+    },
+    "effect": [
+      "Attacks with higher Speed do not hit you.",
+      "BEFORE: You may Advance 3.",
+      "AFTER: You may add this to your Overdrive."
+    ]
+  },
+  {
+    "name": "y, two-dash",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Irrationality",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Both players have +1 Range (minimum and maximum) and -1 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2 or 3. If you moved past the opponent this way, +2 Power."
+    ]
+  },
+  {
+    "name": "Permutation n, r",
+    "type": "special",
+    "cost": null,
+    "range": "7",
+    "power": "5",
+    "speed": "3",
+    "armor": "1",
+    "guard": "5",
+    "boost": {
+      "name": "A±B",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Opponent chooses: They add a card from their hand to your Overdrive, or look at their hand and the top card of their deck."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 3 Force for -2 Range each.",
+      "HIT: The opponent must discard a card at random. If they do, add that card to your Overdrive."
+    ]
+  },
+  {
+    "name": "f piecewise",
+    "type": "special",
+    "cost": null,
+    "range": "0",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Zero Vector",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Name a card, then Strike. The named card is invalid for both players.",
+        "AFTER: Add this to your Overdrive."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 3 Force for +2 Range each.",
+      "AFTER: Advance or Retreat 2."
+    ]
+  },
+  {
+    "name": "f inverse",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2",
+    "power": "4",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Forbidden Knowledge",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 5 cards of your deck. Seal 1 face-down, add one to your Gauge, add one to your Overdrive, and return the rest in any order."
+      ]
+    },
+    "effect": [
+      "If this attack is invalid, +3 Armor.",
+      "HIT, RANGE 1: +2 Power.",
+      "AFTER: Push or Pull 1 or 2."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "f of g",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "3-7",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Wall Teleport",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "If you are at the edge of the arena, Advance up to 8."
+      ]
+    },
+    "effect": [
+      "HIT: Choose up to 3 cards from your discard pile and add them to your Overdrive."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "n to infinity",
+    "type": "astral",
+    "cost": "3G",
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "AFTER: If the opponent is stunned, deal 99 damage."
+    ]
+  }
+]

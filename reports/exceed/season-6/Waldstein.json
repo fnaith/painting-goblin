@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Wirbelwind",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "6",
+    "speed": "4",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Blowback",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "RANGE 1: Push 1 or 2, then Strike."
+      ]
+    },
+    "effect": [
+      "Attacks at Range 4 or greater do not hit you.",
+      "HIT: Push 3.",
+      "AFTER: Advance 2."
+    ]
+  },
+  {
+    "name": "Eisen Nagel",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "6",
+    "speed": "3",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Flex",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor. +1 Guard.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1.",
+      "AFTER: If the opponent is stunned, gain Advantage."
+    ]
+  },
+  {
+    "name": "Sturmangriff",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "2",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Face Me!",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 2.",
+        "At the start of your turn, Strike. If you do, your attack has +2 Speed and +2 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 4.",
+      "HIT: Push or Pull 3."
+    ]
+  },
+  {
+    "name": "Ferzen Volf",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "1",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Reach",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "You cannot be Pushed or Pulled.",
+      "BEFORE, RANGE 1: Push 2 and +2 Power. HIT: Push 2."
+    ]
+  },
+  {
+    "name": "Katastrophe",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hecatoncheir",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "For each card in your hand, draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: Push 8."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Werfen Erschlagen",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "The Destroyers",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your Normal Attacks have +2-2 Range and +2 Power.",
+        "AFTER: If your attack did not hit, return this to your hand."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: The opponent discards 4 cards at random."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Verderben",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "3-4",
+    "power": "10",
+    "speed": "1",
+    "armor": "4",
+    "guard": "0",
+    "boost": {
+      "name": "Maximize Power",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Armor.",
+        "NOW: Advance up to 2. At the start of your turn, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "Stun Immunity. This attack must be set face-up (otherwise it becomes invalid)."
+    ],
+    "exceed_cost": "4G"
+  }
+]

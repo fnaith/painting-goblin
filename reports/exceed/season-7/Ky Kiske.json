@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Stun Dipper",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hope",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "HIT, RANGE 2: The opponent must discard a random card."
+    ]
+  },
+  {
+    "name": "Vapor Thrust",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Holy Orders",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "RANGE 2: +2 Speed.",
+      "AFTER: Advance 3."
+    ]
+  },
+  {
+    "name": "Foudre Arc",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Shock State",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 1.",
+        "HIT: +1 Power. Gain Advantage."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3; if you did not Advance past the opponent, draw 1."
+    ]
+  },
+  {
+    "name": "Dire Eclat",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Faith",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed and +3 Guard."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2; if the opponent was Pushed fewer than 2 spaces, draw 2."
+    ]
+  },
+  {
+    "name": "Stun Edge",
+    "type": "special",
+    "cost": null,
+    "range": "2-6",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Be Just Or Be Dead",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed.",
+        "AFTER: If the opponent is stunned (even if they were faster), draw 1."
+      ]
+    },
+    "effect": [
+      "HIT, RANGE 2: +2 Power. Gain Advantage.",
+      "AFTER: Advance up to 2."
+    ]
+  },
+  {
+    "name": "Sacred Edge",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "2-6",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Roar Of The Spark",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Draw 2."
+      ]
+    },
+    "effect": [
+      "HIT: Close up to 4. Gain Advantage."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Ride the Lightning",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "6",
+    "speed": "1",
+    "armor": "2",
+    "guard": "6",
+    "boost": {
+      "name": "Thunderseal",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+0-1 Range and +1 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 4.",
+      "HIT: Push 2. Gain Advantage."
+    ],
+    "exceed_cost": "4G"
+  }
+]

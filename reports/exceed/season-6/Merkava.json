@@ -1,0 +1,182 @@
+[
+  {
+    "name": "I, Capture and Devour",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Slithering",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "HIT: Close 5 and gain Advantage."
+    ]
+  },
+  {
+    "name": "I, Breathe Out",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Instant Flight",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Reveal the top card of your deck. Advance or Retreat X, where X is the revealed card's power."
+      ]
+    },
+    "effect": [
+      "AFTER: Retreat 2. You may return this to the top of your deck."
+    ]
+  },
+  {
+    "name": "I, Drill Through",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Madness",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "HIT: If you have no cards in hand, +4 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 3 Force. For each Force spent, +1 Power and Close 1."
+    ]
+  },
+  {
+    "name": "I, Rampage",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Deflection",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "HIT: Gain Armor equal to your Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3.",
+      "HIT: Push or Pull 1.",
+      "AFTER: You may return this to the top of your deck."
+    ]
+  },
+  {
+    "name": "I, Agitate",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Lie in Wait",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Guard.",
+        "When this is discarded, draw 2."
+      ]
+    },
+    "effect": [
+      "HIT: Reveal the top card of your deck. Push or Pull X, where X is the revealed card's Power."
+    ]
+  },
+  {
+    "name": "I, Persistently Cling",
+    "type": "special",
+    "cost": null,
+    "range": "0",
+    "power": "7",
+    "speed": "1",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Wide",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "When you set this, you may place it face-up on a space. If you do, calculate Range from that space.",
+      "AFTER: If this did not hit, return it to your hand."
+    ]
+  },
+  {
+    "name": "I, Defile",
+    "type": "ultra",
+    "cost": "XG",
+    "range": "1-8",
+    "power": "X",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dark Bite",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your attack's Range includes Range 1.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "X is your Range to the opponent. This effect works at all times (even outside a Strike)."
+    ],
+    "exceed_cost": "XG"
+  },
+  {
+    "name": "I, Resentfully Rage",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Jormungandr",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your Normal Attacks have +1-2 Range.",
+        "AFTER: If you did not play a Normal Attack, sustain this."
+      ]
+    },
+    "effect": [
+      "HIT: Push until your opponent is at Range 5.",
+      "AFTER: You may return this to the top of your deck."
+    ],
+    "exceed_cost": "3G"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Gun Flame",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rock You",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "HIT: +1 Power. Draw 1.",
+        "AFTER: If the opponent is stunned, gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage.",
+      "AFTER: +2 Armor. Close 2."
+    ]
+  },
+  {
+    "name": "Volcanic Viper",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Bandit Revolver",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "NOW: Close 1. Draw 1.",
+        "HIT: The opponent must discard a random card."
+      ]
+    },
+    "effect": [
+      "If you initiated, +2 Power.",
+      "Otherwise, +2 Armor."
+    ]
+  },
+  {
+    "name": "Fafnir",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Outrage",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add a card from your hand to your Gauge. Take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: Push 1. Close 1."
+    ]
+  },
+  {
+    "name": "Bandit Bringer",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Free",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Advance or Retreat up to 2."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "BEFORE: Advance 2."
+    ]
+  },
+  {
+    "name": "Wild Throw",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Smell Of The Game",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "HIT: +1 Power. Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "You cannot be Pushed or Pulled.",
+      "HIT: Pull 1. Gain Advantage."
+    ]
+  },
+  {
+    "name": "Night Raid Vortex",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Keep Yourself Alive",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+2 Armor.",
+        "NOW: Draw 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3; if you Closed fewer than 3 spaces, draw 1."
+    ]
+  },
+  {
+    "name": "Tyrant Rave",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Flame Of Corruption",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "BEFORE: Close 1; if you Closed fewer than 1 space, +2 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2; if the opponent was Pushed fewer than 2 spaces, +2 Power."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Heavy Mob Cemetery",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Find Your One Way",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "HIT: +1 Power. Draw 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you initiated, Close 3.",
+      "HIT: Draw 4."
+    ],
+    "exceed_cost": "3G"
+  }
+]

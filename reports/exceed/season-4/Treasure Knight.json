@@ -1,0 +1,159 @@
+[
+  {
+    "name": "Scuttle Slam",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Redistribute",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Add any number of cards from your Gauge to your hand. Then, add that many cards from your hand to your Gauge. Add the top card of your discard pile to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1. Hit: Spend up to 2 Force. For each Force spent, Push 1."
+    ]
+  },
+  {
+    "name": "Dive Charge",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Sunken Treasure",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "At the start of the opponent's turn, place the top of your deck face-down under this Boost. When this Boost leaves play, add all cards under it to your hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "HIT: Push 3. +1 Power for each space the opponent could not be pushed."
+    ]
+  },
+  {
+    "name": "Treasure Coin",
+    "type": "special",
+    "cost": null,
+    "range": "2",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Salvage Operation",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +1 Armor.",
+        "HIT: Return a card from your discard pile to your hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may spend up to 3 Force. For each Force spent, +0-1 Range and +1 Power.",
+      "HIT: Add a Treasure Coin from your discard pile to your Gauge."
+    ]
+  },
+  {
+    "name": "Anchor Launch",
+    "type": "special",
+    "cost": "1F",
+    "range": "3-6",
+    "power": "6",
+    "speed": "2",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "Anchor Zip",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move up to 4, then draw 2 cards."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards a card at random. Then, Pull until they are at Range 2.",
+      "AFTER: If this attack did not hit, Advance 4, 5 or 6."
+    ]
+  },
+  {
+    "name": "Aqua Mine",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "High Tide",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor.",
+        "BEFORE: You may spend 2 Force. If you do, Push 1."
+      ]
+    },
+    "effect": [
+      "HIT: +2 Power if the opponent moved or was moved during this Strike.",
+      "AFTER: Spend up to 2 Force. For each Force spent, Retreat 1."
+    ]
+  },
+  {
+    "name": "Maelstrom Chest",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "0-1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Diving Suit",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "When you are hit (after Hit effects), you may spend 2 Force. If you do, +3 Armor."
+      ]
+    },
+    "effect": [
+      "This attack's Range is calculated from the center space of the arena.",
+      "HIT: Spend up to 4 Force. For each Force spent, +1 Power."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Angler Call",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-4",
+    "power": "8",
+    "speed": "1",
+    "armor": "3",
+    "guard": "0",
+    "boost": {
+      "name": "Secure Vault",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Spend up to 2 Force. For each Force spent, add the top card of your discard pile to your Gauge, then draw a card for every 2 cards in your Gauge."
+      ]
+    },
+    "effect": [
+      "Stun Immunity."
+    ],
+    "exceed_cost": "3G"
+  }
+]

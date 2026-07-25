@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Fatal Eye",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Somersault",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 2, then draw a card."
+      ]
+    },
+    "effect": [
+      "BEFORE: For each card in your Transformation Area, +1 Power.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Cross Up",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Battle Fugue",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "The first time each Strike you gain Advantage, draw a card."
+      ]
+    },
+    "effect": [
+      "AFTER: Advance 4."
+    ]
+  },
+  {
+    "name": "Blaze Of Fervor",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mad Dog",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you initiate a Strike, you may spend 1 Force. If you do, your attack has +1 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Advance 3. If you moved past the opponent with this movement, gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Whip Crack",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Press the Attack",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you initiate a Strike, you may spend 1 Force. If you do, your attack has +1 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1.",
+      "AFTER: Advance or Retreat 1."
+    ]
+  },
+  {
+    "name": "Gunblaze",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Seeing Red",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 6 cards, reduced by one for every 4 life you have. If you have 5 or less life, take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you were hit during this strike, +2 Power or draw 2 cards.",
+      "HIT: Close 3."
+    ]
+  },
+  {
+    "name": "Fanatical Purification",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Battle Instincts",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "[+] Your Force and Gauge costs are reduced by 2 (to a minimum of 0)."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "HIT: Push 2 and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Wild Hunt",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Heightened Reflexes",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1, then take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 8. For each space moved this way, +1 Power.",
+      "AFTER: Advance as far as possible."
+    ],
+    "exceed_cost": "3G"
+  }
+]

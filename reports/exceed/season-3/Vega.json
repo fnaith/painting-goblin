@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Scarlet Terror",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Repel Leap",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "If you are at the edge of the arena, move to any space and Strike. Gain your ability's Power and Speed bonuses during this Strike."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +2 Speed.",
+      "BEFORE: Close 2."
+    ]
+  },
+  {
+    "name": "Flying Barcelona Attack",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Wall Leap",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance as far as possible."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +2 Power.",
+      "BEFORE: Advance as far as possible, then Close 1."
+    ]
+  },
+  {
+    "name": "Sky High Claw",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Retrieve",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move 3. If you moved past the opponent, put a Continuous Boost from your Discard Pile into play."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +2 Power.",
+      "BEFORE: Close 3."
+    ]
+  },
+  {
+    "name": "Pounce",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Dancer's Step",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Retreat up to 2, then Strike."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +2 Armor.",
+      "BEFORE: Close 2.",
+      "HIT: The opponent must discard a card at random."
+    ]
+  },
+  {
+    "name": "Rolling Crystal Flash",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "High Jump",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 3. If you moved past the opponent during this movement, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "+1 Speed for each space between you and the opponent.",
+      "BEFORE: Close 5.",
+      "HIT: Push 3."
+    ]
+  },
+  {
+    "name": "Bloody High Claw",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Claw",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range and your attacks are Critical.",
+        "CLEANUP: If you were not stunned, you may spend 1 Force to sustain this card."
+      ]
+    },
+    "effect": [
+      "BEFORE: If there are 3 or more spaces behind the opponent, +3 Power. HIT: Move up to 8."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Splendid Claw",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mask",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +1 Armor.",
+        "CLEANUP: If you were not stunned, you may spend 1 Force to sustain this card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "HIT: The opponent discards 3 cards at random."
+    ],
+    "exceed_cost": "3G"
+  }
+]

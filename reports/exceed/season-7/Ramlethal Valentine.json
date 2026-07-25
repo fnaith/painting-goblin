@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Dauro",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lucifero",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Return a Special from your discard pile to your hand. Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "HIT: Push 1."
+    ]
+  },
+  {
+    "name": "Bajoneto",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Brigadier Sword",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+0-1 Range.",
+        "HIT: Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2; if the opponent was Pushed fewer than 2 spaces, +2 Power.",
+      "AFTER: Close 2. Gain Advantage."
+    ]
+  },
+  {
+    "name": "Erarlumo",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Delayed Explosion",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 2.",
+        "HIT: Push 1; if the opponent was Pushed fewer than 1 space, +2 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "HIT: Draw 2. Add a card from your hand to your Gauge."
+    ]
+  },
+  {
+    "name": "Agresa Ordono",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Efficient",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Guard.",
+        "NOW: Spend up to 2 Force. For each Force spent, draw 2."
+      ]
+    },
+    "effect": [
+      "HIT: Close or Retreat 1. Add the top card of your deck to your Gauge."
+    ]
+  },
+  {
+    "name": "Sabrobato",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "2",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Impose",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Close 1. Draw 2."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1; if the opponent was Pushed fewer than 1 space, +2 Power and draw 1."
+    ]
+  },
+  {
+    "name": "Mortobato",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Necessary Discrepancy",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Return all cards from your Gauge to your hand. Take another action."
+      ]
+    },
+    "effect": [],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Calvados",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1-5",
+    "power": "4",
+    "speed": "1",
+    "armor": "1",
+    "guard": "5",
+    "boost": {
+      "name": "Diva Of Despair",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "NOW, RANGE 1: Push 2.",
+        "HIT: Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2.",
+      "AFTER: If you initiated, add a card from your discard pile to your Gauge."
+    ],
+    "exceed_cost": "1G"
+  }
+]

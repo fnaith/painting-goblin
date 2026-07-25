@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Goshoryuken",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ashura Senku",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Add this card to your gauge or Move 1. Then, take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: Push 2."
+    ]
+  },
+  {
+    "name": "Zugaihasatsu",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Power of Hatred",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "HIT: Add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "CRITICAL, HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "HIT: If the opponent has 4 or more Guard, +2 Power."
+    ]
+  },
+  {
+    "name": "Gohadoken",
+    "type": "special",
+    "cost": null,
+    "range": "2-6",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Demon Illusion",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Spend up to 5 life to draw that many cards."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +1 Speed and -2 Power."
+    ]
+  },
+  {
+    "name": "Tatsumaki Zankukyaku",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Spite",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: Add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2.",
+      "HIT: If you moved past the opponent during this Strike, they discard a card at random."
+    ]
+  },
+  {
+    "name": "Hyakkishu",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fakeout",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike. The opponent sets their card first. (You still win Speed ties.)",
+        "AFTER: Add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "CRITICAL: Ignore Armor.",
+      "BEFORE: Close 2.",
+      "AFTER: For the rest of the Strike, attacks at range 1 do not hit you."
+    ]
+  },
+  {
+    "name": "Demon Armageddon",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "6",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Die One Thousand Deaths!",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "All positive Power bonuses applied to you are doubled."
+      ]
+    },
+    "effect": [
+      "All positive Power bonuses applied to you are doubled."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Wrath Of The Raging Demon",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "11",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Instant Hell Murder",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "If you have 3 or more bonus Power, +3 Speed."
+      ]
+    },
+    "effect": [
+      "Ignore Armor",
+      "BEFORE: Close 2."
+    ],
+    "exceed_cost": "3G"
+  }
+]

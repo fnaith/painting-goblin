@@ -1,0 +1,159 @@
+[
+  {
+    "name": "Caught You!",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Disrespect",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "If the opponent initiates a Strike, draw 3. Discard this card at the start of your turn.",
+        "NOW: Retreat up to 3."
+      ]
+    },
+    "effect": [
+      "BEFORE: If the opponent's Speed is 4 or lower, this attack does not hit.",
+      "HIT: Gain Advantage."
+    ]
+  },
+  {
+    "name": "Minced? (x4)",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Menace",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Advance or Retreat 1. Draw 1. If you have a \"Predator\" Boost in play, Strike. Otherwise, you may play a \"Predator\" Boost from your hand."
+      ]
+    },
+    "effect": [
+      "HIT: Advance 3."
+    ]
+  },
+  {
+    "name": "How Shall I Cook You? (x4)",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Soul's Oath",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: You may seal this to Advance, Retreat, Push, or Pull 1.",
+        "CLEANUP: You may spend 1 life to sustain this."
+      ]
+    },
+    "effect": [
+      "HIT: Reveal any number of cards with the same name from your hand. For each card revealed, +1 Power and Pull 1."
+    ]
+  },
+  {
+    "name": "I'll Plant It Somewhere Over Here",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chelicerata",
+      "cost": "3F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 7."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1.",
+      "AFTER: You may play an Ultra Boost from your Gauge or hand. If you do, gain Advantage."
+    ]
+  },
+  {
+    "name": "Or... Shredded? (x4)",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Predator",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Draw 1. If you have a \"Menace\" Boost in play, Strike. Otherwise, you may place a \"Menace\" Boost from your hand."
+      ]
+    },
+    "effect": [
+      "EX ATTACK: +1 Speed.",
+      "AFTER: Advance 2."
+    ]
+  },
+  {
+    "name": "Become a Part of Me",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Web Trap",
+      "cost": "-",
+      "timing": "Trap\nContinuous",
+      "effect": [
+        "If a player enters this space during a Strike, end the player's movement, discard this card, then choose one: Push 1, Pull 1, or gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull up to 2.",
+      "AFTER: You may place this in any space as a Trap Boost."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Endless Nightmare",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bxy7",
+      "cost": "-",
+      "timing": "Trap\nContinuous",
+      "effect": [
+        "If a player enters this space during a Strike, end the player's movement, discard this card, then choose one: Push 1, Pull 1, or gain Advantage."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "AFTER: If this hit, you may place this in any space as a Trap Boost. If you do, gain Advantage."
+    ],
+    "exceed_cost": "2G"
+  }
+]

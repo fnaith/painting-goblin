@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Mega Fist",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Megatona Furloso",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Power and Ignore Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1 or 2.",
+      "HIT: Draw 2."
+    ]
+  },
+  {
+    "name": "Garuda Impact",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Kara Cancel",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Close 1.",
+        "Draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage. The opponent must discard 2 cards."
+    ]
+  },
+  {
+    "name": "Potemkin Buster",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "F.D.B.",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "Attacks at Range 4+ do not hit you.",
+        "At the start of your turn, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "You cannot be Pushed or Pulled.",
+      "HIT: The opponent must discard a random card."
+    ]
+  },
+  {
+    "name": "Hammer Fall",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "3",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "Huge",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+0-1 Range.",
+        "HIT: Push or Pull 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3."
+    ]
+  },
+  {
+    "name": "Slide Head",
+    "type": "special",
+    "cost": null,
+    "range": "1-8",
+    "power": "0",
+    "speed": "2",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "Steadfast",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "If you initiated, +1 Speed. Otherwise, +4 Guard.",
+        "NOW: Close 1."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent must discard a random card.",
+      "AFTER: Close 2."
+    ]
+  },
+  {
+    "name": "Heat Knuckle",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Engage",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Close 1.",
+        "At the start of your turn, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you were hit, Pull 2 without Pulling past yourself.",
+      "HIT: Push 3."
+    ]
+  },
+  {
+    "name": "Giganter Kai",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-4",
+    "power": "4",
+    "speed": "1",
+    "armor": "3",
+    "guard": "4",
+    "boost": {
+      "name": "Armor-Clad Faith",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Armor.",
+        "NOW: Close 1."
+      ]
+    },
+    "effect": [
+      "Attacks at Range 4+ do not hit you.",
+      "AFTER: Close 3. Gain Advantage."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Heavenly Potemkin Buster",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "11",
+    "speed": "0",
+    "armor": "0",
+    "guard": "7",
+    "boost": {
+      "name": "Burly Heart",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "If you initiated, +2 Power. Otherwise, +3 Armor.",
+        "NOW: Close 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3."
+    ],
+    "exceed_cost": "4G"
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "name": "Unholy Diver",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bloodstained Lineage",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Advance or Retreat 1.",
+        "HIT: +1 Power. Gain Advantage."
+      ]
+    },
+    "effect": [
+      "AFTER: If you hit, you may play this as its Boost and sustain it (performing its Now effect)."
+    ]
+  },
+  {
+    "name": "Arbiter Sign-Rising",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "As A Matter Of Course",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Return a card from your Gauge to your hand. Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1.",
+      "AFTER: If the opponent is stunned, gain Advantage."
+    ]
+  },
+  {
+    "name": "Grave Reaper",
+    "type": "special",
+    "cost": null,
+    "range": "1-5",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "EXE Beast",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+4 Guard.",
+        "NOW: Retreat up to 2."
+      ]
+    },
+    "effect": [
+      "BEFORE, RANGE 1: Push 3.",
+      "HIT: Draw 2. Add a card from your hand to your Gauge."
+    ]
+  },
+  {
+    "name": "Arbiter Sign-Falling",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Elegance",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Look at the top card of the opponent's deck. You may discard it."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: The opponent must discard a random card."
+    ]
+  },
+  {
+    "name": "Scythe Swing",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Courtesy",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "CLEANUP: If you were not stunned, you may return your attack to your hand. If you do, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1.",
+      "AFTER: Close or Retreat 1."
+    ]
+  },
+  {
+    "name": "Nostrovia",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "3",
+    "power": "6",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Like A Weed, Naturally",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Add the top card of your deck to your Gauge. Retreat 1."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2; if the opponent was Pushed fewer than 2 spaces, +2 Power."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Calamity One",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Possession",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Strike; after the opponent sets their attack (but before reveal), you may draw 1 or Advance 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may return a card from your Gauge to your hand. If you do, +2 Power."
+    ],
+    "exceed_cost": "2G"
+  }
+]

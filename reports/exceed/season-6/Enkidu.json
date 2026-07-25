@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Tidal Spin",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tactical",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "If the opponent initiated this Strike, this attack does not stun.",
+      "AFTER: Advance 2."
+    ]
+  },
+  {
+    "name": "Three Precept Strike (x6)",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Calamity Crest",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Spend 3 life to add this to your Gauge, then take another action."
+      ]
+    },
+    "effect": [
+      "+1 Power and +1 Guard for each copy of \"Three Precept Strike\" in your Gauge.",
+      "AFTER: Close 1. You may reveal a copy of this from your hand to gain Advantage."
+    ]
+  },
+  {
+    "name": "Chained Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Reckless Run",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 2. You may spend any amount of Force to Advance 2 for each Force spent."
+      ]
+    },
+    "effect": [
+      "+1 Power and +1 Guard for each copy of \"Three Precept Strike\" in your Gauge.",
+      "BEFORE: Advance 1."
+    ]
+  },
+  {
+    "name": "Gale Edge",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chain Shift",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Strike.",
+        "AFTER: Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "Attacks with Speed 5 or greater do not hit you.",
+      "AFTER: Advance 2."
+    ]
+  },
+  {
+    "name": "Thunder Stomp",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "1",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "Maelstrom",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard your hand, then draw 4. If you discarded 3 or more cards this way, take another action."
+      ]
+    },
+    "effect": [
+      "The opponent cannot Advance or Retreat."
+    ]
+  },
+  {
+    "name": "Spiral Dual Palm Strike",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "6",
+    "guard": "0",
+    "boost": {
+      "name": "Immovable Object",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor. +1 Guard.",
+        "You cannot be Pushed or Pulled.",
+        "AFTER: You may spend 1 Gauge to sustain this."
+      ]
+    },
+    "effect": [
+      "AFTER: Close 2. Lose all Armor."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Demon Seal: Abyssal Force",
+    "type": "ultra",
+    "cost": "6G",
+    "range": "2-5",
+    "power": "10",
+    "speed": "1",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Unstoppable Force",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Gain Advantage.",
+        "AFTER: You may spend 1 Gauge to sustain this."
+      ]
+    },
+    "effect": [
+      "This attack's Gauge Cost is reduced by 1 for each copy of \"Three Precept Strike\" in your Gauge.",
+      "AFTER: Gain Advantage. Return any number of \"Three Precept Strike\" from your Gauge to your hand."
+    ],
+    "exceed_cost": "6G"
+  }
+]

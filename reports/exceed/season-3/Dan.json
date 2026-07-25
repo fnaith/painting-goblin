@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Saikyo Haraigoshi",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Peek",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top card of your deck. You may Strike. If you do not, add it to your gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Discard up to 3 cards at random from your hand. For each card discarded, Pull 1 and gain +1 Power."
+    ]
+  },
+  {
+    "name": "Dankukyaku",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Saikyo Leap",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move 3, then add a card from your hand to your gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3. If you moved past the opponent during this movement, this attack does not hit.",
+      "AFTER: Place a card from your hand on top of your deck."
+    ]
+  },
+  {
+    "name": "Koryuken",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "0",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Saikyo Glory",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your attacks are Critical.",
+        "CLEANUP: If you are not stunned, you may sustain this Boost."
+      ]
+    },
+    "effect": [
+      "HIT: Discard the top card of your deck. This attack has +Power equal to the discarded card's printed Power."
+    ]
+  },
+  {
+    "name": "Gadouken",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Saikyo Vision",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Look at the opponent's hand. Discard any number of cards from your hand, then Strike."
+      ]
+    },
+    "effect": [
+      "AFTER: If you hit, you may return this card to the top of your deck. If you do, add a card from your hand to your gauge."
+    ]
+  },
+  {
+    "name": "Shisso Buraiken",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lucky!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Place a card from your hand on top of your deck. You may skip your draw step this turn."
+      ]
+    },
+    "effect": [
+      "If you have no cards in hand, ignore this card's Gauge Cost.",
+      "BEFORE: Close 2.",
+      "HIT: Gain Advantage."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Legendary Taunt",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "-",
+    "power": "-",
+    "speed": "4",
+    "armor": "1",
+    "guard": "5",
+    "boost": {
+      "name": "Secret Technique",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Search your deck for any card and add it to your hand. Discard until you have one card in hand. You may skip your draw step this turn."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance up to 3. You may draw a card. Then, you may play and execute another attack from your hand (carrying out all its Before, Hit, and After triggers)."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Haoh Gadouken",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-4",
+    "power": "7",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Saikyo Power",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: If you have no cards in hand, +4 Power."
+      ]
+    },
+    "effect": [
+      "If you have no cards in hand, ignore this card's Gauge Cost.",
+      "Attacks at range 2 to 5 do not hit you."
+    ],
+    "exceed_cost": "3G"
+  }
+]

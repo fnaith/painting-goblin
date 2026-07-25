@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Dust To Dust",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Demonheart",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you spend life, put that many counters on this card. For each counter on this, +1 Armor. Remove all counters when a Strike ends."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1. Gain 2 life."
+    ]
+  },
+  {
+    "name": "Anathema Surge",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Edge Of Death",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Your attacks have \"If you have 6 or less life, +1 Power (in Exceed mode, +1 Power and +1 Speed instead).\""
+      ]
+    },
+    "effect": [
+      "HIT: Gain 2 life.",
+      "AFTER: +3 Armor."
+    ]
+  },
+  {
+    "name": "Bloodthirst",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Grave Ambitions",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Close 3."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 2 Force. For each Force spent, +1 Power."
+    ]
+  },
+  {
+    "name": "Ashen Claws",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Deathless",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Your Normal Attacks have \"HIT: Gain 1 life.\""
+      ]
+    },
+    "effect": [
+      "AFTER: Push or Pull up to 2."
+    ]
+  },
+  {
+    "name": "Blackvolt",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Demonhide",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Armor.",
+        "AFTER: You may spend 2 life. If you do, return this card to your hand at the end of the Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Gain 3 life."
+    ]
+  },
+  {
+    "name": "Chaos Scissors",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "8",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Demonblood",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: You may spend 3 life to Transform a card from your hand or deck (if deck, then shuffle).",
+        "HIT: Gain 2 life."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: You take 3 damage (this damage can kill)."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Nightmare Tares",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-5",
+    "power": "5",
+    "speed": "1",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "False Life",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "The opponent's attack has +4 Power.",
+        "NOW: Gain 4 life and draw 2 cards."
+      ]
+    },
+    "effect": [
+      "Stun Immunity, your life cannot drop below 1 during this Strike.",
+      "AFTER: Gain life equal to the damage dealt by this attack."
+    ],
+    "exceed_cost": "2G"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Soul Gazer",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bullet Time",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Attacks at range 3 and 4 do not hit you."
+      ]
+    },
+    "effect": [
+      "HIT: Move 1 space and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Guardian Slasher",
+    "type": "special",
+    "cost": null,
+    "range": "3",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Soul Eye - Diabolic",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card then Strike. Your opponent must use the named card to Strike. or reveal a hand without it."
+      ]
+    },
+    "effect": [
+      "HIT: +2 Power if the opponent has more cards in hand than you.",
+      "AFTER: Move 1 space."
+    ]
+  },
+  {
+    "name": "Sword & Cross",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Grim Determination",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity and +3 Armor."
+      ]
+    },
+    "effect": [
+      "HIT: Move 1 or 2 spaces, then move the opponent 1 or 2 spaces, then gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Dark Corruption",
+    "type": "special",
+    "cost": null,
+    "range": "2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Soul Eye - Divine",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card. Your opponent must reveal their hand and discards all copies of it, then Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor."
+    ]
+  },
+  {
+    "name": "Bloody Baptism",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hunter's Instinct",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range and draw a card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Retreat up to 2 spaces."
+    ]
+  },
+  {
+    "name": "Surprise Punishment",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2",
+    "power": "9",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Backflip",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 or 2 spaces, then draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Advance 3 spaces."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Cross Blades",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "3",
+    "power": "13",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Try Me If You Dare",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move up to 4 spaces. Your opponent chooses one: You Strike, or you draw 3 cards."
+      ]
+    },
+    "effect": [
+      "Attacks at range 3 do not hit you."
+    ],
+    "exceed_cost": "4G"
+  }
+]

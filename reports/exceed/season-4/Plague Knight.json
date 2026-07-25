@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Perfect Pitch",
+    "type": "special",
+    "cost": null,
+    "range": "2",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bomb Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 3."
+      ]
+    },
+    "effect": [
+      "HIT: Draw a card, then the opponent must discard a card at random."
+    ]
+  },
+  {
+    "name": "Staff Of Surging",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Frantic Research",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 2 cards, then Strike.",
+        "AFTER: Draw 2 cards."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "AFTER: If the opponent is Stunned, draw 2 cards."
+    ]
+  },
+  {
+    "name": "Long Pitch",
+    "type": "special",
+    "cost": "1F",
+    "range": "3-5",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Unexpected Results",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Advance or Retreat 2. Hit: Reveal the top card of your deck. If it is a Normal Attack, add it to your Gauge. Otherwise, +2 Power and discard it."
+      ]
+    },
+    "effect": [
+      "HIT: You may spend 1 Force. If you do, +2 Power."
+    ]
+  },
+  {
+    "name": "Chain Reaction",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bait Bomb",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 3 cards of your deck. Add 1 to your hand and 1 to your Gauge."
+      ]
+    },
+    "effect": [
+      "AFTER: Draw until you have 4 cards in hand."
+    ]
+  },
+  {
+    "name": "Giant Bomb",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Tonic",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Copy a Hit effect on your attack. This effect cannot be copied."
+      ]
+    },
+    "effect": [
+      "AFTER: Advance or Retreat 1."
+    ]
+  },
+  {
+    "name": "Castle Crasher",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3-5",
+    "power": "5",
+    "speed": "3",
+    "armor": "3",
+    "guard": "4",
+    "boost": {
+      "name": "Serum Supernus",
+      "cost": "4F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power, +2 Speed, and +2 Armor.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: +2 Power."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Triple Dose",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Berserker's Brew",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Spend up to 3 Force, then Strike. +1 Power per Force spent this way."
+      ]
+    },
+    "effect": [
+      "Your Before, Hit, and After triggers resolve 2 additional times.",
+      "AFTER: Draw a card."
+    ],
+    "exceed_cost": "3G"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Neck Snapper",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Crushing Might",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +1 Speed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard up to 3 cards at random. Close 1 space per card discarded this way.",
+      "HIT: The opponent must discard 1 card per card discarded during this Strike."
+    ]
+  },
+  {
+    "name": "Ivory Ghost Charge",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Ruby Pact",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you were hit during this Strike, close 3 spaces."
+    ]
+  },
+  {
+    "name": "Gyro Chain Gash",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Casting Bones",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Rearrange the top 3 cards of your deck. +1 Power and +1 Speed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2 spaces.",
+      "HIT: Discard up to 3 cards at random. For each card discarded this way, +1 Power and the opponent must discard a card."
+    ]
+  },
+  {
+    "name": "Ivory Ghost Impalement",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "2",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Obsidian Pact",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you were hit during this Strike, +3 Power."
+    ]
+  },
+  {
+    "name": "Revenger",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "7",
+    "boost": {
+      "name": "Fates Crossing",
+      "cost": "3F",
+      "timing": "Instant",
+      "effect": [
+        "Strike. Both players must declare Wild Swings."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards 2 cards at random, then add top card of your discard to your Gauge."
+    ]
+  },
+  {
+    "name": "Shadow Of Death",
+    "type": "ultra",
+    "cost": "8G",
+    "range": "1",
+    "power": "15",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Intimidation",
+      "cost": "4F",
+      "timing": "Instant",
+      "effect": [
+        "If you are at range 1, both players must discard their hands."
+      ]
+    },
+    "effect": [
+      "If you do not have enough Gauge to use this attack after it is revealed during a Wild Swing, add it to your hand and add the top 2 cards of your Discard to your Gauge."
+    ],
+    "exceed_cost": "8G"
+  },
+  {
+    "name": "God Of War",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "4",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Power Overwhelming",
+      "cost": "3F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power and +2 Speed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2 spaces.",
+      "HIT: Both you and the opponent discard 3 cards at random."
+    ],
+    "exceed_cost": "3G"
+  }
+]

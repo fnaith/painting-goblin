@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Excessive Force",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Point Blank",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "-2-0 Range."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 3 spaces."
+    ]
+  },
+  {
+    "name": "Hair Trigger",
+    "type": "special",
+    "cost": null,
+    "range": "2-6",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Just Keep Shooting",
+      "cost": "3F",
+      "timing": "Instant",
+      "effect": [
+        "Discard your hand, then draw until you have 6 cards in hand, then Strike."
+      ]
+    },
+    "effect": [
+      "AFTER: Move 1 space."
+    ]
+  },
+  {
+    "name": "Double Tap",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Muzzle Flash",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "If you are at range 1, push the opponent 4 spaces."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Push the opponent 4 spaces."
+    ]
+  },
+  {
+    "name": "Mug Shot",
+    "type": "special",
+    "cost": null,
+    "range": "4-5",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Somersault",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move 5 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: Move 4 spaces."
+    ]
+  },
+  {
+    "name": "Bullet Barrage",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Reload",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Discard your hand, then draw until you have 6 cards in hand."
+      ]
+    },
+    "effect": [
+      "HIT: You may discard up to 2 additional attacks that include your Range to the opponent for +2 Power each."
+    ]
+  },
+  {
+    "name": "The Magic Bullet",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "4",
+    "power": "7",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Taking Aim",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-3 Range and +1 Speed."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you used this as a Wild Swing or you have no other cards in your hand, the range of this attack becomes 2-6."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "The Wild Bunch",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3-6",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Suppressing Fire",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Each time the opponent moves, they take 1 damage per space moved. This damage does not stun."
+      ]
+    },
+    "effect": [
+      "HIT: You may discard up to 3 additional attacks that contain your range to the opponent for +3 Power each."
+    ],
+    "exceed_cost": "3G"
+  }
+]

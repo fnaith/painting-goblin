@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Shuriken Illusion",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Demon Slaying",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power, draw a card, and Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Close 4 spaces."
+    ]
+  },
+  {
+    "name": "Sealing Strike",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Banishing Blade",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard a Continuous Boost from play and Strike."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent must discard a card at random.",
+      "AFTER: Move 2 spaces."
+    ]
+  },
+  {
+    "name": "Yokai Fury",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Swift Exorcism",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed, draw a card, and Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 1 space and you gain Advantage (you take the next turn regardless of who initiated the Strike).",
+      "AFTER: Close 1 space."
+    ]
+  },
+  {
+    "name": "Paralyzing Dart",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mist Step",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 and Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Your opponent must discard a card at random."
+    ]
+  },
+  {
+    "name": "Demon Slayer Slash",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "9",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Second Strike",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "\"AFTER: Gain Advantage\" and Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "BEFORE: -1 Power for each card in the opponent's hand."
+    ]
+  },
+  {
+    "name": "Paralyzing Dust",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1-3",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Relentless",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards and Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Move 1 or 2 spaces and gain Advantage (you take the next turn regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Jigoku Banishment",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "7",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Finishing Blow",
+      "cost": "3F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power, +1 Speed, and Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent discards at random until he only has 3 left, and you gain Advantage (you take the next turn regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "2G"
+  }
+]

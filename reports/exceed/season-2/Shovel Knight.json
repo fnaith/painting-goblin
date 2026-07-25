@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Flare Wand",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "0",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dig In",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 2 Force. For each Force spent, +1 Power.",
+      "AFTER: Retreat 2."
+    ]
+  },
+  {
+    "name": "Mobile Gear",
+    "type": "special",
+    "cost": null,
+    "range": "X",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dig Tirelessly",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Spend up to 4 Force. For each Force spent, +1 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 4. This attack hits if you switched sides with the opponent."
+    ]
+  },
+  {
+    "name": "War Horn",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Get Digging",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Move 3."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2."
+    ]
+  },
+  {
+    "name": "Chaos Sphere",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sharpen Thy Shovel",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Speed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 4 Force. For each Force spent, +0-1 Range.",
+      "HIT: Pull or Push 2."
+    ]
+  },
+  {
+    "name": "Alchemy Coin",
+    "type": "special",
+    "cost": null,
+    "range": "1-5",
+    "power": "4",
+    "speed": "1",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Slash Mercilessly",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power."
+      ]
+    },
+    "effect": [
+      "HIT: For each space between you and the opponent, draw a card."
+    ]
+  },
+  {
+    "name": "Propeller Dagger",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "For Shovelry",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard one of your continuous boosts from play. If you did, draw 3 cards and gain 3 life."
+      ]
+    },
+    "effect": [
+      "HIT: You may spend 1 Gauge. If you do, return this card to your hand when the Strike ends.",
+      "AFTER: You may spend 1 Gauge to Move 3."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Troupple Chalice",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-4",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Justice in Spades",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power, +3 Speed, +3 Armor.",
+        "NOW: Discard one of your Continuous Boosts from play, then draw a card."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Draw 2 cards. Then you may spend up to 5 Force. For each Force spent, gain 1 life."
+    ],
+    "exceed_cost": "3G"
+  }
+]

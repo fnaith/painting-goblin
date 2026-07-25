@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Shimmer Of Madness",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hanging By A Thread",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Your attacks have \"HIT: If the opponent has 2 or fewer cards in hand, +2 Power.\""
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent reveals their hand, then discards a card of your choice."
+    ]
+  },
+  {
+    "name": "Absinthin Arrow",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "We're All Mad Here",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Both players draw up to 4 cards, then discard a card at random."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent draws a card, then discards 2 at random."
+    ]
+  },
+  {
+    "name": "Plot Hook",
+    "type": "special",
+    "cost": null,
+    "range": "1-5",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Time For Tea",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "As an action, spend 1 Force to make the opponent discard a card at random. If you are in Exceed Mode, do not draw at the end of your turn."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 5 and gain Advantage (you take the next turn, regardless of who initiated the strike)."
+    ]
+  },
+  {
+    "name": "Werelight",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Off With Her Head!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "If the opponent is at range 1, they choose one: The opponent discards 2 cards at random, or Push 3."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent chooses one: The opponent discards 2 cards at random, or the opponent reveals their hand, then discards a card of your choice."
+    ]
+  },
+  {
+    "name": "Color Spray",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Unhinged",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you set a Wild Swing or EX Attack, your next valid attack gains: \"HIT: The opponent must discard a card at random.\""
+      ]
+    },
+    "effect": [
+      "If the opponent has 2 or fewer cards in hand, Stun Immunity.",
+      "HIT: The opponent must draw or discard cards at random until they have 2 in hand."
+    ]
+  },
+  {
+    "name": "Queen Of Hearts",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Wanderlust",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "You may search your deck for a card and Transform it. The opponent may search their deck for a card and add it to their hand."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards their hand, then draws a card. +1 Power for each card discarded this way."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Cat's Cradle",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "9",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Edge Of Insanity",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "When the opponent uses the \"Prepare\" action, they draw 1 fewer card.",
+        "NOW: The opponent must discard a card at random."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: The opponent draws a card, then discards 2 cards at random. -1 Power for each card in the opponent's hand."
+    ],
+    "exceed_cost": "3G"
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Inferno Divider",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-2",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Unrelenting",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and Stun Immunity"
+      ]
+    },
+    "effect": [
+      "HIT: If you initiated this Strike, +2 Power and Push 1."
+    ]
+  },
+  {
+    "name": "Hell's Fang",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Foul-Tempered",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +2 Armor.",
+        "NOW: You may spend 2 life to draw 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "HIT: Push 2 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Dead Spike",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Nightmare Edge",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: Push 1 or 2."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1.",
+      "AFTER: Close 1 or 2."
+    ]
+  },
+  {
+    "name": "Gauntlet Hades",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Revolver Action",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 2.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "BEFORE: Advance 1 or 2. If you Advanced past the opponent, this attack does not hit."
+    ]
+  },
+  {
+    "name": "Blood Scythe",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Soul Eater",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Close 1 and draw 1.",
+        "HIT: Gain 2 life."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1.",
+      "HIT: Add the top card of your discard pile to your Gauge."
+    ]
+  },
+  {
+    "name": "Devoured By Darkness",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Azure Grimoire",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Spend up to 5 life to draw that many cards. Take another action."
+      ]
+    },
+    "effect": [
+      "If you are in Exceed Mode, +0-1 Range and +1 Speed.",
+      "HIT: Gain 3 life."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Carnage Scissors",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Not Over Yet",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "Now, Range 1: Push 2 and Strike."
+      ]
+    },
+    "effect": [
+      "Attacks at Range 4 and 5 do not hit you.",
+      "BEFORE: Close 4."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Black Onslaught",
+    "type": "astral",
+    "cost": "4G",
+    "range": "2-3",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you have exactly 1 life, +6 Power."
+    ]
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Cold Reflection",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lie In Wait",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Guard.",
+        "When this Continuous Boost is discarded, draw 2."
+      ]
+    },
+    "effect": [
+      "If this was not set in a space, +2 Speed. HIT: Push 3 (from Chaos)."
+    ]
+  },
+  {
+    "name": "Spew Out",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Tactical",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "AFTER: Advance or Retreat 1."
+    ]
+  },
+  {
+    "name": "Repel",
+    "type": "special",
+    "cost": null,
+    "range": "0",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Compounding Plots",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Take another action."
+      ]
+    },
+    "effect": [
+      "If this was set in a space, the opponent cannot Advance or Retreat into that space.",
+      "HIT: Push 2 (from Chaos)."
+    ]
+  },
+  {
+    "name": "Conceal",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Checkmate",
+      "cost": "2",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Power.",
+        "NOW: Discard until you have one card in hand, then Strike."
+      ]
+    },
+    "effect": [
+      "Attacks with Speed 5 or greater do not hit you.",
+      "AFTER: Retreat 1."
+    ]
+  },
+  {
+    "name": "That's Your Prey",
+    "type": "special",
+    "cost": null,
+    "range": "0-1",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Umbral",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Take another Action.",
+        "AFTER: If your attack was set in a space, Advance or Retreat into that space."
+      ]
+    },
+    "effect": [
+      "If this was not set in a space, +2 Armor.",
+      "HIT: If the opponent is on this attack's space, +2 Power."
+    ]
+  },
+  {
+    "name": "Dissect Barrage",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Aerial Leap",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 4. If you Advanced past the opponent, you may Strike."
+      ]
+    },
+    "effect": [
+      "Calculate Range from Chaos (even if this was set in a space).",
+      "AFTER: If this was set in a space, Advance or Retreat to that space."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Deep Revenance",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "4",
+    "power": "10",
+    "speed": "2",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "Chaos Code",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike, placing your attack in any space face-down. If you reveal a Normal Attack, calculate Range from that space."
+      ]
+    },
+    "effect": [
+      "AFTER: Draw until you have 7 cards in hand."
+    ],
+    "exceed_cost": "4G"
+  }
+]

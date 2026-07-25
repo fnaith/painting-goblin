@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Healing Hammer",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "To Me, Minions!",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Advance or Retreat 1 or 2."
+      ]
+    },
+    "effect": [
+      "AFTER: If you hit, you may Seal this card. If you do, gain 4 life and add the top 2 cards of your discard pile to your Gauge."
+    ]
+  },
+  {
+    "name": "Scepter Slam",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Unsteady Ground",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Push or Pull 1 or 2, then the opponent may spend 1 Gauge. If they do not, take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "HIT: Spend up to 3 Force. For each Force spent, +1 Power."
+    ]
+  },
+  {
+    "name": "Spin Jump",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Edict",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "When you reveal your attack, if there is a copy of it in your discard pile, it is considered an EX attack."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1. Hit: Advance 3 or 4, then you may play a Continuous Boost from your hand and sustain it. (this cannot play a Decree)."
+    ]
+  },
+  {
+    "name": "Scepter Smite",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Charge Up",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power and +2 Guard."
+      ]
+    },
+    "effect": [
+      "HIT: If the opponent has 4 or more Guard, +2 Power."
+    ]
+  },
+  {
+    "name": "Shoulder Bash",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Brutal Coronation",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power, +1 Armor, and +1 Guard.",
+        "NOW: Draw until you have 3 cards in hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "AFTER: Advance up to 2."
+    ]
+  },
+  {
+    "name": "King Of Cards",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Kingmaker",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "If you are in Exceed Mode, +2 Speed. If the opponent is in Exceed Mode, +2 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Spend up to 9 Force. For every 3 Force spent, +3 Power and add the top card of your discard pile to your Gauge."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Victory Trumpets",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-4",
+    "power": "0",
+    "speed": "3",
+    "armor": "2",
+    "guard": "4",
+    "boost": {
+      "name": "Royal Tribute",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards. You may take the Boost action."
+      ]
+    },
+    "effect": [
+      "This attack's Range is calculated from the center space of the arena.",
+      "HIT: Pull 3.",
+      "AFTER: Sustain your Boosts. Do not Seal your Decrees this Cleanup."
+    ],
+    "exceed_cost": "2G"
+  }
+]

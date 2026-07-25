@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Zaaaap!!!",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Quick Change",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 3 cards, then return a card from your hand to the top of your deck. Don't draw this turn."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Close 3 spaces and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Bang! Bang! Bang!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "I'm Sure I'll Hit Something",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "If you use a Wild Swing, +2 Power and +1 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: You may put this card on top of your deck and add the top card of your discard pile to your Gauge."
+    ]
+  },
+  {
+    "name": "Bing Bong!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "This is Just Like that Issue...",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top card of your deck. You may discard it or put it back. You may Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you used a Wild Swing, gain +1 Power and Close 2 space."
+    ]
+  },
+  {
+    "name": "Slam Evil",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fear Not, Citizen!",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Armor and +3 Guard.",
+        "Whenever an opponent moves past you, discard this from play."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "AFTER: Gain +4 Armor."
+    ]
+  },
+  {
+    "name": "Splam!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hold it, Villain!",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 space, then Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1 space. If you did not switch sides with opponent, gain +3 Power."
+    ]
+  },
+  {
+    "name": "Kaplow!!!!",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "10",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Burning Justice",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "When you would take damage, ignore that damage and discard twice that many cards from the top of your deck instead."
+      ]
+    },
+    "effect": [
+      "BEFORE: If your revealed this card with a Wild Swing, Close 2 spaces."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Zing! Zing! Zing!",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lucky Dodge",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Attacks at range 2 do not hit you, and Strike."
+      ]
+    },
+    "effect": [
+      "If your reveal this attack with a Wild Swing, you do not need to pay its Gauge Cost.",
+      "HIT: Move the opponent 1 or 2 spaces."
+    ],
+    "exceed_cost": "2G"
+  }
+]

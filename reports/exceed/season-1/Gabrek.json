@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Lunar Launcher",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "No Remorse",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+5 Guard."
+      ]
+    },
+    "effect": [
+      "HIT: Move the opponent up to 3 spaces. After: Move 1 space."
+    ]
+  },
+  {
+    "name": "Perilous Descent",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Reach",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range and Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "BEFORE: Advance 3 spaces."
+    ]
+  },
+  {
+    "name": "Choke Hold",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Lumbering",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Guard and close 2 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: +3 Power if your opponent used a Wild Swing.",
+      "HIT: Your opponent must discard cards at random until they have 2 in hand."
+    ]
+  },
+  {
+    "name": "Shrug Off",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "3",
+    "armor": "5",
+    "guard": "0",
+    "boost": {
+      "name": "Continuous Research",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Spend up to 6 life to draw 1 card per life spent."
+      ]
+    },
+    "effect": [
+      "AFTER: Lose all Armor on this attack."
+    ]
+  },
+  {
+    "name": "Rolling Ankle Grab",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Intimidate",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "The opponent must use a Wild Swing in the next Strike. If you are not at range 1 when you play this, discard it."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 4 spaces.",
+      "HIT: Move the opponent 1 space."
+    ]
+  },
+  {
+    "name": "13th Story Oblivion",
+    "type": "ultra",
+    "cost": "5G",
+    "range": "1",
+    "power": "13",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Charge In",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 3 spaces."
+      ]
+    },
+    "effect": [],
+    "exceed_cost": "5G"
+  },
+  {
+    "name": "Death Valley Face Plant",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "10",
+    "speed": "0",
+    "armor": "0",
+    "guard": "7",
+    "boost": {
+      "name": "Monstrous Strength",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power and Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: +3 Power if your opponent used a Wild Swing."
+    ],
+    "exceed_cost": "3G"
+  }
+]

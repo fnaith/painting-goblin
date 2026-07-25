@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Buckler Blow",
+    "type": "special",
+    "cost": "1F",
+    "range": "0-1",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Quick Switch",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "If Shield Knight is on an unoccupied space, switch places with her. Then, take another action."
+      ]
+    },
+    "effect": [
+      "This attack calculates its Range from Shield Knight instead of Shovel Knight.",
+      "HIT: Push 2 from Shield Knight. (If the opponent is on Shield Knight, push either direction.)"
+    ]
+  },
+  {
+    "name": "Discovery!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Quick Step",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 1, then take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1. Draw a card, then add a card from your hand to your Gauge."
+    ]
+  },
+  {
+    "name": "Shovel Drop",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Hop",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move Shield Knight 1 or 2 spaces, then take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2. If you moved past an opponent, +2 Power."
+    ]
+  },
+  {
+    "name": "Shield Gong",
+    "type": "special",
+    "cost": "1F",
+    "range": "0-1",
+    "power": "4",
+    "speed": "2",
+    "armor": "2",
+    "guard": "4",
+    "boost": {
+      "name": "Full Defense",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Attacks from opponents on the opposite side of Shield Knight do not hit you."
+      ]
+    },
+    "effect": [
+      "This attack calculates its Range from Shield Knight instead of Shovel Knight.",
+      "HIT: Push 2 from Shield Knight. (If the opponent is on Shield Knight, push either direction.)"
+    ]
+  },
+  {
+    "name": "Charge Slash",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Charge Up",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power and +2 Guard."
+      ]
+    },
+    "effect": [
+      "+1 Power and Ignore Armor if you initiated this Strike.",
+      "BEFORE: Close 1."
+    ]
+  },
+  {
+    "name": "Tandem Attack",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Inseparable",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "While you occupy the same space as Shield Knight, +3 Power, +3 Armor, and Opponents cannot move you."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1 or 2. If you did not move into or out of Shield Knight's space during this movement, this attack does not hit."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Shield Boomerang",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-4",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Shovel Of Hope",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 4 cards, then add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "This attack calculates its Range from Shield Knight instead of Shovel Knight.",
+      "Attacks at Range 2, 3, or 4 from Shield Knight do not hit you."
+    ],
+    "exceed_cost": "3G"
+  }
+]

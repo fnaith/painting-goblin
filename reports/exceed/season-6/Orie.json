@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Divine Thrust",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Aggressive",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "AFTER: Advance 4."
+    ]
+  },
+  {
+    "name": "To me! (Command Order)",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Aerial Leap",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 4. If you advanced past the opponent, you may Strike."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "You cannot be Pushed or Pulled.",
+      "HIT: Advance or Retreat 1 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Sealing Hoplon",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Wide",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "Stun Immunity. Ignore Guard.",
+      "HIT: Advance or Retreat 1 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Succession",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "3",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Defensive",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor. +1 Guard.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Pull 3 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Sacred Arrow",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tactical",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "Attacks with Speed 5 or greater do not hit you."
+    ]
+  },
+  {
+    "name": "Luminous Embrace",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3-6",
+    "power": "7",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fifth Executor",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "HIT: Your total Power becomes 5 (Ignore printed values, bonuses, and penalties). Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "Attacks at Range 4 or greater do not hit you.",
+      "AFTER: Close 5 and gain Advantage."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Rest in Peace",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "1",
+    "speed": "0",
+    "armor": "6",
+    "guard": "0",
+    "boost": {
+      "name": "The Ruler",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "During a Strike, Advance or Retreat effects on your attacks are increased by 1.",
+        "NOW: Draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: If you were hit, +6 Power."
+    ],
+    "exceed_cost": "2G"
+  }
+]

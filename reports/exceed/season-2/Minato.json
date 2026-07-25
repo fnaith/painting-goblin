@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Jump The Shark",
+    "type": "special",
+    "cost": null,
+    "range": "3-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Jump The Train",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move 4."
+      ]
+    },
+    "effect": [
+      "HIT: +1 Power for every 4 cards in your sealed area (max of +5)."
+    ]
+  },
+  {
+    "name": "Barnstorming",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Weight Of Regret",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "At the end of each Strike, if your attack did not hit the opponent, you may return it to your hand instead of discarding it."
+      ]
+    },
+    "effect": [
+      "HIT: Shuffle your discard pile into your deck and gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: Advance as far as possible."
+    ]
+  },
+  {
+    "name": "Cabstand",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "One More Ride",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Instead of drawing at the end of your turn, you may return a card from your sealed area to your hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 3 Force. For each Force spent, Close 1.",
+      "AFTER: Advance 3."
+    ]
+  },
+  {
+    "name": "Flight 13",
+    "type": "special",
+    "cost": null,
+    "range": "5-7",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Outrun The Past",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Before you set cards for a Strike, you may seal up to 4 cards from your discard pile or Gauge. For every 2 cards sealed this way, draw a card."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may discard up to 3 cards from the top of your deck. For each card discarded this way, Retreat 1."
+    ]
+  },
+  {
+    "name": "Bus Stop",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Fractured Memories",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you reveal your attack, if a copy is in your sealed or transformation area, it is considered an EX attack."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2, then you may spend up to 2 Force. For each Force spent, +1 Power."
+    ]
+  },
+  {
+    "name": "A Streetcar Named Disaster",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "10",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Daredevil",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Seal up to 4 cards from the top of your deck. For each card sealed this way, +1 Speed."
+      ]
+    },
+    "effect": [],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Hellward Bound",
+    "type": "ultra",
+    "cost": "6G",
+    "range": "1-3",
+    "power": "10",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Hellraiser",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Both players discard the top 4 cards of their deck. You may return up to 2 cards from your sealed area to your hand."
+      ]
+    },
+    "effect": [
+      "If there are no cards in your deck and discard pile, this card's Gauge Cost is reduced to 0."
+    ],
+    "exceed_cost": "6G"
+  }
+]

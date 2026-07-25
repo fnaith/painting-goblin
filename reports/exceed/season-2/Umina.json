@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Terror Whispers",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "The Silver Key",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "As an action, you may spend 2 Gauge. If you do, Strike. The opponent must defend with a Wild Swing."
+      ]
+    },
+    "effect": [
+      "HIT: Put a card from your discard into your Dreamlands."
+    ]
+  },
+  {
+    "name": "Out Of Mind",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "1",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Slipping Away",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you place a card into your Dreamlands, you may spend 1 Force. If you do, Move 1."
+      ]
+    },
+    "effect": [
+      "HIT: Add a card from your Dreamlands to your Gauge. If you did, gain Power equal to that card's Power, to a maximum of +5. Otherwise, add all cards in your hand to your Gauge, then draw 3 cards."
+    ]
+  },
+  {
+    "name": "Hollow Space",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dark Reflections",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card. The opponent discards a copy of that card, or reveals a hand without any. Put any discarded cards into your Dreamlands."
+      ]
+    },
+    "effect": [
+      "Attacks at Range 1 do not hit you.",
+      "AFTER: Advance or Retreat 3."
+    ]
+  },
+  {
+    "name": "Dark Thoughts",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Spiraling Descent",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "If a card is in your Dreamlands, the opponent cannot Boost using a copy of that card, and copies of that card are invalid for the opponent."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards a card at random. If a card was discarded, you may put it into your Dreamlands."
+    ]
+  },
+  {
+    "name": "Shadow Chorus",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Whispers In The Dark",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw a card, then perform the Instant Boost effect of a card in your Dreamlands, ignoring its Force cost."
+      ]
+    },
+    "effect": [
+      "When you reveal this attack, it becomes a copy of a card in your Dreamlands (if you have one). You must pay any costs required to play the card. This card cannot be placed into your Dreamlands."
+    ]
+  },
+  {
+    "name": "Unknown Khadath",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dream Telling",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Gain Power equal to the Power of a card in your Dreamlands, to a maximum of +5.",
+        "AFTER: Add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Place the opponent's attack into your Dreamlands and add this card to your Gauge. End the Strike."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Call Of The Dreamlands",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-5",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "The Sleeper Awakes",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Cards enter your Dreamlands facedown. Reveal them when they are referenced by a card effect."
+      ]
+    },
+    "effect": [
+      "HIT: Both players reveal their hands. For each Special and Ultra Attack revealed, +1 Power."
+    ],
+    "exceed_cost": "2G"
+  }
+]

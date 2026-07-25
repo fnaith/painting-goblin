@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Atomic Suplex",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Siberian Fortitude",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor.",
+        "NOW: Close 2."
+      ]
+    },
+    "effect": [
+      "HIT: Push 3.",
+      "CRITICAL, AFTER: Close 3."
+    ]
+  },
+  {
+    "name": "Banishing Flat",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Reach",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "CRITICAL: Attacks at range 4 or greater do not hit you.",
+      "AFTER: Close 2."
+    ]
+  },
+  {
+    "name": "Spinning Piledriver",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Thick Skinned",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor.",
+        "AFTER: If you were hit this Strike, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Armor, Ignore Guard.",
+      "HIT: The opponent must discard a card at random."
+    ]
+  },
+  {
+    "name": "Double Lariat",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "2",
+    "armor": "1",
+    "guard": "6",
+    "boost": {
+      "name": "Ki Charge",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "Opponents cannot move you.",
+      "CRITICAL, AFTER: Move 1 or 2."
+    ]
+  },
+  {
+    "name": "Flying Power Bomb",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Intimidate",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a Range. The opponent must discard a card that includes that Range, or reveal a hand with none."
+      ]
+    },
+    "effect": [
+      "CRITICAL: Stun Immunity.",
+      "BEFORE: Close 2."
+    ]
+  },
+  {
+    "name": "Ultimate Atomic Buster",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "11",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Super Armor",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and Stun Immunity.",
+        "AFTER: If you were hit this Strike, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "HIT: You and the opponent discard all cards."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Siberian Blizzard",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "8",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Jump In",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 1 and draw 3 cards."
+      ]
+    },
+    "effect": [
+      "Opponents cannot move past you (opponents who would move past you stop in front of you instead).",
+      "BEFORE: Close 1.",
+      "HIT: Draw 2 cards."
+    ],
+    "exceed_cost": "3G"
+  }
+]

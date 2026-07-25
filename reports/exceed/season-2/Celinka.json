@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Swift Exorcism",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Good To The Last Bite",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Your attacks have \"If there is a copy of this attack in your sealed or transform area, +1 Power and +1 Armor.\""
+      ]
+    },
+    "effect": [
+      "HIT: Push 2.",
+      "AFTER: If you have a Continuous Boost in play, move 1 and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Dispelling Horn",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Feral Leap",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Advance 3, then Strike."
+      ]
+    },
+    "effect": [
+      "AFTER: Seal your Continuous Boosts. For each card sealed this way, +2 Armor."
+    ]
+  },
+  {
+    "name": "Moon Fall",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Devour My Own Tail",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "At the end of each Strike, if you hit with your attack, you may seal it. If you do, draw 2 cards, then discard a card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3.",
+      "HIT: You may seal a card from your hand. If you do, do not discard your Continuous Boosts from play after this Strike."
+    ]
+  },
+  {
+    "name": "Moon Flare",
+    "type": "special",
+    "cost": null,
+    "range": "1-5",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "A Familiar Taste",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Your attacks have \"If there is a copy of your opponent's attack in your sealed area, +3 Guard.\""
+      ]
+    },
+    "effect": [
+      "HIT: Draw a card.",
+      "AFTER: Draw a card."
+    ]
+  },
+  {
+    "name": "Wishing Ward",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Endless Hunger",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Seal your hand. Draw 4 cards, then Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Seal up to 3 cards from your hand. For each card sealed this way, +1 Power and draw a card."
+    ]
+  },
+  {
+    "name": "Moon Ritual Dance",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Preta Memory",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "You may seal this and 2 other cards from your hand. If you do, Transform a card from your hand."
+      ]
+    },
+    "effect": [
+      "HIT: You may return a Normal or Special Attack from your sealed area to your hand."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Purifying Roar",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-3",
+    "power": "3",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fortune's Roar",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 4 cards."
+      ]
+    },
+    "effect": [
+      "+1 Speed for each differently-named Normal Attack in your sealed area."
+    ],
+    "exceed_cost": "3G"
+  }
+]

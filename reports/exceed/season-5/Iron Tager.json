@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Gigantic Tager Driver",
+    "type": "special",
+    "cost": "1F",
+    "range": "1",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Voltic Charge",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Armor"
+      ]
+    },
+    "effect": [
+      "HIT: The opponent must discard a card at random."
+    ]
+  },
+  {
+    "name": "Sledgehammer",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "Gadget Finger",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "If the opponent is at Range 1, add this to your Gauge and draw 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: Close 1."
+    ]
+  },
+  {
+    "name": "Atomic Collider",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Powerful Blow",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Pull 2.",
+      "HIT: Pull 1 or 2."
+    ]
+  },
+  {
+    "name": "Spark Bolt",
+    "type": "special",
+    "cost": "1F",
+    "range": "3-8",
+    "power": "4",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Heavy",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "-2 Speed and +4 Armor.",
+        "You cannot be Pushed or Pulled."
+      ]
+    },
+    "effect": [
+      "+1 Speed for each card in your Gauge.",
+      "Hit Pull 2 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Crimson Punisher",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "1",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "Reach",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "AFTER: Close 1."
+    ]
+  },
+  {
+    "name": "Genesic Emerald Tager Buster",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "10",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Charge In",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close 2 and Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 2 Gauge to Pull 1 for each Gauge spent."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Magna Tech Wheel",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3",
+    "power": "8",
+    "speed": "1",
+    "armor": "2",
+    "guard": "6",
+    "boost": {
+      "name": "Demon Cells",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power, +2 Armor, and +2 Guard"
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 2 Gauge to Close 1 per Gauge spent.",
+      "Hit, EXCEED MODE: +4 Power."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "King of Tager",
+    "type": "astral",
+    "cost": "4G",
+    "range": "1",
+    "power": "16",
+    "speed": "0",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "When you are hit, after Hit effects, gain +3 Armor for each card in your Gauge.",
+      "BEFORE: Pull 1 or 2."
+    ]
+  }
+]

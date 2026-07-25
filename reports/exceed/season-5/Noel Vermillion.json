@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Spring Raid",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dash Cancel",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Close 2.",
+        "HIT: Add this to your Gauge and gain Advantage."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: Push 2."
+    ]
+  },
+  {
+    "name": "Type One",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Swift Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: Gain Advantage and add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2. If you Advanced past the opponent, their attacks do not hit you."
+    ]
+  },
+  {
+    "name": "Muzzle Flitter",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chain Revolver",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 3 and Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: You may spend 1 Force. If you do, Ignore Guard."
+    ]
+  },
+  {
+    "name": "Assault Through",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Step In",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close 1 and Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1.",
+      "HIT: Push 3 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Optic Barrel",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Overpower",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may spend 1 Force to gain +1-2 Range.",
+      "AFTER: You may Advance 2."
+    ]
+  },
+  {
+    "name": "Zero Gun: Fenrir",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "5",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Drive Charge",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "BEFORE: Advance 2."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2 and draw 2."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Bullet Storm",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3-4",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Power of the Eye",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the opponent's hand, then Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Valkyrie Veil",
+    "type": "astral",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "3",
+    "speed": "2",
+    "armor": "5",
+    "guard": "0",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "Stun Immunity. BEFORE: If you were hit, +4 Power and you may draw 1, 2, 3, or 4."
+    ]
+  }
+]

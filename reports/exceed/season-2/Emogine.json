@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Purifying Chime",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Blood Frenzy",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you set a Wild Swing, your next valid attack gains \"HIT: If you have less life than the opponent, gain 2 life.\""
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards a card at random from their hand."
+    ]
+  },
+  {
+    "name": "Holy Warding",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "4",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "Corrupted Power",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you spend 1 or more Gauge, gain 1 life."
+      ]
+    },
+    "effect": [
+      "HIT: If you have less life than the opponent, +2 Power.",
+      "AFTER: Draw a card."
+    ]
+  },
+  {
+    "name": "Guilty Paean",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Intercessor's Prayer",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you set a Wild Swing, your next valid attack gains \"HIT: You may spend 1 Gauge. If you do, +2 Power.\""
+      ]
+    },
+    "effect": [
+      "BEFORE: You may spend 3 life. If you do not, this attack does not hit."
+    ]
+  },
+  {
+    "name": "Blood For Blood",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Blood Ministration",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you set a Wild Swing, gain 1 life. When the opponent sets a Wild Swing, your attack has +1 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: For each point of damage you have taken during this Strike, +1 Power.",
+      "HIT: Spend up to 2 life. For each life spent, +1 Power."
+    ]
+  },
+  {
+    "name": "Martyr's Lash",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Bloodletting",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Advance 3 or 4. The next time you spend life, gain that much life and discard this card."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you were hit during this Strike, you may Transform a card from your hand or Close 2."
+    ]
+  },
+  {
+    "name": "Hand Of Judgment",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2",
+    "power": "7",
+    "speed": "6",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Evil Within",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike. The opponent must defend with a Wild Swing.",
+        "AFTER: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "If this card was a Wild Swing, you may spend 3 life instead of paying its Gauge Cost."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Touch Of Divinity",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "2-4",
+    "power": "10",
+    "speed": "2",
+    "armor": "3",
+    "guard": "0",
+    "boost": {
+      "name": "Desperate Prayer",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 3 cards of your deck and put them back in any order. You may Transform a card from your gauge."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "If this attack is invalid, your attack has +3 Power this Strike."
+    ],
+    "exceed_cost": "4G"
+  }
+]

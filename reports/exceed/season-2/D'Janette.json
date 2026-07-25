@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Profane Sanctuary",
+    "type": "special",
+    "cost": null,
+    "range": "0-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Blood Ritual",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "As an action, discard a card containing your range to the opponent to do 1 non-lethal damage and draw a card."
+      ]
+    },
+    "effect": [
+      "AFTER: +3 Armor and draw a card."
+    ]
+  },
+  {
+    "name": "Affliction",
+    "type": "special",
+    "cost": null,
+    "range": "0-1",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Curse The Earth",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Your Special Attacks (including cards in your Diabolical Aura) have +0-1 Range."
+      ]
+    },
+    "effect": [
+      "HIT: You may play a Boost from your hand or gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Blood Thorns",
+    "type": "special",
+    "cost": null,
+    "range": "0-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Leylines",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When using the \"Change Cards\" action, you may draw 1 additional card."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 1 towards the origin of this attack.",
+      "AFTER: The opponent cannot move for the rest of this Strike."
+    ]
+  },
+  {
+    "name": "Black Death",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Ritual Magic",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Once per turn, after you resolve a Boost or add a card to your Diabolic Aura, you may spend 1 Force. If you do, Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 3 towards the origin of this attack."
+    ]
+  },
+  {
+    "name": "Charnel Blast",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "6",
+    "speed": "1",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Summoning Portal",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Return up to 2 cards from your discard pile to your hand."
+      ]
+    },
+    "effect": [
+      "+1 Armor for each card in your transformation area."
+    ]
+  },
+  {
+    "name": "Carmine Offering",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "0-2",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dominion Over The Earth",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your attacks (including cards in your Diabolic Aura) have +0-2 Range."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: You may Transform a card from your hand."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Death Knell",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "0",
+    "power": "10",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Enervation",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "The opponent's attacks have -1 Range (this reduces both minimum and maximum range, to a minimum of zero)."
+      ]
+    },
+    "effect": [
+      "If you are in Exceed mode, Stun Immunity.",
+      "BEFORE: Spend up to 3 Gauge. For each Gauge spent, +0-1 Range."
+    ],
+    "exceed_cost": "1G"
+  }
+]

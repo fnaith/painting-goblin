@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Head Stomp",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Unstoppable",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "Your attacks are Critical."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +1 Power and +1 Speed.",
+      "AFTER: Close 2. If the opponent is stunned, Push or Pull up to 2."
+    ]
+  },
+  {
+    "name": "Devil Reverse",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bison Dollars",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "If the opponent has more cards in hand than you, draw 3 cards. Add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "CRITICAL, HIT: Advance or Retreat 3.",
+      "AFTER: Retreat up to 2."
+    ]
+  },
+  {
+    "name": "Sliding Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Quick Backdash",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat 2. If you are at range 3, take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "CRITICAL, HIT: +2 Power and Push 2."
+    ]
+  },
+  {
+    "name": "Psycho Crusher",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Psycho Power",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power for each card in your gauge, to a maximum of +5."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3.",
+      "CRITICAL, HIT: Advance or Retreat 3, then draw a card."
+    ]
+  },
+  {
+    "name": "Somersault Skull Diver",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Shadaloo Intelligence",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card. The opponent must discard a copy of that card or reveal a hand with none. If a card was discarded this way, Strike."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +1 Power, +6 Guard, and Ignore Armor.",
+      "BEFORE: Advance 1 or 2.",
+      "HIT: Push 2."
+    ]
+  },
+  {
+    "name": "Nightmare Booster",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-3",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Psycho Booster",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Reveal your hand. Add the top 3 cards of your discard pile to your gauge."
+      ]
+    },
+    "effect": [
+      "CRITICAL, HIT: The opponent's attack does not hit you, and gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: Close 1 or 2."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Psycho Punisher",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Bison Teleport",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move up to 5."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "CRITICAL, HIT: +2 Power and gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: Advance 2."
+    ],
+    "exceed_cost": "3G"
+  }
+]

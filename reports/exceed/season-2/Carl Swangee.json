@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Improvised Weapon",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Investigate",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "The opponent discards a card at random. If it is a Special Attack, they must discard an additional card of their choice."
+      ]
+    },
+    "effect": [
+      "HIT: If the opponent initiated this Strike, return this card to your hand. Otherwise gain Gain Advantage."
+    ]
+  },
+  {
+    "name": "Disarming Strike",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Disarming Maneuver",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Advance 2. If you switched sides with the opponent, they discard a card a random."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "HIT: The opponent must discard a Normal Attack, or reveal a hand with none."
+    ]
+  },
+  {
+    "name": "Swangee Elbow",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Armor Up",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Armor."
+      ]
+    },
+    "effect": [
+      "Ignore Armor, Ignore Guard."
+    ]
+  },
+  {
+    "name": "Cease & Desist",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "3",
+    "armor": "3",
+    "guard": "3",
+    "boost": {
+      "name": "Headlong Run",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 6."
+      ]
+    },
+    "effect": [
+      "Whenever you would discard cards during this Strike, discard 1 fewer card.",
+      "AFTER: Draw a card and lose all Armor."
+    ]
+  },
+  {
+    "name": "Power Short",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "7",
+    "speed": "2",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "Precision Engineering",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Return a Normal from your gauge to your hand. If you did, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "Opponents cannot move you.",
+      "AFTER: Lose all Armor. If you did not hit the opponent, you take 3 damage."
+    ]
+  },
+  {
+    "name": "Authorized Force",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "10",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Overload",
+      "cost": "-",
+      "timing": "Overload",
+      "effect": [
+        "You may place this card face-down with any Normal Attack to form an EX Attack."
+      ]
+    },
+    "effect": [],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Autonomic Response",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Overload",
+      "cost": "-",
+      "timing": "Overload",
+      "effect": [
+        "You may place this card face-down with any Normal Attack to form an EX Attack."
+      ]
+    },
+    "effect": [
+      "Normal Attacks do not hit you."
+    ],
+    "exceed_cost": "2G"
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "name": "Chemical Love",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hover Dash",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Advance or Retreat 2. Draw 2."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 1. Draw 1."
+    ]
+  },
+  {
+    "name": "Antidepressant Scale",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Marlene",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+4 Guard.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you initiated after moving 2 or more spaces, +2 Power.",
+      "HIT: Retreat 1. Gain Advantage."
+    ]
+  },
+  {
+    "name": "Stroke the Big Tree",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Sadism",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "AFTER: If the opponent is stunned, they must discard 2 random cards."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2; if you Closed fewer than 2 spaces, Ignore Guard.",
+      "HIT: Gain Advantage."
+    ]
+  },
+  {
+    "name": "Sultry Performance",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Smell Of The Game",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "HIT: +1 Power. Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3.",
+      "HIT: Draw 2. Advance or Retreat 1."
+    ]
+  },
+  {
+    "name": "Guitar Stamping",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Gatling",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 2.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1.",
+      "HIT: Retreat 3. Add the top card of your deck to your Gauge."
+    ]
+  },
+  {
+    "name": "Megalomania",
+    "type": "ultra",
+    "cost": "5G",
+    "range": "2-3",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "The Midnight Carnival",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "HIT: You may discard a card from the opponent's Gauge. Otherwise, draw 1 and add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage. The opponent must discard their hand."
+    ],
+    "exceed_cost": "5G"
+  },
+  {
+    "name": "Ultimate Fortissimo",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "4",
+    "speed": "3",
+    "armor": "6",
+    "guard": "0",
+    "boost": {
+      "name": "Requiem",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Power and +1 Speed.",
+        "HIT: You may spend 2 Gauge. If you do, sustain this."
+      ]
+    },
+    "effect": [
+      "AFTER: Lose all Armor."
+    ],
+    "exceed_cost": "3G"
+  }
+]

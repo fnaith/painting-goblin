@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Sougetsu Ittou-ryu et Cetera! Yae Ichirin",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Swift and Deadly",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 2, then Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage.",
+      "AFTER: Advance 3."
+    ]
+  },
+  {
+    "name": "Over Here!",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Unsheathe",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power. +1 Speed.",
+        "NOW: Strike with a random card from your Gauge face-up. The opponent sets their attack first (you still win speed ties)."
+      ]
+    },
+    "effect": [
+      "HIT: Choose a random card in your Gauge. +X Power, then Advance or Retreat X. X is the chosen card's printed Power."
+    ]
+  },
+  {
+    "name": "Battoujutsu San no Kata: Tachi",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Not Over Yet",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "CLEANUP: If you were stunned, sustain this."
+      ]
+    },
+    "effect": [
+      "Ignore Armor, Ignore Guard"
+    ]
+  },
+  {
+    "name": "Battoujutsu Ni no Kata: Saki",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "7",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Come At Me!",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power.",
+        "At the start of your turn, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "If you set this from your Gauge, Stun Immunity."
+    ]
+  },
+  {
+    "name": "Battoujutsu Ichi no Kata: Kiri",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "7",
+    "speed": "1",
+    "armor": "1",
+    "guard": "5",
+    "boost": {
+      "name": "Try Hard",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "CLEANUP: If you were stunned, sustain this."
+      ]
+    },
+    "effect": [
+      "You cannot be Pushed or Pulled.",
+      "HIT: For each point of damage you took during this Strike, -1 Power.",
+      "AFTER: Draw 1."
+    ]
+  },
+  {
+    "name": "Sogetsu Ittou-Ryuu Ougi: Kashou",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-4",
+    "power": "0",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Iris Blade",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add up to 2 cards from the top of your deck to your Gauge. If you have 4 or more Gauge after this, Exceed."
+      ]
+    },
+    "effect": [
+      "This attack does not stun.",
+      "HIT: +X Power. X is the printed Power of the top card of your discard pile.",
+      "AFTER: Advance 4."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Zero no Kata Hi-ougi: Inochi Kurenai",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1-2",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ainsel Los",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power, +1 Speed.",
+        "AFTER: Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "CLEANUP: If you were stunned, you may add this to your boost area as a Continuous Boost. Sustain it."
+    ],
+    "exceed_cost": "1G"
+  }
+]

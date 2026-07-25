@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Paranormal Investigation",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mimetism",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Your attacks have \"After: You may spend 2 Force. If you do, choose one of your Continuous Boosts. Do not discard it from play after this Strike.\""
+      ]
+    },
+    "effect": [
+      "HIT: Return up to 2 Normal Attacks from your discard pile to your hand."
+    ]
+  },
+  {
+    "name": "Strafe Fire",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Double Down",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Your attacks gain \"HIT: If you have 2 or more Continuous Boosts in play, +2 Power.\""
+      ]
+    },
+    "effect": [
+      "AFTER: Retreat 1."
+    ]
+  },
+  {
+    "name": "Flare",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fakeout",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Return this card to your hand, then draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: For the rest of the Strike, attacks at range 1 do not hit you.",
+      "AFTER: Close 2."
+    ]
+  },
+  {
+    "name": "Lethal Force",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Following Leads",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "After resolving a Boost, you may spend 1 Force. If you do, Move 1. Ignore this when turning a Boost face-up."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Push 2. If you have a Continuous Boost in play, Retreat 1."
+    ]
+  },
+  {
+    "name": "Called Shot",
+    "type": "special",
+    "cost": null,
+    "range": "1-8",
+    "power": "0",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tactical Training",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +1 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Name a card. The opponent must discard a copy of that card, or reveal a hand without any. If they discarded a copy, +6 Power."
+    ]
+  },
+  {
+    "name": "Neutralizer",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Conspiracy Unearthed",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: The opponent reveals their hand, then adds a card of your choice from their hand to their Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: If the opponent is in Exceed Mode, they must discard 2 cards from their gauge."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Anticipation",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Jiujitsu",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Move 1."
+      ]
+    },
+    "effect": [
+      "Attacks at range 1 do not hit you.",
+      "BEFORE: Advance 1."
+    ],
+    "exceed_cost": "2G"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Con Brio",
+    "type": "special",
+    "cost": "1F",
+    "range": "0-1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hurry, Sis!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "You may flip Nirvana or move her 1 space. Take another action."
+      ]
+    },
+    "effect": [
+      "Calculate Range from Nirvana.",
+      "HIT: Push 2 away from Nirvana (move the opponent either direction if they're on Nirvana)."
+    ]
+  },
+  {
+    "name": "Cantabile",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "La Campanella",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move Nirvana into your space.",
+        "Take another action."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 1 or 2. If you initiated the Strike, draw 1 and gain Advantage.",
+      "AFTER: Move Nirvana up to 1 space."
+    ]
+  },
+  {
+    "name": "Con Fuoco",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-2",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Vivace",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 1 or 2. If you Advanced past the opponent, Strike."
+      ]
+    },
+    "effect": [
+      "Calculate Range from Nirvana.",
+      "BEFORE: You may spend 1 Force to move Nirvana 1 or 2 spaces.",
+      "HIT: Close 2 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Con Anima",
+    "type": "special",
+    "cost": null,
+    "range": "0-1",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Fine Tuning",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "BEFORE: Move Nirvana up to 1 space."
+      ]
+    },
+    "effect": [
+      "Ignore Guard. Calculate Range from Nirvana.",
+      "HIT: The opponent must discard 2 cards at random.",
+      "AFTER: If this attack did not hit, draw 2."
+    ]
+  },
+  {
+    "name": "Volante",
+    "type": "special",
+    "cost": null,
+    "range": "3-8",
+    "power": "3",
+    "speed": "1",
+    "armor": "1",
+    "guard": "6",
+    "boost": {
+      "name": "Allegretto",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "AFTER: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "Calculate Range from Nirvana.",
+      "HIT: If the opponent is at Range 1 from Carl, +2 Power and gain Advantage.",
+      "AFTER: Advance 1 or 2."
+    ]
+  },
+  {
+    "name": "Rhapsody of Memories",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "0-1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Virtuoso",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +1 Speed.",
+        "BEFORE: Move Nirvana up to 1 space."
+      ]
+    },
+    "effect": [
+      "Calculate Range from Nirvana. Nirvana cannot be flipped.",
+      "HIT: Draw 2.",
+      "AFTER: Advance or Retreat up to 2."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Laetabilis Cantata",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "3",
+    "speed": "2",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "Duet",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "HIT: If your opponent is in Nirvana's space or between you and Nirvana, +3 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1.",
+      "AFTER: You may flip Nirvana or move her up to 3 spaces."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Deus Ex Machina",
+    "type": "astral",
+    "cost": "4G",
+    "range": "0-1",
+    "power": "10",
+    "speed": "0",
+    "armor": "4",
+    "guard": "0",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "Stun Immunity. Calculate Range from Nirvana. Nirvana cannot be flipped.",
+      "AFTER: Seal Nirvana."
+    ]
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Anchor Swing",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Blue Water, Blue Sky",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Advance or Retreat 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: Add the top card of your deck to your Gauge."
+    ]
+  },
+  {
+    "name": "Arisugawa Sparkle",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "4",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "Goooo!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard your hand. Draw 4. Strike."
+      ]
+    },
+    "effect": [
+      "AFTER: Close 1. Draw 1."
+    ]
+  },
+  {
+    "name": "Mr. Dolphin",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Energetic",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Advance 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2; if you Closed fewer than 2 spaces, +2 Power."
+    ]
+  },
+  {
+    "name": "Overhead Kiss",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Gatling",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 2.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "Ignore Armor, Ignore Guard.",
+      "HIT: Push 2. Gain Advantage."
+    ]
+  },
+  {
+    "name": "Totsugeki!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Relentless",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +4 Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "HIT: Push 2. Gain Advantage."
+    ]
+  },
+  {
+    "name": "The Wonderful And\nDynamic Goshogawara",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Disaster Of Passion",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1  Power and +1 Speed.",
+        "NOW: Draw 1."
+      ]
+    },
+    "effect": [
+      "If the opponent initiated, +3 Speed",
+      "HIT: Push 1."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Great Yamada Attack",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-4",
+    "power": "6",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chaaarge!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close 3. You may spend 1 Force; if you do, Strike."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "AFTER: Close 3."
+    ],
+    "exceed_cost": "3G"
+  }
+]

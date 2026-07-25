@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Sol Nascente",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Step Dash",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "NOW: Draw 1.",
+        "BEFORE: Close 1."
+      ]
+    },
+    "effect": [
+      "AFTER: Advance or Retreat 1."
+    ]
+  },
+  {
+    "name": "Triple Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Beatdown",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "HIT: Draw 2."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 2. Spend up to 3 Force. For each Force spent, +1 Power."
+    ]
+  },
+  {
+    "name": "Sepultura",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Microdash",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Advance or Retreat 1. Draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent must discard a random card.",
+      "AFTER: Close or Retreat 1."
+    ]
+  },
+  {
+    "name": "Sol Poente",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tension Rush",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +1 Armor. NOW: You may add a card from your hand to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1; if you Advanced past the opponent, Ignore Guard."
+    ]
+  },
+  {
+    "name": "Trovão",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "2",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Pursuit",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Close 2.",
+        "HIT: Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3."
+    ]
+  },
+  {
+    "name": "Ventania",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "6",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Trigger",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Close 3."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you initiated, Close 2."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Tempestade",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rei",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3.",
+      "HIT: Gain Advantage."
+    ],
+    "exceed_cost": "1G"
+  }
+]

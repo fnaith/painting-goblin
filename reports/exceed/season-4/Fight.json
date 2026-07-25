@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Explosive Shot",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Shoot Orb",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: RANGE 3+: +3 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Add the top card of your discard to your Gauge."
+    ]
+  },
+  {
+    "name": "Retreating Bolts",
+    "type": "special",
+    "cost": null,
+    "range": "3",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Deadlock Boots",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "+1 Speed for each Force you spent this turn.",
+      "BEFORE: Retreat 2."
+    ]
+  },
+  {
+    "name": "Power Jump",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "3",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "Dash",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 2. If you did not move past your opponent, add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Retreat 2.",
+      "AFTER: Push 1."
+    ]
+  },
+  {
+    "name": "Electro Charge",
+    "type": "special",
+    "cost": null,
+    "range": "4-6",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Speed Shell",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "AFTER: Retreat 1."
+      ]
+    },
+    "effect": [
+      "+3 Guard for each Force you spent this turn.",
+      "HIT: Add the top card of your discard to your Gauge."
+    ]
+  },
+  {
+    "name": "Lightning Gun",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Arachnomorph",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "HIT: +1 Power for each Force you spent this turn."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Rail Gun",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "3-8",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mothorb",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Put the top card of your deck into the Gauge for each Force you spent this turn."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent has -1 Armor for each Force you spent this turn."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Flamethrower",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Explorb",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Advance or Retreat 2.",
+        "HIT: Put the top 2 cards of your deck into your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "BEFORE: +0-1 Range for each Force you spent this turn."
+    ],
+    "exceed_cost": "2G"
+  }
+]

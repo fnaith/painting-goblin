@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Lightning Javelin",
+    "type": "special",
+    "cost": null,
+    "range": "4-6",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Overcharge",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: You may spend up to 3 Gauge for +2 Power per Gauge spent."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Advance as far as possible."
+    ]
+  },
+  {
+    "name": "100 Million Volts",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Charging Power",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power for each card in your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Spend up to 5 Force for +1 Power per Force spent."
+    ]
+  },
+  {
+    "name": "Blitz Hammer",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Thunderous Might",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2 spaces.",
+      "HIT: Move up to 2 spaces."
+    ]
+  },
+  {
+    "name": "Ionization",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Speed Force",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Move any number of spaces and +2 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Retreat as far as possible."
+    ]
+  },
+  {
+    "name": "Inevitability",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Arc Impulse",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Attacks at Range 1 do not hit you."
+      ]
+    },
+    "effect": [
+      "Stun Immunity, Ignore Armor.",
+      "BEFORE: Close 8 spaces."
+    ]
+  },
+  {
+    "name": "Second Strike",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "3",
+    "power": "4",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Thunderclap",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Each time you move, for each space you move, +1 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Atomic Bolt",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "8",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Static Charge",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Each time you move, for each space you move, +1 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance until you move past the opponent (or as far as possible, if the opponent is at an edge of the arena)."
+    ],
+    "exceed_cost": "3G"
+  }
+]

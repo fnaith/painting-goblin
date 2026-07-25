@@ -1,0 +1,117 @@
+[
+  {
+    "name": "At the Ready (x2)",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Love You",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: You may spend 1 Force. If you do, discard another Boost from play."
+      ]
+    },
+    "effect": [
+      "HIT: You may draw 2 or return a card from your sealed area to your hand."
+    ]
+  },
+  {
+    "name": "Fire (x3)",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Scapegoat",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor.",
+        "NOW: Spend up to 3 life. For each life spent, draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: Spend up to 3 Force. For each Force spent, +1 Power and draw 1."
+    ]
+  },
+  {
+    "name": "Cheap Shot (x3)",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1-4",
+    "power": "0",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Super Focus",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Return a card from your sealed area to your hand. Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1.",
+      "AFTER: If the opponent is stunned, they must discard 2 cards."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Gun Down (x3)",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "2-5",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Curse",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Retreat 1 or 2. You may spend 1 Force; if you do, Strike.",
+        "HIT: Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: The opponent must discard a card.",
+      "AFTER: Seal this."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Steady Aim (x3)",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "3-8",
+    "power": "4",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Drift",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 3; if you Advanced past the opponent, take another action. Seal this."
+      ]
+    },
+    "effect": [
+      "You may initiate with this face-up. If you do, it has +2 Power and Ignore Armor.",
+      "AFTER: Seal this."
+    ],
+    "exceed_cost": "1G"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Burrow Dig",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lost Treasure",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Return a Special or Ultra Attack from your discard pile to your hand, then shuffle your discard. Do not draw at the end of your turn."
+      ]
+    },
+    "effect": [
+      "HIT: Draw a card and Advance 2."
+    ]
+  },
+  {
+    "name": "Headbutt",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Come At Me!",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power.",
+        "At the start of your next turn, add this card to your Gauge and draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2, then choose one: Retreat 1, or Advance 2 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Diving Dig",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tunneling",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat up to 3. Then, if you are on your Burrow, add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Retreat 1. The opponent must discard a card at random."
+    ]
+  },
+  {
+    "name": "Block Push",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Stockpile",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor and +2 Guard."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1."
+    ]
+  },
+  {
+    "name": "Belly Slide",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "2",
+    "armor": "1",
+    "guard": "5",
+    "boost": {
+      "name": "Tunnel Vision",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Advance 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1.",
+      "HIT: Draw a card."
+    ]
+  },
+  {
+    "name": "Erupt",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-4",
+    "power": "8",
+    "speed": "1",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "Molten Armor",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "The first time this Strike you are hit (after Hit effects), deal 2 non-lethal damage."
+      ]
+    },
+    "effect": [],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Cave In",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "4",
+    "speed": "1",
+    "armor": "3",
+    "guard": "0",
+    "boost": {
+      "name": "Undermine",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of your turn, choose one:",
+        "- Discard this card. If you do, deal 4 non-lethal damage to the opponent on your Burrow.",
+        "- Move your Burrow 1 space."
+      ]
+    },
+    "effect": [
+      "Opponents within Range of this attack (when they begin moving) cannot move.",
+      "AFTER: Draw 2 cards."
+    ],
+    "exceed_cost": "2G"
+  }
+]

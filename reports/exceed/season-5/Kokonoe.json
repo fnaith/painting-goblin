@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Absolute Zero v4.32",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Grappling Hook",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Range.",
+        "NOW: Strike.",
+        "HIT: Pull 2 and draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent must discard a card at random. Then, if you have 2 or more Gauge, you must spend 2 Gauge. If you do, +3 Power and Push 2."
+    ]
+  },
+  {
+    "name": "Broken Bunker Assault v2.21",
+    "type": "special",
+    "cost": "1F",
+    "range": "1",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Impact Hammer",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor.",
+        "HIT: Spend up to 2 Gauge. For each Gauge spent, +1 Power and Push 1."
+      ]
+    },
+    "effect": [
+      "If Graviton is in play, -2 Speed.",
+      "BEFORE: Close 2.",
+      "HIT: If Graviton is in your space, +2 Power."
+    ]
+  },
+  {
+    "name": "Flame Cage v1.43",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "3",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "Overtime",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 4.",
+        "At the start of your turn, add this to your Gauge and discard 3 cards."
+      ]
+    },
+    "effect": [
+      "HIT, RANGE 4+: +2 Power.",
+      "AFTER: Push or Pull 1."
+    ]
+  },
+  {
+    "name": "Banishing Rays v3.10",
+    "type": "special",
+    "cost": null,
+    "range": "3",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Planar Haze v1.24",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "If the Graviton is in an unoccupied space, Move into its space and take another action. Otherwise, Advance 4 or 5."
+      ]
+    },
+    "effect": [
+      "If Graviton is in play, +2 Speed.",
+      "AFTER: Advance or Retreat 1."
+    ]
+  },
+  {
+    "name": "Solid Wheel v3.37",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Timed Explosives",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "AFTER: Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 4. If you enter Graviton's space during this movement, end your movement in its space and gain Advantage."
+    ]
+  },
+  {
+    "name": "Dreadnought Exterminator",
+    "type": "ultra",
+    "cost": "4*G",
+    "range": "4-8",
+    "power": "7",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Reckless Upgrades",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "The opponent has +3 Power.",
+        "NOW: Add the top 3 cards of your discard pile to your Gauge."
+      ]
+    },
+    "effect": [
+      "If you are in Exceed Mode, this attack's Gauge Cost is increased by 4, and it has +7 Power.",
+      "HIT: Spend up to 4 Force for +1 Power each."
+    ],
+    "exceed_cost": "4*G"
+  },
+  {
+    "name": "Flaming Belobog v2.73",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-4",
+    "power": "5",
+    "speed": "2",
+    "armor": "2",
+    "guard": "4",
+    "boost": {
+      "name": "Jamming Dark v1.65",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "AFTER, RANGE 4: You may play a non-EX attack from your hand (paying all costs)."
+      ]
+    },
+    "effect": [
+      "HIT, RANGE 3+: You may return up to 2 cards from your discard pile to your hand."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Ultimate Impact",
+    "type": "astral",
+    "cost": "4G",
+    "range": "1",
+    "power": "7",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "If this attack is invalid, add it to your Gauge.",
+      "HIT: Push 3. Then, if the opponent is at Range 4, draw any number of cards."
+    ]
+  }
+]

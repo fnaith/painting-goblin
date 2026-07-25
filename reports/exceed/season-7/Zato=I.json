@@ -1,0 +1,185 @@
+[
+  {
+    "name": "\"Pierce\"",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Still In The Dark",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: You may Push 1."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1.",
+      "AFTER: If the opponent is stunned, draw 2."
+    ]
+  },
+  {
+    "name": "\"Leap\"",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Vanish Into Dark",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Place Eddie in your space. Advance or Retreat 2"
+      ]
+    },
+    "effect": [
+      "HIT: Push 1 from the source of this attack. Draw 1."
+    ]
+  },
+  {
+    "name": "Invite Hell",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Negative Edge",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Place Eddie in any space."
+      ]
+    },
+    "effect": [
+      "BEFORE: If Eddie is in play,",
+      "+2 Power and place Eddie in your space (before calculating Range).",
+      "HIT: Draw 1."
+    ]
+  },
+  {
+    "name": "\"That's a Lot!\"",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Break The Law",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: You may spend 1 Force. If you do, Strike.",
+        "AFTER: Advance or Retreat 1 or 2."
+      ]
+    },
+    "effect": [
+      "AFTER: Advance up to 2."
+    ]
+  },
+  {
+    "name": "Damned Fang",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Drunkard Shade",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "Attacks at Range 4+ do not hit you.",
+        "At the start of your turn, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Pull 2 (toward Zato-1). Draw 2."
+    ]
+  },
+  {
+    "name": "\"Oppose\"",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "0-1",
+    "power": "0",
+    "speed": "2",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "Fly By Night",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Advance or Retreat 1. You may add a card from your hand to your Gauge."
+      ]
+    },
+    "effect": [
+      "Do not remove Eddie from play during Cleanup.",
+      "BEFORE: If you were hit, +3 Power."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Sun Void",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "0-1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Let Me Carve Your Way",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: You may spend 2 Force. If you do, return 2 Specials from your discard pile to your hand."
+      ]
+    },
+    "effect": [
+      "Do not remove Eddie from play during Cleanup."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Amorphous",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "3",
+    "power": "6",
+    "speed": "1",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "Feel A Fear",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "HIT: If the opponent is between you and Eddie (not in Eddie's space), +3 Power."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "AFTER: Draw 3."
+    ],
+    "exceed_cost": "4G"
+  }
+]

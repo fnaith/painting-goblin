@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Cat Spirit One!",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Feral Fury!",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "HIT: Draw 2."
+      ]
+    },
+    "effect": [
+      "HIT: Spend up to 2 Force for +1 Power each.",
+      "AFTER: Retreat 2."
+    ]
+  },
+  {
+    "name": "Kitty Litter Special!",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Pounce!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 1, then Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Close 2 and gain Advantage.",
+      "AFTER: Draw 1."
+    ]
+  },
+  {
+    "name": "Double Paw Strike!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Cat Jump!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 3."
+      ]
+    },
+    "effect": [
+      "BEFORE, RANGE 1: +2 Power.",
+      "HIT: Push 1."
+    ]
+  },
+  {
+    "name": "Slashy Slashy!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Let's Play!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top card of your deck. You may discard it or put it back. Then, Strike with a Wild Swing."
+      ]
+    },
+    "effect": [
+      "HIT: Spend up to 2 Force. For each Force spent, +1 Power and Draw 1.",
+      "AFTER: Push 2."
+    ]
+  },
+  {
+    "name": "Trick Edge!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Surprise!",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "If the opponent is at Range 1, Retreat 2 and Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "BEFORE: If you are at the edge of the arena, Close 3."
+    ]
+  },
+  {
+    "name": "Hexa Edge!",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "6",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Almost Becoming Two!",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Place a card from your hand on top of your deck, then Strike with a Wild Swing.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2 and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Imma Beat the Crap Outta You!",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "7",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Meow I'm Serious!",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "HIT: Advance or Retreat 3."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Attack Meow Pow!",
+    "type": "astral",
+    "cost": "4G",
+    "range": "1",
+    "power": "9",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 4."
+    ]
+  }
+]

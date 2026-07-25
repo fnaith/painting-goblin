@@ -1,0 +1,159 @@
+[
+  {
+    "name": "Mika's Crash",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Power Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: +1 Power, gain Advantage and add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "If you set this with a Wild Swing, Ignore Guard.",
+      "AFTER: Advance 3."
+    ]
+  },
+  {
+    "name": "Mika's Missile",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "0",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Precision Handling",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 1, then draw 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3. +2 Power per space moved this way."
+    ]
+  },
+  {
+    "name": "Mika's Tornado",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Can't Stop, Won't Stop",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity and +2 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2.",
+      "HIT: If you set this with a Wild Swing, gain Advantage."
+    ]
+  },
+  {
+    "name": "Mika's Hip Attack",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Pachelbel Cannon",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "NOW: You may place a card from your hand on top of your deck."
+      ]
+    },
+    "effect": [
+      "HIT: Push 3.",
+      "AFTER: Close 1. If the opponent is at the edge of the arena, gain Advantage."
+    ]
+  },
+  {
+    "name": "Mika's Cannon",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "7",
+    "speed": "1",
+    "armor": "1",
+    "guard": "6",
+    "boost": {
+      "name": "Swift Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: Gain Advantage and add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "You cannot be Pushed or Pulled.",
+      "BEFORE: Advance 2. If you advanced past the opponent, this attack does not hit."
+    ]
+  },
+  {
+    "name": "Mika's Revolution",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "3",
+    "speed": "2",
+    "armor": "3",
+    "guard": "2",
+    "boost": {
+      "name": "Diesel",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Power.",
+        "At the start of your next turn, add this to your Gauge and draw 2."
+      ]
+    },
+    "effect": [
+      "HIT: Push 7. Close 7. +1 Power per space you moved this way."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Mika's Galaxy",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "0-1",
+    "power": "12",
+    "speed": "1",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Smart Steer",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat up to 3."
+      ]
+    },
+    "effect": [
+      "Calculate Range from the center of the arena.",
+      "BEFORE: If you set this with a Wild Swing, you may push 2 (from Mika)."
+    ],
+    "exceed_cost": "3G"
+  }
+]

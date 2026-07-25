@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Spider Scythe",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-2",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Gathering Darkness",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 3 cards, then Strike with a card from your sealed area. (If you cannot, Wild Swing.)"
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1."
+    ]
+  },
+  {
+    "name": "Throwing Sickle",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Shadow Mirror",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 2 or 3."
+      ]
+    },
+    "effect": [
+      "AFTER: Retreat 1 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Bounding Soul",
+    "type": "special",
+    "cost": null,
+    "range": "2",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Vanish",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Advance 3 spaces. If you moved past the opponent, +3 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you moved 2 or more spaces this Strike, +2 Power."
+    ]
+  },
+  {
+    "name": "Spin Scythe",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Dash Slash",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Seal your hand face down, then draw until you have 4 cards in hand, then Strike with a card from your sealed area. (If you cannot, Wild Swing.)",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT: Draw a card.",
+      "AFTER: Advance 4."
+    ]
+  },
+  {
+    "name": "Dread Talon",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Wall Climb",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Move 2.",
+        "AFTER: Advance 4."
+      ]
+    },
+    "effect": [
+      "Ignore Armor, Ignore Guard."
+    ]
+  },
+  {
+    "name": "Barrier Lantern",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "From The Grave",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike with a card from your sealed area. (If you cannot, Wild Swing.)",
+        "HIT: Return this card to your hand."
+      ]
+    },
+    "effect": [
+      "Attacks at Range 3, 4, or 5 do not hit you.",
+      "AFTER: Advance or Retreat 1."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Dread Reaper",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "10",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Judgment Rush",
+      "cost": "3F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power and +1 Speed.",
+        "NOW: Strike.",
+        "BEFORE: Close 2."
+      ]
+    },
+    "effect": [
+      "AFTER: Pull 4 and gain Advantage."
+    ],
+    "exceed_cost": "3G"
+  }
+]

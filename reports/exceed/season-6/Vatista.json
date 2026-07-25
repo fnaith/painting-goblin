@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Mikoruseo",
+    "type": "special",
+    "cost": null,
+    "range": "3-8",
+    "power": "2",
+    "speed": "5",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "Swift Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: Gain Advantage and add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "This attack does not stun.",
+      "AFTER: If this attack hit, draw 1."
+    ]
+  },
+  {
+    "name": "Lumen Stella",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Instant Flight",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Reveal the top card of your deck. Advance or Retreat X, where X is the revealed card's power."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1 and draw 1."
+    ]
+  },
+  {
+    "name": "Zahhishio",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Curse Commandment",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power.",
+        "NOW: Strike with a card face-up from your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Add all cards in your hand to your Gauge and gain Advantage.",
+      "HIT: Push 3."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Transvoranse",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "2-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Charged Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "When you Advance or Retreat, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "AFTER: Advance 2 and draw 1."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Lateus Orbis",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3-8",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Autonomic Nerve",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Spend up to 6 Gauge for +1 Power each, then add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Spend all cards in your hand and Gauge as Force. For each Force spent, +1 Power. The opponent may spend any amount of Force for +1 Armor each."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Armabellum",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1-3",
+    "power": "2",
+    "speed": "2",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Crimson Wings",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "When you Advance or Retreat, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Add up to 3 cards from your hand to your Gauge. For each card added this way, +1 Power.",
+      "AFTER: Close or Retreat 1."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Ruber Angelus",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "6",
+    "speed": "2",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "Restriction",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "When you Advance or Retreat, add this to your Gauge.",
+        "HIT: Push or Pull 1."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2.",
+      "AFTER: You may Advance 4."
+    ],
+    "exceed_cost": "2G"
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Cyber Destroyer",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Emergent Technology",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range."
+      ]
+    },
+    "effect": [
+      "HIT: You may keep one of your Continuous Boosts in play at the end of this Strike (any cumulative bonuses on those Boosts reset)."
+    ]
+  },
+  {
+    "name": "Upgrade",
+    "type": "special",
+    "cost": null,
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "6",
+    "armor": "3",
+    "guard": "0",
+    "boost": {
+      "name": "Mandatory Upgrades",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of the opponent's turns, +1 Power (max of +3)."
+      ]
+    },
+    "effect": [
+      "BEFORE: Do not discard any of your Continuous Boosts in play at the end of this Strike (any cumulative bonuses on these Boosts reset)."
+    ]
+  },
+  {
+    "name": "Riot Machine",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "1",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Revoke",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Choose a Continuous Boost in play. It now affects you instead of its controller."
+      ]
+    },
+    "effect": [
+      "BEFORE: +2 Power for each Continuous Boost you have in play."
+    ]
+  },
+  {
+    "name": "Plasma Barrage",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Auto-Defense Engine",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of the opponent's turns, +1 Armor (max of +3)."
+      ]
+    },
+    "effect": [
+      "AFTER: Move 1 or 2 spaces."
+    ]
+  },
+  {
+    "name": "Enki Thresher",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lost Memories",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of the opponent's turns, +1 Speed (max of +3)."
+      ]
+    },
+    "effect": [
+      "Stun Immunity."
+    ]
+  },
+  {
+    "name": "Shifting Technology",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1-2",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Liberation",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of the opponent's turns, add the top card of your Discard to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Do not discard your Continuous Boosts at the end of this Strike (any cumulative bonuses on those Boosts reset)."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Harnessing Chaos",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "1",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rejuvenation",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of the opponent's turns, draw a card."
+      ]
+    },
+    "effect": [
+      "BEFORE: For each Continuous Boost you have in play, +1 Power and +0-1 Range."
+    ],
+    "exceed_cost": "3G"
+  }
+]

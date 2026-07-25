@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Golden Arrow",
+    "type": "special",
+    "cost": null,
+    "range": "3-7",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Golden Chains",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "-2 Speed and +2 Armor.",
+        "NOW: Draw 2 cards."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1."
+    ]
+  },
+  {
+    "name": "Inquisition",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "1",
+    "boost": {
+      "name": "Compulsive Purification",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When the opponent plays a Boost (after costs, before decisions), you may spend 2 Force. If you do it is discarded with no effect."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: +2 Armor."
+    ]
+  },
+  {
+    "name": "Sacrament Of Blades",
+    "type": "special",
+    "cost": null,
+    "range": "2-6",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Ministry Of Saints",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you set your attack, you may spend 1 Force. If you do, your attack has +2 Guard."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 2 life."
+    ]
+  },
+  {
+    "name": "Solemn Exorcism",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Inviolability",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Opponents cannot move you.",
+        "NOW: Draw a card."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you were hit during this Strike, Close 3."
+    ]
+  },
+  {
+    "name": "Bastion Stance",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "1",
+    "armor": "1",
+    "guard": "5",
+    "boost": {
+      "name": "Untainted",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "If you have 5 or less life, you may gain 1 life instead of drawing at the end of your turn (if you did not Strike)."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you were hit during this Strike, +2 Power.",
+      "AFTER: Retreat 2."
+    ]
+  },
+  {
+    "name": "Crusader's Oath",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Solemn Oath",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+5 Armor.",
+        "NOW: You may spend 5 life. If you do, Transform a card from hand. Otherwise, discard this."
+      ]
+    },
+    "effect": [
+      "Attacks with higher Speed do not hit you.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Inviolable Judgment",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "10",
+    "speed": "0",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "Holy Wings",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move any number of spaces. You may spend 1 Gauge. If you do, return this card to your hand."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "Opponents cannot move past you (opponents who would move past you stop in front of you instead)."
+    ],
+    "exceed_cost": "3G"
+  }
+]

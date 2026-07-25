@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Twin Daggers",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Wolf Trap",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "The opponent cannot Advance or Retreat. As an action, your opponent may take 2 non-lethal damage. If they do, discard this card."
+      ]
+    },
+    "effect": [
+      "HIT: If it is the turn after a Strike, +2 Power."
+    ]
+  },
+  {
+    "name": "Dive Attack",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tornado",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "HIT: Push 1."
+    ]
+  },
+  {
+    "name": "Wrenching Whip",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dodge Roll",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 3."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1."
+    ]
+  },
+  {
+    "name": "Infantry Bow",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Knife Dance",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT, RANGE 4+: +2 Power."
+    ]
+  },
+  {
+    "name": "Assault Shield",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "1",
+    "armor": "2",
+    "guard": "2",
+    "boost": {
+      "name": "Corrupted Power",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "NOW: Draw 2 cards, then discard a card at random."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "HIT: If you were hit during this Strike, gain Power equal to your total Guard, to a maximum of 5."
+    ]
+  },
+  {
+    "name": "Wave Of Denial",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Spartan Sandals",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Push 2. Then if the opponent is at the edge of the arena, take another action."
+      ]
+    },
+    "effect": [
+      "HIT: Push 3. Then, if the opponent is at the edge of the arena, +2 Power."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Phaser",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1",
+    "power": "N/A",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Giant Killer",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 8, then Advance 1.",
+      "HIT: Gain Advantage. Put this card into play as its Continuous Boost (without paying its cost) then sustain it."
+    ],
+    "exceed_cost": "1G"
+  }
+]

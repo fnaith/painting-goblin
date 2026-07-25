@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Swoop",
+    "type": "special",
+    "cost": "1F",
+    "range": "1",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rose Toss",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: If you are at Range 3, you may add a card from your hand to your Gauge."
+      ]
+    },
+    "effect": [
+      "AFTER: Advance up to 3. Cleanup: Add this card to your boost area as a Continuous Boost. Sustain it."
+    ]
+  },
+  {
+    "name": "Saber Lunge",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Blade Flourish",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +1 Speed.",
+        "NOW: If you are at Range 2, draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Advance 4, then choose one:",
+      "-Gain Advantage.",
+      "-After: Return this card to your hand."
+    ]
+  },
+  {
+    "name": "Headwind",
+    "type": "special",
+    "cost": null,
+    "range": "3-4",
+    "power": "1",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Wind Stream",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "BEFORE: Push 1 or 2."
+      ]
+    },
+    "effect": [
+      "BEFORE, RANGE 1-2: Push 2 and gain +2 Power."
+    ]
+  },
+  {
+    "name": "Cannonball",
+    "type": "special",
+    "cost": null,
+    "range": "4-6",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Quick Step",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 1, then take another action."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Push up to 1, then draw a card.",
+      "AFTER: Advance 1 or 2."
+    ]
+  },
+  {
+    "name": "Propeller Pull",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Jet Stream",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "BEFORE: Pull 1 or 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may Pull 2. If this moved the opponent past you, they must discard a card at random."
+    ]
+  },
+  {
+    "name": "Launcher",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "4",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fly Up",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move to any space."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 3 and gain Advantage."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Full Broadside",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-4",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Private Reserve",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Search your discard pile for a Continuous Boost. You may play it, paying all costs, then shuffle your discard pile."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "BEFORE: If the opponent did not move during this Strike, Push or Pull up to 3."
+    ],
+    "exceed_cost": "3G"
+  }
+]

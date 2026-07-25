@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Stomp",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "0",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Reach",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2. You may remove an Ice Spike from a space occupied by or adjacent to the opponent. If you do, gain Advantage."
+    ]
+  },
+  {
+    "name": "Shovel Charge",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Shattering Stomp",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Place Ice Spikes onto any 2 spaces (occupied or unoccupied)."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "HIT: Draw a card, then Push up to 2. Draw a card for each Ice Spike the opponent is pushed onto during this movement."
+    ]
+  },
+  {
+    "name": "Shovel Slam",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-3",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Dashing Through",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat up to 6. Remove the first 2 Ice Spikes you move onto."
+      ]
+    },
+    "effect": [
+      "HIT: You may remove an Ice Spike from a space adjacent to the opponent to Push or Pull 1.",
+      "AFTER: Place an Ice Spike in a space adjacent to you (occupied or unoccupied)."
+    ]
+  },
+  {
+    "name": "Polar Plow",
+    "type": "special",
+    "cost": null,
+    "range": "1-7",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Powerful Blow",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "-1 Power for each Ice Spike between you and the opponent.",
+      "BEFORE: If the opponent is at the edge of the arena, you may move an Ice Spike onto their space.",
+      "AFTER: Close 3."
+    ]
+  },
+  {
+    "name": "Shovel Drop",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "1",
+    "armor": "1",
+    "guard": "5",
+    "boost": {
+      "name": "Avalanche",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move an Ice Spike up to 3 spaces, then you may spend 1 Gauge. If you do, take another action."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "Opponents cannot move you.",
+      "BEFORE: Place an Ice Spike in your space, then Advance 2 or 3.",
+      "HIT: Push or Pull 1."
+    ]
+  },
+  {
+    "name": "Icicle Drop",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-8",
+    "power": "8",
+    "speed": "2",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "Rebuild",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards. You may remove 1 or more Ice Spikes from the arena to draw that many additional cards, then add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "This attack only hits if the opponent's space contains an Ice Spike.",
+      "AFTER: Advance up to 3."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Snow Slash",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "0",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "Block and...",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "When you are hit (after Hit effects), spend any amount of Gauge for +2 Armor per Gauge spent."
+      ]
+    },
+    "effect": [
+      "When you are hit (after Hit effects), spend any amount of Force for +2 Armor per Force spent.",
+      "HIT: Push 2."
+    ],
+    "exceed_cost": "2G"
+  }
+]

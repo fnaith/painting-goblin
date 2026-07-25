@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Downburst",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chain Climb",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Advance or retreat as far as possible. If you moved past the opponent, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Pull 2.",
+      "AFTER: Advance 2."
+    ]
+  },
+  {
+    "name": "Talon Sweep",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Grandstanding",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you set your attack, you may spend 1 Force. If you do, both players' attacks have +1 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Advance 4, then you may spend 1 Force. If you do, +1 Power."
+    ]
+  },
+  {
+    "name": "Mantis Strike",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Storm's Fury",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "When you initiate a Strike, you may spend 2 Force. If you do, Move 1."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 2, then Advance 4."
+    ]
+  },
+  {
+    "name": "Bug Zapper",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Thunderclap",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Your Normal attacks have \"AFTER: If the opponent is stunned, Move 2.\""
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 4 Force. For each Force spent, Advance 2."
+    ]
+  },
+  {
+    "name": "Firefly Gunner",
+    "type": "special",
+    "cost": null,
+    "range": "3-4",
+    "power": "6",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "The Whirlwind",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Speed.",
+        "At the end of your next turn, if this card is in play, add it to your gauge."
+      ]
+    },
+    "effect": [
+      "Attacks at range 3 and 4 do not hit you."
+    ]
+  },
+  {
+    "name": "Ride The Lightning",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chain Trap",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "The opponent cannot move. You can still move them. As an action, the opponent may spend 2 Force. If they do, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 4.",
+      "AFTER: Advance 4."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Skies Aflame",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3-5",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Preemptive Attack",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: Move to any space."
+    ],
+    "exceed_cost": "3G"
+  }
+]

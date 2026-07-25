@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Sonic Comet",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "BPM Raiser",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Comet Tail",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Comet Chaser",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Advance any number of spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3 spaces.",
+      "HIT: Draw a card."
+    ]
+  },
+  {
+    "name": "Technic Beat",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Autotuner",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power."
+      ]
+    },
+    "effect": [
+      "AFTER: Close 1 space. If you moved, you may return this card to your hand and add the bottom card of your discard pile to your Gauge."
+    ]
+  },
+  {
+    "name": "Rhythm Beat",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Drop The Mic",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 7 cards of your deck. Add one to your hand and discard the rest."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2 spaces.",
+      "HIT: Push the opponent 1 space. If the opponent moved, you may return this card to your hand and add the bottom card of your discard pile to your Gauge."
+    ]
+  },
+  {
+    "name": "Star Struck",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Scrub",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Choose a number. Your opponent must discard a card that includes that range, or reveal a hand with none."
+      ]
+    },
+    "effect": [
+      "Attacks at range 4 or greater do not hit you.",
+      "HIT, RANGE 1: Push the opponent 3 spaces, and +2 Power."
+    ]
+  },
+  {
+    "name": "Juno ~ Live",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "3",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mix Break",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "AFTER: Move up to 1 space."
+      ]
+    },
+    "effect": [
+      "HIT: Place up to 3 cards face-down. Your opponent names a card. Reveal the face-down cards and discard them. If none of them is the named card, +2 Power per card discarded this way."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Meteor Jam",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Electric Slide",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Advance 2 spaces. If you switched sides, Ignore Guard. Otherwise, discard this Boost from play."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent must discard a card at random, and push the opponent 2 spaces."
+    ],
+    "exceed_cost": "2G"
+  }
+]

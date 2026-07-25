@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Lapis Lazuli of Lamentation",
+    "type": "special",
+    "cost": "1F",
+    "range": "1",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Citrine of Change",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Attacks at Range 4+ do not hit you. At the start of your next turn, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: You may seal a card from your discard pile.",
+      "AFTER: Advance or Retreat 1. For every 2 Normals in your sealed area, you may repeat this effect."
+    ]
+  },
+  {
+    "name": "Emerald of Enmity",
+    "type": "special",
+    "cost": "1F",
+    "range": "3-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Seamoss Gate",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Seal a card from your discard pile. Take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: For each Normal in your sealed area, +0-1 Range.",
+      "HIT: Push 1, then Retreat 1."
+    ]
+  },
+  {
+    "name": "Morganite of Malice",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Flax Nurture",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 3, then shuffle 2 cards from your hand into your deck."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 5.",
+      "AFTER: If the opponent is stunned, add the top card of your discard pile to your Gauge."
+    ]
+  },
+  {
+    "name": "Coral of Catastrophe",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Andradite of Accord",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "HIT: Advance or Retreat 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: For each Normal in your sealed area, +1 Power, to a maximum of +5."
+    ]
+  },
+  {
+    "name": "Kunzite of Keep Breaker",
+    "type": "special",
+    "cost": null,
+    "range": "X",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Uvarovite of Undoing",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 2.",
+        "AFTER: If the opponent is stunned, they must discard 2 cards at random."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "X is your Range to the opponent."
+    ]
+  },
+  {
+    "name": "Amethyst of Annihilation",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Taaffeite of Temptation",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power, +1 Speed, and +1 Armor."
+      ]
+    },
+    "effect": [
+      "Ignore Guard",
+      "HIT: Push 2. If the opponent was Pushed one or more spaces, gain Advantage."
+    ]
+  },
+  {
+    "name": "Navy Pressure",
+    "type": "special",
+    "cost": "1F",
+    "range": "4-7",
+    "power": "6",
+    "speed": "1",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Heliodor of Humility",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor and +3 Guard.",
+        "NOW: Seal a card from your hand."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent must discard a card at random.",
+      "AFTER: If you hit, you may add the top card of your discard pile to your Gauge and place this on top of your deck."
+    ]
+  },
+  {
+    "name": "Azurite Inferno",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Teleport Step",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 2.",
+        "Take another action."
+      ]
+    },
+    "effect": [
+      "HIT: You may seal up to 2 cards from your discard pile."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Flame Punisher",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-5",
+    "power": "7",
+    "speed": "0",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hi no Kagutsuchi",
+      "cost": "3F",
+      "timing": "Instant",
+      "effect": [
+        "Add your hand to your Gauge. Draw 6."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Push 2.",
+      "AFTER: Draw 2."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Colorless Void",
+    "type": "astral",
+    "cost": "9*G",
+    "range": "3",
+    "power": "9",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "This attack's Gauge cost is reduced by 1 for each Normal in your sealed area."
+    ]
+  }
+]

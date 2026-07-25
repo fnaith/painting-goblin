@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Chasing le Rêvé",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Windmill",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "The opponent has +3 Power.",
+        "NOW: Take another action.",
+        "BEFORE: Close 2."
+      ]
+    },
+    "effect": [
+      "AFTER: Advance 3 and draw 1."
+    ]
+  },
+  {
+    "name": "Plumage Dancing in the Wind",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Reach",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "If the opponent initiated this Strike, +1 Speed. Otherwise, +2 Power."
+    ]
+  },
+  {
+    "name": "Conveying My Vrai Couer",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Overpower",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "BEFORE: Close 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "HIT: Push or Pull 1."
+    ]
+  },
+  {
+    "name": "Let the Fleur Carry Your Feelings",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Jumping to Conclusions",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Look at the opponent's hand, then Strike."
+      ]
+    },
+    "effect": [
+      "AFTER: If the opponent is stunned, Advance or Retreat 2 and draw 2."
+    ]
+  },
+  {
+    "name": "Ange's Invitation",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chain Shift",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Strike.",
+        "AFTER: Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "Attacks with Speed 6 or greater do not hit you.",
+      "AFTER: Advance 3."
+    ]
+  },
+  {
+    "name": "Atmosphère of the Aether",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Zephyr",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed.",
+        "The opponent has +3 Power.",
+        "NOW: Take another action."
+      ]
+    },
+    "effect": [
+      "HIT: Push 3 and draw 2."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Lumière of the Dawn",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "9",
+    "speed": "4",
+    "armor": "6",
+    "guard": "0",
+    "boost": {
+      "name": "Surge Forward",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Advance 3, then take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: If your Speed is greater than the opponent's, this attack does not hit and you lose all Armor."
+    ],
+    "exceed_cost": "3G"
+  }
+]

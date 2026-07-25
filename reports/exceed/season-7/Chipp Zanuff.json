@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Beta Blade",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Shogun!",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: The opponent must discard a card."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1.",
+      "AFTER: Close 1."
+    ]
+  },
+  {
+    "name": "Alpha Blade",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Daijoubu!",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed and +1 Power.",
+        "The opponent's attack has +3 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3; if you Advanced past the opponent, +3 Power."
+    ]
+  },
+  {
+    "name": "Resshou",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Harakiri!",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Advance 2. Draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 2.",
+      "AFTER: You may gain Advantage or return this to your hand."
+    ]
+  },
+  {
+    "name": "Gamma Blade",
+    "type": "special",
+    "cost": null,
+    "range": "1-5",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sushi!",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "NOW: Retreat 2.",
+        "BEFORE: If you are at the edge of the arena, Advance 3."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage.",
+      "AFTER: You may Advance 3."
+    ]
+  },
+  {
+    "name": "Genrouzan",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sukiyaki!",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "Attacks at Range 1 do not hit you.",
+        "AFTER: Add this to your Gauge (it is no longer in play)."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "BEFORE: Close 2."
+    ]
+  },
+  {
+    "name": "Zansei Rouga",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Suck A Sage",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+2 Speed.",
+        "The opponent's attack has +3 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 4 Gauge. For each Gauge spent, +1 Power and Advance 3."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Banki Messai",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Play The Hero",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 3. Take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "HIT: Push 2. Draw 2."
+    ],
+    "exceed_cost": "1G"
+  }
+]

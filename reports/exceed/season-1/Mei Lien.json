@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Raijin Knife",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Gale Extension",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range and Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 3 spaces."
+    ]
+  },
+  {
+    "name": "Cloud Rider",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Winds Of Change",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card for each card in hand. Discard that many cards."
+      ]
+    },
+    "effect": [
+      "AFTER: Advance 4 spaces and draw a card."
+    ]
+  },
+  {
+    "name": "Fujin Drum",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tempestuous",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Switch your Discard and Deck. Shuffle your deck (this card is not discarded until after the switch)."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 2 spaces."
+    ]
+  },
+  {
+    "name": "Halberdier",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "New Horizons",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 4 cards. Discard 2 cards."
+      ]
+    },
+    "effect": [
+      "Opponents cannot move closer to you.",
+      "HIT: Push the opponent 1 space."
+    ]
+  },
+  {
+    "name": "Dragon Thrash",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lightning Strikes Twice",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "AFTER: Return your attack to your hand and put this card into your Gauge."
+      ]
+    },
+    "effect": [
+      "Attacks at range 3 or greater do not hit you.",
+      "HIT: Move the Opponent 1 space."
+    ]
+  },
+  {
+    "name": "Dragon Tempest",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tailwind",
+      "cost": "1F",
+      "timing": "Instant*",
+      "effect": [
+        "Close 2 spaces and Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent as far as possible.",
+      "AFTER: Advance 1, 2, or 3 spaces."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Raijin Oath",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "4",
+    "power": "10",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Falling Star Wish",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Search your deck for a card and put it on the top of your deck, in your Gauge, or in your Discard. Shuffle your deck afterwards."
+      ]
+    },
+    "effect": [
+      "Ignore Armor."
+    ],
+    "exceed_cost": "3G"
+  }
+]

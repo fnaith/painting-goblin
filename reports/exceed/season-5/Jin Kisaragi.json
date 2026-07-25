@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Violent Ice",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Pinpoint Strike",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "HIT: +1 Power. You may Advance or Retreat 1. Gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT: If you initiated this Strike, +2 Power."
+    ]
+  },
+  {
+    "name": "Crystal Strike",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Overhead",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Ignore Armor.",
+        "NOW: Strike.",
+        "HIT: Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "HIT: Push 1."
+    ]
+  },
+  {
+    "name": "Permafrost",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Cool Under Pressure",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Guard.",
+        "NOW: Draw 2."
+      ]
+    },
+    "effect": [
+      "HIT: If you have more cards in hand than the opponent, +2 Power.",
+      "AFTER: Close 1 and draw 1."
+    ]
+  },
+  {
+    "name": "Ice Blade",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Scorn",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Push 1. Draw 1 and take another action."
+      ]
+    },
+    "effect": [
+      "HIT: Close up to 2, then draw 1."
+    ]
+  },
+  {
+    "name": "Dual Ice Strike",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "3",
+    "armor": "3",
+    "guard": "3",
+    "boost": {
+      "name": "Flying Ice Strike",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "The opponent cannot Advance or Retreat.",
+        "At the end of your next turn, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2. If the opponent is at the edge of the arena, gain Advantage."
+    ]
+  },
+  {
+    "name": "Moonsong",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-3",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Pre-Emptive Strike",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Ice Fang",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "4-7",
+    "power": "4",
+    "speed": "4",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "Power of Order",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Both players draw or discard until they have 4 cards in hand."
+      ]
+    },
+    "effect": [
+      "If you are in Exceed Mode, +1 Power and +1 Armor. HIT: Close 1, 2, or 3."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Arctic Dungeon",
+    "type": "astral",
+    "cost": "4G",
+    "range": "1-8",
+    "power": "8",
+    "speed": "0",
+    "armor": "0",
+    "guard": "X",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "X is the number of cards in your hand. HIT: The opponent must discard their hand."
+    ]
+  }
+]

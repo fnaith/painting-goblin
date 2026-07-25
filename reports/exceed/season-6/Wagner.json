@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Schild Zack",
+    "type": "special",
+    "cost": null,
+    "range": "2",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Defend",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor. +3 Guard."
+      ]
+    },
+    "effect": [
+      "AFTER: If you did not hit, you may add this to your boost area as a Continuous Boost. Sustain it (it begins providing its bonuses immediately)."
+    ]
+  },
+  {
+    "name": "Filthy Dog!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Recover",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 3. If you Advanced past the opponent, add a Special or Ultra from your discard pile to your hand."
+      ]
+    },
+    "effect": [
+      "If the opponent initiated this Strike, +1 Speed.",
+      "HIT: If you initiated this Strike, gain Advantage."
+    ]
+  },
+  {
+    "name": "Kugel Blitz",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Overpower",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "BEFORE: Close 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "AFTER: Advance 2. If this did not hit, you may add this to your boost area as a Continuous Boost. Sustain it."
+    ]
+  },
+  {
+    "name": "Wackenroder",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Deflection",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "HIT: Gain Armor equal to your Power."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1.",
+      "AFTER: Retreat 1."
+    ]
+  },
+  {
+    "name": "Sturm Brecher",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tactical",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "HIT: Push 3.",
+      "AFTER: If this did not hit, you may add this to your boost area as a Continuous Boost. Sustain it."
+    ]
+  },
+  {
+    "name": "Megiddo L'or Celeste Grace",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ancile",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor.",
+        "CLEANUP: If you were not stunned, sustain this."
+      ]
+    },
+    "effect": [
+      "You may set this card as your attack face-up from your boost area. If you set this any other way, it is invalid.",
+      "AFTER: Seal this."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Hitze Falke",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "3-4",
+    "power": "7",
+    "speed": "1",
+    "armor": "3",
+    "guard": "4",
+    "boost": {
+      "name": "Flame Brand",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "CLEANUP: If you were not stunned, sustain this."
+      ]
+    },
+    "effect": [
+      "You may set this as your attack face-up from your boost area. If you set it any other way, it is invalid.",
+      "AFTER: Seal this."
+    ],
+    "exceed_cost": "2G"
+  }
+]

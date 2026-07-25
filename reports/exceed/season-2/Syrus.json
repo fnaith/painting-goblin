@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Tidal Whirl",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ebb and Flow",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1, then draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1."
+    ]
+  },
+  {
+    "name": "Aria Of The Winds",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Reckless Greed",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Once per turn, after resolving an action that does not cause a Strike, you may discard one of your Boosts from play to Strike."
+      ]
+    },
+    "effect": [
+      "AFTER: You may return a card from your discard pile to your hand."
+    ]
+  },
+  {
+    "name": "Siren Call",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Opulence",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "Your attacks have \"HIT: If you have a Continuous Boost in play, +1 Power.\""
+      ]
+    },
+    "effect": [
+      "AFTER: If the opponent is stunned, Pull until they are at range 2."
+    ]
+  },
+  {
+    "name": "Treasure Hunter",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Treasure Hoarder",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add a card from your hand to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Push 3 and the opponent discards a card from their gauge. Add the top card of your discard pile to your gauge."
+    ]
+  },
+  {
+    "name": "Albatross Talon",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Memories From The Deep",
+      "cost": "-",
+      "timing": "Transformation",
+      "effect": [
+        "You may play Instant Boosts from your gauge as if they were in your hand. When you do, seal them after they resolve."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Retreat 2 and draw a card."
+    ]
+  },
+  {
+    "name": "Symphony Of The Deep",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Silver Shadow",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move to any space at range 3 from the opponent."
+      ]
+    },
+    "effect": [
+      "HIT: Return cards at random from your discard pile to your hand until you have 7 in hand. Shuffle your discard pile."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Dredge Fury",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "3-6",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Riptide",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Both players draw up to 3 cards. Take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 3 Gauge. For each Gauge Spent, +2 Power. Instead of discarding one card spent this way, add it to your hand."
+    ],
+    "exceed_cost": "1G"
+  }
+]

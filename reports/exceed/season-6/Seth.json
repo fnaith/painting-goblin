@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Captive Segment",
+    "type": "special",
+    "cost": null,
+    "range": "4",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Surge Forward",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Advance 3, then take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may add an Ultra Attack from your hand to your boost area as a Continuous Boost. Sustain it. (You will trigger its Before effect.).",
+      "AFTER: Advance 3."
+    ]
+  },
+  {
+    "name": "Dead Space of Intrusion",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fadeaway",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Retreat 2, then take another Action."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage.",
+      "AFTER: Advance 3."
+    ]
+  },
+  {
+    "name": "Vanishing Confusion",
+    "type": "special",
+    "cost": null,
+    "range": "4",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Soul's Oath",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: You may seal this to Advance, Retreat, Push, or Pull 1.",
+        "CLEANUP: You may spend 1 life to sustain this."
+      ]
+    },
+    "effect": [
+      "AFTER: Advance 3. If this hit, add the top card of your deck to your Gauge and add this to your boost area as a Continuous Boost. Sustain it."
+    ]
+  },
+  {
+    "name": "Transgressing Convict",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fast Fall",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Advance or Retreat 1 or 2."
+      ]
+    },
+    "effect": [
+      "If the opponent initiated this Strike, +3 Speed.",
+      "HIT: Draw 3, then Push or Pull 1."
+    ]
+  },
+  {
+    "name": "Piercing Penetration",
+    "type": "special",
+    "cost": null,
+    "range": "3",
+    "power": "7",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Kerykeion",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your attack deals non-lethal damage and does not stun.",
+        "HIT: Your total Power becomes 7 (ignore printed values, bonuses, and penalties)."
+      ]
+    },
+    "effect": [
+      "AFTER: If this hit, add the top card of your deck to your Gauge and add this to your boost area as a Continuous Boost. Sustain it."
+    ]
+  },
+  {
+    "name": "Abyssal Geometry",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "2",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Stitched Segment",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Push or Pull 1, and +1 Power.",
+        "ACTION: Push or Pull 1 or 2. Discard this, then take another action."
+      ]
+    },
+    "effect": [
+      "Stun Immunity. Attacks at Range 3 do not hit you.",
+      "CLEANUP: Add this to your boost area as a Continuous Boost. Sustain it."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Distant Frontier",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Stitched Segment",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Push or Pull 1, and +1 Power.",
+        "ACTION: Push or Pull 1 or 2. Discard this, then take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 6. Draw 1 per space moved this way.",
+      "CLEANUP: Add this to your boost area as a Continuous Boost. Sustain it."
+    ],
+    "exceed_cost": "3G"
+  }
+]

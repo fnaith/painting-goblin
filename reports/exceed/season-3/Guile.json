@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Double Sweep Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sonic Force",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range. At the end of your next turn, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Spinning Back Knuckle",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Roll",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close 2. If you are not at range 1 after this, you may take another action."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +2 Power.",
+      "HIT: Move 1. The opponent must discard a card at random."
+    ]
+  },
+  {
+    "name": "Sonic Boom",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Military Discipline",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed.",
+        "At the end of your next turn, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +2 Power.",
+      "AFTER: Move 1 or 2."
+    ]
+  },
+  {
+    "name": "Reverse Spin Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Homeland Defense",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor and +3 Guard.",
+        "At the end of your next turn, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "CRITICAL, HIT: The opponent must discard 2 cards at random."
+    ]
+  },
+  {
+    "name": "Flash Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "3",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "Patience",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "At the end of your next turn, add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +2 Power.",
+      "HIT: Push 2.",
+      "AFTER: Move 1."
+    ]
+  },
+  {
+    "name": "Sonic Hurricane",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-5",
+    "power": "8",
+    "speed": "4",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Preemptive Strike",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "AFTER: Move up to 3."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Flash Explosion",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "9",
+    "speed": "3",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "Shades of Glory",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Guard and your attacks are Critical.",
+        "CLEANUP: If you were not stunned, you may sustain this Boost."
+      ]
+    },
+    "effect": [
+      "HIT: Push 3.",
+      "AFTER: Move 2."
+    ],
+    "exceed_cost": "4G"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Dagger Strike - Install",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mechanical Genius",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Put a Continuous Boost from your discard into play (this does not count as resolving it)."
+      ]
+    },
+    "effect": [
+      "HIT: At the end of this Strike, play a Continuous Boost from hand without paying its cost. Do not discard it after this Strike."
+    ]
+  },
+  {
+    "name": "Iron Knuckle",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Switchbox",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Reveal a non-Continuous Boost from your hand and perform its effects."
+      ]
+    },
+    "effect": [
+      "HIT: Move the opponent 1, 2, or 3 spaces."
+    ]
+  },
+  {
+    "name": "Mech Cannon",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Panzer Soldatin",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power, +1 Speed, +1 Armor, and +1 Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: +2 Power if you have a Continuous Boost in play."
+    ]
+  },
+  {
+    "name": "Steel Driver",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Destructor Beam",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Discard any number of cards, your opponent must discard the same number."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 4 spaces. +1 Power for each space the opponent cannot be pushed."
+    ]
+  },
+  {
+    "name": "Artillery Cannon",
+    "type": "special",
+    "cost": null,
+    "range": "4-7",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Iron Grit",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "You cannot take more than 4 damage (after applying armor), and Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor."
+    ]
+  },
+  {
+    "name": "Dagger Storm - Drei Install",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Boundless",
+      "cost": "4F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power, +2 Armor, and +2 Guard."
+      ]
+    },
+    "effect": [
+      "HIT: Pick up the top 3 cards of your deck. You may play any Continuous Boosts among them without paying any cost, and discard the rest. Keep those cards in play after the Strike."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Rail Driver",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sturmwaffe",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Move 1 or 2 spaces. +2 Speed."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: At the end of this strike, play a Boost from your hand without paying its cost."
+    ],
+    "exceed_cost": "3G"
+  }
+]

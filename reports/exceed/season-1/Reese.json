@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Gauntlet Flurry",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ambitious",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 3 cards, then Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1 space.",
+      "HIT: You gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Knight Wave",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Invitation",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "The opponent must move 1 space, then you may move 1 space, then Strike."
+      ]
+    },
+    "effect": [
+      "HIT: +2 Power if the opponent has more cards in hand than you.",
+      "AFTER: Move 1 space."
+    ]
+  },
+  {
+    "name": "Ballista",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "0",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Backstep & Lunge",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Retreat 2 spaces.",
+        "BEFORE: Close 2 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: +1 Power for each card in your Gauge (max 5).",
+      "HIT: Close 4 spaces and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Chivalry",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Bracing",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor and +1 Guard at the start of each of the opponent's turns."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2 spaces.",
+      "HIT: You gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ]
+  },
+  {
+    "name": "Gallant Defender",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "1",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Opportunist",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed and +2 Power. If your opponent declares a Strike discard this card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3 spaces.",
+      "HIT: +1 Power for each point of damage you have taken this Strike."
+    ]
+  },
+  {
+    "name": "Sovereign Glory",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Street Justice",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power if you are in Exceed Mode. +2 Speed if an opponent is in Exceed Mode."
+      ]
+    },
+    "effect": [
+      "BEFORE: Draw 2 cards. HIT: +1 Power for each card in hand you have more than the opponent."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Checkmate",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1",
+    "power": "8",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mixup",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Your opponent must discard a card at random, then you Strike."
+      ]
+    },
+    "effect": [
+      "Attacks at range 1 do not hit you."
+    ],
+    "exceed_cost": "3G"
+  }
+]

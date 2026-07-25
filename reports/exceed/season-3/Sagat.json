@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Low Step Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Anger Charge",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "If your next attack is \"Tiger Uppercut\", it has +2 Power, +2 Speed, +2 Guard, and is Critical."
+      ]
+    },
+    "effect": [
+      "CRITICAL: Ignore Guard.",
+      "BEFORE: Close 1."
+    ]
+  },
+  {
+    "name": "Tiger Shot",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Reach",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "CRITICAL, HIT: Draw a card, then the opponent must discard a card.",
+      "HIT: Push 1. Add the top card of your discard pile to your gauge, then draw a card."
+    ]
+  },
+  {
+    "name": "Tiger Uppercut",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "3",
+    "guard": "3",
+    "boost": {
+      "name": "Terrifying",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "If the opponent is at range 1, they must discard 2 cards at random. Then, Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "CRITICAL, HIT: Push 2.",
+      "AFTER: Lose all Armor."
+    ]
+  },
+  {
+    "name": "Tiger Knee",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Spite",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: Add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "HIT: Gain Advantage.",
+      "CRITICAL, AFTER: If the opponent is stunned, Push 3."
+    ]
+  },
+  {
+    "name": "Low Tiger Shot",
+    "type": "special",
+    "cost": null,
+    "range": "3-8",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Quick Backdash",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat 2. If you are at range 3, take another action."
+      ]
+    },
+    "effect": [
+      "CRITICAL, HIT: +1 Power and draw a card.",
+      "HIT: Push 1. After: If you hit, you may return this card to the top of your deck. If you do, add the top card of your discard pile to your gauge."
+    ]
+  },
+  {
+    "name": "Tiger Cannon",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "2-5",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Swift Destruction",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Push 3 and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Tiger Destruction",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Massive",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range, +2 Armor, and +2 Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3."
+    ],
+    "exceed_cost": "2G"
+  }
+]

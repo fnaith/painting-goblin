@@ -1,0 +1,159 @@
+[
+  {
+    "name": "Emergency Combination",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hidden Weapons",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards. Add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you have a Continuous Boost in play, +2 Power."
+    ]
+  },
+  {
+    "name": "Burning Kick",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Blazing",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and Ignore Armor."
+      ]
+    },
+    "effect": [
+      "CRITICAL, HIT: The opponent has -2 Power and gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: Close 1."
+    ]
+  },
+  {
+    "name": "Thunder Knuckle",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Electrifying",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Spent up to 4 Force. For each Force spent, +1 Power."
+      ]
+    },
+    "effect": [
+      "CRITICAL: Ignore Guard.",
+      "BEFORE: Close 1."
+    ]
+  },
+  {
+    "name": "Temple Massage",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Cheater",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Search your Discard Pile for a Continuous Boost. You may play it, paying all costs."
+      ]
+    },
+    "effect": [
+      "CRITICAL, HIT: Draw 3 cards.",
+      "HIT: Spend up to 4 Force. For each Force spent, +1 Power."
+    ]
+  },
+  {
+    "name": "Seismic Hammer",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Blasting",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +5 Guard."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +3 Speed.",
+      "AFTER: Move up to 2."
+    ]
+  },
+  {
+    "name": "Burning Dance",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Stylish",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "The opponent has +3 Power.",
+        "NOW: Draw 3 cards. Take another action."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Push 8.",
+      "AFTER: Close 8."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Burst Time",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "10",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Exoskeleton",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Armor and +1 Guard."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "If you do not have any Continuous Boosts in play, this attack does not hit."
+    ],
+    "exceed_cost": "4G"
+  }
+]

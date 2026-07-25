@@ -1,0 +1,165 @@
+[
+  {
+    "name": "Lightning Legs",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Repeating Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "AFTER: If you hit, you may return your attack to the top of your deck and add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "CRITICAL, AFTER: If you hit, you may return this card to the top of your deck. If you do, sustain one of your Boosts."
+    ]
+  },
+  {
+    "name": "Flipping Ax Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Power Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power",
+        "HIT: Gain Advantage and add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +2 Power.",
+      "BEFORE: Advance 2."
+    ]
+  },
+  {
+    "name": "Head Stomp",
+    "type": "special",
+    "cost": null,
+    "range": "X",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Swift Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed",
+        "HIT: Gain Advantage and add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3. If you moved past the opponent with this movement, this attack's range includes them.",
+      "CRITICAL, HIT: +1 Power and draw a card."
+    ]
+  },
+  {
+    "name": "Spinning Bird Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Guard Crush",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Ignore Guard",
+        "NOW: Strike.",
+        "HIT: Add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3.",
+      "HIT: If you moved past the opponent during this strike, Push or Pull 2."
+    ]
+  },
+  {
+    "name": "Kikoken",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "4",
+    "speed": "2",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Overhead",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Ignore Armor.",
+        "NOW: Strike.",
+        "HIT: Add this boost to your gauge."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +4 Armor.",
+      "AFTER: Lose all Armor, then Move 1."
+    ]
+  },
+  {
+    "name": "Hosenka",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "9",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ultra Parry",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "The opponent must discard 3 Normal Attacks, or reveal their hand and discard all Normal Attacks."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +2 Power.",
+      "BEFORE: Close 2."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Kikousho",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "7",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Faultless Focus",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity",
+        "NOW: Strike.",
+        "HIT: Add this card to your gauge."
+      ]
+    },
+    "effect": [
+      "Attacks at range 4 or greater do not hit you.",
+      "AFTER: If this attack did not hit the opponent, draw a card and add the top 2 cards of your discard pile to your gauge."
+    ],
+    "exceed_cost": "2G"
+  }
+]

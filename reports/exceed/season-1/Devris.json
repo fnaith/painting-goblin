@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Phantasmal Might",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Pursuit Of Knowledge",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Draw a card for each card in Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 4 Force for +1 Power per Force spent."
+    ]
+  },
+  {
+    "name": "Summoned Assailants",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Lash Of Hellfire",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range and +1 Speed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 6 Force for +1 Power and +1 Range per Force spent (this increases the minimum range of the attack as well)."
+    ]
+  },
+  {
+    "name": "Drain Life",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "3",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "Infernal Power",
+      "cost": "6F",
+      "timing": "Instant",
+      "effect": [
+        "+3 Power and +3 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Put the top card of your Deck into your Gauge, and gain 2 life."
+    ]
+  },
+  {
+    "name": "Marked For Death",
+    "type": "special",
+    "cost": null,
+    "range": "3",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Dark Strength",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Draw a card.",
+        "BEFORE: Pay up to 4 Force for +1 Power per Force spent."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 3 Force to move 1 space per Force spent."
+    ]
+  },
+  {
+    "name": "Combustion",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Infernal Armor",
+      "cost": "3F",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Armor and +3 Guard."
+      ]
+    },
+    "effect": [
+      "+1 Speed for each card in your Gauge.",
+      "HIT: Discard 1 Gauge."
+    ]
+  },
+  {
+    "name": "Firestream",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Pact Of Blood",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Put the top 3 cards of your Deck into your Gauge. Lose 4 life."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage.",
+      "AFTER: Add all cards in your hand to your Gauge."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Demonbond",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1-2",
+    "power": "0",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Pact Of the Tome",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Both players draw or discard cards at random until they have 6 cards in hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 12 Force for +1 Power per Force spent."
+    ],
+    "exceed_cost": "1G"
+  }
+]

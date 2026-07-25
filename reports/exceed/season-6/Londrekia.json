@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Circular Step (x4)",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Veil Off",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Exceed and add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1. You may reveal another copy of this from your hand to gain Advantage."
+    ]
+  },
+  {
+    "name": "Snow Blossom",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Iceflower",
+      "cost": "-",
+      "timing": "Trap\nContinuous",
+      "effect": [
+        "When you are hit (after Hit effects), if this is in a space between you and the opponent, +2 Armor, Stun Immunity, and discard this."
+      ]
+    },
+    "effect": [
+      "AFTER: You may place this in any space in this attack's Range as a Trap Boost."
+    ]
+  },
+  {
+    "name": "Frozen Vine",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Swift Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: Gain Advantage and add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "Stun Immunity."
+    ]
+  },
+  {
+    "name": "Frozen Spire",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "4",
+    "speed": "1",
+    "armor": "4",
+    "guard": "0",
+    "boost": {
+      "name": "Power Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: +1 Power, gain Advantage, and add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: For each point of damage blocked by this attack's Armor, -1 Power."
+    ]
+  },
+  {
+    "name": "Hail Storm",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-8",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Riddle",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Close 2.",
+        "HIT: Gain Advantage and add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 3."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Frozen Cleave",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1-2",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Surprise Attack",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 3, then Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Pull 1.",
+      "AFTER: Add the top 2 cards of your deck to your Gauge."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "Cocytus Ice Prison",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "3",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dare Glacial",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Ignore Armor.",
+        "HIT: Discard all of your Gauge. For each Gauge discarded this way, +1 Power. Gain Advantage."
+      ]
+    },
+    "effect": [
+      "The opponent cannot Advance or Retreat.",
+      "AFTER: Advance or Retreat 1, draw 2, and gain Advantage."
+    ],
+    "exceed_cost": "4G"
+  }
+]

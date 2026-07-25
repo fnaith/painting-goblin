@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Guidance Ascension",
+    "type": "special",
+    "cost": null,
+    "range": "X",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Charged Attack",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "When you Advance or Retreat, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "X is this attack's Power.",
+      "HIT: Push 2."
+    ]
+  },
+  {
+    "name": "Tuning Satisfaction (x4)",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Compounding Plots",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Take another action."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1. You may reveal a copy of this from your hand to gain Advantage."
+    ]
+  },
+  {
+    "name": "Impulsive Frustration",
+    "type": "special",
+    "cost": null,
+    "range": "2-X",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Come at Me!",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power.",
+        "At the start of your turn, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "X is this attack's Power.",
+      "HIT: Push 2."
+    ]
+  },
+  {
+    "name": "Sliding Affliction",
+    "type": "special",
+    "cost": null,
+    "range": "1-X",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Resonance",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "If you initiated this Strike, +2 Speed. Otherwise, +2 Power.",
+        "HIT: You may return this to your hand."
+      ]
+    },
+    "effect": [
+      "X is this attack's Power.",
+      "HIT, RANGE 4+: Push or Pull 2 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Suppressive Restriction",
+    "type": "special",
+    "cost": null,
+    "range": "1-8",
+    "power": "1",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Blowback",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Range 1: Push 1 or 2, then Strike."
+      ]
+    },
+    "effect": [
+      "AFTER: Push or Pull X. X is this attack's Power. Draw 2."
+    ]
+  },
+  {
+    "name": "Complete Servitude",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3-X",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Muniel",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Reveal a card from your hand, then Strike. Your printed power becomes the revealed card's printed Power."
+      ]
+    },
+    "effect": [
+      "X is this attack's Power.",
+      "HIT: Double any bonuses to your Power."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Binding Beatitude",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "3-X",
+    "power": "3",
+    "speed": "3",
+    "armor": "3",
+    "guard": "3",
+    "boost": {
+      "name": "Baroque Noise",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Draw a card.",
+        "AFTER: You may return this to your hand."
+      ]
+    },
+    "effect": [
+      "X is this attack's Power.",
+      "AFTER: You may return this to your hand."
+    ],
+    "exceed_cost": "2G"
+  }
+]

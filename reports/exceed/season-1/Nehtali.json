@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Soul Thresher",
+    "type": "special",
+    "cost": null,
+    "range": "1-7",
+    "power": "0",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Clutch Of Evil",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move the opponent 1 space, then Strike."
+      ]
+    },
+    "effect": [
+      "Before: You may spend 1 Gauge for +2 Power."
+    ]
+  },
+  {
+    "name": "Azazel's Torment",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Divine Harvester",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Retreat 2 spaces, then Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: +3 Power if your opponent has 3 or more Gauge.",
+      "HIT: Push the opponent 3 spaces."
+    ]
+  },
+  {
+    "name": "Hellfire",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "0",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Gauge Boost",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: +1 Power for each card in your Gauge."
+    ]
+  },
+  {
+    "name": "Darkness Barrier",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Soul Exchange",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Your opponent discards 1 Gauge. If he does, add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "Attacks at Range 4 do not hit you."
+    ]
+  },
+  {
+    "name": "Volt Damnation",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Swift Destruction",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Speed."
+      ]
+    },
+    "effect": [
+      "Ignore Armor"
+    ]
+  },
+  {
+    "name": "Hell's Salvation",
+    "type": "ultra",
+    "cost": "5G",
+    "range": "2",
+    "power": "12",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Building Power",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards. Add one of them to your Gauge."
+      ]
+    },
+    "effect": [],
+    "exceed_cost": "5G"
+  },
+  {
+    "name": "Heaven's Punishment",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3-5",
+    "power": "0",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Begone!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "If you are at Range 1, push the opponent 3 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: +2 Power for each card in your opponent's Gauge.",
+      "After: Move 1 space."
+    ],
+    "exceed_cost": "3G"
+  }
+]

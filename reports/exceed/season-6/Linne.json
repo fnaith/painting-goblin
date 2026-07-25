@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Moon Gyre",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Vanish (Transcend)",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "BEFORE: Close 1.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "If the opponent initiated this Strike, +2 Speed.",
+      "AFTER: Advance 2."
+    ]
+  },
+  {
+    "name": "Tenacious Mist",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sidestep (Transparent Foe)",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Name a Normal, then Strike. The named card cannot hit you.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "AFTER: Gain +X Armor, where X is the damage this attack dealt."
+    ]
+  },
+  {
+    "name": "Sky Fangs",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "3",
+    "speed": "4",
+    "armor": "3",
+    "guard": "0",
+    "boost": {
+      "name": "Overcome (Godlike)",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Strike.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "AFTER: Close 3 and lose all Armor."
+    ]
+  },
+  {
+    "name": "Flying Swallow",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Roll (Sure-Kill Arts)",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Advance or Retreat 1, then Strike.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may Advance 3 and gain +2 Power.",
+      "AFTER: If you have not moved this Strike, Advance 3 and draw 1."
+    ]
+  },
+  {
+    "name": "Divine Blaze",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Culling (Demise Razor)",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "HIT: The opponent discards a card at random. Gain Advantage."
+      ]
+    },
+    "effect": [
+      "If this is the turn after a Strike, +4 Power.",
+      "HIT: Push 3 and gain Advantage."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Elusive Flash",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Resistance (Sheer Wall)",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor. +3 Guard.",
+        "NOW: Strike.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "Attacks at range 2 do not hit you."
+    ],
+    "exceed_cost": "1G"
+  },
+  {
+    "name": "The Diviner",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-3",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Concentration (Deep Focus)",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "-1 Speed. Ignore Guard.",
+        "NOW: Strike.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "+0-1 Range and +1 Speed for each Boost in play (yours and the opponent's)."
+    ],
+    "exceed_cost": "2G"
+  }
+]

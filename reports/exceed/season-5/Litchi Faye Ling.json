@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Tsubame Gaeshi",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Three Dragons",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 1.",
+        "HIT: Spend up to 3 Force for +1 Power each."
+      ]
+    },
+    "effect": [
+      "If the opponent initiated this Strike, +4 Guard and you cannot be Pushed or Pulled.",
+      "HIT: Push 2.",
+      "AFTER: If this attack hit, place Mantenbo in the opponent's space."
+    ]
+  },
+  {
+    "name": "Reach: Robbing the Kong",
+    "type": "special",
+    "cost": "1F",
+    "range": "1",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "each: Kong on Kong",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "If Mantenbo is in your space, Advance 2 and Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: If Mantenbo is in an unoccupied space, Advance or Retreat to its space and remove it from the arena. Otherwise, +2 Power.",
+      "AFTER: Place Mantenbo in the opponent's space."
+    ]
+  },
+  {
+    "name": "Renchan",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Reach: Last Chance",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "If Mantenbo is in an unoccupied space, move into its space and Strike."
+      ]
+    },
+    "effect": [
+      "AFTER: Place Mantenbo in a space within this attack's Range (in either direction)."
+    ]
+  },
+  {
+    "name": "Four Winds",
+    "type": "special",
+    "cost": "1F",
+    "range": "0-1",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Straight Through",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Guard.",
+        "NOW: Remove Mantenbo from the arena, then Strike.",
+        "HIT: Push 1 or 2."
+      ]
+    },
+    "effect": [
+      "Calculate Range from Mantenbo (does not hit if Mantenbo is not in the arena).",
+      "HIT: Push or Pull 1, then draw 1."
+    ]
+  },
+  {
+    "name": "Unarmed Lunge",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "1",
+    "guard": "5",
+    "boost": {
+      "name": "Kote Gaeshi",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move Mantenbo up to 3 spaces.",
+        "Take another action."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "BEFORE: If the opponent is between you and Mantenbo, Close 3.",
+      "HIT: Advance 4."
+    ]
+  },
+  {
+    "name": "All Green",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "3",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Additional Backstep",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat 1 or 2, then Strike."
+      ]
+    },
+    "effect": [
+      "HIT, EXCEED MODE: +2 Power."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Thirteen Orphans",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "0-1",
+    "power": "6",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lao Jiu",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Seal your hand, draw 5, and Strike."
+      ]
+    },
+    "effect": [
+      "Calculate Range from Mantenbo (does not hit if Mantenbo is not in the arena).",
+      "HIT: Push or Pull 1."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Nine Gates of Heaven",
+    "type": "astral",
+    "cost": "4G",
+    "range": "1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3. Then, if Mantenbo is in your space, +6 Power."
+    ]
+  }
+]

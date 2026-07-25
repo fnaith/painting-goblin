@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Low Kick",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mirazh",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 1. Draw 1. Take another action."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated)."
+    ]
+  },
+  {
+    "name": "Bad Moon",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lust Shaker",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "NOW: Draw 1.",
+        "HIT: Spend up to 3 Force. For each Force spent, +1 Power and Push 1."
+      ]
+    },
+    "effect": [
+      "If you initiated, Ignore Armor.",
+      "BEFORE: Advance 1 or 2."
+    ]
+  },
+  {
+    "name": "Swing Braid",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "The Spider's Thread",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: You may Pull 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2; if you Advanced past the opponent, Ignore Guard."
+    ]
+  },
+  {
+    "name": "Tandem Top",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Kapel",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Advance or Retreat 2; if you Advanced past the opponent, draw 1 and return this to your hand."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 2.",
+      "AFTER: You may Advance or Retreat 2."
+    ]
+  },
+  {
+    "name": "Iron Savior",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Turbo Fall",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "BEFORE: Advance or Retreat 1.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3.",
+      "AFTER: If the opponent is stunned, they must discard a random card."
+    ]
+  },
+  {
+    "name": "Septem Voices",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-4",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Writhe In Pain",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Power.",
+        "HIT: Push or Pull 1. The opponent must discard a random card."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1. Draw 1. The opponent must discard a random card."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Winger",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Love The Subhuman Self",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: You may draw 1 or gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT, RANGE 1: +2 Power.",
+      "AFTER: Advance 2."
+    ],
+    "exceed_cost": "3G"
+  }
+]

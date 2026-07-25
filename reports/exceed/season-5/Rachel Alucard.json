@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Whirlwind",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Impish Gypsophila",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Place this in any space and draw 1.",
+        "HIT: If the opponent is in this space, +1 Power and you may Push or Pull 1."
+      ]
+    },
+    "effect": [
+      "HIT: You may sustain one of your Continuous Boosts."
+    ]
+  },
+  {
+    "name": "Flying Lobelia",
+    "type": "special",
+    "cost": "1F",
+    "range": "2-5",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Gust of Wind",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Push 1 or 2."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1.",
+      "CLEANUP: You may place the top card of your discard pile face-down in any space within this attack's Range as a Lightning Rod Marker."
+    ]
+  },
+  {
+    "name": "Spike Drop",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lotus Barrel",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Choose a card from your discard pile and place it face-down in any space as a Lightning Rod Marker."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "BEFORE: If you have a Continuous Boost in play, +2 Power."
+    ]
+  },
+  {
+    "name": "Tiny Lobelia",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Initiative",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "HIT: You may draw 1 or gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT: Add the top card of your discard to your Gauge.",
+      "CLEANUP: You may place this card face-down in any space within this attack's Range as a Lightning Rod Marker."
+    ]
+  },
+  {
+    "name": "Electric Chair",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "1",
+    "armor": "0",
+    "guard": "7",
+    "boost": {
+      "name": "Ivy Blossom",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Place this in any space and draw 1.",
+        "CLEANUP: If the opponent is in this space, deal 1 non-lethal damage and sustain this."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1."
+    ]
+  },
+  {
+    "name": "Tempest Dahlia",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3-5",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "George XIII",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Place this in any space and draw 1.",
+        "AFTER: Deal 3 non-lethal damage to an opponent in this space."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 2.",
+      "AFTER: Push up to 2, then Close 2."
+    ],
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Baden Baden Lily",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sylpheed Flight",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat into a space containing one of your Lightning Rods. Take another action."
+      ]
+    },
+    "effect": [
+      "This attack's Range includes your Lightning Rods.",
+      "HIT: +1 Power for each of your Lightning Rods in the opponent's space.",
+      "AFTER: Advance or Retreat up to 2."
+    ],
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Clownish Calendula",
+    "type": "astral",
+    "cost": "3G",
+    "range": "3",
+    "power": "12",
+    "speed": "3",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": []
+  }
+]

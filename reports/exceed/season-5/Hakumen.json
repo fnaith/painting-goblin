@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Enma",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Fuumajin",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Attacks at Range 4 and 5 do not hit you.",
+        "CLEANUP: If the opponent is at Range 4 or 5, you may spend 1 Force to sustain this."
+      ]
+    },
+    "effect": [
+      "BEFORE: You must spend 1 Gauge (if able). If you do, Close 1."
+    ]
+  },
+  {
+    "name": "Guren",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tsubaki",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Spend up to 3 Gauge for +1 Power each."
+      ]
+    },
+    "effect": [
+      "HIT: You must spend 1 Gauge (if able). If you do, Close 1 or 2 and gain Advantage."
+    ]
+  },
+  {
+    "name": "Renka",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "Reach",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Strike."
+      ]
+    },
+    "effect": [
+      "HIT: You must spend 1 Gauge (if able). If you do, Push 1 or 2."
+    ]
+  },
+  {
+    "name": "Yanagi",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Agito",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Advance up to 1. The opponent must discard a card at random."
+      ]
+    },
+    "effect": [
+      "BEFORE: You must spend 1 Gauge (if able). If you do, Close 2.",
+      "HIT: If you were hit, +2 Power."
+    ]
+  },
+  {
+    "name": "Zantetsu",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Kishuu",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "If you are at Range 3, Close 2 and Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: You must spend 1 Gauge. If you do, Ignore Armor.",
+      "HIT: You must spend 1 Gauge. If you do, +3 Power."
+    ]
+  },
+  {
+    "name": "Kokuujin: Yukikaze",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "0",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Massive",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range, +2 Armor, and +2 Guard."
+      ]
+    },
+    "effect": [
+      "Stun Immunity. Your life cannot be reduced below 1 during this Strike.",
+      "BEFORE: If you were hit, +6 Power and Close 8.",
+      "HIT: Advance 2."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Kokuujin: Shippu",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-6",
+    "power": "4",
+    "speed": "1",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "Zanshin",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "BEFORE: If you were hit, +3 Power and add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT, RANGE 1-2: +4 Power."
+    ],
+    "exceed_cost": "4G"
+  },
+  {
+    "name": "Akumetsu",
+    "type": "astral",
+    "cost": "8G",
+    "range": "1",
+    "power": "10",
+    "speed": "0",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2. Seal this and take another action."
+      ]
+    },
+    "effect": [
+      "Opponents cannot move.",
+      "Attacks at Range 1 do not hit you.",
+      "CLEANUP: Seal this."
+    ]
+  }
+]
