@@ -1,29 +1,31 @@
-# Research Plan: Amane Kanata (天音かなた)
+# Research Plan: Hololive Member Amane Kanata (天音かなた)
 
-## 主要研究問題
-尋找Hololive成員 Amane Kanata 的相關資料，包含官方設定、個人特色、上過精華的梗、相關軼事等，用於製作同人遊戲的設定。
+## Main Research Question
+Gather comprehensive information about Hololive VTuber Amane Kanata (天音かなた) — including official character settings, personal traits, appearance, activities, and community memes — for use in creating a doujin game.
 
-## 子主題
+## Subtopic 1: Official Profile & Character Setting
+- Hololive generation, debut date, official character background
+- Official catchphrase, hashtags, fan name, social media links
+- Height, birthday, illustrator, race/species
+- Source: hololive.wiki, hololivevtuber.fandom.com, seesaawiki.jp
 
-### 1. 官方設定與基本資料
-- Hololive官方角色設定、背景故事
-- 基本資料（生日、身高、登場日期等）
-- 外表特徵與角色設計
+## Subtopic 2: Personality & Streaming Style
+- Voice type, streaming style, known characteristics
+- Relationships with other Hololive members
+- Notable talents (singing, gaming, etc.)
+- Source: hololive.wiki, hololivevtuber.fandom.com, seesaawiki.jp
 
-### 2. 個人特色與性格
-- 角色個性描述
-- 聲音特質、直播風格
-- 與其他Hololive成員的互動關係
+## Subtopic 3: Memes, Clips & Anecdotes
+- Common fan jokes, running gags, notable collaboration moments
+- Famous clips and memorable streams
+- Fan community culture
+- Source: hololive.wiki, hololivevtuber.fandom.com, seesaawiki.jp
 
-### 3. 經典梗與精華片段
-- 知名迷因（如PP天使、彈藥包等）
-- 經典直播事件
-- 粉絲文化中的梗
-
-### 4. 相關軼事
-- 令人印象深刻的直播軼事
-- 與其他VTuber的知名互動
-- 特殊成就或里程碑
-
-## 統整方式
-將四個子主題的調查結果合併為一份完整的中文報告，依主題分類整理，附上來源連結，用於同人遊戲的設定參考。
+## Synthesis Plan
+All findings will be synthesized into a Chinese-language report structured as:
+1. Basic profile table
+2. Character setting
+3. Personality and traits
+4. Appearance and costumes
+5. Activities and music
+6. Memes and trivia

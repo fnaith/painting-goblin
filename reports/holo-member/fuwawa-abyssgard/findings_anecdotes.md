@@ -1,6 +1,6 @@
 # Fuwawa Abyssgard（フワワ・アビスガード）研究報告
 
-> 報告日期：2026-06-21
+> 報告日期：2026-06-21（更新：2026-07-25）
 > 語言：繁體中文（zh-TW）
 
 ---
@@ -17,6 +17,7 @@
 | **身高** | 155 cm |
 | **角色設計** | ICOMOCHI（@rswxx） |
 | **Live2D 建模** | Jujube（@MegaJujube） |
+| **3D 建模** | Shiba Tsukune（柴つくね，@shiba_tsukune） |
 | **粉絲名稱** | Ruffians |
 | **會員計劃** | The Doggy Pack（分為 Doggy、Hot Dog、Mad Dog 三階） |
 | **招呼語** | "BAU BAU！" / "I'm not a chihuahua, I'm Fuwawa!" |
@@ -82,7 +83,18 @@ Fuwawa 是「魔界看守犬」（Demonic Guard Dogs）的雙胞胎姊姊，與�
 | 日期 | 事件 |
 |------|------|
 | 1月11日 | Fuwawa 在 hololive 猜拳錦標賽中獲勝，贏得 100 萬日圓獎金 |
+| 1月16日 | 公開 Baufit 運動造型 |
 | 10月31日 | 與 Ducky 合作推出 FUWAMOCO 限定版鍵盤，慶祝出道 2 週年 |
+
+### 2026 年
+| 日期 | 事件 |
+|------|------|
+| 1月 | 原創曲〈Breakout〉發表 |
+| 2月 | 原創曲〈What Goes Around〉發表 |
+| 3月15日 | 公開 Pajamas 睡衣造型 |
+| 3月 | 原創曲〈Unchained〉發表 |
+| 4月 | 原創曲〈Mekurumeku Rendezvous〉發表 |
+| 7月3日～4日 | 參加 hololive English 4th Concert「Serendipity」 |
 
 ### 訂閱成長曲線（快速回顧）
 出道 4 天內達到 40 萬訂閱 → 18 天內達到 50 萬 → 約 5 個月達 70 萬 → 約 9 個月達 80 萬 → 約 1 年達 90 萬 → **出道後約 14 個月即突破 100 萬訂閱**，成長速度驚人。
@@ -243,9 +255,20 @@ FUWAMOCO 是官方 Hololive Subreddit 的管理員之一，直接參與社群管
 ### 9. 出道即爆紅
 出道僅 4 天就達到 35 萬訂閱，18 天達到 50 萬訂閱，刷新了 Hololive English 的成長紀錄之一。
 
+### 10. Mococo 單獨活動期
+2025 年底至 2026 年初期間，Mococo 曾有一段短暫的單獨活動時期，在此期間 Fuwawa 展現了對妹妹的支持與信任，成為粉絲討論的溫馨話題。
+
+### 11. 第 1000 場直播
+FUWAMOCO 在 2026 年達成了第 1000 場直播的里程碑，展現了她們持續穩定的直播活動頻率與對粉絲的長期陪伴。
+
+### 12. 3D 模型的細節
+Fuwawa 的 3D 模型由 Shiba Tsukune（柴つくね）製作，模型還原了其蓬鬆的毛髮質感與恶魔守衛犬的特色，在 3D 演唱會中獲得了粉絲的一致好評。
+
 **來源：**
 - https://hololive.wiki/wiki/FUWAMOCO#Trivia
 - https://hololive.wiki/wiki/FUWAMOCO#Milestones
+- https://seesaawiki.jp/hololive/d/FUWAMOCO
+- https://hololivevtuber.fandom.com/wiki/Fuwawa_Abyssgard
 
 ---
 

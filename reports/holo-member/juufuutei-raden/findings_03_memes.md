@@ -48,6 +48,8 @@ Raden 是 hololive 中有名的"酒豪"之一。官方简介中特别提到她"�
 ### 4. 抽烟→电子烟的转变
 如前所述，Raden 从重度吸烟转为电子烟的故事广为流传。直播中偶尔出现的电子烟话题和相关反应已成为社区 meme 的一部分。
 
+根据 seesaawiki 的詳細記錄，Raden 的菸品偏好為 **Winston (8mg CABIN RED)** 以及較淡的 **Peace**，使用 **Zippo** 打火機。這些具體品牌資訊常出現在粉絲對她「不良少女」形象的二次創作中。
+
 ### 5. 粉丝名称（Denbgu）
 粉丝被称为 **Dendoshi（でん同士）** 或 **Den-Kin**。粉丝标志为 🐚（贝壳），源自她的名字"螺鈿"（らでん，意为贝壳镶嵌工艺）。
 
@@ -63,7 +65,8 @@ Raden 自称是"奶奶带大的孩子"（grandma's girl），她经常提及与�
 ### 9. Aki Rosenthal 铁粉
 Raden 是 Aki Rosenthal 的狂热粉丝。如前所述，为了 Aki 而戒烟是最出圈的轶事。她曾多次在直播和社交媒体上表达对 Aki 的崇拜，这种"前辈后辈"的互动在社区中产生了大量二次创作。
 
----
+### 10. 舞茸ダンス（Maitake Dance）與小學生文化
+Raden 的「舞茸ダンス」在 Livedoor News 2024 年調查中，被選為**小學生流行語第 4 名**，證明其文化影響力已超越 VTuber 圈層，深入日本次世代青少年文化。
 
 ## 三、标志性语录
 
@@ -117,7 +120,8 @@ Raden 在出道后15个月内突破百万订阅（2023年9月→2024年12月）�
 - Hololive 官方 YouTube 频道: https://www.youtube.com/@JuufuuteiRaden
 - Raden 角色设计访谈（视频）: https://www.youtube.com/watch?v=p6y78IGT618
 - 官方标签: X(Twitter) 直播标签 #らでん記 / 粉丝艺术标签 #らでん似絵
+- Seesaawiki — Hololive Wiki (儒烏風亭らでん): https://seesaawiki.jp/hololivetv/d/%bc%f4%b1%a8%c9%f7%c4%e2%a4%e9%a4%c7%a4%f3
 
 ---
 
-*报告生成日期: 2026年6月21日*
+*报告生成日期: 2026年7月25日（基于 2026年6月21日 版本更新）*

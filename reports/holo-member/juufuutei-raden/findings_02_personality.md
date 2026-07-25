@@ -152,6 +152,26 @@ ReGLOSS（リグロス）是 hololive DEV_IS 的第一批成员，包含：
 - 在加入 hololive 后，因被日本知名博物馆的社交媒体账号注意到而开始收敛不良习惯
 - 获得了与英国国家美术馆的史无前例的合作
 
+### 生活習慣細節（來自 seesaawiki）
+- **吸菸品牌**：偏好 **Winston (8mg CABIN RED)** 以及較淡的 **Peace**；使用 **Zippo** 打火機
+- **香水**：愛用 **Tom Ford** 品牌
+- **飲酒夥伴**：與同样愛酒的 **一条莉々華 (Ririka)** 經常相約飲酒
+- **說話習慣**：站著說話時習慣**單腳站立**（片足立ち）
+
+### 成員稱呼系統（呼称 / seesaawiki）
+根據 seesaawiki 的呼称整理，Raden 對其他成員的稱呼方式：
+- **一条莉々華** → 「りりか」
+- **音乃瀬奏** → 「かなで」
+- **轟はじめ** → 「はじめ」(偶爾加「ちゃん」)
+- **火威青**（已畢業）→ 「あお」
+- **Aki Rosenthal** → 「アキさん」／「アキペイ」
+- **Houshou Marine** → 「マリン先輩」
+- **Usada Pekora** → 「ぺこら先輩」
+- **Shirakami Fubuki** → 「フブキ先輩」
+- **Ninomae Ina'nis** → 「イナさん」
+
+反之，其他成員對 Raden 的常見稱呼包括 **「らでん」**、**「らでんちゃん」**；英文圈常簡稱 **「jft」**。
+
 ## 八、总结
 
 儒烏風亭らでん（Juufuutei Raden）是一位极具反差魅力的 VTuber。她成功地将艺术策展人的专业背景、落语家的传统技艺、以及酒精爱好者的世俗形象融为一体，形成了自己独特的角色定位。她是 ReGLOSS 的气氛组担当，同时又是能与英国国家美术馆联名的文化大使。
@@ -172,3 +192,4 @@ ReGLOSS（リグロス）是 hololive DEV_IS 的第一批成员，包含：
 - Hololive Fan Wiki (ReGLOSS): https://hololive.wiki/wiki/ReGLOSS
 - 英国国家美术馆联动新闻: https://hololive.hololivepro.com/en/news/20260518-01-205/
 - 角色设计幕后 (kaoming访谈): https://www.youtube.com/watch?v=p6y78IGT618
+- Seesaawiki — Hololive Wiki (儒烏風亭らでん): https://seesaawiki.jp/hololivetv/d/%bc%f4%b1%a8%c9%f7%c4%e2%a4%e9%a4%c7%a4%f3

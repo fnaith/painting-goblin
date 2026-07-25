@@ -1,6 +1,6 @@
 # 小金井ニコ (Koganei Niko / 虎金妃笑虎) — 同人遊戲設定用綜合報告
 
-> 報告日期：2026-06-21 | 用途：同人遊戲角色設定參考
+> 報告日期：2026-07-25 | 用途：同人遊戲角色設定參考
 
 ---
 
@@ -89,6 +89,9 @@
 - 善於自嘲製造笑點
 - 耐力型主播，曾進行長時間耐力歌回
 
+### 合作翻唱
+- **III Justen x Sena Remix.ver** — 與天音彼方、Ayunda Risu、森美声、Elizabeth Rose Bloodflame 五人合作翻唱（hololive.wiki 收录）
+
 ### 經典語錄
 | 原文 | 中文翻譯 |
 |------|---------|
@@ -146,6 +149,7 @@ FLOW GLOW 是 hololive DEV_IS 旗下的第二個團體，2024年11月9日出道�
 | 2026年2月7日 | 達成60萬訂閱 |
 | 2026年3月9日 | 因適應性障礙宣布暫停活動休養 |
 | 2026年5月16日 | 恢復活動 |
+| 2026年7月25日 | **3D Live 演出**（seesaawiki.jp/hololivetv 日程表記載） |
 
 ### 趣聞軼事
 - Niko是hololive日本女性成員中身高最高的（172cm）
@@ -154,6 +158,11 @@ FLOW GLOW 是 hololive DEV_IS 旗下的第二個團體，2024年11月9日出道�
 - 2025年10月愛貓突然離世，對她打擊極大，一度暫停活動
 - 出道首月即從0增長至30萬訂閱，展現驚人初期人氣
 - 常用標籤：#虎金妃笑虎（綜合）、#ニコたん配信中（直播）、#ニコたん描いたん（粉絲藝術）
+
+### 官方網站資料錯誤（已修正）
+- hololivepro.com 英文版初期的 Niko 頁面曾**誤用 Isaki Riona 的資料**，包括生日（誤列為5月29日）和繪師（誤列為Shirabii）
+- 正確資料：生日 **7月25日**、繪師 **TETSUKAZU（鉄一）**
+- 這些錯誤已在後續更新中修正（hololive.wiki 腳註記載）
 
 ---
 
@@ -186,8 +195,9 @@ FLOW GLOW 是 hololive DEV_IS 旗下的第二個團體，2024年11月9日出道�
 |------|-----|
 | Hololive官方檔案 | https://hololive.hololivepro.com/en/talents/koganei-niko/ |
 | Virtual YouTuber Wiki | https://virtualyoutuber.fandom.com/wiki/Koganei_Niko |
-| Hololive Fan Wiki | https://hololive.wiki/wiki/Koganei_Niko |
+| Hololive Fan Wiki (raw) | https://hololive.wiki/wiki/Koganei_Niko?action=raw |
 | FLOW GLOW出道公告 | https://hololive.hololivepro.com/en/news/20241107-01-108/ |
+| seesaawiki.jp/hololivetv | https://seesaawiki.jp/hololivetv/ |
 | YouTube官方頻道 | https://www.youtube.com/@KoganeiNiko |
 | X（Twitter）官方帳號 | https://x.com/koganeiniko |
 
@@ -195,7 +205,10 @@ FLOW GLOW 是 hololive DEV_IS 旗下的第二個團體，2024年11月9日出道�
 
 ## 九、研究限制
 
-- Niko於2024年11月出道，截至報告日僅約19個月，社群迷因與故事仍在持續累積中
+- Niko於2024年11月出道，截至報告日約20個月，社群迷因與故事仍在持續累積中
 - 部分直播中的具體內容（如貓咪相關故事）可能存在於特定直播存檔或會員限定內容中，公開來源未能完全驗證
 - 日本本土粉絲社區的討論（5ch、Twitter詳細搜尋等）因搜尋工具限制未能深入挖掘
+- **seesaawiki.jp/hololivetv** 未找到 Niko 的專屬頁面（僅取得含直播日程的首頁）
+- **hololivevtuber.fandom.com** 上的 Koganei Niko 頁面不存在（404）
+- **hololive.wiki** 的 Koganei Niko 頁面仍標記為「Under construction」，尚未完成
 - 建議定期追蹤最新剪輯與粉絲創作以獲取最新素材

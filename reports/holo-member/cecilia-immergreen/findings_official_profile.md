@@ -17,6 +17,9 @@
   - 音樂: #ImmerPiece
 - **常用暱稱**: CC、Cece、Ceci、The Ancient Automaton
 - **所在地**: 德國（Justice組多數成員居住於歐洲）
+- **使用語言**: 德語、英語、法語、荷蘭語（日語學習中）
+- **時區**: JST-7（歐洲中部時間）
+- **代表色**: #137a42 / #119a5c（綠色系）
 
 ## 官方設定概念
 
@@ -32,14 +35,32 @@ Cecilia Immergreen 是一名「古代自動人偶」（Ancient Automaton），�
 ### 自我介紹台詞
 「我想到了一段新的旋律。想聽聽看嗎？」（"I came up with a new melody. Would you like to listen?"）
 
+### 正式見面自我介紹
+「I'm Cecilia Immergreen, ancient automaton from hololiveEN -Justice-! SPIN TO WIN!」
+
 ### 出道前預告口號
-「Spin to Win!」
+「Spin to Win!」（也常作為直播開場口號使用）
+
+### 出場音樂
+- 自我介紹背景音樂：巴哈《無伴奏大提琴組曲第一號》（Bach's Cello Suite No.1）
 
 ## 造型設計
 - 設計主題：綠色系古典風格，帶有自動人偶/蒸氣龐克元素
 - 服裝包含機械風格的裝飾和齒輪細節
-- 代表色：綠色
-- 3D模型已公開
+- 代表色：綠色（HEX: #137a42 / #119a5c）
+- 3D模型已公開（2025年8月9日首次公開展示）
+
+## 喜好設定
+### 喜歡
+- 紅茶、咖啡、馬鈴薯
+- 漫畫、B級小說（通俗小說）
+- 美術與手工藝
+- 嘗試新事物
+- 鬆餅類甜點
+
+### 不喜歡
+- 番茄（包含番茄醬）
+- 酒類
 
 ## 音樂作品
 ### 原創單曲
@@ -57,3 +78,4 @@ Cecilia Immergreen 是一名「古代自動人偶」（Ancient Automaton），�
 ## 官方媒體連結
 - YouTube: https://www.youtube.com/@holoen_ceciliaimmergreen
 - X (Twitter): https://www.twitter.com/ceciliaimgreen
+- Twitch: https://www.twitch.tv/cecilia_immergreen

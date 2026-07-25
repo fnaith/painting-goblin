@@ -294,10 +294,32 @@ Baelz 的会员等级文案以全大写、充满能量的语气著称，体现�
 | 项目 | 内容 |
 |------|------|
 | **生日** | 2月29日（闰日），因此她实际上每四年过一次生日 |
-| **年龄** | 她自己说"掷骰子决定"（roll a dice） |
-| **身高** | 149 cm（与她的老鼠形象相称） |
+| **年龄** | 她自己说"掷骰子决定"（roll a dice）。**第一次掷骰子**时使用了**9999999面骰子**，结果为**2,347,180** |
+| **身高** | 149 cm = **7.45个芝士轮**（cheesewheels）。据说她为了获得人形牺牲了**8个芝士轮** |
 | **画师** | **Mika Pikazo**——著名画师，也设计了 Hololive EN 和 Hololive ID 的偶像服装 |
+| **Live2D建模** | **Jujube**——与森美声（Mori Calliope）共享同一Live2D建模师 |
 | **名字发音** | 官方发音为 "bells hake-oss"，但大多数成员读作 "bay-lz" |
+
+### 5.1.1 关于名字的冷知识
+
+- **"Hakos"** 是 **"Khaos"**（希腊原始混沌女神）的字母重组（anagram）
+- **"Baelz"** 源自恶魔 **Bael / Baalzebul**，同时也是 **"Blaze"**（火焰——作为混沌的经典元素）的字母重组
+- 这是对**爱因斯坦名言**"God does not play dice"（上帝不掷骰子）的戏谑回应——她作为混沌化身，偏要掷骰子
+
+### 5.1.2 闰日与时间的玩笑
+
+- 她的生日2月29日只在闰年出现。**Kronii（时间概念）据说创造了闰年**，目的就是为了容纳Baelz这个"混沌"的存在
+- 这解释了为什么Baelz和Kronii经常被放在一起——时间与混沌的恩怨
+
+### 5.1.3 Minecraft 用户名趣闻
+
+- Baelz的Minecraft用户名为 **"whatabae"**
+- 这导致了许多JP成员（大空スバル、猫又おかゆ、湊あくあ、ときのそら、さくらみこ，甚至**Watame本人**）误以为"whatabae"是**角巻わため（Watame）** 的账户
+- 这个误会成为了Hololive内部一个著名笑料
+
+### 5.1.4 加载画面像素艺术
+
+- Baelz的直播加载画面（loading screen）像素艺术由 **Taho** 创作
 
 ### 5.2 与其他 VTuber 共享画师
 
@@ -328,12 +350,25 @@ Baelz 与以下 VTuber 共享画师 Mika Pikazo：
 
 ### 5.5 音乐作品（部分）
 
-**原创曲**：
-- 《PLAY DICE!》（2022年3月）
+**专辑**：
+- 《ZODIAC》（2024年3月1日）——首张完整专辑
+
+**原创曲（单人）**：
+- 《PLAY DICE!》（2022年3月）——器乐由 **Camellia** 作曲
+- 《PLAY DICE! (TeddyLoid Re-Arrangement)》（合作单曲）
 - 《PSYCHO》（2023年5月）
-- 《Pandæmonium》EP（2023年7月）
+- 《Pandæmonium》EP（2023年7月）——包含多首曲目
+- 《Sweet Appetite》
 - 《SNAKE EYES》（2026年）
 - 《Freaky Deaky Love》（2026年）
+- 《BITE! カム! BITE!》
+- 《HIDE & SEEK》
+- 《Odyssey》
+- 《R x R x R》
+- 《EIEN》
+- 《狂宴 (Kyouen) -FEAST-》
+- 《La Roja Live Version》
+- 《Street FITE》
 
 **团体曲**：
 - 《Rise》（2022年8月，Council）
@@ -342,17 +377,48 @@ Baelz 与以下 VTuber 共享画师 Mika Pikazo：
 
 ### 5.6 语言能力
 
-- 可以使用英语和日语进行直播
-- 日语中有一些特色用语，如 "おハコス！"
-- 作为"澳大利亚老鼠"，她经常混杂使用澳式英语和日语
+- **英语**：母语（澳大利亚英语）
+- **日语**：流利——使用 **"boku"（僕）** 自称（与Roboco、Okayu、Kanata相同）
+- **粤语**：可以对话
+- **韩语**：有一定了解
+- 特色用语：如 "おハコス！"（ohayō + Hakos 的组合）
+- 经常混杂使用澳式英语和日语
 
 ### 5.7 目标与梦想
 
-- 在 3D 中跳舞
+- 在 3D 中跳舞（已在 2023 年 hololive 4th fes. 实现）
 - 参加声优现场活动
 - 进行更多联动合作
 - 为动漫配音
 - 创造自己的咖啡饮品
+- 拥有自己的官方艺术家 YouTube 频道（已拥有，用于发布翻唱和原创音乐）
+
+### 5.8 里程碑
+
+| 日期 | 事件 |
+|------|------|
+| 2021年6月29日 | Twitter 账号创建 |
+| 2021年7月26日 | YouTube 频道创建 |
+| 2021年8月23日 | 正式出道 |
+| 2021年9月23日 | 频道会员功能开放 |
+| 2021年12月11日 | Reddit 账号创建 |
+| 2022年1月15日 | 第二套服装（和服）发布 |
+| 2022年3月 | 首张原创曲《PLAY DICE!》发布 |
+| 2022年7月20日 | "Beeg Smol" VR 模型发布 |
+| 2022年8月 | 出道一周年——24小时马拉松直播 |
+| 2023年1月 | YouTube 订阅数突破 50 万 |
+| 2023年3月 | hololive 4th fes. —— 3D 模型首次亮相 |
+| 2023年4月15日 | 第三套服装（休闲装）发布 |
+| 2023年7月11日 | 浴衣 3D 服装发布 |
+| 2023年7月30日 | 夏季泳装 3D 服装发布 |
+| 2024年3月1日 | 首张专辑《ZODIAC》发布 |
+| 2024年5月11日 | 第四套服装（军事风格）发布 |
+| 2024年12月12日 | YouTube 订阅数突破 100 万 |
+| 2024年12月24日 | 圣诞 3D 服装发布 |
+| 2025年2月20日 | 2D 模型更新至 3.0 |
+| 2025年3月8日 | Color Rise Harmony 3D 服装发布 |
+| 2025年7月13日 | 第五套服装（草莓睡衣）发布 |
+| 2026年2月28日 | ReCOLOR 3D Live 生日服装发布 |
 
 ---
 
@@ -360,6 +426,7 @@ Baelz 与以下 VTuber 共享画师 Mika Pikazo：
 
 - https://hololive.hololivepro.com/en/talents/hakos-baelz/（官方资料页）
 - https://hololive.wiki/wiki/Hakos_Baelz（Hololive Fan Wiki）
+- https://hololivevtuber.fandom.com/wiki/Hakos_Baelz（Fandom Wiki）
 - https://en.wikipedia.org/wiki/Hololive_Production（Wikipedia）
 - https://www.youtube.com/@HakosBaelz（YouTube 频道）
 - https://twitter.com/hakosbaelz（X/Twitter）

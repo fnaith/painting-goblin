@@ -68,6 +68,17 @@ A recurring catchphrase Reine uses excessively, often in resignation when a game
 Many viewers describe Reine's laugh as resembling a car engine struggling to start. This distinctive laugh is frequently mentioned in live chat and fan content, and is considered one of her most endearing quirks.
 
 ### 3.7 Sweets Obsession & Spicy Food Weakness
+
+### 3.8 Dislikes Cleaning (Uses Magic)
+Reine has stated she dislikes cleaning, but claims it's not laziness — rather, she used magic to clean back in her home world, so doing it manually is a difficult adjustment. This ties back to her lore as a student from a magic academy with diminished powers.
+
+### 3.9 Favorite Media
+- **Anime:** When They Cry (Higurashi), Hell Girl, Another, Great Teacher Onizuka, Great Pretender
+- **Games:** Corpse Party, Danganronpa, RPGmaker horror games, party games, platformers, puzzle games, BanG Dream!
+- She has a clear preference for horror, mystery, and narrative-driven media.
+
+### 3.10 "I Can't Speak Peafowl"
+Despite being a peafowl-themed character, Reine has explicitly stated she *cannot* speak peafowl language (in contrast to other animal-themed members who do animal sounds). This has become a minor self-deprecating joke in the community.
 Per her official bio, Reine loves sweets (cookies, chocolate, cake) but is weak against overly spicy food. Brunch streams where she eats while chatting are a regular weekly feature.
 
 ---
@@ -149,6 +160,7 @@ Reine's fans are receptive to cross-branch collabs. There is a notable appetite 
 - Her glasses variant (illustration option with glasses) is popular among fans who enjoy the "smart/refined" aesthetic.
 - She lists "chatting" as her primary hobby and does weekly free-talk/brunch streams — a format that distinguishes her from more gameplay-focused members.
 - Her dream goals: "I want to release more original music, collaborate, and let my voice be heard even more. I would be so happy if I could perform live on stage."
+- **Career goals (from wiki):** Reach 1M subscribers, have good relationships with fans and fellow talents, release original songs, compose a song for an anime/game, become 3D, perform live on stage, and design her own merchandise.
 
 ---
 
@@ -160,3 +172,5 @@ Reine's fans are receptive to cross-branch collabs. There is a notable appetite 
 | YouTube Channel | https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q |
 | Twitter/X | https://twitter.com/pavoliareine |
 | Wikipedia — Hololive Production | https://en.wikipedia.org/wiki/Hololive_Production |
+| Hololive Wiki (fandom) | https://hololivevtuber.fandom.com/wiki/Pavolia_Reine |
+| Hololive Wiki (unofficial) | https://hololive.wiki/wiki/Pavolia_Reine |

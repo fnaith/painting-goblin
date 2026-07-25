@@ -30,6 +30,7 @@ Mori Calliope is described as **"The Grim Reaper's first apprentice."** Due to m
 ### On-Stream Persona
 - **Edgy, brash, and profane** — She frequently uses profanity and dark humor on stream, which Katie Gill of *Anime Feminist* described as an exception to the widespread use of Japanese idol themes within Hololive. Her profanity-laden rap music and manner of speech reinforce a "hardcore" image.
 - **The "Grim Reaper" shtick** — She plays up death-themed jokes, calls herself "dad" to her fans, and leans into a cool, confident, "I'm the strongest" attitude.
+- **Nicknamed "Tsundereaper"** — Fans affectionately call her a "tsundere reaper" for her contrast between tough exterior and soft interior.
 - **Persistent and determined** — Famously spent 90+ minutes on a December 2020 livestream repeatedly begging Atlus to let her stream *Persona 3*, a moment Polygon described as a "famous part of her ongoing streaming career." She even created the hashtag #CallioP3 to rally support. The stream drew ~250,000 live viewers. *Two years later*, in January 2023, she finally got to stream the game.
 
 ### Real/Off-Stream Personality (as understood from interviews and casual moments)
@@ -142,6 +143,18 @@ Mori Calliope is primarily a **rapper and singer**, and music is arguably her ma
 
 ## Visual Design Details
 
+### Name Etymology
+- **"Mori"** (森) means "forest" in Japanese.
+- **"Calliope"** is the Greek muse of epic poetry — fitting her rap battle / lyrical style.
+- Her scythe's official name is **Guillotine**, but fans also call it **"Ricky"** (origin unknown; a community nickname).
+
+*Source: hololivevtuber.fandom.com*
+
+### First holoEN Debut
+Calliope was the very first member of Hololive English to debut on September 12, 2020 at 6:00 PM PST.
+
+*Source: hololivevtuber.fandom.com*
+
 ### Primary Design (by Yukisame)
 - **Color palette**: Black, white, pink, and red — evoking a death/ shinigami theme with gothic lolita and punk influences.
 - **Hair**: Long, flowing pink hair (gradient from hot pink to pale pink), styled with a large black beret-style hat with a skull emblem.
@@ -164,18 +177,22 @@ Mori Calliope is primarily a **rapper and singer**, and music is arguably her ma
 | Category | Details |
 |---|---|
 | **Music** | Rapping, singing, music production, Japanese hip hop, Fake Type., electro-swing |
-| **Video Games** | *Persona 3* (her white whale game), *Persona 5*, RPGs, rhythm games, *GTA*, *Minecraft* |
-| **Food/Drink** | Alcohol (particularly whiskey and cocktails; she has done multiple drinking streams), spicy food |
-| **Anime/Manga** | *One Piece* (she performed a theme song for it), *Suicide Squad Isekai* |
+| **Video Games** | *Persona 3* (her white whale game), *Persona 5*, FromSoftware games, *Ghost of Tsushima*, *Castlevania: SotN*, weird RPG Maker games, platformers, rhythm games, *GTA*, *Minecraft* |
+| **Food/Drink** | Alcohol (particularly whiskey and cocktails; she has done multiple drinking streams), spicy food, **sweets**, **red wine** |
+| **Anime/Manga** | *One Piece*, *Suicide Squad Isekai*, *Madoka Magica*, *Made in Abyss*, *Dr. Stone* |
 | **Fashion** | Gothic/punk styles, platform boots, accessories |
-| **Animals** | Cats (she has mentioned liking them) |
-| **Other** | Japanese culture and language, collaborating with other musicians |
+| **Animals** | Cats |
+| **Other** | Japanese culture and language, collaborating with other musicians, **dark spaces**, **flowers**, **stuffed dolls**, **slaying** (in-character) |
 
 ### Dislikes
 - **Copyright restrictions** — Her frustration with Atlus's streaming policies sparked her famous campaign.
 - **Injustice/hypocrisy** — She has spoken out on stream about industry gatekeeping.
 - **Being seen as "just a VTuber"** — She takes her music career seriously and dislikes when people dismiss VTubers as a gimmick.
 - **Mornings** (self-deprecatingly) — Has joked about being a night owl and hating early streams.
+- **Crowds** — Dislikes crowded spaces.
+- **Coffee** — Dislikes coffee (noted on fandom wiki).
+- **Hospitals** — Dislikes hospitals.
+- **Cantaloupe (哈密瓜)** — Strongly dislikes cantaloupe; became a running gag where fans intentionally mispronounce her name as "Mori Cantaloupe."
 
 ### Hobbies Outside Streaming
 - Writing lyrics and composing music

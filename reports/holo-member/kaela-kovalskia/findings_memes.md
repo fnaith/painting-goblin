@@ -36,7 +36,11 @@
 - **说明**: 直播结束时的固定告别用语，为 "Otsukaresama" 的变体
 - **参考**: Hololive Fan Wiki Streamer Information 板块
 
-### 4. "Aku Kaela, dari holoID gen 3!"
+### 5. "Kaello~" — 2025 Redebut 新开场白
+- **说明**: 2025年3月26日 Redebut 直播中首次使用，"Kaela" + "Hello" 的组合词，成为新版开场问候语
+- **来源**: seesaawiki 日文 wiki、本人 Redebut 直播
+
+### 6. "Aku Kaela, dari holoID gen 3!"
 - **说明**: 官方个人简介中使用的印尼语自我介绍（来源：hololive官网）
 
 ---
@@ -64,27 +68,46 @@
 - **说明**: 角色设定为铁匠，经常进行超长直播（马拉松直播），以惊人的毅力和肝度著称
 - **经典台词（官方设定）**: "继承铁匠师父的工坊后，感到生活中缺乏激情，于是踏上寻找珍稀材料的旅程"
 
+### 🤖 GACHAN — 新吉祥物迷因
+- **说明**: 2025年 Redebut 亮相的锤子形吉祥物，造型类似 mascot game 角色，名字来自金属碰撞拟声词"ガチャン"
+- **流行度**: 迅速成为聊天室表情包和粉丝创作新宠，与 Galon 水桶组成"双 mascot"
+- **来源**: seesaawiki 日文 wiki
+
 ### 🔨 讨厌粉色
 - **说明**: Kaela明确表示讨厌粉色（参考：Hololive Fan Wiki Trivia，来源：本人直播）
 
 ### 🍈 爱吃番石榴（Guavas）
 - **说明**: 特别喜欢番石榴（参考：Hololive Fan Wiki Trivia，来源：本人直播）
 
+### 📺 电视坏了5年
+- **说明**: Kaela 的电视已经坏了五年，她一直没有修理（参考：Hololive Fan Wiki Trivia，来源：本人直播）
+- **迷因价值**: 体现她"只关心游戏不管生活琐事"的爆肝人设
+
 ### 📐 与其他Hololive成员的关系梗
 - **Kobo Kanaeru**: 同为holoID 3期生，经常互动
 - **Vestia Zeta**: 同为holoID 3期生
 - 3期生合称 "holoh3ro"
 
+### 📊 直播时长纪录
+- **2022年9月**: 月间直播 235 小时 51 分钟（hololive 第 2 位/ID 第 1 位）
+- **名言梗**: "睡前看她还在播，醒来她还在播"
+- **来源**: seesaawiki 日文 wiki 直播记录
+
 ### 🏆 其他主要成就
 | 年份 | 项目 | 备注 |
 |------|------|------|
+| 2022 | YouTube Partner Day 最多 Super Chat 收入 | hololive ID 代表 |
 | 2023 | Best Minecraft VTuber | The Vtuber Awards 获奖 |
+| 2023 | holo Indie 应援大使就任 | |
 | 2024 | Gamer Of The Year | The Vtuber Awards 提名 |
 | 2024.3 | 创作曲《BACKSEAT》发布 | |
 | 2024.3 | 合作曲《Save Our Hearts》发布 | |
 | 2024.7 | 《HI:STREET TIME》发布 | |
+| 2024.12 | holo Indie 官方管理就任 | |
+| 2025.3 | Redebut / 品牌更新 | holoID 首位 |
 | 2025.4 | 《Juara Khatulistiwa》发布 | |
 | 2025.11 | 《Show Them (Who You Are)》发布 | |
+| 2026.3 | 3D Redebut Live「#3DJAVU」 | |
 
 ---
 

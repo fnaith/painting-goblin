@@ -23,6 +23,7 @@
 |------|------|
 | **"Kikkeriki!"** | 德语"咯咯哒"（公鸡叫），开场问候语，模仿鸡叫 |
 | **"I have diarrhea"** | 直播中毫无预兆地说出"我拉肚子"，成为经典梗（Polygon 报道中特别提及） |
+| **"トリリンガル" (tori-ringaru)** | "鳥（tori）"與"trilingual"的雙關語，Kiara 稱自己的語言混雜為"鳥語" |
 | **"The world wasn't ready for it. Cowards."** | 申请 Eurovision 被拒后的评价 |
 | **"Shiny Smily Story"** | Hololive 社歌，Kiara 在多次直播中演唱 |
 | **"Wawa"** | 粉丝对 Kiara 的爱称/自称 |
@@ -76,6 +77,21 @@
 - 2021年7月被选为《Tales of Arise》英语地区品牌大使
 - 得到游戏角色设计师 SWAV 专门设计的直播服装
 
+### 8. KFP 菜單梗
+- 粉絲製作了 KFP 菜單的實際版本，包含 **Phoenix Burger（鳳凰漢堡）** 和 **Yagoo Burger（Yagoo 漢堡）**
+- Kiara 直播中使用的雞腿道具實際上是塑膠假雞腿，非真食物
+
+### 9. 點擊率標題（Clickbait）梗
+- Kiara 以使用誇張的縮圖標題聞名，粉絲戲稱她是「點擊率標題女王」
+
+### 10. 鳳凰型態與腰帶梗
+- 設定上腰間的皮帶是變身關鍵——扣上後變回人類型態，解開則回到鳳凰型態
+- 生氣時頭髮會自動燃起火焰（呼應鳳凰設定）
+
+### 11. 50萬歐元火災警報罰單梗
+- Kiara 曾在直播中玩笑式地宣稱自己因鳳凰火焰引發火災警報，累積了 €500,000 的罰款債務
+- 成為社群內關於她「破產鳳凰」的笑點
+
 ---
 
 ## 五、名场面与高光时刻
@@ -84,6 +100,14 @@
 - 2020年12月9日，Kiara 的 YouTube 频道因"严重违规"被突然终止
 - 她表示从未收到过版权警告或被 monetization 限制
 - 当天频道即恢复，成为 Hololive 历史上一段著名插曲
+- 恢復後舉行了一場「重新出道（Re-debut）」直播
+
+### 1b. 2020年11月模型更新
+- 2020年11月22日 Kiara 的 Live2D 模型進行了首次更新
+
+### 1c. 2021年2月 陰影 Ban 事件
+- 2021年2月左右，Kiara 的頻道疑似被 YouTube 陰影ban（Shadowban），她當時在德國的直播被限制曝光
+- 同期她進行了「HoloDE Debüt」德語直播，成為 Hololive 史上少見的非英語/日語大型直播活動
 
 ### 2. Breaking Dimensions 演唱会（2024年8月）
 - 在纽约 Kings Theatre 举办，全场售罄
@@ -121,6 +145,14 @@
 - 2020年持打工度假签证在日本，因疫情被困，刷到 Usada Pekora（兎田ぺこら）的直播后上瘾
 - 看到 Hololive English 海选公告，认为"这是命运"
 
+### 1d. 首次 Hololive x VShojo 跨社連動
+- Kiara 與 VShojo 的 Nyatasha Nyanners 進行了連動，成為 Hololive 與 VShojo 兩社之間的首次跨社合作
+
+### 1e. Amelia Watson 畢業相關
+- 2024年 Amelia Watson 宣布畢業後，Kiara 公開表達了對 Ame 的不捨，兩人長期的伙伴關係引發社群關注
+
+---
+
 ### 2. 与 Mori Calliope 的"父母"角色
 - 粉丝长期将 Calli 视为"爸爸"、Kiara 视为"妈妈"
 - 初期 Calli 对此傲娇反应，后期两人都接受了"Hololive English 祖父母"的定位
@@ -141,7 +173,14 @@
 - 音乐风格逐渐向 K-pop 靠拢，受 NewJeans、Chung Ha、Katseye 影响
 - "我不想只做一个 Vtuber 歌手，我希望我的音乐能在任何广播电台播放，让不认识我的人也能听到"
 
-### 6. 对 Vtuber 行业的影响
+### 6. 宠物与家人
+- Kiara 養了兩隻貓：**Chonkers**（體型偏胖）和 **Smoothie**
+- 她的姊姊知道她的 VTuber 身份和活動
+
+### 7. 吉祥物 Kotori
+- Kiara 的官方吉祥物是一隻名為 **Kotori（コトリ）** 的小鳥
+
+### 8. 對 Vtuber 行业的影响
 - 被众多独立 Vtuber 视为入行动力
 - Kiara 表示："听到别人说'因为 Myth 我才成为 Vtuber'，这感觉太超现实了"
 
@@ -160,6 +199,15 @@
 | **Holotalk** | 访谈节目主持 | 游戏中访谈/审问/对话系统 |
 | **Eurovision 梦想** | 参赛被拒的执念 | 支线任务"征服 Eurovision" |
 | **菠萝（Pineapple）** | 演唱会的标志性元素 | 特殊道具/技能/收集品 |
+| **凤凰腰带变身** | 腰带解开变凤凰，扣上变人形 | 角色型態切換機制 |
+| **头发燃烧（怒）** | 生气时头发自动着火 | 怒氣值/狀態觸發特效 |
+| **€500,000 火灾罚款** | 虚构的巨额债务梗 | 搞笑任務/債務系統 |
+| **Kotori 吉祥物** | Kiara 的官方小鸟吉祥物 | 同伴/寵物系統 |
+| **Chonkers & Smoothie** | Kiara 養的兩隻貓 | NPC 或寵物角色 |
+| **KFP 菜单（Phoenix/Yagoo Burger）** | 粉丝制作的虚构菜单 | 商店/烹飪系統 |
+| **Clickbait 女王** | 夸张缩圖梗 | UI 特效/技能名稱 |
+| **塑料鸡腿** | 直播用的假鸡腿道具 | 搞笑武器/道具 |
+| **トリリンガル（鸟语）** | 日/英/德三语混雜的雙關語 | 語言解謎技能 |
 | **"I have diarrhea"** | 突发发言梗 | 搞笑技能/随机事件 |
 | **Maldives（马尔代夫）** | 旅行传统 | 度假场景/休息点 |
 | **Hololive Myth 成员** | Calli、Ina、Gura、Amelia | 同伴/支援角色系统 |
@@ -176,3 +224,7 @@
 - YouTube - "I have diarrhea" 剪辑: https://www.youtube.com/watch?v=En_vYyMhtoI
 - Polygon - Breaking Dimensions 演唱会报道: https://www.polygon.com/culture/445206/hololive-breaking-dimensions-concert-vtubers
 - Crunchyroll - 频道被终止报道: https://www.crunchyroll.com/news/latest/2020/12/9/vtuber-takanashi-kiara-has-had-her-youtube-channel-terminated-for-severe-violations
+- Hololive Wiki (hololive.wiki): https://hololive.wiki/wiki/Takanashi_Kiara
+- Hololive Fandom Wiki: https://hololivevtuber.fandom.com/wiki/Takanashi_Kiara
+
+> **注意**：seesaawiki.jp 上的 Hololive TV 非官方 wiki 页面已无法访问（所有 URL 变体均回传 404），本报告未使用该来源。

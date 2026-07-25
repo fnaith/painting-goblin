@@ -1,6 +1,6 @@
 # Fuwawa Abyssgard（フワワ・アビスガード）迷因、梗圖與經典迷因時刻調查報告
 
-> 調查日期：2026-06-21
+> 調查日期：2026-06-21（更新：2026-07-25）
 > 撰寫語言：繁體中文（zh-TW）
 > 備註：由於搜尋引擎限制，部分資訊來自社群整理與已知 VTuber 圈內共識
 
@@ -276,6 +276,9 @@ FUWAMOCO 的原創曲《Born to be "BAU"DOL☆★》發布後：
 | Hololive 官方 Talent 頁面 | https://hololive.hololivepro.com/en/talents/fuwawa-abyssgard/ | 基本資料確認 |
 | FUWAMOCO YouTube 頻道 | https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA | 直播與精華來源 |
 | FUWAMOCO 官方 Twitter | https://twitter.com/fuwamoco_en | 社群互動記錄 |
+| Seesaawiki（FUWAMOCO 非官方維基） | https://seesaawiki.jp/hololive/d/FUWAMOCO | 活動紀錄與迷因事件 |
+| Hololive Fan Wiki（FUWAMOCO） | https://hololive.wiki/wiki/FUWAMOCO | 綜合資料 |
+| Hololive VTuber Fandom Wiki（Fuwawa） | https://hololivevtuber.fandom.com/wiki/Fuwawa_Abyssgard | 社群編纂資料 |
 | TikTok 剪輯（@lilkfp） | https://www.tiktok.com/@lilkfp/video/7432313004466752811 | 搞笑時刻剪輯 |
 | Fubuki × FUWAMOCO Visage 聯動精華 | https://www.youtube.com/watch?v=l1N528i1N1U | 聯動迷因來源 |
 | Joyreactor 迷因社群 | https://joyreactor.com/tag/Fuwawa+Abyssgard | 451+ 迷因帖匯總 |
@@ -300,4 +303,4 @@ Fuwawa Abyssgard 的迷因文化有以下幾大特徵：
 ---
 
 *本報告基於網路公開資料與社群觀察整理，部分迷因事件因缺乏單一來源引用而未能列入，僅供參考。*
-*最後更新：2026 年 6 月 21 日*
+*最後更新：2026 年 7 月 25 日*

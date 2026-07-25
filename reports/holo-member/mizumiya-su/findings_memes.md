@@ -29,8 +29,9 @@
 - 11月19日重新達到10萬訂閱
 - 與ReGLOSS先前遇到的問題相同
 
-### 6. 「しゅぴしゅわ〜！」(Shupi shuwa~!)
-- 獨特的招呼語，成為個人標誌
+### 6. 「しゅぴしゅわ〜！」(Shupi shuwa~!) / 「おつすう」(Otsusuu)
+- 獨特的招呼語「しゅぴしゅわ〜！」，成為個人標誌
+- 告別語「おつすうありがとうバイバイ」中「おつすう」是「おつ」(辛苦了)與Su名字的合成詞
 
 ### 7. 退學加入Hololive
 - 為了加入Hololive從大學退學
@@ -51,3 +52,4 @@
 來源:
 - https://virtualyoutuber.fandom.com/wiki/Mizumiya_Su
 - https://hololive.hololivepro.com/en/talents/mizumiya-su/
+- https://hololive.wiki/wiki/Mizumiya_Su

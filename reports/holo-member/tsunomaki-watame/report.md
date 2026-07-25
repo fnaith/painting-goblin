@@ -9,7 +9,8 @@
 | **出道日** | 2019年12月29日 |
 | **生日** | 6月6日 |
 | **身高** | 151 cm |
-| **年齡** | 7歲 (綿羊年；出道時4歲) |
+| **年齡** | 7歲 (綿羊年；出道時4歲；2026年約當9-10歲) |
+| **血液型** | A型 |
 | **角色設計** | Fu-mi (fuumiisc) — [Twitter](https://twitter.com/fuumiisc) |
 | **Live2D建模** | keffiy (けっふぃー) |
 | **3D建模** | Yuuji (由治) |
@@ -38,14 +39,28 @@ Watame 是一名旅行中的羊咩咩吟遊詩人，成立了「角巻一座」(
 - 隨身攜帶一把**自動演奏的豎琴**（里拉琴風格），強調吟遊詩人/音樂家身份
 - 腿部裸露，穿著羊蹄風格的鞋子/靴子
 
-**其他服裝：**
-1. 新年和服 (2021)
-2. 3D偶像服裝 (2021)
-3. 休閒服裝 (2021)
-4. 追加休閒服 (2022)
-5. Zepp Tokyo演唱會服裝 (2021)
-6. Tokyo Garden Theatre演唱會服裝 (2024)
-7. 浴衣（holonatsu Paradise）
+**2D服裝（按時間順序）：**
+1. 預設服裝 (2019/12–)
+2. 新年和服 (2021/1–)
+3. 休閒服裝 (2021/5–)
+4. 恐龍睡衣 (2022/3–)
+5. WNF演唱會服裝 (2023/10–)
+6. 辣妹系 (2024/3–)
+7. 制服 (2025/3–)
+8. 女僕咖啡 (2026/5–)
+
+**3D服裝（按時間順序）：**
+1. 基本3D (2020/07–)
+2. 偶像服裝 (2021/02–)
+3. Zepp Tokyo演唱會服裝 (2021/10)
+4. 聖誕節2021
+5. ホロサマパーカー (2022/08–)
+6. 浴衣 (2022/08–)
+7. Bright演唱會服裝 (2023/03–)
+8. Blue Journey
+9. Tokyo Garden Theatre演唱會服裝 (2024/01/31–)
+10. 100M紀念服裝
+11. 阿囉哈服裝
 
 ### 官方口號/台詞
 
@@ -139,11 +154,17 @@ Watame 是一名旅行中的羊咩咩吟遊詩人，成立了「角巻一座」(
 | 曇天羊 (Cloudy Sheep) | feat. Mori Calliope |
 | 愛昧ショコラーテ (Ai-mai Chocolate) | 第一首原創單曲 (2020/12/19) |
 | キミだけのメロディ (Melody For You) | (2021/6/30) |
-| Everlasting Soul | (2021/9/10) — 最知名的原創曲之一 |
 | mayday,mayday | (2021/8/19) |
+| Everlasting Soul | (2021/9/10) — 最知名的原創曲之一 |
+| 君色ハナミズキ (Kimiiro Hanamizuki) | (2022/04/22) |
 | Fins | (2023/6/7) |
+| sweet night, sweet time... | (2023/11/03) |
+| Happy day to you! | (2023/12/06) |
+| 夢見る羊 (Dreamy Sheep) | (2024/06/01) |
+| What an amazing swing | (2024/07/10) |
+| Now on step | (2025/04/13) |
 | Reaper vs. Sheep | 與Mori Calliope的合作曲（應援版 + 健康版） |
-| 夢見る羊 (Dreamy Sheep) | |
+| Go to the future | (2020/08/09) — OKFAMS合作 |
 
 ### 專輯
 
@@ -175,6 +196,9 @@ Watame 是一名旅行中的羊咩咩吟遊詩人，成立了「角巻一座」(
 - **天音かなた** — PPTrio夥伴，密友
 - **桐生ココ** — PPTrio領袖，密友。ココ的「朝ココ」晨間節目在早期緊接在Watame的「WataUta」之後播出
 
+### Blue Journey
+- 參與Hololive音樂企劃Blue Journey（包含專輯與現場演唱會）
+
 ### 其他
 - **赤井はあと** — Minecraft中的搭檔組合
 - **Mori Calliope** — 多次跨團合作（曇天羊、Reaper vs. Sheep）
@@ -187,7 +211,9 @@ Watame 是一名旅行中的羊咩咩吟遊詩人，成立了「角巻一座」(
 
 1. **「Watame did nothing wrong」** — 從道歉影片演變而來的招牌迷因，變體包括「ギリギリ悪くないWatame」
 2. **「Konban dododo!」** — 獨特的打招呼方式
-3. **「便當めぇめぇ」** — 不要劇透的羊語
+3. **「ネタバレめぇめぇ」** — 不要劇透的羊語
+4. **「ギリギリ悪くないWatame」** — 2022/1/7開始的實寫短片系列，標籤 #ギリわる
+5. **「Watame Have a nice day」** — 2022/10/25開始的短片系列，標籤 #はばない
 
 ### 直播睡著
 
@@ -214,6 +240,29 @@ Watame以直播中打瞌睡聞名。她的官方技能「8秒內重生」正是�
 
 ---
 
+## 生涯里程碑
+
+| 日期 | 里程碑 |
+|------|--------|
+| 2019/12/27 | 10,000訂閱（出道前） |
+| 2019/12/29 | YouTube出道 |
+| 2020/02/01 | WNF（Watame Night Fever）開始 |
+| 2020/02/03 | 「Watameのうた」歌唱單元開始 |
+| 2020/07/12 | 3D模型披露 + 首張原創曲 |
+| 2020/12/21-22 | hololive 2nd fes. 出演 |
+| 2021/07/17 | 100萬訂閱達成 |
+| 2021/10/12 | 首次個人演唱會 Zepp Tokyo |
+| 2022/01/07 | 「ギリギリ悪くないWatame」實寫短片系列開始 |
+| 2022/03/20 | hololive 3rd fes. 出演 |
+| 2022/10/25 | 「Watame Have a nice day」短片系列開始 |
+| 2023/01/09 | NHK電台出演 |
+| 2023/03/18 | hololive 4th fes. 出演 |
+| 2024/01/31 | 第二次個人演唱會 Tokyo Garden Theatre |
+| 2026/06/24 | 夏祭2026出演 |
+| 2026/07/11 | ホロサマ出演 |
+
+---
+
 ## 粉絲社群標籤
 
 | 用途 | 標籤 |
@@ -221,7 +270,14 @@ Watame以直播中打瞌睡聞名。她的官方技能「8秒內重生」正是�
 | 直播討論 | #ドドドライブ |
 | 粉絲創作 | #つのまきあーと |
 | 剪輯影片 | #わたわた動画 |
-| 歌唱角落 | #わためのうた |
+| 歌唱角落 / 音樂 | #わためのうた |
+| 歌聲覆面 | #わたうた |
+| 語音回覆 | #きいたよわためぇ |
+| Minecraft | #わたマイクラ |
+| 粉絲繪圖剪輯 | #よだれスタイル |
+| 每日粉絲創作 | #今日のわため |
+| 實寫短片系列 | #ギリわる |
+| 短劇系列 | #はばない |
 
 ---
 
@@ -261,7 +317,11 @@ Watame以直播中打瞌睡聞名。她的官方技能「8秒內重生」正是�
 | Hololive官方JP資料 | https://hololive.hololivepro.com/talents/tsunomaki-watame/ |
 | YouTube頻道 | https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA |
 | Twitter/X | https://twitter.com/tsunomakiwatame |
+| TikTok | https://www.tiktok.com/@tsunomakiwatame_hololive |
+| Twitch | https://www.twitch.tv/tsunomakiwatame_hololive/ |
 | Hololive Fan Wiki | https://hololive.wiki/wiki/Tsunomaki_Watame |
+| hololivevtuber Fandom Wiki | https://hololivevtuber.fandom.com/wiki/Tsunomaki_Watame |
+| Seesaa Wiki (JP) | https://seesaawiki.jp/hololivetv/ |
 | Wikipedia | https://en.wikipedia.org/wiki/Hololive_Production |
 
 ---

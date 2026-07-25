@@ -15,6 +15,7 @@
 | **畢業日期** | 2025年10月3日（無畢業直播） |
 | **生日** | 2月27日（25歲） |
 | **身高** | 171 cm（ReGLOSS 最高成員） |
+| **血液型** | A 型 |
 | **角色繪師** | MUSSHU（@omu001，亦為 Holostars 月下カオル繪師） |
 | **Live2D 建模** | ヲニ村（@wonimura47041） |
 | **粉絲名稱** | 官方 Scholars；非正式 Ao-tomo（読者）/ Hime（火女）/ Hyottoko（火男） |
@@ -133,6 +134,8 @@ Shunkan Heartbeat / feelingradation / bubble maybe / Sakura Mirage / Club Blue F
 - **2023年9月9日** — 作為 ReGLOSS 首位成員出道，打響全新品牌第一炮
 - **2025年10月3日** — Cover 公司無預警宣布即日畢業，無畢業直播，引發社群巨大震動
 
+> ⚠️ **跨來源比對注意**：Fandom Wiki 記錄身高為 173 cm、年齡 22 歲，與 Fan Wiki 和 Seesaawiki 記錄（171 cm、25 歲）不一致，本報告採用多數來源一致的數值。詳見 `findings_comparative.md`。
+
 ---
 
 ## 八、粉絲文化
@@ -176,3 +179,5 @@ Shunkan Heartbeat / feelingradation / bubble maybe / Sakura Mirage / Club Blue F
 - [Hololive Fan Wiki - ReGLOSS](https://hololive.wiki/wiki/ReGLOSS)
 - [YouTube 頻道 - Ao Ch. 火威青](https://www.youtube.com/@HiodoshiAo)
 - [Twitter（X） - @hiodoshiao](https://twitter.com/hiodoshiao)
+- [Hololive Fandom Wiki - Hiodoshi Ao](https://hololivevtuber.fandom.com/wiki/Hiodoshi_Ao)
+- [Seesaawiki - 火威青](https://seesaawiki.jp/hololivetv/d/%B2%D0%B0%D2%C0%C4)

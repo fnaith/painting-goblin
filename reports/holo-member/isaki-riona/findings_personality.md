@@ -20,7 +20,17 @@
 - Was comforted by Ookami Mio, Oozora Subaru, and Sakura Miko during collabs
 - Struggles with reading the air (空気読めない tendencies)
 
-### 3. Tough Facade with Soft Interior (ツンデラ / 不器用)
+### 3. Mindful & Caring — Puts Others First
+- Always puts the needs of others ahead of her own
+- Tends to be especially hard on herself when her efforts don't yield desired results
+- Shows genuine care and concern for her viewers and fellow members
+
+### 4. Mischievous Childlike Humor (5歳児のノリ)
+- Plays child-like pranks on viewers and people she's close to
+- Has the humor of a 5-year-old
+- Enjoys teasing and being playful with her community
+
+### 5. Tough Facade with Soft Interior (ツンデラ / 不器用)
 - Puts on a strong, cool exterior
 - Melts completely when encountering cute animals (especially cats/dogs)
 - Her voice tone changes dramatically when she's happy or excited
@@ -32,10 +42,16 @@
 - Openly talks about her otaku hobbies
 - Admits to being lazy/NEET-like when not working
 
-### 5. "理科女子" (Science Girl)
+### 6. "理科女子" (Science Girl)
 - Knowledgeable about electrical circuitry and engineering
 - Can discuss technical topics intelligently
 - This contrasts with her goofy streaming persona
+
+## Likes & Dislikes
+- **Loves**: cute animals (cats/dogs), pachinko, shonen manga (Jump series), splatter/gory content
+- **Dislikes**: horror (specifically supernatural horror), losing, people hearing her wipe her nose
+- **Dance**: Proficient in jazz, ballet, and tap dancing — a key skill showcased in her 3D debut
+- **Sneezes**: Explosive loud sneezes, rumored to "make the world a kinder place"
 
 ## Streaming Style
 
@@ -57,3 +73,4 @@
 - Uses rough/blunt speech (タメ口) frequently
 - Very open about personal struggles and embarrassing stories
 - Warm interaction with dedicated fans (響咲連合)
+- Signature streaming phrases: おかえリオナ (welcome back), おつリオナ (goodbye), ただいま連合 (I'm home United), おつ連合 (goodbye United)

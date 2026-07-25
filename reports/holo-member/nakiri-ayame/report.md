@@ -1,7 +1,8 @@
 # Nakiri Ayame (百鬼あやめ) — 同人遊戲設定參考報告
 
-> 研究日期：2026-06-21
-> 來源：Hololive 官方資料、Virtual YouTuber Wiki、粉絲社群文化
+> 研究日期：2026-07-25（第一版：2026-06-21）
+> 來源：Hololive 官方資料、Hololive Fan Wiki、Virtual YouTuber Wiki、Seesaawiki、粉絲社群文化
+> 詳細比較分析請參見 `comparative_analysis.md`
 
 ---
 
@@ -122,6 +123,14 @@
 - AyaFubuMi 第三人
 - 形容あやめ「私下很可愛但真的很難約」
 
+### 外部交友圈（Hololive以外）
+
+| 朋友 | 所屬 | 配對名 | 備註 |
+|------|------|--------|------|
+| **戌亥とこ (Inui Toko)** | にじさんじ (Nijisanji) | **おにべろす (Oniberos)** | 鬼+Cerberus，跨社的親密友人 |
+| **96Neko (Kuroneko)** | 歌い手 (Utaite) | - | 經常合作的歌手朋友 |
+| **現世ユミ (Utsutsu Yomi)** | 個人勢VTuber | - | 獨立運營的VTuber友人 |
+
 ---
 
 ## 六、著名軼事與粉絲文化（遊戲劇情/彩蛋用）
@@ -141,6 +150,8 @@
 - 「感冒仍要唱歌」——帶鼻音堅持歌回，充滿喜劇效果
 - 恐怖遊戲被嚇到的真實反應（與鬼族設定形成強烈反差）
 - 冷笑話笑到無法繼續直播
+- **「Docchi Docchi」** — Minecraft迷路時不斷問「どっち？（哪邊？）」成為粉絲MAD素材，後來正式發布為歌曲
+- **「島壊し」(Shimakeshi)** — Minecraft尋寶時不耐煩，將整座島嶼夷為平地
 
 ### 4. 官方Q&A名場面
 - **問**：你的姓不是該讀成「Hyakki」嗎？ **答**：是「Nakiri」！（壓力）
@@ -148,9 +159,18 @@
 - **問**：你的血型是？ **答**：秘密！♡
 - **問**：為什麼你有角？ **答**：為什麼你們人類沒有角？
 
-### 5. 現實小習慣
+### 5. 遊戲運氣傳說
+- Minecraft：單一礦脈挖出11顆鑽石（約0.7%機率）
+- Minecraft：釣魚釣出「絲綢之觸」附魔書
+- Apex Legends：普通箱開出傳家寶碎片（0.2%機率）
+- 公會成員稱她為「最幸運成員」
+
+### 6. 現實設定
 - 私下戴眼鏡（近視很深）
-- 養了一隻叫 **ジルスケ (Jirusuke)** 的貓
+- 養了一隻叫 **Ziru (ジル)** 的貓，品種為布偶貓（Ragdoll），名字源自「Blue Zircon」
+- 對西瓜和哈密瓜過敏
+- 體重42kg（Ring Fit Adventure直播透露）
+- 不喜歡豆類、Suntory Strong Zero、巧克力薄荷、香草/椰子香氣、生番茄、紫蘇
 - 有一位非常嚴格的母親
 
 ---
@@ -200,5 +220,9 @@
 - [Hololive 官方檔案](https://hololive.hololivepro.com/en/talents/nakiri-ayame/)
 - [YouTube 官方頻道](https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg)
 - [Twitter @nakiriayame](https://twitter.com/nakiriayame)
+- [Hololive Fan Wiki](https://hololive.wiki/wiki/Nakiri_Ayame) — 最完整的粉絲Wiki
+- [Seesaawiki hololivetv](https://seesaawiki.jp/hololivetv/) — 日本社群Wiki（日程/活動資訊）
 - Virtual YouTuber Wiki
 - Hololive Production 維基百科
+
+> ⚠️ 本報告同步更新於 **2026-07-25**，補充來自 Hololive Fan Wiki 的大量細節（喜好、寵物、外部交友圈、新服裝、軼事）。完整比較分析請參閱 `comparative_analysis.md`。

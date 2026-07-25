@@ -58,6 +58,12 @@
 
 ## 2. Personality-Based Running Jokes
 
+### 🏆 "Top Right" vs. "Bottom Left"
+- **Origin:** In the Hololive fandom, "bottom left" refers to chaotic/unhinged VTubers (opposite of "top right" = seiso/wholesome). Reine *refuses* to be called bottom left.
+- **The bit:** She insists she is a "Seiso" (pure/wholesome) idol and firmly "Top Right" material. She claims the ONLY bottom left people in her streams are her viewers.
+- **Escalation:** In one stream, she physically moved her chat box from the top right corner of the screen to the bottom left, declaring that's where her viewers belong — not her.
+- **Status:** A recurring gag where chat playfully calls her "bottom left" just to get a reaction.
+
 ### Elegant Facade vs. Dork Reality (Gap Moe)
 - **The official bio:** "At first glance, she seems to be the elegant type, but people who spend some more time with her will find out that she has more of a dorky personality."
 - **The joke:** She starts sentences in a refined, noble tone (ojou-sama speech), then immediately says something goofy or clumsy.

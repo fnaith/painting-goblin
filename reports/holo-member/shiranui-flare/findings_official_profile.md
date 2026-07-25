@@ -7,6 +7,7 @@
 - **Hololive Fan Wiki:** https://hololive.wiki/wiki/Shiranui_Flare
 - **YouTube channel:** https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg
 - **Twitter/X:** https://twitter.com/shiranuiflare
+- **Twitch:** https://www.twitch.tv/shiranuiflare_hololive
 
 ---
 
@@ -43,6 +44,8 @@ lack is also the illustrator for Arurandeisu (Holostars), Makaino Ririmu & Lain 
 | **Birthday** | April 2 (lore year: 1798) |
 | **Lore age** | 221 years old |
 | **Height** | 158 cm |
+| **Blood type** | B |
+| **Brand colors** | #dc3813 (primary red), #ff5028 / #FE3D1C (accent orange/red) |
 | **Species** | Half-elf (human + elf parents) — explicitly *not* a dark elf |
 | **Fan name** | **Elfriend** (エルフレンド) — portmanteau of "Elf" + "Friend" |
 | **Oshi mark / Emoji** | 🔥 (fire) |
@@ -106,10 +109,24 @@ lack is also the illustrator for Arurandeisu (Holostars), Makaino Ririmu & Lain 
 - Updated main outfit by lack, replacing the original as her primary design
 - Retains the fire/flame motif with refined details
 
+### Casual Dress (September 2023)
+- Alternate casual look distinct from the 2020 sailor-style dress
+
+### Roomwear (June 2024)
+- Loungewear / home relaxation outfit
+
+### Hololive Fantasy Outfit (August 2024)
+- Generation-themed outfit reflecting the "Hololive Fantasy" unit identity
+
+### Festival 2025 Outfit (September 2025)
+- Event/concert-themed outfit for Hololive festival appearances
+
 ### 3D Model
 - **Default 3D:** Designed by lack
 - **1M Subscriber 3D outfit:** Concept by Saeki Yahiro
 - **Live 3D outfit:** Designed by ordan (https://twitter.com/ordan)
+- **1M subscriber 3D outfit "Luminous":** Concept by Saeki Yahiro
+- **figma figure** — Announced in 2021 (prototype shown), one of several Hololive figma releases
 
 ### Overall Design Language
 Flare's character design leans heavily into a **fantasy-action** aesthetic — half-elf traits (pointed ears), flame motifs (name, accessories, color palette), and a slight combat/bandolier styling. The red/black/white color scheme is consistent across outfits. The fire (🔥) is the universal symbol representing her.
@@ -127,6 +144,7 @@ Flare's character design leans heavily into a **fantasy-action** aesthetic — h
 | Video clips | #切りぬい (Kirinui) |
 | Voice clips | #きいたよフレア (Kiita yo Flare) |
 | Recommendations | #聞いてよフレア (Kiite yo Flare) |
+| Goods recruitment | #ぬいクラ募 (Nui Kura recruitment) |
 
 ---
 

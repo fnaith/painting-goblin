@@ -15,6 +15,7 @@
 | **生日** | 7月8日 |
 | **身高** | 168 cm |
 | **角色設計/繪師** | toridamono（トリダモノ） |
+| **Live2D 建模** | Keffiy |
 | **出道前導PV** | https://youtu.be/usIGdR_Re_I |
 
 ---
@@ -57,6 +58,8 @@ FLOW GLOW 是 hololive DEV_IS 旗下的 VTuber 音樂藝術團體，團員們雖
 - **髮色**：藍綠色系長髮（官方背景為青藍/綠松色系）
 - **造型**：有多種造型變化，包含戴眼鏡的版本
 - **服裝主題**：以駕駛/DJ 為靈感，帶有街頭潮流風格
+- **追加服裝**：holonatsu Paradise 服裝（概念圖 by Chyan）、FLOW GLOW 表演服（概念圖 by Nowri）
+- **3D 模型**：已公開，含完整 3D 演出
 - **官方標誌色**：青藍色/水色系（背景圖片 `bg_Rindo-Chihaya_01.png` 為青藍漸層色）
 
 詳細服裝描述請參閱官方畫廊：
@@ -75,6 +78,15 @@ FLOW GLOW 是 hololive DEV_IS 旗下的 VTuber 音樂藝術團體，團員們雖
 | **YouTube 頻道 ID** | UCkMWFR6lAstLa7Vbf5dH7ig |
 | **X (Twitter)** | https://x.com/rindochihaya |
 | **FLOW GLOW 官方頻道** | https://www.youtube.com/@DEV_IS_FLOWGLOW |
+
+### 官方 Hashtags
+
+| Tag | 用途 |
+|------|------|
+| #おしゃべりん堂 | 直播/雜談 |
+| #もはやちはや | 粉絲創作（Fanart） |
+| #きりとりん堂 | 精華剪輯（Video Clips） |
+| #絵っちはや | 粉絲創作（NSFW） |
 
 > 訂閱者數量因動態變化，建議直接查閱 YouTube 頻道頁面取得最新數據。
 
@@ -116,6 +128,9 @@ FLOW GLOW 是 hololive DEV_IS 旗下的 VTuber 音樂藝術團體，團員們雖
 
 6. **X（Twitter）官方帳號**
    https://x.com/rindochihaya
+
+7. **Hololive Fan Wiki — Rindo Chihaya**
+   https://hololive.wiki/wiki/Rindo_Chihaya
 
 ---
 

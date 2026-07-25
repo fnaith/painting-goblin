@@ -9,6 +9,9 @@
 | **Birthday** | August 4 |
 | **Height** | 156 cm (5'1") |
 | **Illustrator** | azure (@azure_0608_sub) |
+| **Blood Type** | AB |
+| **Lucky Number** | 12 |
+| **Favorite Colors** | Pink, white |
 | **Unit** | Hololive English -Promise- (formerly Hololive English -Council-) |
 | **Status** | Graduated / Alum (as of official site) |
 | **Fan Name** | **Hoomans** |
@@ -86,6 +89,25 @@
 - Enjoys **singing** — has a warm, gentle singing voice; released multiple original songs
 - Enjoys **gaming** — plays a variety of games but is notably bad at some (part of her charm)
 
+### Health & Lifestyle Details
+
+- **Sleep issues**: Mumei is a light sleeper and mentioned it had been "decades" since she last felt rested. She relies on melatonin supplements.
+- **Back/neck pain**: Suffers from shoulder and upper-back pain due to poor posture. Visited a chiropractor for treatment.
+- **Blood tests**: Takes yearly blood tests that consistently show vitamin deficiencies.
+- **Driving**: Drives a car. Famously reversed into a McDonald's fence — an incident that became a running joke.
+- **Education**: Has a GPA of approximately 3.6. Claims she returned to school "every century," from kindergarten through high school.
+- **Eyesight**: Despite being an owl, she has poor eyesight and wears contact lenses.
+
+### Owl Physiology (Lore/In-Universe)
+- **Head rotation**: Can rotate her head 270 degrees in owl form.
+- **Feather trophies**: The feathers on her head are canonically "trophies" from past conquests.
+- **Century reset**: Undergoes a "reset" every 100 years, which contributes to her memory loss.
+
+### Equipment / Streaming Setup
+- **PC**: Custom-built, ~$3000 — RTX 3070 Ti, Ryzen 9 5900X, 32GB RAM
+- **Microphones**: Evolved from Blue Yeti → RØDE NT1-A → Shure SM7B
+- **Keyboard**: Started with blue mechanical switches, later switched to red switches for quieter operation
+
 ## Catchphrases & Greetings
 | Phrase | Context |
 |---|---|
@@ -147,3 +169,5 @@
 - Twitter/X: https://twitter.com/nanashimumei_en
 - Original Songs: *A New Start*, *mumei*, *Our Promise*, *Odyssey*, *It's Not a Phase*, *Breaking Dimensions*, *Connect the World*, *Rise*, *HOLOTORI Dance!*
 - Illustration by azure: https://twitter.com/azure_0608_sub
+- Seesaawiki (JP): https://seesaawiki.jp/hololive/d/%c6%bb%bb%fa%a5%e0%a5%e1%a5%a4
+- Hololive Wiki: https://hololive.wiki/wiki/Nanashi_Mumei

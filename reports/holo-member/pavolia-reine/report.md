@@ -13,11 +13,14 @@
 | **所屬** | hololive Indonesia 2期生（holoro） |
 | **出道日** | 2020年12月6日 |
 | **生日** | 9月9日（處女座） |
-| **身高** | 172 cm（Hololive中較高的成員之一） |
+| **身高** | 172 cm（Hololive現役女性成員最高，僅次於已畢業的桐生可可 180cm） |
 | **種族/主題** | 孔雀公主（Lady of the Peafowl） |
 | **繪師** | 飯田ぽち（Iida Pochi／Pochimaru，@lizhi3） |
 | **Live2D** | 入江燈（@tou_ilie） |
 | **粉絲名稱** | **MERAKyats** — 出自 Merak（孔雀）+ Rakyat（人民），雙關「merakyat」（親民） |
+| **粉絲俱樂部** | **The Royaltea** — 會員限定直播、徽章、自訂表情 |
+| **別稱** | Kanjeng Reine — Kanjeng 為印尼傳統對高階貴族的敬稱 |
+| **名字由來** | "Pavolia" 來自拉丁語 pavo（孔雀）；"Reine" 為法語「女王」 |
 | **推しマーク** | 🦚 |
 | **標語** | "Perhatian, sang putri merak yang tertiup angin, aku Pavolia Reine dari hololive ID." |
 
@@ -54,6 +57,13 @@
 - **Tatang Tambourine（塔唐鈴鼓）** — 她為鈴鼓取的名字，在SC朗讀環節使用，粉絲視為獨立角色
 - **孔雀羽毛扇** — 優雅的代表道具
 - **聊天室食物插圖** — 直播中會畫出聊天室提到的食物
+- **繪圖板（Pen Display）** — 直播繪圖時使用
+
+### 其他特徵
+- **機械鍵盤愛好者** — 對客製化鍵盤有深入了解，自己的鍵盤為全鍵可自訂佈局，無獨立方向鍵
+- **VR模型** — 由 Kathy (Prii) 和 keenbiscuit 設計的多款 VR 模型
+- **同繪師 VTuber** — 與 Lenri Ashieda、Natsume Ulta、DiscoTei Meteo、Yukimaru Sen、Hinomori Anzu（第二套）等 VTuber 均由 Iida Pochi 設計
+- **第三位鳥類主題 Hololive 成員** — 繼大空昴（Oozora Subaru, 鴨子）和 Takanashi Kiara（鳳凰）之後
 
 ---
 
@@ -113,6 +123,12 @@
 - SC朗讀環節，觀眾會投稿尷尬的撩人台詞
 - Reine的回應：一律「Get Well Soon」（祝你早日康復），當成生病對待
 
+### 🏆 Top Right vs. Bottom Left
+- Reine 堅稱自己是純潔（seiso）偶像、屬於「Top Right」（正統派好孩子象限）
+- 被粉絲稱為「Bottom Left」（混沌、搞笑角色）時會強烈反駁
+- 名場面：她把聊天室從畫面右上角拖到左下角，說「觀眾才該待在這裡」
+- 後來被問到時她澄清：「請不要把我和 Bottom Left 聯想在一起！」
+
 ### 🚗 汽車引擎笑聲
 - 獨特的沙啞、大聲的笑聲
 - 粉絲會在聊天室打「vroom vroom」或汽車音效
@@ -144,6 +160,12 @@
 ---
 
 ## 六、軼事與趣聞
+
+0. **不愛打掃** — 自稱不用打掃不是懶惰，而是因為原本的世界用魔法清潔，現在魔力減弱所以不習慣手動打掃（呼應官方背景設定）
+0. **「我不會講孔雀語」** — 儘管是孔雀主題，Reine 明確說過自己不會說孔雀語，與其他動物主題成員形成反差笑點
+0. **鋼筆繪圖板** — 使用繪圖板（Pen Display）在直播中畫圖，展現真正的繪畫實力
+0. **最喜歡的動畫/遊戲** — 偏愛恐怖、懸疑、敘事型作品：動畫偏好《暮蟬悲鳴時》、《地獄少女》、《Another》、《GTO》、《Great Pretender》；遊戲偏好《屍體派對》、《槍彈辯駁》、RPGmaker 恐怖遊戲
+0. **生涯目標** — 100萬訂閱、與粉絲和成員保持良好關係、發行原創歌曲、為動畫/遊戲作曲、3D化、現場演出、設計自己的周邊商品
 
 1. **出道即百萬** — 出道直播中就達到10萬訂閱（100K）
 2. **繪畫實力** — 曾在《Passpartout》遊戲中3小時內通關，展現真正的繪畫天份
@@ -195,3 +217,5 @@
 - Twitter/X：https://twitter.com/pavoliareine
 - Instagram：https://www.instagram.com/pavoliareine/
 - Wikipedia：https://en.wikipedia.org/wiki/Hololive_Production
+- Hololive Wiki（fandom）：https://hololivevtuber.fandom.com/wiki/Pavolia_Reine
+- Hololive Wiki（unofficial）：https://hololive.wiki/wiki/Pavolia_Reine

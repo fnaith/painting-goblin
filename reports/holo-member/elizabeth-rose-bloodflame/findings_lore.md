@@ -53,9 +53,16 @@ From the Hololive Fan Wiki and community documentation:
 | Context | Phrase |
 |---------|--------|
 | Greeting | "Lovely to see you, to see you Lovely~!" |
+| Stream opening | "Ello Ello Ello~!" (Cockney dialect; drops 'h' as a Cockney shibboleth) |
 | Introduction | "OH- HOHOHOHO~! Roses are red, the fire of my heart is blue, also known as The Scarlet Queen, Harbinger of Order, Leader of -Justice-, I am Elizabeth Rose Bloodflame!" |
 | Farewell | "Parting is such sweet sorrow, but I will see you on the Morrow~!" |
 | Viewer greeting | "Huzzah!" |
+| Christmas tradition | Uploads a short "Queen's Speech" video on Christmas Day, paying homage to the British royal tradition |
+
+### Cockney Dialect Notes
+- Elizabeth is a standard RP (Received Pronunciation) speaker who learned Cockney for roleplay.
+- Famous Cockney shibboleth: "bottle of water" → "BO-OH-O-WO-ER"
+- Dropping the 'h' in words like "hello" → "ello"
 
 ---
 
@@ -76,6 +83,16 @@ A remix of "ABOVE BELOW" was released on January 2, 2025 using electric guitar a
 
 ### 3D Showcase
 Justice received its 3D showcase announced in June 2025, with Elizabeth participating in 3D concerts including hololive English 3rd Concert "All for One" and 4th Concert "Serendipity."
+
+### Queen's Speech Tradition
+On Christmas Day, Elizabeth uploads a short video as a "Queen's Speech," inspired by the British royal tradition of the monarch's annual Christmas message. This demonstrates her British cultural identity and serves as an annual fan tradition.
+
+### 2026 Timeline Highlights
+- **March 7, 2026:** hololive 7th fes. "Ridin' on Dreams" participation
+- **April 25, 2026:** 3D Birthday Live "NOW That's an 80s BOP!"
+- **June 20, 2026:** Original song "Serendipity" premiere
+- **June 29, 2026:** Original song "SUPERNOVA SUPER GIRL" premiere
+- **July 3-4, 2026:** hololive English 4th Concert "Serendipity"
 
 ---
 
@@ -122,6 +139,8 @@ Justice received its 3D showcase announced in June 2025, with Elizabeth particip
 - "RENEGADE"
 - "START AGAIN"
 - "Odyssey"
+- "Serendipity" (2026/06/20)
+- "SUPERNOVA SUPER GIRL" (2026/06/29)
 
 ### Cover Songs
 - "OTONABLUE" (originally by ATARASHII GAKKO!)
@@ -135,6 +154,8 @@ Justice received its 3D showcase announced in June 2025, with Elizabeth particip
 - **British mannerisms:** Formal speech patterns, politeness, references to British culture; streams in GMT
 - **Dramatic flair:** Her introduction speech ("OH- HOHOHOHO~! Roses are red...") is highly theatrical
 - **Thematic role:** Leader of Justice, stands for order and righteousness
+- **Cockney dialect:** British RP speaker who learned Cockney for roleplay; recognizable by dropped 'h' and "BO-OH-O-WO-ER" pronunciation of "bottle of water"
+- **Queen's Speech tradition:** Annual Christmas video tradition inspired by the British monarchy
 - **Voice talent:** Skilled singer with voice mimicry abilities — could translate into in-game voicing or powers
 - **Fan mascot:** A "Rosarian" mascot design exists, created by Elizabeth herself and illustrated by badger yekun, available in both unarmored and armored versions
 - **Relaxation motif:** Naps in comfy beds as a stress relief — a potential idle animation or recovery mechanic
@@ -166,3 +187,6 @@ Justice received its 3D showcase announced in June 2025, with Elizabeth particip
 
 8. **Twitch Channel**
    - https://www.twitch.tv/elizabethrosebloodflame
+
+9. **Seesaa Wiki (日本語)**
+   - https://seesaawiki.jp/hololive/d/Elizabeth%20Rose%20Bloodflame

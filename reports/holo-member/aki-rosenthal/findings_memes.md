@@ -21,6 +21,12 @@ Aki's trademark pigtails float due to "supernatural power" connected to another 
 ### Portal Between Thighs
 She can produce objects and materials from between her thighs — the nature of this "portal" is a running joke.
 
+### Detachable Pigtails
+In *Holo no Graffiti* shorts, her floating pigtails are depicted as detachable, removable accessories (consistent with the official lore that they are AI-powered "Aik" units). The pigtails can be taken off, passed around, and even used as tools by other characters.
+
+### "Giving Birth to Oozora Subaru"
+In a *Holo no Graffiti* animated short, Aki pulled Oozora Subaru out from between her thighs via the "Thigh Portal." The fan community immediately dubbed this "giving birth to Subaru," cementing the thigh portal meme.
+
 ### "No Nose" Meme
 Aki's original Live2D model lacked a visible nose, leading to a community meme where fans would "shitpost until she gets a nose." A memorable Reddit post series tracked this.
 
@@ -86,9 +92,7 @@ Aki was demonetized in December 2019, leading to the creation of a sub-channel. 
 ## Source URLs
 
 - https://hololive.wiki/wiki/Aki_Rosenthal (Hololive Fan Wiki)
+- https://hololivevtuber.fandom.com/wiki/Aki_Rosenthal (Fandom Wiki — pigtail detachability, Subaru birthing, 3D idol outfit)
+- https://seesaawiki.jp/hololivetv/d/%a5%a2%a5%ad%a1%a6%a5%ed%a1%bc%a5%bc%a5%f3%a5%bf%a1%bc%a5%eb (Seesaawiki Japanese Wiki)
 - https://old.reddit.com/r/Hololive/search?q=Aki+Rosenthal+memes+moments&t=all&sort=top&restrict_sr=on (Reddit search results)
 - KnowYourMeme search: https://knowyourmeme.com/search?q=aki+rosenthal (returned no dedicated entry)
-
----
-
-*Note: The Fandom wiki (virtualyoutuber.fandom.com) and KnowYourMeme direct entry returned access errors during research. The Hololive Fan Wiki (hololive.wiki) was the primary source for biographical and trivia information.*

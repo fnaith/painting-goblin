@@ -156,3 +156,8 @@
 
 - https://hololive.hololivepro.com/en/talents/ookami-mio/ (Official Hololive Profile)
 - https://hololive.wiki/wiki/Ookami_Mio (Hololive Fan Wiki — comprehensive personality, trivia, unit info)
+
+## Source Accessibility Notes
+- **seesaawiki.jp/hololivetv** — 404 Not Found; page for Ookami Mio could not be accessed
+- **hololive.wiki** — Successfully accessed and used as primary source; detailed personality, relationship, and meme data
+- **hololivevtuber.fandom.com** — 403 Forbidden; could not retrieve data

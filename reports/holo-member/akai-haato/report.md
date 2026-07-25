@@ -183,11 +183,59 @@
 
 ---
 
-## 九、資料來源
+## 九、Wiki 三源交叉比較分析
+
+### 9.1 各源獨有資料
+
+**hololive.wiki（Miraheze 英文粉絲維基）獨有：**
+- 完整專輯/單曲製作人名單（作曲家、編曲家、插圖繪師）
+- BGM 表（5 首，含製作人與使用場合）：`Guitar_Melancholy2`（PeriTune）、`ChoirWaltz_loop1`（PeriTune，用於 #BYEBYEHAACHAMA）、`赤井2分クッキング`（NE+，料理用）、`はあちゃまはあちゃまっちゃま`（REDALiCE，開場曲）、`Akai Haato Haachama hsp remix`（かんざきひろ，片尾曲）
+- 18 首翻唱曲目清單（含原唱 Credit）
+- 裝備/建模師資料：Live2D 入江燈/fumi、3D モデル ぽんぷ長
+- 完整瑣事：空中配信（忘記開串流 30 分鐘的事實確認）、芭蕾經驗、都道府県數目測試、多代 fanmark 演變史（❣️→❤️→❤️‍🔥）、HoloTalk 16 項偏好選擇完整列表
+- 完整的 85 條參考文獻 URL
+- 頁面最後編輯於 2026 年 7 月 19 日
+
+**hololivevtuber.fandom.com 獨有：**
+- 星川サラ（Nijisanji）曾試鏡 Haato 角色
+- 2024 年 4 月假畢業預告（實為新服裝預告）
+- 2025 年因誤訊息與健康問題長期休止
+- 菲律賓 Jollibee 訪問
+- 對 frustration-game（バカゲー、糞ゲー）的偏愛
+- Alan Walker 為最喜歡的音樂人
+- 多個關係組合名：HololiveAustralia、HaaWata、HoloCHAOS、Karashi-gumi 等
+- 詳細時序包含 2024-2026 年服裝披露與公司聲明
+
+**seesaawiki.jp（日本維基）：**
+- 此來源遭遇 Shift-JIS 編碼問題無法完整擷取文字，待日後以正確編碼重新獲取
+
+### 9.2 跨源矛盾
+
+| 項目 | hololive.wiki | fandom.com | 現有報告 |
+|------|--------------|------------|---------|
+| 年齡 | 19（現實年齡） | — | 24（設定年齡） |
+| Twitter 創建日 | 2018-05-20 | 2018-05-21 | — |
+| 「I'm Haachama」起源 | 2020年 | 2020年1月（精確至月） | 2020年 |
+| 服裝命名 | 序數（1st、2nd…） | 主題式命名 | — |
+| RED HEART 發行日 | MV 2020-06-06 | 完整版 2021-01-10 | — |
+
+### 9.3 現有報告缺口
+
+- 缺少翻唱曲與原創曲詳細製作名單
+- 缺少 BGM 表與其使用場合
+- 缺少與 Nijisanji 藝人的關聯（星川サラ）
+- 缺少 2022-2026 年部分里程碑與服裝變更
+- 缺少海外旅行細節（澳洲、新加坡、菲律賓、Jollibee）
+- 缺少部分關係組合記述
+
+---
+
+## 十、資料來源
 
 - [hololive官方網站（日文）](https://hololive.hololivepro.com/talents/akai-haato/)
 - [hololive官方網站（英文）](https://hololive.hololivepro.com/en/talents/akai-haato/)
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Akai_Haato)
 - [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Akai_Haato)
 - [Wikipedia - Akai Haato](https://en.wikipedia.org/wiki/Akai_Haato)
+- [seesaawiki.jp hololivetv](https://seesaawiki.jp/hololivetv/)
 - [HAACHAMA Ch. YouTube頻道](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg)

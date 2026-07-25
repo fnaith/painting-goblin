@@ -1,6 +1,6 @@
 # 轟はじめ (Todoroki Hajime) 完整角色設定報告 — 同人遊戲用
 
-> 報告日期：2026年6月 | 資料來源：hololive 官方網站、粉絲Wiki、剪輯頻道
+> 報告日期：2026年7月 | 資料來源：hololive 官方網站、hololive.wiki、hololivevtuber.fandom.com、seesaawiki.jp/hololivetv（無獨立頁面）、剪輯頻道
 
 ---
 
@@ -12,24 +12,33 @@
 | **別名/自稱** | 番長、resident badass |
 | **所屬** | hololive DEV_IS → ReGLOSS |
 | **出道日** | 2023年9月10日 |
+| **頻道創建日** | 2023年7月21日 |
 | **生日** | 6月7日（雙子座） |
+| **年齡** | 24歲 |
 | **身高** | 155cm |
 | **粉絲名** | 真っす組 (Massugumi) |
+| **會員名** | ぶんぶん部 (Bunbun bu) |
 | **應援標記** | 🐧⚡（企鵝+閃電） |
 | **角色設計** | Aちき (Achiki) - [Twitter](https://twitter.com/atikix) |
+| **角色設計備註** | 與VSPO!一之瀬うるは（Ichinose Uruha）同為Aちき設計 |
 | **搭檔** | ばんぺん (Banpen) — 每天教她如何成為番長的夥伴 |
 | **標籤** | 直播 #ぶんぶんばんちょー / 粉絲藝術 #はじめ武勇伝 |
 | **頻道** | [YouTube](https://www.youtube.com/@TodorokiHajime) / [Twitter](https://twitter.com/todoroki_hajime) |
+
+### 名稱由來
+- **轟（Todoroki）**：咆哮、吶喊、轟鳴
+- **はじめ（Hajime）**：開始、開端
+- 全名寓意「以一聲轟鳴開始」，與番長角色設定高度契合
 
 ---
 
 ## 二、外貌設定（適合遊戲角色建模）
 
 ### 基本外觀
-- **髮型**：白色/淺色短髮，造型俐落
-- **服裝主色調**：白、紅、黑
+- **髮色**：極淺金色（近乎白色）漸變為淺紫色
+- **髮型**：短鮑伯頭，後方紮成兩個半馬尾
+- **服裝**：金屬紫色外套內搭白色T恤，配以紅黑色調細節
 - **標誌性配件**：紅色圍巾（番長風）
-- **風格**：融合日式番長外套與現代街頭風
 - **追加造型**：眼鏡版本（2024年10月推出）
 
 ### 表情特徵
@@ -71,12 +80,16 @@
 
 | 類型 | 台詞 | 使用時機 |
 |------|------|---------|
+| **觀眾招呼** | 「こんちくわー」 | 開場/觀眾打招呼 |
 | **登場台詞** | 「ブンブンバンチョー！押忍！」 | 登場/自我介紹 |
 | **英語版** | 「Vroom vroom vroom! Resident badass, Todoroki Hajime!」 | 帥氣場合（但英文很破） |
 | **嬰兒語** | 「バブ〜」 | 放鬆/開心/撒嬌時不自覺說出 |
 | **招牌口號** | 「はじめの名にかけて！」 | 下定決心時 |
 | **害羞時** | 「え、ちょ、待って！」 | 被誇獎時 |
 | **驚嚇時** | 「うわあああっ！」 | 驚嚇反應 |
+| **收尾** | 「ばいばーい！」 | 結束/告別 |
+| **觀眾告別** | 「おつばんちょー」 | 觀眾留言使用 |
+| **待機用語** | 「押忍！」 | 等待時 |
 
 ---
 
@@ -150,6 +163,18 @@
 
 ## 七、重要事件年表（遊戲劇情素材）
 
+### YouTube 訂閱里程碑
+| 里程碑 | 日期 |
+|--------|------|
+| 200,000 訂閱 | 2023-10-01 |
+| 250,000 訂閱 | 2023-10-30 |
+| 300,000 訂閱 | 2023-12-14 |
+| 350,000 訂閱 | 2024-01-15 |
+| 400,000 訂閱 | 2024-03-05 |
+| 450,000 訂閱 | 2024-04-21 |
+| 500,000 訂閱 | 2024-06-27 |
+| 1,000,000 訂閱 | 2025-08-06 |
+
 ### 2023年
 - **9月10日**：出道，作為ReGLOSS一員開始活動
 - **9月**：發行出道曲《瞬間ハートビート》
@@ -207,3 +232,11 @@
 8. Holoearth 2周年資訊：https://hoeoearth.com/en/news/regloss2nd/
 9. hololive官方音樂頁面：https://hololive.hololivepro.com/en/music/
 10. Personality Database：https://www.personality-database.com/profile/1651979/todoroki-hajime--virtual-youtubers-mbti-personality-type
+11. hololive.wiki：https://hololive.wiki/wiki/Todoroki_Hajime（訂閱里程碑、翻唱曲、直播用語、共同繪師資訊）
+12. hololivevtuber.fandom.com：https://hololivevtuber.fandom.com/wiki/Todoroki_Hajime（名稱由來、外貌細節、會員名、頻道創建日）
+13. seesaawiki.jp/hololivetv：https://seesaawiki.jp/hololivetv/（404 — 無轟はじめ獨立頁面，僅有ReGLOSS團體頁面）
+
+### 來源覆蓋度說明
+- **hololive.wiki**：提供了訂閱里程碑時間線、翻唱曲目（食虫植物、ツッパリHigh School Rock'n Roll）、直播固定用語表格、共同繪師資訊（與VSPO!一之瀬うるは同繪師）
+- **hololivevtuber.fandom.com**：提供了名稱Etymology、更精確的外貌描述（淺金漸紫髮色、鮑伯頭半馬尾、金屬紫外套）、頻道會員名（ぶんぶん部）、頻道創建日期（2023-07-21）
+- **seesaawiki.jp/hololivetv**：確認無轟はじめ獨立頁面，多方編碼嘗試均返回404

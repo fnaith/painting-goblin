@@ -4,6 +4,8 @@
 > - [Hololive 官方网站](https://hololive.hololivepro.com/en/talents/ninomae-inanis/)
 > - [Virtual YouTuber Wiki (Fandom)](https://virtualyoutuber.fandom.com/wiki/Ninomae_Ina'nis)
 > - [Wikipedia](https://en.wikipedia.org/wiki/Ninomae_Ina%27nis)
+> - [seesaawiki.jp (日本Hololive非官方Wiki)](https://seesaawiki.jp/hololivetv/d/Ninomae%20Ina%27nis)
+> - [hololivevtuber.fandom.com (Hololive Fandom Wiki)](https://hololivevtuber.fandom.com/wiki/Ninomae_Ina%27nis)
 
 ---
 
@@ -155,8 +157,11 @@ Myth 的 lore 设定：四位神话生物由侦探 Watson Amelia 调查。
 ## 9. 趣闻 (Trivia)
 
 - 日文名字"一伊那尓栖"中，**Ninomae** 写作汉字"一"（意为"1"），这是一个 **nanori (名乗り)** 读音梗 → "ni no mae" = "before two"
+- **"Inanis"** 是拉丁语，意为 **"虚无/空" (empty/void)**，致敬中世纪拉丁诗歌《O Fortuna》以及《Final Fantasy VII》的《One-Winged Angel》
+- 她是 **加拿大人**，拥有 **韩裔血统**，会说法语
 - Ina 头顶的紫色 flap 在出道直播中被误认为是耳朵，她在出道一周年直播中为此自我吐槽
 - Ina 自称自己是"普通人类"，但也多次暗示自己其实也是 Takodachi
+- Ina 是 **r/Hololive 的版主**之一
 - Takodachi 的眼睛并不是一直闭着的，只是很细
 - Ina 的出道直播前超过 24 小时未睡，她认为这让她比平时更健谈
 - 她曾说自己不会唱歌，但现在已拥有多首原创歌曲和 EP

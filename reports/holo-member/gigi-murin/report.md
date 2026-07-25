@@ -9,11 +9,22 @@
 | **出道日** | 2024 年 6 月 22 日 |
 | **生日** | 10 月 18 日 |
 | **身高** | 153 cm |
+| **體重** | 150 lbs |
+| **品牌色** | #cd9328 / #fdb440 |
 | **繪師** | 巻羊（Makihitsuji / @rollsheeeep） |
 | **Live2D 建模** | おつくえ（otsukue / @otsukue） |
 | **粉絲名** | Gremurin / Grems |
 | **推しマーク** | 👧 |
 | **稱號** | The Chaser、GG、The Fister |
+
+### 訂閱里程碑
+| 里程碑 | 日期 |
+|--------|------|
+| 10 萬 | 2024 年 6 月 22 日（出道日） |
+| 20 萬 | 2024 年 6 月 25 日 |
+| 30 萬 | 2024 年 9 月 30 日 |
+| 40 萬 | 2025 年 2 月 23 日 |
+| 50 萬 | 2025 年 9 月 17 日 |
 
 ### 常用 Hashtag
 - `#GigiMurin` — 綜合
@@ -22,6 +33,23 @@
 - `#rkggk` — 粉絲繪圖
 - `#GGPlays` — 影片剪輯
 - `#Gigiez` — 迷因
+
+### 時區
+- JST-16（UTC-7，太平洋夏令時間）
+- 日本夏令時間期間：JST-17
+
+### 喜歡的事物
+- **遊戲**：Minecraft、Final Fantasy 系列、MapleStory、League of Legends、FFXIV、Ragnarok Online、各種 MMO、ARPG、Nintendo 遊戲、獨立遊戲、節奏遊戲、Mario Party、100% Orange Juice
+- **媒體**：天官賜福（TGCF）、壞蛋聯盟（The Bad Guys）、Ariana Grande
+- **其他興趣**：Counter Strike、Call of Duty
+
+### 討厭的事物
+- 番茄（Tomatoes）
+
+### 家庭
+- 有一位「最棒的媽媽」（the best mom）
+- 原創歌曲 "I'll still be here" 是獻給母親的禮物
+- 不喜歡談論家庭細節，並要求粉絲不要過問
 
 ---
 
@@ -79,6 +107,9 @@ Gigi 與同團的 Cecilia Immergreen 關係極好，粉絲稱她們為「**腦�
 - "Gi Murin!"
 - "The Fister"
 
+### BGM / 直播音樂
+- 開場／結尾 BGM："Melon Beat End Roll" by IchinoseSound
+
 ### 主要遊戲內容
 - Minecraft
 - League of Legends
@@ -94,9 +125,12 @@ Gigi 與同團的 Cecilia Immergreen 關係極好，粉絲稱她們為「**腦�
 - "MONSTER"
 - "RENEGADE"
 - "All for One"
-- "I'll still be here"
+- "I'll still be here"（獻給母親的歌曲）
 - "Bright Tonight"
-- "CCGG MADNESS"
+- "CCGG MADNESS"（與 Cecilia Immergreen 合唱，2026 年 5 月）
+- "Serendipity"（EN 全體曲，2026 年 6 月）
+- "enough"（2026 年 6 月）
+- "SUPERNOVA SUPER GIRL"（Justice 團體曲，2026 年 6 月）
 - "Odyssey"（團體曲）
 - "ABOVE BELOW -Far East Remix-"（團體曲）
 
@@ -136,6 +170,22 @@ Gigi 曾提到自己閱讀 BL 漫畫是「for the love of the game」（為了�
 ### 🏳️‍🌈 關於 asexual 的討論
 社群中有部分粉絲注意到繪師巻羊（Makihitsuji）筆下的兩名 VTuber 角色都被設定為無性戀（ace），因此引發了對 Gigi 是否也是 ace 的討論。
 
+### 🦖 Monster Hunter Wilds 合作服裝（2026 年 1 月 6 日）
+- Gigi 發布了 Monster Hunter Wilds 合作服裝
+- 服裝設計由同期生 Raora Panthera 創作
+- 建模由 otsukue 負責
+
+### 🎪 hololive 7th fes（2026 年 3 月 7 日）
+- 在 hololive 7th fes "Ridin' on Dreams" DAY2 的 Hololive STAGE2 演出
+
+### 🎤 CCGG MADNESS - 與 Cecilia Immergreen 的 3D LIVE（2026 年 5 月 17 日）
+- Gigi 與 Cecilia 舉辦了聯合 3D LIVE「THE CCGG NETWORK」
+- 發布了原創歌曲 "CCGG MADNESS" 及 MV
+- 進一步鞏固了她們「腦腐二人組」的招牌形象
+
+### 🎶 hololive English 4th Concert -Serendipity-（2026 年 7 月 3-4 日）
+- 與全體 Hololive English 成員一同參與兩天的演出
+
 ---
 
 ## 七、團體關係
@@ -158,6 +208,7 @@ Gigi 曾提到自己閱讀 BL 漫畫是「for the love of the game」（為了�
 
 - **YouTube**：https://www.youtube.com/@holoen_gigimurin
 - **X（Twitter）**：https://x.com/gigimurin
+- **Twitch**：https://www.twitch.tv/gigimurin
 
 ---
 

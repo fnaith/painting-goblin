@@ -28,7 +28,7 @@
 |------|------|
 | **名稱（羅馬拼音）** | Koseki Bijou |
 | **名稱（日文）** | 古石ビジュー |
-| **暱稱** | Biboo（最常用）、Beejoe |
+| **暱稱** | Biboo（最常用）、Beejoe、Beebs、Bibad（Kobo Kanaeru稱呼） |
 | **稱號** | "Jewel of Emotions"（情感之寶石） |
 | **所屬團體** | hololive English -Advent- |
 | **出道日** | 2023年7月30日 |
@@ -58,6 +58,11 @@
 | **#pebblesona** | 粉絲原創角色 |
 | **#holoAdvent** | Advent小組標籤 |
 
+### 其他基本資料
+- **星座**：牡羊座（Aries）
+- **中文名**：古石碧珠（Gushi Bizhu）
+- **日文名構成**：姓「古石」（Ko-Seki，意為「古老之石」）、名「ビジュー」（Bijou，法語「珠寶」）
+
 ### 製作人員
 
 | 角色 | 名稱 | 社交連結 |
@@ -72,6 +77,8 @@
 ### 官方背景故事
 
 > *"Koseki Bijou是由所有人類情感的結晶所形成，被稱為『情感之寶石』。經過漫長歲月，美麗與汙穢的情感在高壓下交織融入她的體內，產生了無與倫比的光輝。她古老而神秘的 brilliance 引發了貪婪群眾之間的爭鬥，人們為了爭奪她的所有權而戰。這導致她被秘密囚禁，遠離人類的觸及。當她遇到人們，特別是他們的美好情感時，她的光芒似乎會更加耀眼。"*
+>
+> **補充設定（Hololive Wiki）**：Bijou與Advent同期成員（Shiori Novella, Nerissa Ravencroft, Fuwawa & Mococo Abyssgard）一同逃離了監獄，五人 collectively 成為hololive English -Advent-。這補完了原本僅提及「被囚禁」的設定，增加了「集體逃脫」的敘事。
 
 ### 世界觀核心要素
 
@@ -175,7 +182,7 @@
   - *All for One*
   - *Prism Magic*
 - **小組歌曲（Advent）**：
-  - *Rebellion*, *Sirens*, *Breaking Dimensions*, *Our Bright Parade*
+  - *Rebellion*, *Sirens*, *Breaking Dimensions*, *Our Bright Parade*, *Odyssey*, *Color Rise Harmony*
 - 定期卡拉OK直播
 - 「Bury the Light」迷因卡拉OK翻唱（自創歌詞："Sticking Out Your Gyatt For Nerizzler"）
 
@@ -244,6 +251,8 @@
 | **忘記本名** | 連成員都叫Biboo，Bijou成了次要名字 |
 | **最短EN成員** | 140cm身高笑話 |
 | **Gen Z翻譯官** | 向年長成員解釋網路迷因 |
+| **Biboo Taxxed** | 在直播中突然唱起「Sticking Out Your Gyatt For Nerizzler」惡搞歌，自稱"getting Biboo Taxxed"。完整歌詞："Sticking out your gyatt for Nerizzler / You're so Bau Bau / You're so Biboo Tax / I just wanna be your Shiori" |
+| **"bweh"** | 招牌狀聲詞，用於表達無奈或可愛反應 |
 
 ---
 
@@ -256,6 +265,8 @@
 | 2023年7月30日 | 出道 | Advent第二位出道的成員 |
 | 2023年12月12日 | **500,000訂閱** | 在《惡魔獵人4》直播中達成 |
 | 2024年11月8日 | **700,000訂閱** | Twitter上宣布 |
+| 2025年3月23日 | **800,000訂閱** | Twitter上宣布 |
+| 2025年11月5日 | **900,000訂閱** | Twitter上宣布 |
 
 ### 獎項與提名
 
@@ -270,6 +281,8 @@
 - **hololive 7th fes. "Ridin' on Dreams"**（2026）— Stage 4 演出
 - **hololive English 3rd Concert "All for One"** — Advent及全HoloEN參與
 - **hololive English 4th Concert "Serendipity"**（2026年7月）— 已宣布
+- **CODE:81800 2D新衣裝**（2025年1月）— 新造型公開，標籤名致敬暱稱「Biboo」
+- **Monster Hunter Wilds聯名造型** — 由Ninomae Ina'nis設計的聯名服裝
 - 多項聯名商品及合作咖啡廳（韓國ANIPLUS、馬來西亞DOKO KOKO CAFÉ、日本快閃店）
 
 ---
@@ -299,6 +312,10 @@
 - 粉絲名稱為**Pebbles（小石子）**，呼應她的寶石主題
 - 粉絲原創角色稱為「pebblesonas」
 - 社群以健康、正向氛圍著稱
+
+### 同人文化定位
+- 被粉絲和wiki社群譽為「Hololive EN的迷因女王」（meme queen），地位可比肩白上吹雪（Shirakami Fubuki）
+- Bijou是Advent中唯一姓名採用**日文順序**（姓在前）的成員
 
 ### 主要內部笑話
 
@@ -364,6 +381,8 @@
 - **Live2D（Otsukue）**：https://twitter.com/otsukue
 - **MMD模型**：https://3d.nicovideo.jp/works/td94457
 - **The Vtuber Awards**：https://www.thevtuberawards.com/winners（Wayback Machine存檔）
+- **Hololive Fan Wiki**：https://hololive.wiki/wiki/Koseki_Bijou
+- **Hololive Fandom Wiki**：https://hololivevtuber.fandom.com/wiki/Koseki_Bijou
 
 ---
 

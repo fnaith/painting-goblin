@@ -77,6 +77,8 @@
 ### 直播風格
 - 以歌唱耐久直播 (Karaoke endurance) 著稱
 - 雜談內容輕鬆可愛，常自嘲身高
+- 開場白「すうの充電たりてる？」(你的Su充電滿了嗎？)
+- 告別語「おつすうありがとうバイバイ」(Otsusuu = おつ + Su)
 - 與FLOW GLOW成員聯動時展現團體默契
 - 擅長跳舞，常表演舞蹈
 
@@ -171,6 +173,7 @@
 
 ## 七、資料來源
 - Hololive官方網站: https://hololive.hololivepro.com/en/talents/mizumiya-su/
+- Hololive Fan Wiki: https://hololive.wiki/wiki/Mizumiya_Su
 - Virtual YouTuber Wiki: https://virtualyoutuber.fandom.com/wiki/Mizumiya_Su
 - YouTube頻道: https://www.youtube.com/@MizumiyaSu
 - X (Twitter): https://x.com/mizumiya_su

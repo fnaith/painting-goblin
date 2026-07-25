@@ -89,7 +89,13 @@ La+ Darknesss 是秘密結社 holoX 的創立者兼總帥。自稱來自**拉普
 - **烏鴉本體說**：粉絲戲稱她頭上的烏鴉才是本體
 - **hololive 最矮**：139cm 的身高讓她常被歸入「holobabies」組
 - **蝙蝠俠採訪**：2022年3月採訪《蝙蝠俠》主演 Robert Pattinson 引發話題
+- **初推文**：2021年第一條推文「吾輩怪しい者でないぞ(^^)」（我不是可疑人物），與中二病設定形成反差
 - **常闇トワ的眷屬**：自稱是 Towa 的狂熱粉絲
+- **「吾輩」的使用者比較**：一人稱「吾輩」除拉普拉斯外，任天堂的庫巴（Bowser）及《女神異聞錄5》摩爾加納（Morgana）也是知名使用者
+- **山田的擴散路徑**：除粉絲玩梗外，Cookie☆文化圈也有使用YMD略稱的習慣，使「山田」這個綽號跨圈子傳播
+- **影山シエン比較**：與 holostars 影山シエン在配信開場風格、黑紫背景色調上有相似之處，粉絲之間常有比較
+- **紫咲シオン相似度**：性格與紫咲シオン類似，被部分粉絲歸為同類型
+- **身高對比**：139cm 比姬森璐娜（Himemori Luna）矮 1cm，比 Gawr Gura 矮 2cm
 - **2022年12月**因心理健康問題暫停活動，2023年2月回歸
 
 ---
@@ -112,6 +118,7 @@ La+ Darknesss 是秘密結社 holoX 的創立者兼總帥。自稱來自**拉普
 - **2023年7月3日** — 達成百萬訂閱
 - **2024年2月23日** — 首次個人演唱會「WakuWaku DARK NIGHTMARE」（與日清U.F.O.合作）
 - **2025年1月** — 在《Eminence in Shadow: Master of Garden》手遊中作為可玩角色登場
+- **2025年7月24日** — 與跨媒體企劃《2.5次元的誘惑（2.5 Dimensional Seduction）天使們的舞台》遊戲合作
 - **2025年12月** — holoX 宣布首張團體專輯及首次演唱會
 - **2026年4月29日** — holoX 首次演唱會「First MISSION」@ Pia Arena MM
 - **2026年5月3日** — 被任命為**栃木縣未來大使**（VTuber 首位）
@@ -155,6 +162,8 @@ La+ Darknesss 是秘密結社 holoX 的創立者兼總帥。自稱來自**拉普
 - hololive 官方網站：https://hololive.hololivepro.com/en/talents/la-darknesss/
 - Virtual YouTuber Wiki：https://virtualyoutuber.fandom.com/wiki/La%2B_Darknesss
 - hololive wiki：https://hololive.wiki/wiki/La%2B_Darknesss
+- Hololive Fandom Wiki：https://hololivevtuber.fandom.com/wiki/La%2B_Darknesss
 - Wikipedia（日文）：https://ja.wikipedia.org/wiki/ラプラス・ダークネス
 - Social Blade：https://www.socialblade.com/youtube/channel/UCENwRMx5Yh42zWpzURebzTw
 - YouTube 頻道：https://www.youtube.com/@LaplusDarknesss
+- 旧任務指定的 seesaawiki.jp/hololivetv：無法存取（HTTP 400）

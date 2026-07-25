@@ -23,5 +23,11 @@ Hololive ID member Moona Hoshinova 的相關資料，包含官方設定/個人�
 - Career milestones (subscriber milestones, 3D debut, etc.)
 - Target: event/scenario ideas for game setting
 
+## Source URLs Referenced
+- [Hololive Official — Moona Hoshinova](https://hololive.hololivepro.com/en/talents/moona-hoshinova/)
+- [Hololive Fan Wiki — Moona Hoshinova](https://hololive.wiki/wiki/Moona_Hoshinova)
+- [Seesaawiki Japanese Wiki — Moona Hoshinova](https://seesaawiki.jp/hololivetv/d/Moona%20Hoshinova)
+- [Hololive VTuber Fandom Wiki](https://hololivevtuber.fandom.com/wiki/Moona_Hoshinova) (⚠️ Blocked — returned HTTP 403, could not access)
+
 ## Synthesis Approach
 Compile findings into a structured character profile reference suitable for game development, organized by visual design, personality, and story/lore elements.

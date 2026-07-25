@@ -20,7 +20,8 @@
 - **Live2D 骨架**: rariemonn
 - **3D 模型**: 雨谷怜 (Rei Amagai) — 2023年2月18日首次公開
 - **粉絲名稱**: Takodachis（タコダチ，由「tako」章魚 +「tomodachi」朋友組成）
-- **語言能力**: 英語、日語、韓語三語流利
+- **語言能力**: 英語、日語、韓語、法語
+- **國籍**: 加拿大（韓裔）
 - **職業**: 專業插畫家兼 VTuber
 - **頻道訂閱數**: 165 萬（截至 2026年5月）
 - **總觀看次數**: 1.93 億（截至 2026年5月）
@@ -51,7 +52,7 @@ Takodachis 在紐約時代廣場租下 Thomson Reuters 看板，每小時播放 
 Myth 成員包括：**Ninomae Ina'nis、Mori Calliope、Takanashi Kiara、Watson Amelia、Gawr Gura**。設定上，Gura、Kiara、Calliope 和 Ina 是四個受神話生物啓發的角色，由偵探 Amelia 調查。
 
 ### 1. 與 Mori Calliope 的連結
-- Ina 作爲專業插畫家，曾爲 Calliope 的出道繪製藝術作品。
+- Ina 作爲專業插畫家，曾爲 Calliope 的出道 EP《DEAD BEATS》繪製封面藝術作品。
 - Calliope 爲 Ina 的第四首原創曲「Tako∞TAKOVER」作詞，展現兩人深厚的創作默契。
 
 ### 2. 與 Takanashi Kiara 的合作
@@ -69,6 +70,9 @@ Myth 成員包括：**Ninomae Ina'nis、Mori Calliope、Takanashi Kiara、Watson
 ### 5. 3D 模型接力發表
 - 2023年2月18日，Ina 成爲 Myth 中第一位公開 3D 模型的成員。
 - 隨後各成員接力發表，最終於 2023年3月4日五位成員以 3D 型態合體直播。
+
+### 6. TRPG《Hunter Myth: Myth Breakers》
+- Ina 在 hololive 的桌上角色扮演遊戲《Hunter Myth: Myth Breakers》中飾演角色 **Yuul B. Alwright**，展現她的角色扮演與即興創作能力。
 
 ### 6. 演唱會共同演出
 - **Connect the World**（2023年7月2日，YouTube Theater）：hololive EN 首場演唱會。
@@ -184,6 +188,13 @@ Ina 經常開設繪畫直播（#inART），一邊和 Takodachis 聊天一邊創�
 ### 7. 畫筆召喚儀式
 2023年2月的 3D 展示中，Ina 使用畫筆與畫架進行「召喚」，成功「召喚」出 JP 成員的 3D 模型，展現繪畫在 her 角色設定中的核心地位。
 
+### 8. 個人趣聞
+- **口癖「humu」**：Ina 在思考時經常發出「humu」的聲音，已成爲她的標誌性聲音，並擁有專屬訂閱者表情（hapa-inahumu）
+- **Reddit 版主**：她是 r/Hololive 的版主之一
+- **家庭成員**：在直播中提到過家人——Nini（祖母）、Mama（母親，會收看她的直播）、Papa（父親，身材高大）、Nana（妹妹，會一些日語）
+- **人生目標**：畫遍所有 Hololive 成員、提升日語和歌唱能力、征服世界
+- **名字之謎**：「Inanis」爲拉丁語「虛無／空」之意，致敬《O Fortuna》與《Final Fantasy VII》的《One-Winged Angel》
+
 ---
 
 ## 參考來源
@@ -214,3 +225,9 @@ Ina 經常開設繪畫直播（#inART），一邊和 Takodachis 聊天一邊創�
 
 9. Anime Trending - Why They Can't See She's Just A Normal Girl: Welcome To The World Of Ninomae Ina'nis (2026/05/26)
    https://anitrendz.net/news/2026/05/26/interview-ninomae-inanis/
+
+10. seesaawiki.jp - Hololive非官方Wiki（日本）:
+    https://seesaawiki.jp/hololivetv/d/Ninomae%20Ina%27nis
+
+11. hololivevtuber.fandom.com - Hololive Fandom Wiki:
+    https://hololivevtuber.fandom.com/wiki/Ninomae_Ina%27nis

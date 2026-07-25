@@ -69,7 +69,13 @@ Her final stream was an emotional farewell that drew massive viewership. The "Wo
 - **"Rise"** (Aug 23, 2022) — collab single
 - **"Connect the World"** (June 17, 2023) — HoloEN 1st Concert theme
 - **"Our Promise"** (June 18, 2024)
-- **"It's Not a Phase"** (Dec 22, 2024) — her final original song, a full-circle emo callback
+- **"It's Not a Phase"** (Dec 22, 2024) — collab single with Nanashi Mumei, full-circle emo callback
+- **"Odyssey"** (Dec 27, 2024) — her actual final solo original song, released just days before graduation
+- **"ENigmatic Recollection"** (Aug 23, 2024) — HoloEN group song
+- **"Breaking Dimensions"** (Aug 14, 2024) — EN 2nd Concert theme
+
+### Awards
+- **Best ASMR Streamer** — VTuber Awards 2024
 
 ---
 
@@ -106,6 +112,10 @@ As part of the original Council (with Sana, Kronii, Mumei, Baelz), Fauna partici
 - **Mascot:** Her mascot is named **Nemu**.
 - **ASMR Specialty:** Her ASMR streams are considered some of the best in Hololive EN, combining ear cleaning with long-form conversational segments.
 - **"I prefer animals to plants":** Fauna has noted that her name is Fauna, not Flora — she represents animal life specifically.
+- **Oshi Mark origin:** Her personal emoji 🌿 was originally a candidate for Shishiro Botan's emoji before being assigned to Fauna.
+- **Self-Perceived Inferiority:** Fauna revealed during her graduation period that she had always felt she was the least talented musically in Council/Promise, and was surprised to still have fans when everyone else had already reached 1 million subscribers.
+- **Post-Graduation Privacy:** After graduation, some of her videos were made private (standard Hololive alumni treatment).
+- **Snail is a Dog:** Despite the name "Snail," her pet Snail is actually a 10-year-old dog (Clover is a 21-year-old cat).
 
 ---
 
@@ -155,14 +165,21 @@ Saplings are known for being a relatively chill, wholesome community, reflecting
 | Mar 9, 2023 | 700K subscribers (unarchived karaoke) |
 | Mar 19, 2023 | hololive 4th fes. "Our Bright Parade" — idol 3D debut |
 | Jun 4, 2023 | Main 3D model debut on HoloGra ep. 211 |
+| Jul 2-3, 2023 | hololive English 1st Concert "Connect the World" |
 | Oct 9, 2023 | Joined **hololive English -Promise-** |
 | Nov 28, 2023 | 800K subscribers |
 | Feb 25, 2024 | Goth outfit reveal |
+| Mar 17, 2024 | hololive 5th fes. "Capture the Moment" DAY2 |
 | Jun 18, 2024 | Original song "Our Promise" |
+| Aug 14, 2024 | "Breaking Dimensions" single release |
+| Aug 23, 2024 | "ENigmatic Recollection" group song |
+| Aug 24-25, 2024 | hololive English 2nd Concert "Breaking Dimensions" |
 | Dec 1, 2024 | **Graduation announced** |
-| Dec 22, 2024 | Final original song "It's Not a Phase" |
+| Dec 22, 2024 | Collab single "It's Not a Phase" (with Mumei) |
+| Dec 27, 2024 | Final solo original "Odyssey" |
 | Dec 28, 2024 | **1,000,000 subscribers** |
 | Jan 4, 2025 | **Graduation / final stream** |
+| Apr 4, 2025 | Membership closed |
 
 ---
 

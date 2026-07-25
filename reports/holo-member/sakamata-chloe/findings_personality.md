@@ -7,7 +7,11 @@ Sakamata Chloe is a female Japanese VTuber who debuted on November 29, 2021 as p
 - **Birthday:** May 18
 - **Height:** 148 cm
 - **Illustrator:** Parsley (パセリ)
-- **Fan Name:** Handlers
+- **Live2D Modeler:** 入江燈 (jenny / IrisLight)
+- **3D Modeler:** ユウコテツ (Yukotetsu)
+- **Fan Name:** Handlers / Zookeepers (飼育員さん)
+- **Nickname:** Shachiken (シャチけん)
+- **Community:** Orcart (オーカート)
 - **Fan Mark:** 🎣
 - **Stream Tag:** #またまたさかまた
 - **Fan Art Tag:** #さかまた飼育日記
@@ -24,6 +28,9 @@ Chloe's official character description presents a **contrast between her cold ex
 - **Sleepy / low-energy vibes:** When asked what she does off-stream, her answer was simply "I sleep!" She lists "sleep" among her likes.
 - **Passionate about music:** She described enjoying composing, writing lyrics, and singing. She also started voice training to improve.
 - **Quirky sense of humor:** Known for sudden outbursts, weird voices, and laughing at her own jokes. Her streams often had chaotic moments punctuated by deadpan deliveries.
+- **PON (ぼんやり / spaced-out):** Frequently spaced out and prone to absent-minded moments, adding to her gap moe appeal.
+- **Fiercely competitive:** Dislikes losing, especially at games. Known as a "game master" who excels at board games, Gomoku (五目並べ), and Othello (リバーシ).
+- **Introspective / overthinker:** Often described as someone who overthinks and gets lost in her own thoughts, correlating with her guarded persona.
 
 ---
 
@@ -54,7 +61,8 @@ Her entire streaming vocabulary revolves around **orca/fish/eating metaphors**, 
 
 - **Streaming style:** Laid-back, often sleepy, with a mix of ASMR-like quiet moments and sudden chaotic energy. Known for "zatsudan" (casual talk) streams where she rambles with fans.
 - **Fan interactions:** Uses the term "Handler" for fans, maintaining the Secret Society holoX roleplay dynamic. Responds to superchat readings with genuine reactions.
-- **Community name:** "Handlers" — fans act as her handlers/overseers within the holoX roleplay lore.
+- **Community name:** "Handlers" — fans act as her handlers/overseers within the holoX roleplay lore. Also called "Orcart" (オーカート), a portmanteau of "orca" and "heart" coined by fans.
+- **Music taste:** Enjoys Sia, Bruno Mars, Yorushika, ZUTOMAYO. Her passion for music extends beyond listening — she composes, writes lyrics, and actively pursued voice training.
 - **Collabs:** Frequently collabed with fellow holoX members (La+ Darknesss, Takane Lui, Hakui Koyori, Kazama Iroha) and other hololive talents. Her dynamic with Koyori was particularly noted.
 - **3D debut:** She cited her 3D reveal stream as the one she'd recommend to first-time viewers, saying "I feel like I put a lot of myself into it."
 - **Retirement:** Retired from regular streaming in January 2025, but remains affiliated with hololive. This was a significant emotional moment for the community.

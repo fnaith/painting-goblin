@@ -84,13 +84,30 @@
 ## Relationships & Unit Names
 
 | Unit Name | Members |
-|---|---|
+|---|---|---|
 | **AyaSuba** | Ayame + Oozora Subaru |
 | **FAMS** | Shirakami **F**ubuki, **A**yame, Ookami **M**io, Oozora **S**ubaru |
 | **Manji-Gumi** (卍組) | Ayame + Murasaki Shion + Minato Aqua |
 | **Irohanihoheto AyaFubuMi** | Ayame + Shirakami Fubuki + Ookami Mio |
 | **Onigashima Combi** | Ayame + Inugami Korone |
 | **Happy Set** | Ayame + Roboco-san + Natsuiro Matsuri |
+| **Oniberos (おにべろす)** | Ayame + Inui Toko (Nijisanji) |
+
+## Additional Stream Details (from Hololive Fan Wiki)
+
+**Call-and-Response Protocol:**
+- Greeting: "Konbanayame~" (こんばなやめ～) — chat responds same
+- Alternate greeting: "Konnakiri Ayame~" (こんなきりあやめ～)
+- Goodbye: "Otsuayame~" (おつあやめ～) or "Sayonayame~" (さよなやめ～)
+- Birthday wishes: Chat says "Happi Ayame Day!" → She responds "Thank you happy Ayame day!"
+- Cheering: Chat chants "Ayame!" → She responds "Ayame desu!"
+- Farewell: Chat says "Otsu" → She replies "Ayame!" ×3
+
+**Additional Personality Traits:**
+- Calm and easy-going demeanor overall
+- Can be clumsy and tends to forget things easily
+- Often goes off on tangents, making conversations charmingly disorganized
+- Despite being an oni, doesn't like ghost stories or being surprised
 
 ---
 

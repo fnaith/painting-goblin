@@ -130,9 +130,20 @@ FLOW GLOW 是 hololive DEV_IS 旗下的第二个团体，於2024年11月9日出�
 - 常用标签：#虎金妃笑虎（综合）、#ニコたん配信中（直播）、#ニコたん描いたん（粉丝艺术）、#ニコたんアニメ（自制动画）
 - 松鼠（Miko称呼她为「虎金妃笑子/Torakin Kiwako」）
 
+## 官方网站资料错误（已修正）
+
+根据 hololive.wiki 页面的脚注，hololivepro.com 英文版曾存在以下错误：
+1. **Niko的绘师**一度误列为 Shirabii（Isaki Riona 的绘师），正确绘师为 TETSUKAZU（鉄一）
+2. **Niko的生日**一度误列为 5月29日（与 Riona 相同），正确生日为 7月25日
+
+这些是网站初期的录入错误，现已修正。
+
 ## 资料来源
 
 - https://hololive.hololivepro.com/en/talents/koganei-niko/ — hololive官方档案
+- https://hololive.wiki/wiki/Koganei_Niko (raw) — Hololive Fan Wiki（页面标记为"Under construction"）
 - https://virtualyoutuber.fandom.com/wiki/Koganei_Niko — Virtual YouTuber Wiki
 - https://hololive.hololivepro.com/en/news/20241107-01-108/ — FLOW GLOW出道公告
 - https://hololive.hololivepro.com/en/talents?gp=devis — hololive DEV_IS艺人列表
+- https://seesaawiki.jp/hololivetv/ — seesaawiki 日程Wiki（无Niko独立页面）
+- https://hololivevtuber.fandom.com/wiki/Koganei_Niko — Fandom页面不存在（404）

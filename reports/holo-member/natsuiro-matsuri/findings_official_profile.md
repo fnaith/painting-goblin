@@ -8,7 +8,9 @@
 | **Nicknames** | Matsuri-chan, Matsurin, Matsuricha-senpai, GOD, Bully Matsuri |
 | **Birthday** | July 22 |
 | **Age (character)** | 16 years old |
-| **Height** | 152 cm (5'0") |
+| **Height** | 152 cm (5'0") / 152.3 cm as of 2023/12/23 |
+| **Weight** | 47.3 kg (as of 2026/06/01) |
+| **Blood Type** | O型 |
 | **Debut Date** | June 1, 2018 (YouTube) |
 | **Affiliation** | Hololive Production — **Hololive JP 1st Generation** |
 | **Unit** | Hololive 1st Generation (alongside Yozora Mel, Aki Rosenthal, Shirakami Fubuki, Akai Haato) |
@@ -122,5 +124,7 @@ Matsuri is known as an energetic, expressive, and chaotic cheerleader. Key trait
 - [hololivepro.com — Official Talent Profile (JP)](https://hololive.hololivepro.com/talents/natsuiro-matsuri/)
 - [Virtual YouTuber Wiki (Fandom)](https://virtualyoutuber.fandom.com/wiki/Natsuiro_Matsuri)
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Natsuiro_Matsuri)
+- [seesaawiki.jp — ホロライブwiki / 夏色まつり](https://seesaawiki.jp/hololivetv/d/%B2%C6%BF%A7%A4%DE%A4%C4%A4%EA)
+- [seesaawiki.jp — 夏色まつり/関連語 (Community Glossary)](https://seesaawiki.jp/hololivetv/d/%B2%C6%BF%A7%A4%DE%A4%C4%A4%EA%A1%DA%B4%D8%CF%A2%B8%EC%A1%DB)
 - [YouTube Channel](https://www.youtube.com/@NatsuiroMatsuri)
 - [Twitter (X) Account](https://twitter.com/natsuiromatsuri)

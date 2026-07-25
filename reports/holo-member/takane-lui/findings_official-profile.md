@@ -9,13 +9,16 @@
 | Attribute | Details |
 |-----------|---------|
 | **Name** | Takane Lui (鷹嶺ルイ) |
-| **Nickname** | Lui-nee, Lui-tomo (fan name for supporters) |
+| **Nickname** | Lui-nee, Lui-nee (ルイ姉), Luilui (ルイルイ), Kanbu/Executive (幹部), The XO |
+| **Chinese Nickname** | 琉依姐, 干部, 老鹰 |
 | **Generation** | Hololive 6th Generation — **Secret Society holoX** |
 | **Debut Date** | November 27, 2021 |
 | **Height** | 161 cm |
 | **Birthday** | June 11 |
+| **Zodiac** | Gemini |
 | **Fan Marker** | 🥀 (Rose/wilted flower — representing humility and aspiration to bloom) |
 | **Unit** | Secret Society holoX |
+| **Group Affiliations** | HOLOTORI (bird-themed unit) |
 
 ---
 
@@ -57,8 +60,10 @@ Her design theme revolves around a **black-and-red color scheme** with a stylish
 | Role | Name | Social |
 |------|------|--------|
 | **Illustrator (Character Designer)** | **Kakage (かかげ)** | [Twitter: @kakage0904](https://twitter.com/kakage0904) |
+| **Live2D Modelling (Main)** | **rariemonn** | [Twitter: @rariemonn765](https://twitter.com/rariemonn765) |
+| **Live2D Modelling (Costume "The XO")** | **ヲニ村 (Wonimura)** & **rariemonn** | [Twitter: @wonimura47041](https://twitter.com/wonimura47041) |
 
-Kakage is also known for illustrating other Hololive-related works and is recognized for a distinct art style featuring sharp, elegant character proportions and detailed fashion design.
+Kakage is also known for illustrating other Hololive-related works and is recognized for a distinct art style featuring sharp, elegant character proportions and detailed fashion design. rariemonn handled her primary Live2D modeling, while the "XO" costume was a collaboration between ヲニ村 and rariemonn.
 
 ---
 
@@ -96,7 +101,11 @@ The voice provider for Takane Lui has not been publicly disclosed by COVER Corpo
 |----------|-----|
 | **Hololive Production Official Page** | <https://hololive.hololivepro.com/en/talents/takane-lui/> |
 | **YouTube Channel** | <https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g> |
-| **Twitter (X)** | <https://twitter.com/takanelui> |
+| **Twitter (X) — Main** | <https://twitter.com/takanelui> |
+| **Twitter (X) — Sub** | <https://twitter.com/sub_luilui> |
+| **Twitch** | <https://www.twitch.tv/takanelui_hololive> |
+| **Instagram** | <https://instagram.com/takaneluilui> |
+| **Reddit** | <https://www.reddit.com/user/TakaneLui> |
 | **Music Sales** | <https://cover.lnk.to/Overd> |
 
 ---

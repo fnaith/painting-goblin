@@ -11,6 +11,8 @@
 | **Name** | Houshou Marine (宝鐘マリン) |
 | **Nickname** | Senchou (船長 — "Captain") |
 | **Birthday** | July 30 |
+| **Zodiac** | Leo |
+| **Blood Type** | O |
 | **Height** | 150 cm |
 | **Debut Date** | August 11, 2019 |
 | **Generation** | Hololive 3rd Generation ("hololive Fantasy") |
@@ -20,7 +22,9 @@
 | **Live2D Rigging** | Ilie Tou |
 | **YouTube Channel** | [Marine Ch. 宝鐘マリン](https://www.youtube.com/@HoushouMarine) |
 | **Subscribers** | 4.32 million (as of March 2026) |
-| **Hashtags** | Stream: `#マリン航海記` / Fan Art: `#マリンのお宝` |
+| **Hashtags** | Stream: `#マリン航海記` / Fan Art: `#マリンのお宝` / Clips: `#わかるマリン` / Memes: `#宝鐘海賊団クソコラ部` / NSFW: `#沈没後悔日記` / Suggestions: `#マリン船長これやってください` |
+| **Oshi Mark** | 🏴‍☠️ |
+| **Distinctive Features** | Heterochromia (left iris red, right iris golden) |
 
 ---
 
@@ -55,6 +59,8 @@ From the official hololive talent page:
 
 **Real-world origin:** Marine became interested in VTubing after watching Kaguya Luna, then became a fan of Nijisanji's Tsukino Mito. She cites Shirakami Fubuki and Minato Aqua as inspirations for auditioning for Hololive.
 
+**Name etymology:** The kanji 宝鐘 (Houshou) mean "treasure" and "bell" respectively. マリン (Marine) is written in katakana; the name as a whole evokes "treasure bell of the sea." Her surname is intentionally homophonous with "Houshou" (宝鐘), which also reads as "Houshou" (a type of bell).
+
 ---
 
 ## Costume Variations
@@ -77,8 +83,10 @@ Based on official site image galleries, Marine has at minimum the following know
 | Date | Milestone |
 |---|---|
 | Aug 11, 2019 | Debut as last member of Hololive 3rd Gen |
-| Jan 10, 2024 | Reached 3.01M subs — most-subscribed JP VTuber, surpassing Kizuna AI |
+| Oct 27, 2020 | Reached 1M subscribers (3rd in hololive) |
+| Sep 18, 2021 | Reached 2M subscribers (5th in hololive) |
 | Dec 2023 | First VTuber invited to perform on Fuji TV's FNS Music Festival |
+| Jan 10, 2024 | Reached 3.01M subs — most-subscribed JP VTuber, surpassing Kizuna AI |
 | Dec 7-8, 2024 | 1st Solo Live "Ahoy!! You're All Pirates" at K-Arena Yokohama |
 | May 5, 2025 | Reached 4M subscribers — second VTuber ever to do so (after Gawr Gura) |
 
@@ -90,3 +98,5 @@ Based on official site image galleries, Marine has at minimum the following know
 - **Hololive Official Site (JP):** https://hololive.hololivepro.com/talents/houshou-marine/
 - **Wikipedia:** https://en.wikipedia.org/wiki/Houshou_Marine
 - **YouTube Channel:** https://www.youtube.com/@HoushouMarine
+- **Hololive Wiki:** https://hololive.wiki/wiki/Houshou_Marine
+- **Hololive Fan Wiki (Fandom):** https://hololivevtuber.fandom.com/wiki/Houshou_Marine

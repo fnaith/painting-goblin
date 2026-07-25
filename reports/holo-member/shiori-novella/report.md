@@ -1,7 +1,7 @@
 # Shiori Novella（シオリ・ノヴェラ）— 同人遊戲角色設定資料集
 
 > 本報告綜合整理自 Hololive 官方網站、Hololive Fan Wiki、Virtual YouTuber Wiki 與 Crunchyroll 專訪。
-> 更新日期：2026-06-21
+> 更新日期：2026-07-25
 
 ---
 
@@ -19,6 +19,7 @@
 | **稱號** | 「The Archiver」（檔案管理員） |
 | **繪師** | KAYAHARA |
 | **Live2D** | FELUCCA |
+| **3D模型** | ほのぼ悠琴がけと (honoboyg) |
 | **粉絲名** | Novelites |
 | **推しマーク** | 👁️‍🗨️ |
 | **招牌台詞** | "Don't you think that's a wonderful story?" |
@@ -34,6 +35,8 @@
 | 粉絲繪圖 | #ShiorinSketch |
 | 粉絲小說 | #ShiorinStories |
 | 音樂討論 | #ShiorinTunes |
+| 實況素材 | #ShioAssets |
+| 迷因素材 | #dankvella |
 
 ---
 
@@ -159,6 +162,16 @@ Shiori 最具辨識度的特徵：直播中突然陷入奇怪話題的長篇大�
 - 60 萬：2025-01-06
 - 70 萬：2026-02-18
 
+### 音樂里程碑
+- **Breakout**（2026-01-26）— Advent 原創曲
+- **What Goes Around**（2026-02-26）— Advent 原創曲
+- **Unchained**（2026-03-26）— Advent 原創曲
+- **Serendipity**（2026-06-20）— hololive English 第4回演唱會主題曲
+
+### 大型活動
+- **hololive 7th fes. Ridin' on Dreams DAY2**（2026-03-07）
+- **hololive English 4th Concert -Serendipity-**（2026-07-04~05）
+
 ### 經典事件
 - **Dark Souls 2 尖叫**：被譽為「恐怖片級別的尖叫」
 - **April Fools 2025**：與 Nerissa、Bijou 一起推出「肌肉猛男 3D 模型」
@@ -281,6 +294,7 @@ Shiori 最具辨識度的特徵：直播中突然陷入奇怪話題的長篇大�
 | TikTok | https://www.tiktok.com/@shiorinovella |
 | Bilibili | https://space.bilibili.com/3706943625497110 |
 | Virtual YouTuber Wiki | https://virtualyoutuber.fandom.com/wiki/Shiori_Novella |
+| Seesaawiki (日本語) | https://seesaawiki.jp/hololivetv/d/%b7%ee%a4%ea%a4%cf%a5%ce%a5%f4%a5%a7%a5%e9 |
 
 ---
 

@@ -56,6 +56,12 @@
 - Announced "Immortalized as Marketable Plushies 4EVER" merch set
 - Channel reached **1.8 million subscribers** by stream end
 
+### Post-Retirement Appearances
+- **April 20, 2025** — Special guest at Kiara's "KIARA & FRIENDS: H!P Cover Song Spring Concert" (first physical appearance after Affiliate transition)
+- **February 18, 2026** — Second charity stream for Best Friends Animal Society
+- **March 14, 2026** — Guest at Ouro Kronii's 3D Birthday Live
+- **July 7, 2026** — Guest at Takanashi Kiara's 3D concert
+
 ### "Ame in the A.M." / "Watson Weekly"
 - Inspired by Kiryu Coco's "AsaCoco" program
 - Morning news digest show covering hololive news and stream highlights
@@ -72,6 +78,10 @@
 ### HoloWorm Tournament (September-October 2022)
 - Organized a Worms W.M.D tournament featuring talents from Hololive EN and Hololive Indonesia
 - 11 talents participated over 3 weeks
+
+### "Hunter Myth: Myth Breakers" D&D Campaign
+- Participated in a D&D campaign alongside other hololive EN members
+- Part of her ongoing TTRPG/roleplay content
 
 ---
 

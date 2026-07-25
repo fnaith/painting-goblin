@@ -57,12 +57,24 @@
   - 未來感金屬裝飾靴子
   - 項圈與耳環飾品
 
-### 已披露換裝／可作為遊戲造型
+### 已披露換裝／可作為遊戲造型（2D）
 1. 初始太空服
 2. 印尼傳統風格服裝（2020.08）
 3. 休閒服裝（自行設計）
-4. 3D模型服裝（2022.03）
-5. 新年服裝（2023.02）
+4. 連衣裙服裝（2022.10）
+5. 新年和服（2023.02）
+6. 生日服裝（2023.07）
+7. 4周年服裝（2024.04）
+8. 「The Sea」服裝（2025.04）
+9. 護士服裝（2026.04）
+
+### 3D 模型變體
+1. 默認 3D（2022.03）
+2. Bright 3D
+3. HoloSummer2023 3D
+4. Yukata 3D
+5. ID JiwaKarya 3D
+6. ColorRise 3D
 
 ---
 
@@ -82,7 +94,12 @@
 - 開朗活潑 | 健談 | 舒適（Comfy） | 幽默 | 自信 | 反差萌 | 敏感（身高） | 執著
 
 ### 語言能力（用於角色刻畫）
-精通印尼語（母語）、日語、英語、德語、韓語，以及自創的「外星語」。學習動機：「因為很有趣，而且我很無聊。」
+精通印尼語（母語）、日語、英語、德語、韓語，以及自創的「外星語」。學習動機：「因為很有趣，而且我很無聊。」通過動畫、遊戲和日劇自學日語和英語（同時使用英文字幕觀看日文動畫）。能寫平假名和片假名，仍在學習漢字。
+
+### 個人背景（用於角色深度）
+- **在家自學成長**：小時候在家自學（homeschool），姐姐是她唯一的好朋友。成為VTuber是為了交更多朋友。
+- **名字拼寫偏好**：偏好將名字完全小寫——**"iofi"**。
+- **角色設計參與**：親自設計了IoSoRadio的廣播標誌。
 
 ### 特殊發音特徵
 - 有**R音發音困難（Rhotacism）**，無法發出清晰的R音 → 成為萌點
@@ -114,6 +131,7 @@
 | **Inafi** | Iofi + Ninomae Ina'nis | 兩位畫師的繪畫組合 |
 | **Tante Iofi** | Iofi + Pavolia Reine（叫她阿姨） | 長輩梗 |
 | **Iofi + Pochimaru** | 兩位繪師/R18話題 | Erofi來源 |
+| **UniDemons** | Iofi + Aragami Oga + Deep Blizzard Miyuki | 跨分部三人聯動 |
 
 ---
 
@@ -123,22 +141,39 @@
 |------|------|-------------|
 | 2020.04.12 | YouTube出道 | 故事起點 |
 | 2020.09 | 10萬訂閱 | 成長里程碑 |
-| 2021 | 首張原創曲「id:entity voices」（HoloID 1期） | 音樂相關事件 |
+| 2021.03 | 首張原創曲「Bersama Ioforia」（Rikka作曲） | 音樂相關事件 |
+| 2021.04 | HoloID 1期合唱「id:entity voices」 | 團隊合作 |
 | 2022.03 | 首張個人原創曲「Q&A=E」 | 角色成長節點 |
 | 2022.03.20 | 3D模型披露（hololive 3rd fes.） | 重大事件 |
-| 2024-2025 | 多首個人原創曲發布 | 才華展現 |
-| 2025.11 | holoID 5週年演唱會「Chromatic Future」 | 里程碑事件 |
+| 2022.09.17 | 3D主要服裝展示 | 造型里程碑 |
+| 2023.02 | 新年和服披露 | 新造型 |
+| 2023.05 | 70萬訂閱達成 | 成長里程碑 |
+| 2023.07 | 生日服裝披露 | 新造型 |
+| 2024.07 | 生日3D Live「Galaxy Ticket」 | 首次生日3D演唱會 |
+| 2025.04 | 「The Sea」服裝披露 | 新造型 |
+| 2025.07 | 80萬訂閱達成 | 成長里程碑 |
+| 2025.07 | 生日3D Live「Lucid Dream」 | 第二次生日3D演唱會 |
+| 2025.11 | holoID 5週年演唱會「Chromatic Future」 | 首次線下列隊演唱會 |
+| 2026.04 | 護士服裝披露 | 最新造型 |
 | 目標 | 突破100萬訂閱 | 未來劇情目標 |
 
 ### 原創歌曲列表（可作為遊戲BGM或插入曲參考）
+- Bersama Ioforia（2021，由Rikka作曲）
 - Q&A=E（2022）
 - HI-15（2022，Area 15合唱）
 - Dramatic XViltration（2024）
 - HI:STREET TIME（2024）
 - Senandung Jiwa（2024，印尼語）
-- Juara Khatulistiwa（2025）
 - Here I am（2025）
+- Juara Khatulistiwa（2025）
 - Ridin' on Dreams（2026，hololive 7th fes.主題曲）
+
+### 翻唱歌曲選（可作為遊戲內收集要素或節奏遊戲曲目）
+- Alien Alien（NayutalieN，首支翻唱）
+- Mozart no Tamenaru (Reloaded)（holo27 Covers Vol.1）
+- Happy Synthesizer（與Pochimaru合唱）
+- Ochame Kinou（HoloID 1期合唱）
+- Taiyou ga Niau yo（原唱：水樹奈奈）
 
 ---
 
@@ -159,7 +194,7 @@
 
 - **粉絲名稱**：IOFORIA
 - **社群氛圍**：國際化（ID/JP/EN混雜）、舒適（Comfy）、創作力強
-- **粉絲創作標籤**：#ioarts（繪畫）、#iomemes（迷因）
+- **頻道會員（Kira Kira Club）**：多檔位會員福利，包括專屬表情、徽章、會員限定內容
 - **角色與粉絲關係**：
   - 會捉弄粉絲也會當媽媽
   - 積極回應聊天室
@@ -199,6 +234,8 @@
 | Hololive官方網站（英文） | https://hololive.hololivepro.com/en/talents/airani-iofifteen/ |
 | Hololive官方網站（日文） | https://hololive.hololivepro.com/talents/airani-iofifteen/ |
 | Hololive Fan Wiki | https://hololive.wiki/wiki/Airani_Iofifteen |
+| Hololive VTuber Fandom Wiki | https://hololivevtuber.fandom.com/wiki/Airani_Iofifteen |
+| Seesaawiki（日文） | https://seesaawiki.jp/hololivetv/d/Airani%20Iofifteen |
 | YouTube頻道 | https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg |
 | Twitter/X | https://twitter.com/airaniiofifteen |
 | Instagram | https://www.instagram.com/airani_iofifteen/ |

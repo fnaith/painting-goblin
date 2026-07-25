@@ -38,6 +38,15 @@ Risu 設定永遠17歲，生日1月15日。2022年生日時發行了首張原創
 ### 12. Risusaurus 與 Riscot
 Risu 有兩個吉祥物：Riscot（Risu + Mascot），由 Holostars 成員 Aragami Oga 繪製；Risusaurus 則是另一隻恐龍吉祥物。
 
+### 13. ALiCE&u 與「Alice」原名
+Risu 曾透露原先想為自己取名為 Alice，這個設定被藏入了首張原創曲 ALiCE&u 的歌名中（ALiCE 即 Alice 的變體）。
+
+### 14. Korone 和 Okayu 的女兒
+粉絲圈中有一個經久不衰的笑話：Risu 是 Inugami Korone 和 Nekomata Okayu 的女兒——因為她是松鼠（鼠類），而 Korone 是狗、Okayu 是貓，貓狗養了一隻老鼠當女兒的設定充滿反差趣味。
+
+### 15. TRUST（支援平台）
+除了超級留言外，Risu 也接受 TRUST（原 Ko-fi）平台的贊助，粉絲可以透過此平台直接支援她。
+
 ## 軼事與冷知識
 - 最喜歡的堅果是腰果（Cashew）
 - 名字由來：來自松鼠物種的學名 Tupaia splendidula（紅樹鼩），「Ayunda」來自印尼語「Ayu」（美麗），全名意為「美麗的松鼠」
@@ -51,6 +60,10 @@ Risu 有兩個吉祥物：Riscot（Risu + Mascot），由 Holostars 成員 Araga
 - 是 Hololive Meet 大使之一（與 Tokino Sora、Gawr Gura 同列）
 - 曾有觀眾透過 Streamlabs 用「MuhHuzban」或「Mahbofrend」等名字捐贈，試圖騙她說觀眾是她的丈夫（Tricks 梗）
 - 2021年4月1日愚人節曾以性轉版本「Ananda Wisnu」進行直播
+- 有 Bilibili 帳號，面向中文圈粉絲
+- 曾幫助實現 Yagoo（Motoaki Tanigo）創立偶像公司的夢想——Yagoo 曾表示 Hololive ID 的成功讓他感到當初的夢想成真了
+- Q&A 中確認設定上確實有 4 隻耳朵（2 個人耳 + 2 個松鼠耳）
+- Q&A 中表示不會和觀眾結婚（經典回答）
 
 ## 與其他成員的關係
 - **Moona Hoshinova**：室友，常被稱為「媽媽」。經典撲滿事件

@@ -75,10 +75,12 @@
 
 | 項目 | 內容 |
 |------|------|
-| **粉絲名** | **ちはニック**（Chihaniq / Nics） |
+| **粉絲名** | **ちはニック**（Chihaniq / Nics），也稱 **Nikku（ニック）**，源自 メカニック（mechanic） |
 | **直播 hashtag** | #おしゃべりん堂 |
 | **推し活綜合 tag** | #みてやちはや |
-| **粉絲藝術 tag** | #千速い |
+| **粉絲藝術 tag** | #千速い／#もはやちはや |
+| **精華剪輯 tag** | #きりとりん堂 |
+| **粉絲創作（NSFW）tag** | #絵っちはや |
 
 粉絲文化特色：社群氣氛溫和，與千速本人的沉穩風格一致。粉絲多形容看她直播「安心」、「療癒」、「像朋友聊天」。她對不熟悉汽車的觀眾也細心照顧，不會讓聽不懂的人被冷落。
 
@@ -132,3 +134,4 @@
 6. [pixiv百科事典 - 輪堂千速](https://dic.pixiv.net/a/輪堂千速)
 7. [hololive 非公式 wiki（SeesaaWiki）](https://seesaawiki.jp/hololivetv/d/)
 8. [Personality Database - Rindo Chihaya MBTI](https://www.personality-database.com/profile/1810646/rindo-chihaya-hololive-production-mbti-personality-type)
+9. [Hololive Fan Wiki — Rindo Chihaya](https://hololive.wiki/wiki/Rindo_Chihaya)

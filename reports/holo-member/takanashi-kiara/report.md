@@ -15,10 +15,15 @@
 | **身高** | 165 cm |
 | **粉絲名稱** | KFP（Kiara Fried Phoenix）員工 |
 | **角色設計** | huke（《Steins;Gate》角色設計師） |
+| **Live2D 建模** | けっふぃー (keffiy) |
 | **語言** | 英語（主）、日語（流利）、德語（母語） |
 | **出身** | 奧地利 |
 | **YouTube 訂閱** | 163萬+ |
 | **代表色** | 橙色 |
+| **代表 Emoji** | 🐔（雞——雖是鳳凰但粉絲以雞代表） |
+| **慣用手** | 左手（左撇子） |
+| **吉祥物** | Kotori（コトリ） |
+| **寵物** | 貓兩隻：Chonkers、Smoothie |
 
 ---
 
@@ -39,6 +44,7 @@ Kiara 是一隻**鳳凰**（重要：不是雞也不是火雞）。她的夢想�
 - 頭飾有金色鳳凰羽毛裝飾
 - 整體融合快餐店制服與奇幻鳳凰元素
 - 多次解鎖新服裝（季節限定、演唱會專用等）
+- 腰間的皮帶可將她變回鳳凰型態；生氣時頭髮會燃起火焰
 
 ---
 
@@ -64,6 +70,15 @@ Myth 中最晚達到百萬訂閱的成員，但始終保持積極。兩次申請
 
 ### 7. 非傳統偶像意識
 不認為自己是傳統偶像，更傾向以真實自我面對觀眾。
+
+### 8. 表面外向、實則害羞
+強烈的公眾形象下隱藏著較內向害羞的本質，公眾場合的活力表現某種程度上是一種演出。
+
+### 9. 鳥腦（Bird-brained）
+容易忘事、脫線的天然呆特質，與鳳凰設定結合可愛度加倍。
+
+### 10. 「左下角」——好色與愚蠢
+在 Hololive 純度 vs 智力圖中被歸類為左下角（純度最低、智力搞笑式愚蠢），但事業規劃與三語能力展現出真實智慧。
 
 ---
 
@@ -93,10 +108,20 @@ Myth 中最晚達到百萬訂閱的成員，但始終保持積極。兩次申請
 | **德語頻道** | 創了德語副頻道但幾乎沒更新 | 彩蛋/隱藏要素 |
 | **Tenchou（店長）** | 粉絲對她的稱呼，快餐店老闆娘形象 | 角色稱號/技能名稱 |
 | **菠蘿（Pineapple）** | 演唱會標誌性元素 | 特殊道具/收集品 |
+| **鳳凰腰帶變身** | 腰帶解開變鳳凰、扣上變人形 | 角色型態切換機制 |
+| **頭髮燃燒** | 生氣時頭髮自動著火 | 怒氣值/狀態特效 |
+| **€500,000 火災罰款** | 虛構的巨額債務梗 | 搞笑任務/債務系統 |
+| **KFP 菜單** | Phoenix Burger、Yagoo Burger | 商店/烹飪系統 |
+| **Clickbait 女王** | 誇張縮圖聞名 | UI 特效/技能名稱 |
+| **塑料雞腿** | 直播用的假雞腿道具 | 搞笑武器/道具 |
+| **トリリンガル（鳥語）** | 日/英/德三語混雜雙關語 | 語言解謎技能 |
 
 ### 名場面
 
-- **YouTube 頻道被誤封**（2020年12月）→ 當天恢復，成為傳說插曲
+- **YouTube 頻道被誤封與重新出道**（2020年12月）→ 當天恢復，舉行「Re-debut」直播
+- **Live2D 模型更新**（2020年11月22日）
+- **陰影 Ban 事件與 HoloDE Debüt**（2021年2月）→ 德國直播被限制曝光，繼而舉行德語專場
+- **首次 Hololive x VShojo 跨社連動**（與 Nyatasha Nyanners）
 - **Breaking Dimensions 演唱會**（2024年）→ 全場「菠蘿雨」，觀眾揮舞橙色應援棒
 - **《One Piece》We Go! 合作** → 與北谷洋等人合作，自嘲沒看過原作
 - **Vtuber Awards Miss Vtuber 獎**（2024年）→ 時尚感最佳的 VTuber
@@ -118,7 +143,9 @@ Myth 中最晚達到百萬訂閱的成員，但始終保持積極。兩次申請
 
 - **IRyS**：Promise 世代，良好互動
 - **Pavolia Reine**（Hololive ID）：馬爾地夫旅行夥伴
+- **Momosuzu Nene**（JP 組）：二人組「O'riends」
 - **鳥系成員聯盟（Holotori）**：與其他鳥類主題 VTuber 的跨世代組合
+- **Hololive Australia**：與 EN 組澳洲相關成員的鬆散組合
 
 ---
 
@@ -129,6 +156,12 @@ Myth 中最晚達到百萬訂閱的成員，但始終保持積極。兩次申請
 3. **馬爾地夫旅行傳統**：與鳥系成員每年去溫暖地區旅行，自嘲「在跟同類遷徙」
 4. **音樂理念**：希望自己的音樂能在廣播電台播放，讓不認識 Vtuber 的人也能聽到
 5. **對業界的影響**：被許多獨立 VTuber 視為入行動力，她說「聽到有人說因為 Myth 才成為 VTuber，這感覺太超現實了」
+6. **語言彩蛋**：與《新世紀福音戰士》的明日香共享相同的語言組合（日/德/英）
+7. **健康設定**：有氣喘（asthma），與高耗能的鳳凰設定形成反差
+8. **姊妹關係**：親生姊姊知道她的 VTuber 身份
+9. **Reddit 版主**：Kiara 是官方 Hololive Subreddit 的管理員之一
+10. **Am Zoo 系列**：她在短影音中模仿各種動物，展現搞笑模仿天賦
+11. **Hunter Myth: Myth Breakers**：Myth 組的 D&D 風格 TTRPG，Kiara 扮演「Tiara」
 
 ---
 
@@ -145,14 +178,20 @@ Myth 中最晚達到百萬訂閱的成員，但始終保持積極。兩次申請
 | **Eurovision 夢想** | 長期支線任務鏈 |
 | **燃燒自己（拼命工作）** | 體力/士氣系統 — 越努力越強但需注意休息 |
 | **橙色主題** | UI 主題色、技能特效色、代表色 |
+| **鳳凰型態變身** | 腰帶切換人形/鳳凰型態，不同型態有不同技能組 |
+| **怒氣值／頭髮燃燒** | 怒氣累積時觸發火焰特效、攻擊力上升 |
+| **KFP 菜單系統** | 製作 Phoenix Burger、Yagoo Burger 等商品 |
+| **語言解謎（トリリンガル）** | 英/日/德三語切換解謎，不同語言 NPC 反應不同 |
+| **寵物同伴（Kotori / 貓）** | Kotori：解謎輔助；Chonkers & Smoothie：據點互動 |
 
 ### 角色技能樹建議
 
-- **火焰系攻擊**（鳳凰火焰）
-- **復活/治療系**（浴火重生）
-- **經營管理系**（KFP 店長能力）
+- **火焰系攻擊**（鳳凰火焰）— 怒氣觸發頭髮燃燒強化
+- **復活/治療系**（浴火重生）— 腰帶變身鳳凰後重生能力升級
+- **經營管理系**（KFP 店長能力）— 解鎖菜單新商品、招募員工
 - **歌唱系**（演唱會/ Buff 技能）
-- **迷因系**（搞笑/干擾技能）
+- **迷因系**（搞笑/干擾技能）— Clickbait 女王（迷惑敵人）
+- **語言系**（トリリンガル解謎）— 提升與多語 NPC 交流能力
 
 ### 劇情大綱方向建議
 
@@ -172,7 +211,9 @@ Myth 中最晚達到百萬訂閱的成員，但始終保持積極。兩次申請
 - [Anime Herald 專訪 (2025)](https://www.animeherald.com/meeting-the-tenchou-a-conversation-with-takanashi-kiara/)
 - [Polygon - Breaking Dimensions 演唱會報導](https://www.polygon.com/culture/445206/hololive-breaking-dimensions-concert-vtubers)
 - [Crunchyroll - 頻道被終止報導](https://www.crunchyroll.com/news/latest/2020/12/9/vtuber-takanashi-kiara-has-had-her-youtube-channel-terminated-for-severe-violations)
+- [Hololive Wiki (hololive.wiki) — Takanashi Kiara](https://hololive.wiki/wiki/Takanashi_Kiara)
+- [Hololive Fandom Wiki — Takanashi Kiara](https://hololivevtuber.fandom.com/wiki/Takanashi_Kiara)
 
----
+> **注意**：seesaawiki.jp 上的 Hololive TV 非官方 wiki 頁面已無法訪問（所有 URL 變體均回傳 404），本報告未使用該來源。
 
 *本報告由 web-research skill 自動生成，資料整理自公開來源，所有權利歸屬 COVER Corporation 及 Takanashi Kiara 本人。*

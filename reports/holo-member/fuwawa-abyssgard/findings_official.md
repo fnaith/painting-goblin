@@ -1,6 +1,6 @@
 # Fuwawa Abyssgard（フワワ・アビスガード）官方資料調查報告
 
-> 調查日期：2026-06-21
+> 調查日期：2026-06-21（更新：2026-07-25）
 > 資料來源：Hololive 官方網站、官方社交媒體
 
 ---
@@ -18,6 +18,8 @@
 | **生日** | 2 月 1 日（水瓶座） |
 | **身高** | 155 cm |
 | **角色設計師** | ICOMOCHI（Twitter: [@rswxx](https://twitter.com/rswxx)） |
+| **Live2D 建模** | Jujube（[@MegaJujube](https://twitter.com/MegaJujube)） |
+| **3D 建模** | Shiba Tsukune（柴つくね，[@shiba_tsukune](https://twitter.com/shiba_tsukune)） |
 | **粉絲名稱** | Ruffians |
 
 ---
@@ -37,6 +39,14 @@
 - 穿著紫黑色系短裙搭配過膝長靴
 - 形象上有比 Mococo 更蓬鬆 fluffy 的輪廓
 - 部分官方藝術圖中戴有眼鏡造型
+
+### 已知服裝造型
+| 造型名稱 | 公開日期 | 備註 |
+|----------|----------|------|
+| 初始造型 | 2023/07/31 | 出道造型，紫黑色系短裙 |
+| 新年造型 | 2024/01/06 | 新年和風造型 |
+| **Baufit** | 2025/01/16 | 運動風格造型 |
+| **Pajamas** | 2026/03/15 | 睡衣風格造型 |
 
 ---
 
@@ -155,10 +165,15 @@
 | Hololive 官方 Talent 頁面 | https://hololive.hololivepro.com/en/talents/fuwawa-abyssgard/ |
 | FUWAMOCO YouTube 頻道 | https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA |
 | FUWAMOCO 官方 Twitter | https://twitter.com/fuwamoco_en |
-| Hololive 官方商品頁 | https://hololive.holivepro.com/en/goods |
-| Hololive 官方音樂頁 | https://hololive.holivepro.com/en/music |
+| Hololive 官方商品頁 | https://hololive.hololivepro.com/en/goods |
+| Hololive 官方音樂頁 | https://hololive.hololivepro.com/en/music |
 | 角色設計師 ICOMOCHI | https://twitter.com/rswxx |
+| Live2D 建模師 Jujube | https://twitter.com/MegaJujube |
+| 3D 建模師 Shiba Tsukune | https://twitter.com/shiba_tsukune |
+| Seesaawiki（FUWAMOCO 非官方維基） | https://seesaawiki.jp/hololive/d/FUWAMOCO |
+| Hololive Fan Wiki（FUWAMOCO） | https://hololive.wiki/wiki/FUWAMOCO |
+| Hololive VTuber Fandom Wiki（Fuwawa） | https://hololivevtuber.fandom.com/wiki/Fuwawa_Abyssgard |
 
 ---
 
-*本報告資訊以 Hololive 官方發布資料為準，最後更新於 2026 年 6 月 21 日。*
+*本報告資訊以 Hololive 官方發布資料為準，最後更新於 2026 年 7 月 25 日。*

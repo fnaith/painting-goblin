@@ -136,6 +136,51 @@ Kureiji Ollie is a VTuber from Hololive Indonesia 2nd Generation (holoro). Her c
 - **"Zombanwa!"**: Her signature greeting (zombie + "konbanwa" = good evening).
 - **"Otsucrazy!"**: Her sign-off (otsucare + crazy).
 
+### Visual Novel: "Days With Ollie"
+- **Release Date**: April 22, 2024 (Steam)
+- **Genre**: Visual Novel / Interactive fiction
+- **Description**: An official visual novel featuring Ollie, where fans can interact with her in a story-driven format
+- **Significance**: One of the few hololive members to get an official solo visual novel game
+
+### DECO*27 "Zombie" Collaboration
+- Ollie was featured in the chorus of DECO\*27's song **"Zombie"** (2022)
+- DECO\*27 is a famous Vocaloid producer — this collaboration gave Ollie significant exposure in the broader Japanese music scene
+
+### World Zombie Day
+- Ollie's birthday (October 13) coincides with **World Zombie Day**
+- This is considered a cosmic coincidence that perfectly matches her zombie idol persona
+
+### CDawgVA Fan Moment
+- Ollie is a known fan of CDawgVA (Chris Broad), the YouTuber known for "Abroad in Japan" and Trash Taste
+- She called him "Papa" during an interaction
+- When CDawgVA acknowledged her, she screamed and became extremely flustered
+- This moment became a notable crossover meme between the Hololive and CDawgVA/Trash Taste communities
+
+### Family Lore Details (from Q&A)
+- **Illo**: Older brother who died at age 10 due to illness. Ollie has mentioned missing him.
+- **Ollo**: Younger brother, still alive. Ollie is protective of him.
+- **Ellie**: Younger sister, still alive.
+- **Mama Lily**: Her mother, who gave her the nickname "Kureiji"
+- Ollie's entire family are ordinary humans — she is the only zombie
+
+### Twice-Dead
+- Ollie has canonically died at least twice in her lore
+- This reinforces her "rebirth" ability concept
+
+### Eye Color Trivia
+- When Ollie was alive, her eyes were already different colors (heterochromia)
+- This means the heterochromia is not a result of being a zombie, but a natural trait
+
+### Spicy Food Paradox
+- Ollie likes spicy food but cannot handle it well
+- She enjoys the burning sensation despite the pain — a character detail that mirrors her chaotic "pain is pleasure" zombie persona
+
+### Chess Tournament
+- Ollie participated in the **Hololive Chess Tournament Arc 2**, showcasing a surprisingly strategic side that contrasts with her chaotic persona
+- Chess became a recurring content theme for her
+
+---
+
 ### Multilingual Identity
 - Speaks **Indonesian** (native), **English** (fluent), and **Japanese** (conversational).
 - Often code-switches between all three in a single sentence.

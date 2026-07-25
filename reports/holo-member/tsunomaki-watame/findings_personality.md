@@ -41,8 +41,10 @@ Tsunomaki Watame is a Hololive 4th Generation VTuber who debuted on December 29,
 - **Late-night streams**: Often streams all night; described as "perfect for watching before bed"
 - **Game genres**: A wide variety — ARK, Apex, Minecraft, Splatoon, Mario Kart, horror games, story-driven games (Final Fantasy IX, Hansel and Gretel)
 - **"Tsunomaki Rock Paper Scissors"**: A recurring segment
+- **"Ganbaru Watame" (がんばるわため)**: A segment where Watame takes on challenges or tasks sent in by fans
 - **Reaction to horror**: Moderately weak to horror; shrieks at jumpscares
 - **Emotional gaming**: Cries at emotional story moments; chat often jokes with "time for ramen" (comparing crying sounds to slurping ramen)
+- **Mic gathering habit**: Known for collecting microphones; often seen with multiple high-quality mics on stream
 
 ## Catchphrase Origin
 "Watame wa warukunai yo ne" (Watame did nothing wrong) originated from an apology video about previous stream connection issues. It became her iconic catchphrase.

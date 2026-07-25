@@ -1,6 +1,6 @@
 # Mococo Abyssgard 完整調查報告
 
-> 調查日期：2026-06-21
+> 調查日期：2026-07-25
 > 用途：同人遊戲角色設定參考
 
 ---
@@ -12,6 +12,7 @@
 | 項目 | 內容 |
 |------|------|
 | **日文名** | モココ・アビスガード |
+| **中文名** | 茸茸·阿比斯加德 |
 | **英文名** | Mococo Abyssgard |
 | **所屬** | hololive English -Advent- |
 | **組合** | FUWAMOCO（與雙胞胎姐姐 Fuwawa 組成的雙人組合） |
@@ -28,6 +29,7 @@
 | **稱號** | The Fuzzy One（毛茸茸的那位） |
 | **寵物** | Pero |
 | **語言** | 英語、日語（雙語流利） |
+| **暱稱** | もこじゅあん (Mogojyan)、もごご (Mogogo)、元子 (Moko-chan)、もちもち (Mochimochi)、もふもふ (Mofumofu) |
 
 ### 角色造型
 
@@ -45,6 +47,12 @@ Mococo 與雙胞胎姐姐 Fuwawa 同為「**惡魔看門犬（Demonic Guard Dogs
 - 經常拉著姐姐 Fuwawa 和寵物 Pero 一起搗亂
 - 參與越獄純粹是**為了好玩**（"just for the heck of it"）
 - 官方標語：「Ehehe, it's play time, whether you're ready or not!」
+
+### 冷知識
+
+- **名字「Mococo」語源**：源自日文擬聲詞「もこもこ (mokomoko)」，意為「毛茸茸」
+- **自稱「Boss」**：Mococo 有時自稱「Boss」
+- **表情符號**：使用 ⤵︎ 表達失望
 
 ---
 
@@ -79,6 +87,7 @@ Mococo 與雙胞胎姐姐 Fuwawa 同為「**惡魔看門犬（Demonic Guard Dogs
 | **We hope you have a *howl* of a day!** | 結尾道別（howl 雙關 whole） |
 | **Ehehe, it's play time!** | 官方標語 |
 | **have fun, make mistakes, no regrets** | 人生座右銘 |
+| **語尾「え」(eh)音** | 常帶「え」音，例如「No」說成「Noeh」、「Mococo」說成「Mococoeh」 |
 
 ### 喜好與厭惡
 
@@ -126,6 +135,12 @@ Mococo 是「The Fuzzy One」（毛茸茸），Fuwawa 是「The Fluffy One」（
 ### 7. 狗系角色扮演
 從自我介紹、叫聲到行為，全程貫徹「看門犬」的角色設定。粉絲聊天室中同樣以狗狗主題的詞彙互動。
 
+### 8. 直播互動文化（from Seesaa Wiki）
+Mococo 在直播中常與 Ruffians 進行 call & response 互動：
+- 「BAUって言って」→ Ruffians: 「BAU!」
+- 「もっかい！」→ Ruffians: 「BAU BAU!」
+- 「今日もー？」→ Ruffians: 「BAU BAU BAU!」
+
 ---
 
 ## 四、重要軼事與里程碑
@@ -138,6 +153,9 @@ Mococo 是「The Fuzzy One」（毛茸茸），Fuwawa 是「The Fluffy One」（
 ### 百萬訂閱
 - 2024年10月12日達成 100 萬訂閱（出道約14個月獲金獎牌）
 
+### 生日 LIVE
+- **2025年生日 LIVE 嘉賓**：大神ミオ (Ookami Mio)、白上フブキ (Shirakami Fubuki)、尾丸ポルカ (Omaru Polka)、白銀ノエル (Shirogane Noel)、博衣こより (Hakui Koyori)、宝鐘マリン (Houshou Marine)
+
 ### 獲獎紀錄
 - **2023年**：The Vtuber Awards — League of Their Own
 - **2024年**：The Vtuber Awards — **Vtuber Of The Year（年度 VTuber）**
@@ -148,12 +166,17 @@ Mococo 是「The Fuzzy One」（毛茸茸），Fuwawa 是「The Fluffy One」（
 - 《Born to be "BAU"DOL☆★》（2024.08）
 - 《Breaking Dimensions》《Odyssey》《All for One》《Genesis》《Prisoner》《Breakout》《What Goes Around》《Unchained》等
 
+### 父母相關軼事
+- Mococo 的父母也會觀看她的直播，父親被稱為「パパパピー (Papa-Puppy)」，母親為「ママパピー (Mama-Puppy)」。
+
 ### 跨團互動
 - **Advent 同期**：Shiori Novella、Koseki Bijou（Biboo）、Nerissa Ravencroft 經常聯動
 - **Ninomae Ina'nis**（EN Myth）曾繪製 FUWAMOCO 插圖
 - **Houshou Marine**（JP）曾為 Mococo 繪製粉絲 art
 - **Airani Iofifteen**（ID）曾繪製合作插圖
 - **Sakura Miko、Himemori Luna** — 曾有聯動插畫與合作
+- **FUWAMOCALLI**（與 Calliope 的組合名）
+- **Diamond Dogs**（與 Calliope 的另一組合名）
 
 ### 聯名合作
 - **Ducky** 聯名機械鍵盤（2025年10月，2 周年紀念）
@@ -161,6 +184,18 @@ Mococo 是「The Fuzzy One」（毛茸茸），Fuwawa 是「The Fluffy One」（
 - **iPASS** 聯名一卡通（台灣）
 - **Wei Chuan Dragons** 台灣職棒合作（台北大巨蛋創入場紀錄）
 - **hololive English 3rd Concert** 英國倫敦放映會（2026年5月）
+
+### 2026年事件（from Seesaawiki.jp）
+- **2026年1月5日**：新單曲《Breakout》數位發行
+- **2026年1月**：ANIPLUS × hololive English -Advent- 韓國合作咖啡廳
+- **2026年2月2日**：Mococo 首次 3D 生日 LIVE
+- **2026年2月14日**：《What Goes Around》數位發行
+- **2026年3月**：《Unchained》數位發行
+- **2026年3月20日**：Fuwawa 接受手術，期間 Mococo 首次獨自直播
+- **2026年4月**：TV動畫《FAILED PRINCESS》ED 主題曲《Mekurumeku Rendezvous》
+- **2026年4月**：出演テレビ東京《しおこうじのおと》
+- **2026年7月3日-4日**：hololive English 4th Concert「Serendipity」
+- **2026年7月**：3D 新服裝披露
 
 ---
 
@@ -226,7 +261,14 @@ Mococo 是「The Fuzzy One」（毛茸茸），Fuwawa 是「The Fluffy One」（
 
 ---
 
-## 七、資料來源
+## 七、社群文化
+
+### 聊天室表情符號
+Chat emotes used in chat: MOCOhuh, MOCOthink, MOCOheart, MOCOshy, MOCOwave, MOCOglare, FUWApout, FUWAcry, FUWAblush, FUWAchibi, BAU, FWMCChibi, FWMCShield
+
+---
+
+## 八、資料來源
 
 - [Hololive 官方網站 — Mococo Abyssgard](https://hololive.hololivepro.com/en/talents/mococo-abyssgard/)
 - [Hololive Fan Wiki — FUWAMOCO](https://hololive.wiki/wiki/FUWAMOCO)
@@ -238,3 +280,5 @@ Mococo 是「The Fuzzy One」（毛茸茸），Fuwawa 是「The Fluffy One」（
 - [Ducky 聯名鍵盤公告](https://hololive.hololivepro.com/en/news/20251031-01-167/)
 - [hololive English 4th Concert](https://serendipity.hololivepro.com/)
 - [角色繪師 ICOMOCHI](https://twitter.com/rswxx)
+- [Seesaawiki.jp - FUWAMOCO](https://seesaawiki.jp/hololivetv/d/FUWAMOCO)
+- [Hololivevtuber Fandom - Mococo Abyssgard](https://hololivevtuber.fandom.com/wiki/Mococo_Abyssgard)

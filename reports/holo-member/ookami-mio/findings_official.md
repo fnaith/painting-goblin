@@ -91,3 +91,8 @@
 - Twitter: https://twitter.com/ookamimio
 - Hololive Fan Wiki: https://hololive.wiki/wiki/Ookami_Mio
 - Illustrator (Izumi Sai): https://twitter.com/AC______
+
+## Source Accessibility Notes
+- **seesaawiki.jp/hololivetv** — 404 Not Found; page for Ookami Mio could not be accessed
+- **hololive.wiki** — Successfully accessed and used as primary source; contains comprehensive profile data
+- **hololivevtuber.fandom.com** — 403 Forbidden; could not retrieve data

@@ -12,7 +12,9 @@
 | **日文名** | 姫森ルーナ |
 | **英文名** | Himemori Luna |
 | **中文名** | 姬森璐娜 |
+| **名字由來** | 姫（公主）＋ 森（森林）＋ Luna（月） |
 | **暱稱** | ルーナ姫、ルーナたん、んなたん、Luna-hime、Luna-tan、Nna-tan |
+| **別名** | Battle Princess／War Princess（來自Dark Souls遊戲技術） |
 | **生日** | 10月10日 |
 | **年齡** | **0歲**（官方設定：「糖果王國0歲公主」，但自稱是性感成熟公主） |
 | **身高** | 140 cm（不含皇冠與鞋）、150 cm（含皇冠與鞋） |
@@ -24,6 +26,9 @@
 | **Hashtag** | 直播 `#なのらいぶ`、粉絲繪 `#ルーナート` |
 | **YouTube** | https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw |
 | **Twitter** | https://twitter.com/himemoriluna |
+| **Instagram** | https://www.instagram.com/himemoriluna/ |
+| **重機駕照** | 持有普通重型機車駕照，擁有哈雷戴維森 |
+| **電子琴等級** | ヤマハグレード6級（Yamaha Grade 6 電子琴演奏級） |
 
 ### 官方自我介紹
 > 「みんな～おる～？」
@@ -85,10 +90,16 @@
 4. **可愛 vs 恐怖遊戲** — 柔弱幼女聲線玩恐怖遊戲的強烈對比
 
 ### 官方Q&A趣聞
-- Q：你幾歲？ A：0歲喔。
+- Q：你幾歲？ A：0歲喔。／另曾自稱 **3歲**（見於不同直播場合）
 - Q：所以你是嬰兒？ A：我是性感的成熟公主！
 - Q：最擅長的科目？ A：漢字讀寫是hololive中最好的！
 - **特殊訓練**：進行KAATSU（加壓訓練）來增強力量
+
+### 其他個人趣聞
+- **Chiikawa（ちいかわ）粉絲**：曾在直播中多次提及喜歡此作品
+- **AsaCoco固定環節**：曾在桐生可可的晨間節目「AsaCoco」中主持固定單元「甜蜜到膩的英語教室」（Princess Luna's Sickly Sweet English Class）
+- **腱鞘炎手術**：曾患De Quervain's tenosynovitis（狹窄性腱鞘炎）並接受手術治療
+- **父親遺傳**：Luna的異色瞳為遺傳自父親，其父親亦擁有異色瞳
 
 ---
 
@@ -144,7 +155,30 @@
 
 ---
 
-## 7. 同人遊戲角色設定建議
+## 7. 里程碑時間線
+
+| 時間 | 事件 |
+|------|------|
+| 2019年12月25日 | Twitter 開始活動 |
+| 2020年1月4日 | YouTube 出道 |
+| 2020年1月15日 | 10萬訂閱達成 |
+| 2020年4月11日 | 3D模型披露 |
+| 2020年7月18日 | 20萬訂閱達成 |
+| 2020年10月8日 | 新服裝（私服）披露 |
+| 2020年10月10日 | 初誕生日紀念3D LIVE |
+| 2020年12月20日 | 30萬訂閱達成 |
+| 2021年1月30日 | 新服裝（聖誕服）披露 |
+| 2021年2月27日 | 新服裝（和服）披露 |
+| 2021年4月3日 | 40萬訂閱達成 |
+| 2021年6月25日 | 50萬訂閱達成 |
+| 2021年7月18日 | 新服裝（浴衣）披露 |
+| 2022年1月3日 | 2週年紀念3D LIVE |
+| 2022年7月 | Yamaha Electone 合作企劃 |
+| 2022年10月 | 生日紀念3D LIVE |
+| 2023年10月 | 生日紀念3D LIVE |
+| 2023年12月 | 新服裝披露 |
+
+## 8. 同人遊戲角色設定建議
 
 ### 可採用的設定元素
 1. **糖果王國的0歲公主** — 世界觀可以直接採用或改編，充滿甜點與糖果的奇幻國度
@@ -163,9 +197,70 @@
 
 ---
 
-> 報告生成日期：2026-06-21
-> 主要來源：
-> - https://hololive.hololivepro.com/en/talents/himemori-luna/
-> - https://hololive.wiki/wiki/Himemori_Luna
-> - https://www.youtube.com/@HimemoriLuna
-> - https://nanora.moe
+## 9. Wiki 三源交叉比較分析
+
+### 9.1 各源獨有資料
+
+**hololive.wiki（Miraheze 英文粉絲維基）獨有：**
+- BGM 資訊（含使用場合）：螞蟻聲／蟋蟀聲作為直播背景音
+- 執事ちゃん（管家角色）— 經常在直播互動中登場的執事
+- たこ焼き（章魚燒）愛好
+- 「Today's Wink Time」直播環節說明
+- 完整會員（Membership）福利列表
+- Instagram 帳號資訊
+- 詳細樂曲製作人名單（部分）
+- 頁面最後編輯於 2026 年 7 月
+
+**hololivevtuber.fandom.com 獨有：**
+- 名字由來解析（姫=Princess, 森=Forest, Luna=Moon）
+- 「Battle Princess」／「War Princess」別名的由來（Dark Souls 遊戲技術高超）
+- 重型機車駕照 + 哈雷戴維森擁有
+- Yamaha Grade 6 電子琴演奏級檢定
+- Chiikawa（ちいかわ）粉絲資訊
+- 「Princess Luna's Sickly Sweet English Class」作為桐生可可 AsaCoco 固定環節
+- 自我年齡主張：曾說過「3歲」（不只 0 歲）
+- 腱鞘炎（De Quervain's tenosynovitis）手術經歷
+- 父親亦擁有異色瞳的遺傳設定
+- 詳細服裝設計變遷描述
+- 2024–2026 年服裝披露與活動時序
+
+**seesaawiki.jp（日本維基）：**
+- 此來源回傳 HTTP 404（頁面不存在或編碼路徑有誤），無法取得內容
+
+### 9.2 跨源比對
+
+| 項目 | hololive.wiki | fandom.com | 現有報告 |
+|------|--------------|------------|---------|
+| 年齡 | 0 歲（官方設定） | 0 歲，另自稱 3 歲 | 0 歲（僅提及 0 歲） |
+| 異色瞳原因 | — | 遺傳自父親 | 未提及原因 |
+| AsaCoco English Class | 未提及 | 明確記載固定環節 | 未提及 |
+| 音樂作品清單 | 較完整（含合作曲） | 較簡略 | 部分收錄 |
+| 重機駕照 | 未提及 | 明確記載 | 未提及 |
+| 電子琴等級 | 未提及 | Yamaha Grade 6 | 未提及 |
+
+### 9.3 現有報告缺口（已補足）
+
+以下項目原為報告缺口，已在本更新中補入：
+- [x] 名字由來詞源
+- [x] 「Battle Princess」別名
+- [x] 重型機車駕照 + 哈雷戴維森
+- [x] Yamaha Grade 6 電子琴等級
+- [x] Chiikawa 粉絲資訊
+- [x] AsaCoco 甜蜜英語教室環節
+- [x] 3 歲年齡主張
+- [x] 腱鞘炎手術經歷
+- [x] 父親異色瞳遺傳
+- [x] Instagram 帳號
+- [x] 里程碑時間線（2020–2023）
+
+---
+
+## 10. 資料來源
+
+- [hololive官方網站（日文）](https://hololive.hololivepro.com/talents/himemori-luna/)
+- [hololive官方網站（英文）](https://hololive.hololivepro.com/en/talents/himemori-luna/)
+- [Hololive Fan Wiki（Miraheze）](https://hololive.wiki/wiki/Himemori_Luna)
+- [Virtual YouTuber Wiki（Fandom）](https://hololivevtuber.fandom.com/wiki/Himemori_Luna)
+- [YouTube 頻道](https://www.youtube.com/@HimemoriLuna)
+- [Luna Button](https://nanora.moe)
+- [seesaawiki.jp hololivetv](https://seesaawiki.jp/hololivetv/)（回傳 404，待補）

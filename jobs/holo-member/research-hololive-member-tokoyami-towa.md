@@ -5,4 +5,3 @@ Use $AGENT_CWD/skills/web-research to comparative analysis for :
 https://seesaawiki.jp/hololivetv
 https://hololive.wiki/wiki/Main_Page
 https://hololivevtuber.fandom.com/wiki/Hololive_Wiki
-

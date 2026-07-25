@@ -6,6 +6,7 @@
 |------|------|
 | **所屬團體** | hololive English -Advent- |
 | **角色名稱** | Mococo Abyssgard（モココ・アビスガード） |
+| **中文名** | 茸茸·阿比斯加德（Rong Rong Abisijiade） |
 | **出道日期** | 2023年7月31日 |
 | **生日** | 2月2日 |
 | **身高** | 155 cm |
@@ -71,6 +72,10 @@ Mococo 的性格特點為：
 - **主題：** 惡魔犬、雙胞胎、監獄/越獄
 - **代表色：** 粉色系
 
+### 語源
+
+名字「Mococo」源自日文擬聲詞「もこもこ (mokomoko)」，意為「毛茸茸的」，與其「毛茸茸的那位」角色定位相符。
+
 ## 出道歷程
 
 - **2023年7月31日：** 作為 hololive English -Advent- 第四、五位成員正式出道
@@ -81,6 +86,10 @@ Mococo 的性格特點為：
   - 2024年10月12日：達到 **100 萬訂閱**
 - **2024年1月6日：** 公開新年服裝
 - **2025年10月31日：** Ducky × hololive English FUWAMOCO 聯名鍵盤發售（二周年紀念）
+- **2026年1月：** 發布原創曲《Breakout》
+- **2026年2月2日：** Mococo 舉辦 3D 生日 LIVE
+- **2026年3月20日：** Fuwawa 接受手術住院，Mococo 首次單獨直播
+- **2026年7月3-4日：** hololive English 4th Concert「Serendipity」
 
 ## 音樂作品（部分）
 
@@ -127,6 +136,23 @@ Mococo 的性格特點為：
 - 合：「我們是... FUWAMOCO！BAU BAU！」
 **離別：** "We hope you have a *howl* of a day! BAU BAU!"
 
+### Call/Response 互動腳本
+
+| 發起方 | 內容 | 回應 |
+|--------|------|------|
+| Mococo | "Moco?" | "Moco!" |
+| FUWAMOCO | "BAU" | "BAU!" |
+| Mococo | "え〜" (eh~) | 觀眾模仿語尾 |
+
+### Chat Emote 列表
+
+| Emote | 說明 |
+|-------|------|
+| MOCOhuh | Mococo 困惑表情 |
+| BAU / BAUBAU | 基本叫聲 emote |
+| BAUDOL | 偶像模式 |
+| FWMCMococo | Mococo 頭像 emote |
+
 ## 其他資訊
 
 - **寵物：** Pero
@@ -136,6 +162,9 @@ Mococo 的性格特點為：
   - 2023年 The Vtuber Awards — League of Their Own 獎項
   - 2024年 The Vtuber Awards — Vtuber Of The Year（年度 VTuber）
 - **Reddit 管理員：** FUWAMOCO 是官方 Hololive Subreddit 的管理員之一
+- **父母：** Papa-Puppy（父親）、Mama-Puppy（母親）— 曾於直播中被提及並觀看直播
+- **更多綽號：** もこじゅあん (Mogojyan)、もごご (Mogogo)、元子 (Moko-chan)、もちもち (Mochimochi)、もふもふ (Mofumofu)
+- **語尾特色：** Mococo 語尾常帶「え」(eh)音，例如「No」說成「Noeh」、「Mococo」說成「Mococoeh」
 
 ## 資料來源
 
@@ -144,3 +173,5 @@ Mococo 的性格特點為：
 - FUWAMOCO YouTube 頻道：https://www.youtube.com/@FUWAMOCOch
 - FUWAMOCO 官方 Twitter（X）：https://twitter.com/fuwamoco_en
 - 角色繪師 ICOMOCHI：https://twitter.com/rswxx
+- [Seesaawiki.jp - FUWAMOCO](https://seesaawiki.jp/hololivetv/d/FUWAMOCO)
+- [Hololivevtuber Fandom - Mococo Abyssgard](https://hololivevtuber.fandom.com/wiki/Mococo_Abyssgard)

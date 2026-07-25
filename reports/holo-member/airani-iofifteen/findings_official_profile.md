@@ -80,12 +80,25 @@
   - 高马尾发型，配有大蝴蝶结/缎带
   - 佩戴项圈和耳环饰品
 
-### 已披露的换装
+### 已披露的换装（2D）
 
 1. **印尼传统风格服装**（2020 年 8 月 16 日披露）
 2. **休闲服装**（与 Yano Mitsuki 共同设计）
-3. **3D 模型**（2022 年 3 月 20 日，于 hololive 3rd fes. Link Your Wish 首次亮相）
-4. **新年服装**（2023 年 2 月 4 日披露）
+3. **连衣裙服装**（2022 年 10 月披露）
+4. **和服服装**（2023 年 2 月 4 日披露）
+5. **生日服装**（2023 年 7 月披露）
+6. **4周年服装**（2024 年 4 月披露）
+7. **"The Sea" 服装**（2025 年 4 月披露）
+8. **护士服装**（2026 年 4 月披露）
+
+### 3D 模型变体
+
+1. **默认 3D**（2022 年 3 月 20 日，于 hololive 3rd fes. Link Your Wish 首次亮相）
+2. **Bright 3D** 变体
+3. **HoloSummer2023 3D** 变体
+4. **Yukata 3D** 变体
+5. **ID JiwaKarya 3D** 变体
+6. **ColorRise 3D** 变体
 
 ---
 
@@ -108,11 +121,28 @@
 
 ### 兴趣爱好
 
-- **抽卡游戏：** 「NO GACHA NO LIFE！」口号来源
-- **音游：** 为了 Full Combo 会反复挑战同一首歌无数次
+- **抽卡游戏：** 「NO GACHA NO LIFE！」口号来源，喜欢 Arknights、THE iDOLM@STER 等
+- **音游：** 为了 Full Combo 会反复挑战同一首歌无数次，喜欢 BanG Dream!（最喜欢的乐队是 Roselia，最喜欢的成员是湊友希那 Minato Yukina）和 osu!
 - **绘画：** 经常进行「边画画边聊天」的惬意直播
-- **学习语言**
+- **学习语言：** 通过动画、游戏和日剧自学日语和英语，能写平假名和片假名，仍在学习汉字
 - **美容 / 护肤**话题
+- **游戏偏好：** 喜爱 Monster Hunter、Stardew Valley、视觉小说；不喜欢 FPS 游戏和 Minecraft
+
+### 个人背景（来自采访）
+
+- **在家自学（Homeschool）**，姐姐是她唯一的好朋友
+- 成为 VTuber 是为了交更多朋友
+- 偏好将自己的名字完全小写：**"iofi"**
+- 曾患有**扁桃体炎（tonsillitis）**，对手术持保留态度
+
+### 与其他成员的关系
+
+- 称呼**时乃空（Tokino Sora）**为「Nee-san」（姐姐），获得了本人的许可
+- 设计了 IoSoRadio 的广播标志
+
+### 频道会员（Kira Kira Club）
+
+Iofi 的频道会员提供多档位福利，包括专属表情、徽章和会员限定内容。
 
 ---
 
@@ -151,6 +181,7 @@
 
 | 歌曲名称 | 发行年份 | 备注 |
 |----------|----------|------|
+| Bersama Ioforia | 2021 | 由 Rikka 作曲，个人原创曲 |
 | id:entity voices | 2021 | HoloID 1 期生合作曲 |
 | Q&A=E | 2022 | 个人原创曲 |
 | HI-15 | 2022 | 个人原创曲 |
@@ -163,12 +194,23 @@
 | Show Them (Who You Are) | 2025 | HoloID 全体曲 |
 | Ridin' on Dreams | 2026 | hololive 7th fes. 主题曲 |
 
+### 翻唱歌曲
+
+- 「エイリアンエイリアン」(Alien Alien) — 首支翻唱，符合外星人设定
+- 「Mozart no Tamenaru (Reloaded)」 — holo27 Covers Vol.1 收录
+- 「ハッピーシンセサイザ」(Happy Synthesizer) — 与 Pochimaru 合唱
+- 「おちゃめ機能」(Ochame Kinou) — HoloID 1期合唱
+- 「太陽が似合うよ」(Taiyou ga Niau yo) — 原唱：水树奈奈
+
 ---
 
 ## 八、常规节目与特色直播
 
 - **「Area 15」** — 每月与同期生 Risu 和 Moona 的联合直播
-- **「IoSoRadio」（イオそラジオ）** — 与**时乃空（Tokino Sora）** 共同主持的每月电台节目，主题为「御宅族杂谈」
+- **「IoSoRadio」（イオそラジオ）** — 与**时乃空（Tokino Sora）** 共同主持的每月电台节目，主题为「御宅族杂谈」（Iofi 设计了电台标志）
+- **「Kira Kira Family」** — 与 Risu、Aragami Oga、Arurandeisu 的联动组合
+- **「HoloFOI」** — 与白上吹雪（Shirakami Fubuki）和 Oga 的联动组合
+- **「UniDemons」** — 与荒咬王牙（Aragami Oga）和 Deep Blizzard Miyuki 的联动组合
 - **画画杂谈直播** — 边画画边与粉丝聊天的惬意直播
 - **歌回 / 自由杂谈**
 
@@ -183,6 +225,15 @@
 | 50 万订阅达成 | 2021 年 12 月 31 日 |
 | 3D 模型披露 | 2022 年 3 月 20 日（hololive 3rd fes.） |
 | 60 万订阅达成 | 2022 年 7 月 12 日 |
+| 70 万订阅达成 | 2023 年 5 月 |
+| 80 万订阅达成 | 2025 年 7 月 |
+
+### 3D 生日演唱会
+
+| 活动 | 日期 |
+|------|------|
+| 生日 3D Live「Galaxy Ticket」 | 2024 年 |
+| 生日 3D Live「Lucid Dream」 | 2025 年 |
 
 ---
 
@@ -214,6 +265,8 @@ A：试着把 Moona 的名字念 100 遍，然后向随机数之神祈祷，祈�
 2. **hololive 官方网站（日文版）：** <https://hololive.hololivepro.com/talents/airani-iofifteen/>
 3. **Hololive 粉丝维基：** <https://hololive.wiki/wiki/Airani_Iofifteen>
 4. **Wikipedia — Hololive Production：** <https://en.wikipedia.org/wiki/Hololive_Production>
+5. **虚拟YouTuber维基（Fandom）：** <https://hololivevtuber.fandom.com/wiki/Airani_Iofifteen>
+6. **Seesaawiki 日本综合维基：** <https://seesaawiki.jp/hololivetv/d/Airani%20Iofifteen>
 
 ---
 

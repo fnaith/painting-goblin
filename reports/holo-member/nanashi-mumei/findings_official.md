@@ -11,7 +11,10 @@
 | **Unit** | hololive English -Council- → hololive English -Promise- |
 | **Official Title** | Guardian of Civilization (文明の守護者) |
 | **Designer** | azure (@azure_0608_sub) |
-| **Birthday** | August 4 |
+| **Birthday** | August 4 (also International Owl Awareness Day) |
+| **Blood Type** | AB |
+| **Lucky Number** | 12 |
+| **Favorite Colors** | Pink, white |
 | **Height** | 156 cm |
 | **Fan Name** | Hoomans |
 | **Status** | Alum (formerly active) |
@@ -104,6 +107,43 @@ Mumei does **not** have a separate distinct mascot companion character. However:
 - **Platform**: YouTube
 - Part of the Hololive English -Council- wave debuts.
 
+## Equipment / Specifications
+
+| Item | Detail |
+|------|--------|
+| **PC** | Custom-built; RTX 3070 Ti, Ryzen 5900X, 32GB RAM (~$3000) |
+| **Microphone** | Blue Yeti (debut) → RØDE NT1-A → Shure SM7B |
+| **Keyboard** | Blue switches (original) → Red switches (later) |
+| **Headphones** | Audio-Technica (model unconfirmed) |
+
+- Purchased her $3000 PC specifically for streaming.
+- Switched microphones multiple times as her setup evolved.
+
+## Career Milestones
+
+| Date | Event |
+|------|-------|
+| 2021-08-23 | Debut (Hololive EN -Council-) |
+| 2021-09-28 | First unarchived karaoke stream (30K+ viewers, #1 trending in Canada) |
+| 2023-09-24 | 3D model showcase |
+| 2023-10-09 | Council → Promise reorganization |
+| 2024-01-26 | 1 million subscribers (first in Council/Promise) |
+| 2024-02 | 4th outfit "MOOM" (punk/emo style) |
+| 2025-02-15 | Live2D 3.0 upgrade showcased |
+| 2025-03-09 | hololive 6th fes "Color Rise Harmony" performance |
+| 2025-03-28 | Graduation announcement |
+| 2025-04-26 | Final members-only stream |
+| 2025-04-27 | Farewell chatting stream |
+| 2025-04-28 | Graduation stream (pre-recorded 3D, 124K peak viewers) |
+| 2025-07-28 | Members-only content discontinued |
+
+### Post-Graduation Notes
+- Cover songs originally on Mumei's channel were re-uploaded to other Hololive members' channels post-graduation (e.g., Anya Melfissa on Aug 5, Ninomae Ina'nis and IRyS on Oct 28).
+- Mumei is listed as "Alum" on the official hololive site.
+
+## Debut Trivia
+- Her Twitter account was temporarily restricted upon debut due to the massive surge in followers being mistaken for bot activity.
+
 ## Source URLs
 
 - Official hololive talent page: https://hololive.hololivepro.com/en/talents/nanashi-mumei/
@@ -111,3 +151,5 @@ Mumei does **not** have a separate distinct mascot companion character. However:
 - Announcement of hololive English -Promise- formation (Oct 9, 2023): https://hololive.hololivepro.com/en/news/20231009-01-211/
 - Mumei's YouTube channel: https://www.youtube.com/@NanashiMumei
 - Mumei's X/Twitter: https://twitter.com/nanashimumei_en
+- Seesaawiki (JP): https://seesaawiki.jp/hololive/d/%c6%bb%bb%fa%a5%e0%a5%e1%a5%a4
+- Hololive Wiki: https://hololive.wiki/wiki/Nanashi_Mumei

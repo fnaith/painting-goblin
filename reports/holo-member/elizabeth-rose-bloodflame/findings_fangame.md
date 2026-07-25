@@ -33,6 +33,8 @@ Elizabeth Rose Bloodflame is an **official Hololive English VTuber**, debuting o
 - RENEGADE
 - Odyssey
 - ABOVE BELOW
+- Serendipity
+- SUPERNOVA SUPER GIRL
 
 ### Other Content
 - 3D showcase
@@ -120,6 +122,8 @@ Elizabeth Rose Bloodflame is an **official Hololive English VTuber**, debuting o
 | Self-discipline, hard on self | **Risk-reward mechanic** — abilities that cost HP or have drawbacks but deal massive damage; perfectionist combo system |
 | Leadership (coordinating Justice) | **Party leader passive** — team-wide stat bonuses; companion AI commands |
 | British mannerisms | **Dialogue flavor** — unique response options, tea breaks as healing items, polite but cutting insults as taunts |
+| Cockney dialect ("Ello", "BO-OH-O-WO-ER") | **Dialogue flavor / disguise mechanic** — toggle between RP and Cockney for different dialogue outcomes; Cockney shibboleth as a password/puzzle mechanic |
+| Queen's Speech tradition (Christmas video) | **Seasonal event mechanic** — annual in-game event triggered on Christmas; Elizabeth delivers a special buff/performance that lasts for a limited time |
 | Dual emphasis (combat + singing) | **Hybrid class** — switch between warrior mode (physical attacks) and bard mode (song buffs) mid-combat |
 | Fire/blood theme | **Health-as-resource** — spend HP to fuel powerful fire attacks; blue flame aesthetic for spell effects |
 | Scarlet/crimson/rose palette | **Visual identity** — UI theming, color grading, particle effects all in red/crimson tones |
@@ -149,6 +153,8 @@ Elizabeth Rose Bloodflame is an **official Hololive English VTuber**, debuting o
   - "Odyssey" — epic, journey-themed
   - "All for One" — unity/team theme
   - "START AGAIN" — new beginning motif
+  - "Serendipity" — uplifting, concert anthem (2026)
+  - "SUPERNOVA SUPER GIRL" — high-energy, superhero themed (2026)
 - **Cover:** "OTONABLUE" (ATARASHII GAKKO!), "I Wanna Be Your Slave"
 - **Game audio design ideas:**
   - Singing as a core mechanic — rhythm game segments where Elizabeth sings to activate buffs/attacks
@@ -181,7 +187,8 @@ Elizabeth Rose Bloodflame is an **official Hololive English VTuber**, debuting o
 - https://www.youtube.com/playlist?list=PLK3z7l3pSqCY-F8L7nRb3BfWJSRGZgXfT (ENigmatic Recollection)
 - https://www.youtube.com/playlist?list=PLK3z7l3pSqCY46-27EFl1xtWL6WGH3G0F (Advent VS Justice motion comic)
 - https://store.steampowered.com/app/2864500/Age_of_Advent/ (Age of Advent on Steam)
+- https://seesaawiki.jp/hololive/d/Elizabeth%20Rose%20Bloodflame (Seesaa Wiki)
 
 ---
 
-*Report generated on 2026-06-21*
+*Report generated on 2026-07-03*

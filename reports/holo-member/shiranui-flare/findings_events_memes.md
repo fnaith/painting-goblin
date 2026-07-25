@@ -31,14 +31,19 @@
 ### 2. 音樂成就
 - **首張個人專輯《scrap & build !》**（2024年6月8日發行，編號 CVRD-432），收錄6首原創曲。
 - **個人原創單曲**（截至2026年）：
+  - 《Zenryoku Jumping》（2023年7月）
+  - 《SKYSONAR》（2023年7月）
   - 《NAKAMAKA》（2023年8月）
   - 《Atelier》（2023年8月）
-  - 《SKYSONAR》（2023年7月）
   - 《Canvas》（2023年9月 — 專輯）
+  - 《BAKATARATION》（2024年 — Bakatare 團體曲）
+  - 《Yggdrasil》（2024年）
   - 《Like Marble》（2024年8月）
+  - 《elf-friend》（2024年 — 粉絲應援曲）
+  - 《Six Roses》（2025年）
+  - 《Funfair》（2025年2月）
   - 《Stay Blue》（2025年3月）
   - 《angel's ladder》（2025年4月）
-  - 《Funfair》（2025年2月）
   - 《kakū to hontō》（2025年8月 — 出道6周年紀念曲）
   - 《Vivid Stampede!!!!》（2026年2月）
   - 《Silent Flame, Never Fade》（2026年4月 — 生日紀念曲）
@@ -61,6 +66,9 @@
 ### 4. 其他里程碑
 - 多次舉辦個人3D Live演唱會
 - 發行多款語音包（Voice Pack），主題涵蓋學園、聖誕節、情人節等
+- **2021年2月 — 與 Noel 訂製白金對戒**：Flare 與白銀ノエル訂製了 Platinum 戒指，象徵兩人的深厚羈絆（ノエフレ經典事件）
+- **2021年 — figma 可動人偶發表**：Flare 入選 Hololive figma 系列，原型公開
+- **參與 #Gensokyo Holoism**：配音八雲紫（Yakumo Yukari）角色
 
 ---
 
@@ -183,6 +191,8 @@
 ## 七、資料來源
 
 - Hololive 官方網站 — Shiranui Flare 檔案：https://hololive.hololivepro.com/en/talents/shiranui-flare/
+- Hololive Fandom Wiki：https://hololivevtuber.fandom.com/wiki/Shiranui_Flare
+- Seesaawiki（日本Wiki）：https://seesaawiki.jp/hololivetv/d/%c9%d4%c3%ce%b2%d0%a5%d5%a5%ec%a5%a2
 - Hololive 官方音樂頁面：
   - scrap & build!：https://hololive.hololivepro.com/en/music/432/
   - kakū to hontō：https://hololive.hololivepro.com/en/music/610/

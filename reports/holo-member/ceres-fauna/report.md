@@ -8,16 +8,17 @@
 | **狀態** | Hololive English 畢業成員（2025.1.4 畢業） |
 | **出道日** | 2021年8月23日 |
 | **所屬團體** | Hololive EN Council → Promise |
-| **生日** | 3月21日 |
+| **生日** | 3月21日（亦為國際森林日與樹木日） |
 | **身高** | 164 cm |
 | **種族** | 麒麟（Kirin / Qilin）——東方神話中的聖獸 |
 | **角色定位** | 「自然的守護者」（Keeper of Nature / Guardian of Nature） |
 | **世界觀年齡** | 45.4億年（與地球同齡） |
-| **繪師** | Tohsaka Asagi（@asagi_0398） |
+| **繪師** | Tohsaka Asagi（@asagi_0398）——與 Aizawa Ema (VSPO!) 等人共享繪師 |
 | **粉絲名** | Saplings（樹苗） |
 | **會員名** | Faunatics |
-| **Oshi Mark** | 🌿 |
+| **Oshi Mark** | 🌿（原為獅子神レオンの emoji 候選） |
 | **推文標籤** | #faunline（直播）、#FineFaunart（粉絲繪） |
+| **寵物** | Clover（21歲貓咪）、Snail（10歲狗狗——名字雖叫蝸牛但其實是狗） |
 
 ---
 
@@ -29,16 +30,24 @@
 - 核心信念：讓人類**回歸自然**（"Return to Nature"）
 - 雖然外表溫柔，但擁有將人類變成樹木的能力
 - 是 Hololive EN Council 的五位成員之一，代表「自然」的概念（其他成員代表文明、時間、混沌、空間）
+- **黃金蘋果**：持有能治癒所有疾病的黃金蘋果
+- **行星復原能力**：擁有在星球被毀滅後將其恢復的力量
+- **Sana 事件**：在 Tsukumo Sana 解除大小限制器毀滅地球後，Fauna 用該力量復原了地球
+- **「自然」的定義**：她所管的「自然」指地球上除人類以外的所有有機生命
 
 ---
 
 ## 三、外觀設計元素
 
-- **主題色**：綠色、白色、金色點綴
+- **主題色**：綠色、白色、金色點綴（#33ca66, #b4e4c7, #ADD198）
 - **頭部特徵**：頭上有樹枝狀的角（不是鹿角，她本人強調過這是樹枝）
 - **髮型**：綠色長髮，帶有自然元素的裝飾
 - **服裝**：自然風格長裙，帶有樹葉和藤蔓狀飾品
 - **整體風格**：德魯伊 / 森林系美學
+- **面部特徵**：右眼下方有一顆美人痣（不對稱設計）
+- **姓名來源**：「Ceres」源自羅馬農業女神；「Fauna」源自羅馬動物女神
+- **稱呼**：她認為姓氏「Ceres」過於正式，JP 成員稱她為「Ceres-chan」
+- **戲服設計師**：預設服裝由 Mika Pikazo 設計，休閒服由 rariemonn 設計（Soy Live2D、jenny 建模），哥德服由 Asagi Tōsaka 設計，萬聖節 VR 模型為自行設計
 
 ---
 
@@ -51,6 +60,8 @@
 - **容易害羞**：容易臉紅慌張，經典反應是發出「Uuuuuu~」的聲音
 - **佔有慾強/保護慾強**：對粉絲和特別對 Nanashi Mumei 有著強烈的保護慾，甚至到吃醋的程度
 - **認真模式反差**：生氣或不滿時會轉變為尖銳、居高臨下的語氣（「大自然的憤怒」）
+- **笨拙的一面**：儘管外表優雅，實際上有些冒失/笨拙
+- **自我懷疑**：畢業期間透露自己一直認為在 Council/Promise 中最沒有才華，對於在其他人早已達百萬訂閱後仍擁有粉絲感到驚訝
 
 ### 語音特色
 - 聲音輕柔、耳語般的 ASMR 音質，極具治癒力
@@ -105,6 +116,7 @@
 | **IRyS** | Promise 單位的好夥伴，定期合作 |
 | **Tsukumo Sana** | 親密好友（已畢業）。Sana 為 Fauna 設計了 VR 模型 |
 | **Mori Calliope / Takanashi Kiara / Ninomae Ina'nis / Gawr Gura** | 與 Myth 世代關係溫暖 |
+| **Shirogane Noel** | 憧憬的對象，曾表達對 Noel 的喜愛 |
 | **FUWAMOCO** | 親密好友，畢業時為 Fauna 繪製了畢業賀圖 |
 
 ---
@@ -123,7 +135,11 @@
 - **「我是 Fauna，不是 Flora」**：曾提醒粉絲她的名字是動物相（Fauna）而非植物相（Flora），代表的是動物生命
 - **3D模型**：2023年6月4日在 HoloGra 第211集首次登場
 - **百萬訂閱**：2024年12月28日達成百萬訂閱，距離畢業僅7天
-- **最終原創曲**："It's Not a Phase"（2024年12月22日發行），為 emo 時期梗畫下完美句點
+- **原創曲 "Odyssey"**：2024年12月27日發行，為最後一首個人原創曲
+- **"It's Not a Phase"**：2024年12月22日發行，與 Nanashi Mumei 的合作單曲，為 emo 時期梗畫下完美句點
+- **"Breaking Dimensions"**：2024年8月14日發行，EN 第二場演唱會主題曲
+- **"ENigmatic Recollection"**：2024年8月23日發行，HoloEN 團體曲
+- **獲獎**：2024年 VTuber Awards「最佳 ASMR 直播主」
 
 ---
 
@@ -134,6 +150,13 @@ Saplings（樹苗）社群以**溫馨、和諧**著稱，反映了 Fauna 本人�
 - 會員等級：Faunatic → Sprouted Faunatic → Blossomed Faunatic
 - 傾向使用自然/成長相關的比喻
 - 畢業期間社群組織了感謝企劃來紀念她的 Legacy
+
+---
+
+## 九之一、畢業後狀態
+
+- 畢業後部分影片已轉為私人（非公開），符合 Hololive 畢業成員的標準處理方式
+- 會員資格於 2025年4月4日正式關閉
 
 ---
 
@@ -154,6 +177,8 @@ Saplings（樹苗）社群以**溫馨、和諧**著稱，反映了 Fauna 本人�
 
 - [Hololive 官方角色頁面](https://hololive.hololivepro.com/en/talents/ceres-fauna/)
 - [Hololive Fan Wiki — Ceres Fauna](https://hololive.wiki/wiki/Ceres_Fauna)
+- [Hololive VTuber Fandom Wiki — Ceres Fauna](https://hololivevtuber.fandom.com/wiki/Ceres_Fauna)
+- [Seesaawiki — Ceres Fauna](https://seesaawiki.jp/hololivetv/d/Ceres%20Fauna)
 - [YouTube 頻道](https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ)
 - [Twitter/X](https://twitter.com/ceresfauna)
 - 畢業直播：[https://www.youtube.com/watch?v=OFIVy79pgWc](https://www.youtube.com/watch?v=OFIVy79pgWc)

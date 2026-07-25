@@ -17,8 +17,11 @@
 | 繪師 | DSmile |
 | 粉絲名 | Otomos |
 | 代表 emoji | 🍵（茶杯） |
+| 代表色 | #137a42 / #119a5c（綠色系） |
 | 常用暱稱 | CC、Cece、Ceci |
-| 居住地 | 德國（推定） |
+| 居住地 | 德國 |
+| 使用語言 | 德語、英語、法語、荷蘭語（日語學習中） |
+| 時區 | CET（歐洲中部時間 / JST-7） |
 
 ---
 
@@ -40,7 +43,15 @@ Cecilia 是一名在遠古時代被製造的自動人偶，原本的使命是永
 
 ### 口頭禪/經典台詞
 - 「I came up with a new melody. Would you like to listen?」
-- 「Spin to Win!」
+- 「I'm Cecilia Immergreen, ancient automaton from hololiveEN -Justice-! SPIN TO WIN!」
+- 「Spin to Win!」（口號）
+
+### 出場音樂
+- 自我介紹背景音樂：巴哈《無伴奏大提琴組曲第一號》（Bach's Cello Suite No.1）
+
+### 喜好設定
+- **喜歡**: 紅茶、咖啡、馬鈴薯、漫畫、B級小說、美術與手工藝、嘗試新事物、鬆餅類甜點
+- **不喜歡**: 番茄（包含番茄醬）、酒類
 
 ---
 
@@ -49,16 +60,18 @@ Cecilia 是一名在遠古時代被製造的自動人偶，原本的使命是永
 ### 🌿 核心性格
 - **聰明直率**：理性、直接，不善於拐彎抹角
 - **好勝倔強**：喜歡挑戰，不服輸
+- **好鬥/愛爭論（Combative）**：不介意辯論，有話直說，敢於表達立場
 - **諷刺幽默**：擅長 sarcasm，毒舌屬性
-- **調皮惡作劇**：喜歡在合作中戲弄夥伴
+- **調皮搗蛋（Playful）**：喜歡玩鬧，在合作中戲弄夥伴
 - **創造力旺盛**：技術、音樂、手工藝多方面展現
 
 ### 💡 獨特技能（可轉化為遊戲機制）
-1. **程式設計**：可作為角色的特殊能力，如「世界改寫」「系統入侵」等技能
+1. **程式設計**：可作為角色的特殊能力，如「世界改寫」「系統入侵」等技能；具備製作遊戲及 Live2D 模型的能力
 2. **小提琴演奏**：可作為施展魔法/技能的媒介，或 Buff 技能
 3. **音樂創作**：旋律具有特殊力量
 4. **手工藝**：能製作各種道具/裝備
 5. **茶道**：泡茶相關的療癒/恢復技能
+6. **多語言能力**：通曉四種歐洲語言，可作為語言解謎/溝通相關技能
 
 ### ⚔️ 角色原型參考
 - **吐槽役**（與 Gigi 互動時）
@@ -108,7 +121,10 @@ Cecilia 是一名在遠古時代被製造的自動人偶，原本的使命是永
 
 - hololive 官方網站: https://hololive.hololivepro.com/en/talents/cecilia-immergreen/
 - Hololive Fan Wiki: https://hololive.wiki/wiki/Cecilia_Immergreen
+- Seesaawiki (日本維基): https://seesaawiki.jp/hololivetv/d/Cecilia%20Immergreen
+- Fandom Wiki: https://hololivevtuber.fandom.com/wiki/Cecilia_Immergreen
 - Cecilia Immergreen YouTube 頻道: https://www.youtube.com/@holoen_ceciliaimmergreen
+- Cecilia Immergreen Twitch 頻道: https://www.twitch.tv/cecilia_immergreen
 - Cecilia Immergreen Twitter/X: https://www.twitter.com/ceciliaimgreen
 - Justice 組 Fan Wiki: https://hololive.wiki/wiki/Hololive_English_-Justice-
 

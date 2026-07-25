@@ -15,10 +15,18 @@
 | **Debut Date** | November 27, 2021 |
 | **Birthday** | June 11 |
 | **Height** | 161 cm |
+| **Zodiac** | Gemini |
+| **Unit** | Secret Society holoX, HOLOTORI (bird-themed unit) |
+| **Live2D Modelling** | rariemonn (main); ヲニ村 & rariemonn (Costume "The XO") |
 | **Illustrator** | Kakage (かかげ) |
 | **Fan Name** | Lui-tomo (also referred to as "Birds of my feather") |
+| **Nicknames** | Lui-nee (ルイ姉), Kanbu/Executive (幹部), The XO, 琉依姐 (Chinese), 干部 (Chinese), 老鹰 (Chinese) |
 | **YouTube Channel** | https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g |
-| **Twitter (X)** | https://twitter.com/takanelui |
+| **Twitter (X) — Main** | https://twitter.com/takanelui |
+| **Twitter (X) — Sub** | https://twitter.com/sub_luilui |
+| **Twitch** | https://www.twitch.tv/takanelui_hololive |
+| **Instagram** | https://instagram.com/takaneluilui |
+| **Reddit** | https://www.reddit.com/user/TakaneLui |
 | **Hashtags** | Stream: `#たかねの見物` / Fan Art: `#Luillust` |
 | **Fan Mark** | 🥀 (withered rose) -- "I can't call myself a flower blooming in brilliance yet, but someday I want to gain enough confidence to hold my head up high." |
 
@@ -44,6 +52,7 @@ Lui is widely recognized as the **mature, cool, "onee-san" figure** of holoX. Sh
 | **Compassionate / Maternal** | Genuinely cares for her holoX "subordinates" and looks after them. Described as having a "warmth" to her personality. |
 | **PON / Airhead** | Frequently makes mistakes, drops things (especially water on her keyboard), or spaces out at crucial moments. This "gap" is endearing to fans. |
 | **Sarcastic / Dry Wit** | Known for sharp, sarcastic remarks. When she tells a bad joke, the air freezes -- she will react with "Cold!" or "Did someone turn off the heating?" |
+| **Twin Enthusiast** | Openly loves twins — was notably thrilled when Fuwawa & Mococo (hololive English -Advent-) debuted, expressing joy at having twin pairs in Hololive. |
 | **Ad-lib Master** | Skilled at coming up with "hellish adlib" stream ideas (unexpected, chaotic segments). Known for her creativity in variety streams. |
 | **Hardworking** | Expressed a desire to become a multifaceted idol and to bring smiles and warmth to everyone. |
 

@@ -4,8 +4,8 @@
 
 | Attribute | Detail |
 |-----------|--------|
-| **Full Name** | Watson Amelia (ワトソン・アメリア) |
-| **Nicknames** | Ame, Amechan, Ground Pounder, Gremlin Ame |
+| **Full Name** | Amelia H. Watson (ワトソン・アメリア) — middle initial "H" revealed in membership video |
+| **Nicknames** | Ame, Amechan, Ground Pounder, Gremlin Ame, Watsoff Amelia (post-retirement), Watochama (ワトちゃま, JP fans) |
 | **Birthday** | January 6 (Capricorn) |
 | **Height** | 150 cm (4'11") |
 | **Blood Type** | O |
@@ -132,11 +132,13 @@ From the official hololive website:
 
 ## Key Facts
 
+- **Full name "Amelia H. Watson"** — the middle initial "H" was kept secret until revealed in a membership video after her Affiliate transition
+- **January 6 birthday** coincides with Sherlock Holmes' birthday (in some canons), adding to her detective persona
 - **First hololive EN member to hold a charity stream** (June 5, 2021, raised ~$236K for Best Friends Animal Society)
 - **First hololive EN member to retire from streaming** (September 30, 2024) — introduced the "Affiliate" status as an alternative to full graduation
 - **Hosted "Ame in The A.M."** — a morning news show inspired by Kiryu Coco's "AsaCoco"
 - **Created "ChikuTaku"** — her own original song and rhythm game (released January 2023 on itch.io)
-- **Mascot**: Bubba (based on her real dog)
+- **Mascot**: Bubba (based on her real hunting terrier); also has a second dog Mikki/Nikki and a cat named Wellington
 - **Known for**: "Gremlin mode" (competitive gaming personality), "Amelia Tech Tips" (helping genmates with tech), FPS games (Apex Legends, Valorant), puzzle games
 
 ## Source URLs

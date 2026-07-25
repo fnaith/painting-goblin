@@ -12,16 +12,30 @@
 | **Height** | 149 cm |
 | **Illustrator** | Mika Pikazo |
 | **Fan Name** | Brats |
+| **Live2D Modeler** | Jujube (shares with Mori Calliope) |
 
 ## Catchphrase / Motto
 
 > "WAZZUP!! It's your worldwide Rat Idol — Hakos Baelz!"
+
+## Name Etymology
+
+- **"Hakos"** is an anagram of **"Khaos"** (the primordial Greek goddess of Chaos), reflecting her character concept.
+- **"Baelz"** references the demon **Bael** / **Baalzebul** from demonology, fitting her chaotic and mischievous persona.
+- "Baelz" is also an anagram of **"Blaze"** — fire being a classical element of chaos/destruction.
+- Fans commonly shorten her name to **"Bae"**, which also means "before anyone else" in English slang.
 
 ## Character Concept & Lore
 
 Hakos Baelz embodies **Chaos, Mayhem, and Entropy** — all in the form of a cute little rat. She is a performer looking for her next stage. Occasionally she gets swept up in her own storm, but that is just part of the fun.
 
 She is portrayed as a chaotic, energetic trickster figure associated with dice, gambling, and mischief, earning her the affectionate nickname "the Chaos Rat" among fans.
+
+**Species Clarification**: Despite the "Chaos Rat" nickname, her lore species is technically **"chaos"** — not an actual mouse/rat. Her design reflects this by retaining both rat ears and human ears simultaneously.
+
+**Choker Lore**: The choker she wears was **given by the gods** and holds the key to remove it. This is an in-universe explanation for her signature accessory.
+
+**Height (in Cheese Units)**: Her 149 cm height is equivalent to **7.45 cheesewheels**. She is said to have sacrificed 8 cheese wheels to gain her humanoid form.
 
 ## Physical Appearance & Outfit
 
@@ -50,6 +64,15 @@ She is portrayed as a chaotic, energetic trickster figure associated with dice, 
 | **Music Tag** | #BaeBeatz |
 | **Meme Tag** | #YABAE |
 
+## Language & Speech
+
+| Language | Proficiency | Notes |
+|----------|-------------|-------|
+| **English** | Native | Australian English |
+| **Japanese** | Fluent | Uses **"boku" (僕)** pronoun (shared with Roboco, Okayu, Kanata) |
+| **Cantonese** | Conversational | Speaks some |
+| **Korean** | Basic | Some knowledge |
+
 ## Likes & Dislikes
 
 **Likes**: Coffee, fried cheese, RPGs, simulation games, anisong, J-pop, K-pop, EDM, hardstyle
@@ -59,7 +82,7 @@ She is portrayed as a chaotic, energetic trickster figure associated with dice, 
 ## Source URLs
 
 - https://hololive.hololivepro.com/en/talents/hakos-baelz/ (official profile)
+- https://hololive.wiki/wiki/Hakos_Baelz (Hololive Fan Wiki)
+- https://hololivevtuber.fandom.com/wiki/Hakos_Baelz (Fandom Wiki)
 - https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ (YouTube channel)
 - https://twitter.com/hakosbaelz (X/Twitter)
-
-*Note: The Virtual YouTuber Fandom wiki (https://virtualyoutuber.fandom.com/wiki/Hakos_Baelz) was requested but returned a 403 error and could not be accessed.*

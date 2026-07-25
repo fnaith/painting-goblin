@@ -1,33 +1,25 @@
-# Research Plan: Kureiji Ollie (Hololive Member)
+# Research Plan: Kureiji Ollie (Hololive Member) — Update Phase
 
 ## Main Question
-Collect comprehensive information about Kureiji Ollie for use in a fan game character setting, including official settings, personal characteristics, memorable memes/clips, and related anecdotes.
+Enrich existing report with new information from three additional sources (seesaawiki.jp, hololive.wiki, hololivevtuber.fandom.com) covering official settings, personality, memorable memes/clips, and related anecdotes.
 
-## Subtopics
+## Sources to Mine
+| Source | Focus Area |
+|--------|-----------|
+| seesaawiki.jp/hololivetv/d/Kureiji%20Ollie | Japanese-language profile, timeline, relationships, fan creations |
+| hololive.wiki/wiki/Kureiji_Ollie | Detailed milestones (2020-2026), stream rules, discography, trivia |
+| hololivevtuber.fandom.com/wiki/Kureiji_Ollie | Q&A, family members, visual novel, event appearances |
 
-### 1. Official Profile & Setting
-- Official Hololive introduction/debut info
-- Character design (zombie theme, appearance)
-- Basic stats (birthday, height, etc.)
-- VTuber model details
-
-### 2. Personality & Catchphrases
-- Personality traits (genki, chaotic, "zombie" persona)
-- Catchphrases and speech patterns
-- Voice characteristics
-- Fanbase name and interactions
-
-### 3. Memorable Memes & Clips
-- Notable clips that became memes
-- Popular stream moments
-- Fan-made content trends
-- Collab moments
-
-### 4. Notable Anecdotes & Lore
-- Relationships with other Holomems
-- Career milestones
-- Interesting stories from streams
-- Any "lore" developments
+## Known Gaps (from existing report)
+- Family members (Illo, Ollo, Ellie)
+- "Days With Ollie" visual novel (Steam 2024)
+- DECO*27 "Zombie" chorus feature (2022)
+- World Zombie Day birthday coincidence (Oct 13)
+- CDawgVA fan interaction
+- Eye color trivia (different colors when alive)
+- Stream rules
+- More recent milestones (2024-2026)
+- Additional original songs and covers
 
 ## Synthesis
-Combine all findings into a comprehensive Chinese-language report organized by category, suitable for use as reference material for fan game character setting development.
+Update existing report.md and findings files with new data, preserving existing content and supplementing with source-cited additions.

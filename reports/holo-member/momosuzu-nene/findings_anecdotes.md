@@ -31,6 +31,12 @@ Nene occasionally speaks basic English and Spanish during streams, attracting a 
 ### Dropping the "Aru" Verbal Tic
 At debut, Nene used the Chinese-inspired verbal tic "aru" (ある) at the end of sentences. Months later, fans noticed she'd stopped; she explained she was saying it so fast it became inaudible.
 
+### Ideal Male Description (Pizza Party)
+During an offline Gen 5 pizza party collab, Nene described her ideal male type, causing Lamy and Botan to respond "That's not a dream, it's a manga" — Nene's standards were considered impossibly high/cartoonish.
+
+### "Matanene Bye Bye"
+Nene and Polka created an animated short clip titled "Matanene Bye Bye" featuring their chibi characters in a fun back-and-forth routine about saying goodbye.
+
 ### The Water Gallon
 Nene is known as a "hydrohomie" — she keeps an image of a water gallon beside her during streams and drinks water at regular intervals to stay hydrated.
 
@@ -65,15 +71,26 @@ Nene is known as a "hydrohomie" — she keeps an image of a water gallon beside 
 
 | Date | Milestone |
 |------|-----------|
+| Apr 15, 2020 | YouTube channel created |
+| Apr 28, 2020 | Twitter account created |
 | Aug 13, 2020 | YouTube debut |
 | Aug 14, 2020 | 100K subscribers (next day!) |
+| Sep 11, 2020 | Membership feature opened; 200K subscribers |
+| Oct 22, 2020 | 250K subscribers |
+| Nov 15, 2020 | 300K subscribers (Among Us collab stream) |
+| Jan 18, 2021 | 400K subscribers |
+| Jan 31, 2021 | New main Live2D outfit revealed (replaced original Chinese-dress design) |
 | Mar 2, 2021 | 500K subscribers on birthday stream; announced first original single |
 | Mar 3, 2021 | Released "NENENENENENENENE! DAIBAKUSOU" |
 | Apr 18, 2021 | **3D model debut** |
+| May 10, 2021 | 600K subscribers |
+| May 16, 2021 | First appearance in *Holo no Graffiti* (Episode 106) |
 | Jul 21, 2021 | 700K subscribers |
 | Sep 11, 2021 | Revealed second Live2D outfit |
 | Oct 4, 2021 | Featured in Shueisha's "Weekly Playboy" as one of "55+1 Next Generation Beautiful Girls" |
 | Oct 30, 2021 | 800K subscribers |
+| Jan 1, 2022 | New Year's outfit revealed |
+| Feb 16, 2022 | 900K subscribers |
 | Mar 13, 2022 | Revealed 3D Idol outfit |
 | Oct 22, 2022 | Released first EP "nenene no ne" |
 | **Dec 3, 2022** | **1,000,000 YouTube subscribers** |
@@ -124,6 +141,9 @@ Nene is known as a "hydrohomie" — she keeps an image of a water gallon beside 
 - **Multi-Talented:** Has 10 years of piano experience, practiced kyuudou (Japanese archery), baseball, tennis, programming (Java), and drawing. Holds certificates in typing, programming, and marketing — she got them because she thought they'd "look cool."
 - **Original Bio Change:** Her original bio mentioned gyoza (dumplings) as her favorite food; this is reflected in her dumpling emoji.
 - **Character Origin:** Her character backstory shares similarities with Kagura from Gintama (including the "aru" tic). There's also a fan theory that her design was inspired by Sakura Nene from *New Game!* (blonde hair, childish klutzy personality, programming background).
+- **Karamomo Suzune:** Nene's character appears as **Karamomo Suzune** in the official Hololive horror game *Hololive ERROR* — a ghostly alternate identity.
+- **Hololive ERROR:** One of several Hololive members to feature in the horror visual novel franchise.
+- **Holds Reddit Moderator Status:** Nene is one of the moderators of the official r/Hololive subreddit.
 - **Lamy's Debut Flub:** During Lamy's debut stream, Lamy accidentally wrote Nene's name as "Suzumomo" instead of "Momosuzu."
 - **Age Joke:** Claims to be perpetually 19 years old.
 - **Outfit Change:** Received a new main Live2D outfit on Jan 31, 2021, replacing her original Chinese-dress design.

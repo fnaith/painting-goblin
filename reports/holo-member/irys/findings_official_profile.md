@@ -10,12 +10,19 @@ Her catchphrase: *"HiRyS, it's IRyS! Your seiso nephilim here to fill the world 
 
 | Attribute | Value |
 |-----------|-------|
-| **Height** | 162 cm |
-| **Birthday** | March 7 |
+| **Height** | 162 cm (166 cm with heels) |
+| **Birthday** | March 7 (disputed: some sources list March 6) |
+| **Bust Size** | A cup |
+| **Eye Color** | Heterochromia (different left/right eye colors; 5th hololive member with this trait after Houshou Marine, Himemori Luna, Kureiji Ollie, Yukoku Roberu) |
 | **Illustrator** | redjuice (https://twitter.com/shiru) |
+| **Live2D Modeling** | rariemonn (original), Brian Tsui (2022 Winter redesign) |
 | **Fan Name** | IRyStocrats |
 | **Unit** | hololive English -Promise- |
 | **Category** | Project: HOPE |
+| **Oshi Mark** | 💎 |
+| **Color Codes** | Main: #991150, Outside: #e10e5b, Outside-to-outside: #8c1236 |
+| **Hair Product** | Pantene shampoo |
+| **Languages** | English (primary), Japanese (fluent) |
 
 ## VTuber Debut Date
 
@@ -31,6 +38,21 @@ Her catchphrase: *"HiRyS, it's IRyS! Your seiso nephilim here to fill the world 
 ## VSinger Aspect
 
 IRyS is positioned primarily as a **VSinger** (Virtual Singer), placing heavy emphasis on music and singing as her core identity. Her lore directly ties her voice and songs to the act of delivering hope. She has released numerous original singles and albums, including *YaBAI*, *Stay Blue*, *Odyssey*, *Carbonated Love*, *Our Promise*, *Connect the World*, *Breaking Dimensions*, *START AGAIN*, *TwiLight*, *LIVE IT LOUD!*, *Escalate*, *Run Back 'Round*, *Bright Tonight*, *BE MY FLAME*, and *All for One*. Her music catalog spans original songs, covers, and collaborative albums such as the *hololive English Eurobeat Remix Album*.
+
+## Family
+
+- **Older sister:** Exists; IRyS has mentioned her in streams
+- **Younger brother:** Named **RyS** (りす); IRyS regularly interacts with him via LINE
+- Her brother gifted her a game on Steam; they have a close sibling relationship
+
+## In-Game Aliases
+
+| Alias | Game Context |
+|-------|-------------|
+| IRySuperGlue | Minecraft |
+| irysocool | Apex Legends / Just Shapes & Beats |
+| IRySwitch | Mario Kart 8 Deluxe |
+| IRYSOPRO | Gartic Phone / Steam games |
 
 ## Source URLs
 

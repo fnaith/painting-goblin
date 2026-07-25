@@ -23,5 +23,12 @@
 - Interesting stories from streams/collaborations
 - Fan game relevant details
 
+## Source Accessibility
+| Source | Status | Notes |
+|--------|--------|-------|
+| https://seesaawiki.jp/hololivetv | 404 Not Found | Page for Ookami Mio could not be accessed; site may use different URL encoding scheme |
+| https://hololive.wiki/wiki/Main_Page | OK (redirected to /wiki/Ookami_Mio) | Primary source used — comprehensive profile, personality, milestones, trivia |
+| https://hololivevtuber.fandom.com/wiki/Hololive_Wiki | 403 Forbidden | Fandom wiki blocked access; could not retrieve |
+
 ## Synthesis
 Combine all findings into a comprehensive character reference document suitable for fan game development.

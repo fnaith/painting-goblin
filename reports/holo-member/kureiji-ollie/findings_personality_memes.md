@@ -107,9 +107,37 @@ Zomrades are known for being highly active, meme-savvy, and deeply loyal. Ollie 
 
 ---
 
+## Additional Personality Traits (from Supplementary Sources)
+
+### Stream Rules (from hololive.wiki)
+Ollie's stream description includes 6 rules:
+
+1. **Don't be a jerk** — be respectful in chat
+2. **No spoilers** — unless she asks
+3. **Don't backseat game** — let her play, unless she asks for help
+4. **Don't bring up other streamers/Livers** — unless related to the stream / or if she mentions them first
+5. **No racist, sexist, or any kind of discrimination** — inclusive chat
+6. **Follow Ollie's rules** — have fun!
+
+### CDawgVA Meme
+Ollie revealed herself as a huge fan of CDawgVA, calling him "Papa." When CDawgVA acknowledged her, she screamed and became extremely flustered — a classic "Ollie fangirling" moment that became a meme crossover between the Hololive and CDawgVA communities.
+
+### Additional Catchphrases (from seesaawiki)
+- **"HELLO EVERYNYAA"** — Cat-themed greeting variant
+- **"Ore ga zombie de, zombie ga ore de"** — "I am zombie, zombie is me" (Japanese)
+
+### Zombie Persona Depth (from seesaawiki)
+- Fully embraces the zombie identity: uses zombie moans, zombie puns, zombie mannerisms
+- Despite the zombie theme, her character is "kawaii zombie" rather than "scary zombie" — emphasizing the idol aspect
+- Her "zombieness" is played for comedy (body parts falling off, forgetting she's dead, etc.)
+
+---
+
 ## Source URLs
 
 - https://hololive.wiki/wiki/Kureiji_Ollie — Hololive Fan Wiki (primary source for personality, trivia, catchphrases, fanbase info)
 - https://hololive.hololivepro.com/en/talents/kureiji-ollie/ — Official hololive production page (official bio, discography)
+- https://seesaawiki.jp/hololivetv/d/Kureiji%20Ollie — Japanese wiki (timeline, relationships, fan creations)
+- https://hololivevtuber.fandom.com/wiki/Kureiji_Ollie — Fandom wiki (Q&A, family, visual novel)
 - https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ — Official YouTube channel
 - https://www.twitter.com/kureijiollie — Official Twitter/X account

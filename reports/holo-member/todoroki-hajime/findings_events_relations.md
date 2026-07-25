@@ -39,6 +39,21 @@ ReGLOSS 的背景設定為常駐的音樂俱樂部「ChouVeryBad」，曾是每�
 
 ## 二、重大里程碑與活動年表
 
+### YouTube 訂閱里程碑
+
+| 里程碑 | 日期 |
+|--------|------|
+| 200,000 訂閱 | 2023-10-01 |
+| 250,000 訂閱 | 2023-10-30 |
+| 300,000 訂閱 | 2023-12-14 |
+| 350,000 訂閱 | 2024-01-15 |
+| 400,000 訂閱 | 2024-03-05 |
+| 450,000 訂閱 | 2024-04-21 |
+| 500,000 訂閱 | 2024-06-27 |
+| 1,000,000 訂閱 | 2025-08-06 |
+
+**來源**: https://hololive.wiki/wiki/Todoroki_Hajime
+
 ### 2023年
 | 日期 | 事件 |
 |------|------|
@@ -225,6 +240,6 @@ ReGLOSS 初始五人中的火威青已畢業，此後 ReGLOSS 以四人體制活
 2. https://hololive.hololivepro.com/en/special/9521/ — ReGLOSS 官方介紹頁
 3. https://holoearth.com/en/news/regloss2nd/ — ReGLOSS 2周年派對資訊
 4. https://hololive.hololivepro.com/en/music/ — 音樂作品列表
-5. https://virtualyoutuber.fandom.com/wiki/Todoroki_Hajime — 粉絲 Wiki（搜索摘要）
-6. https://hololive.wiki/wiki/Todoroki_Hajime — Hololive 粉絲 Wiki（搜索摘要）
+5. https://hololivevtuber.fandom.com/wiki/Todoroki_Hajime — Fandom Wiki
+6. https://hololive.wiki/wiki/Todoroki_Hajime — Hololive Wiki
 7. https://x.com/i/trending/2049792649943744925 — PLAVE × 轟はじめ合作資訊

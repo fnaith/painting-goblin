@@ -9,6 +9,10 @@
 - **YouTube**: 4.32M subscribers, 2.19B views (as of March 2026)
 - **Claim**: Most-subscribed active VTuber from Japan; second most-subscribed overall after Gawr Gura
 
+## Official Hobbies & Likes
+- **Hobbies**: Looking at and buying cute things, searching for porn, fantasizing, singing, dirty talk
+- **Likes**: Dating sims, shooters, fellow hololive members, vivacious ladies, and her fans
+
 ## Personality Traits
 
 ### Energetic & High-Energy
@@ -24,6 +28,7 @@
 - Described as acting like a "succubus" who seduces viewers — "a sensual, femme fatale boss"
 - Taught "Im horny" by Kiryu Coco — now a self-described catchphrase
 - This contrasts with her official age of "17" (her 3rd go-around as of 2021), creating comedic irony
+- **Origin story**: Marine watched her first porno at age 5 from her father's collection, establishing her "ero" foundation early
 
 ### Charismatic & Entertaining
 - Known for her distinctive, loud laugh and expressive voice
@@ -37,6 +42,11 @@
 - Her dynamic with Usada Pekora is especially famous — Pekora as chaotic prankster, Marine as exasperated reactor
 - Sharp wit, quick comebacks, and self-aware meta-humor
 
+### Introvert Handler
+- Known as one of the best "introvert handlers" in Hololive
+- Successfully "tamed" Pekora and helped bring Minato Aqua out of her shell through patient, persistent interaction
+- Pekora and Korone gave her the nickname "Maririn"
+
 ## Catchphrases & Signature Lines
 
 | Phrase | Meaning/Context |
@@ -48,6 +58,7 @@
 | **"Petting time! Slam!!!"** | Meme catchphrase with SFX |
 | **"Im horny"** | Self-explanatory — taught by Kiryu Coco |
 | **"95/100"** | Common score she assigns things |
+| **"DON!"** | Response to fans asking for headpats — a "bam" sound effect |
 | **"Heya, Marine." / "That's 'Captain Marine' to you, punk!"** | Response to informal address |
 | **"Synergy"** | Frequently used buzzword |
 | **"Overseas Sexy Guys & Ladies"** | How she greets overseas viewers |
@@ -55,6 +66,25 @@
 | **"Aq-tan? I gave birth to that girl."** | Her obsession with Minato Aqua |
 | **"My Doctor, My Author"** | Her ENT doctor who is a published author |
 | **Jack** | Genderbent version of Marine from 3rd Gen host club streams |
+
+## Physiological & Health Trivia
+- **Distinctive feature**: Heterochromia — left iris is red, right iris is golden
+- **Allergies**: Allergic to cats
+- **Grip strength**: 13 kg
+- **Body age**: 45 (from health check)
+- **Mental age**: 72 (from health check)
+- **Physical limitation**: Cannot skate — lost breath after 10 seconds skating in place
+- **Vocal range**: Wide range — covered BLOODY STREAM one octave lower than the original
+- **Impressions**: Can do Pikachu impression; her "normal" voice resembles Angie from Resident Evil Village
+- **English**: Poor ("Maringlish") — started taking English classes to improve
+- **Special skills**: Brushing teeth, drawing, mimicry/imitations
+
+## Touhou Background
+- Marine is a major Touhou Project fan
+- Bought Touhou 6 (Embodiment of Scarlet Devil) on its release date at Comiket 62
+- Made Touhou fan doujinshi (possibly NSFW) before becoming a VTuber — her artist pseudonym has not been revealed
+- Her own character design has been mistaken for a Touhou character
+- Participated in COOL&CREATE's Touhou x Hololive collab album *Gensokyo Holoism*
 
 ## Popular Memes & Running Gags
 
@@ -79,6 +109,7 @@
 - One of the most popular Hololive duos
 - Pekora as chaotic gremlin, Marine as exasperated tsukkomi
 - Their BridalDream duet song was part of the HoneyWorks collaboration
+- Marine has mentioned having a dream of a "Usada Pekora harem"
 
 ### "17 Years Old" Running Gag
 - Claims to be perpetually 17 (stated 2021 was her "third go-around")
@@ -111,6 +142,7 @@
 - Skilled digital artist — draws frequently on stream
 - Streamed "Pictures I've Drawn from Elementary School till Now"
 - Shares illustrations on Twitter
+- Shares the same illustrator (Akasa Ai) with Yugiri of Re:AcT
 
 ### Gaming
 - Plays dating sims, shooters, and various games
@@ -133,3 +165,5 @@
 - Hololive Official Profile: https://hololive.hololivepro.com/en/talents/houshou-marine/
 - Wikipedia: https://en.wikipedia.org/wiki/Houshou_Marine
 - MoguLive Interview: https://www.moguravr.com/houshoumarine-interview/
+- Hololive Wiki: https://hololive.wiki/wiki/Houshou_Marine
+- Hololive Fan Wiki (Fandom): https://hololivevtuber.fandom.com/wiki/Houshou_Marine

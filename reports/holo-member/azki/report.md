@@ -8,7 +8,7 @@
 | **稱號** | Virtual Diva（虛擬歌姬） |
 | **所屬** | hololive production／hololive Gen-0（0期生） |
 | **生日** | 7月1日 |
-| **身高** | 158 cm |
+| **身高** | 158 cm（模型不同有變化：1st 170cm/168cm、2nd 165cm、3rd 163cm、4th 168cm） |
 | **出道日** | 2018年11月15日 |
 | **粉絲名稱** | 開拓者（Pioneers／Kaitakusha） |
 | **粉絲象徵** | ⚒️（粉色海狸，背負鎬與錘） |
@@ -52,8 +52,9 @@ AZKi 經歷了多次服裝更新，是 Hololive 中唯一一位初代服裝被�
 - **1st 服裝**（2018年11月）— 設計：加速サトウ；靈感來自《攻殻機動隊》；臉頰標記靈感來自 Audi TT 跑車頭燈
 - **2nd 服裝**（2019年5月）— 設計：BARD713
 - **3rd 服裝**（2021年2月）— 設計：Koh_rd
-- **4th 服裝**（2022年11月）— 設計：Sco_ttie；臉頰標記被移除，象徵突破過去
-- 另有 Bright 服裝、浴衣、禮服、新年服裝等多種變裝
+- **4th 服裝**（2022年11月）— 設計：Sco_ttie；臉頰標記在演唱〈Over Light〉時脫落，象徵突破過去
+- **8th 服裝**（2025年8月20日）— 「Youthful Summer Fashion」
+- 另有 Bright 服裝、浴衣、禮服、新年服裝、1st Live2D 版（2026年愚人節）等多種變裝
 
 ---
 
@@ -70,7 +71,7 @@ AZKi 經歷了多次服裝更新，是 Hololive 中唯一一位初代服裝被�
 - **恐怖遊戲苦手**：平時冷靜，但玩恐怖遊戲時會嚇到尖叫哭泣
 - **冷笑話愛好者**：喜歡講雙關語冷笑話，讓觀眾感到無奈
 - **配合型玩梗**：不認為自己是「清楚系」，會配合黃腔玩笑（但非主動發起）
-- **辣食派**：喜歡辣食勝過甜食；鳳梨披薩派；茶勝過咖啡
+- **辣食派**：喜歡辣食勝過甜食；鳳梨披薩派；茶勝過咖啡；炎熱天氣勝過寒冷天氣；米飯勝過麵食；Saizeriya 勝過 Gusto；蘋果汁勝過柳橙汁；7-11 勝過全家或 Lawson；最喜歡聖誕節
 
 ---
 
@@ -114,12 +115,14 @@ AZKi 經歷了多次服裝更新，是 Hololive 中唯一一位初代服裝被�
 - **KALAZ** — 與天音彼方＆雪花菈米
 - **WAZ** — 與亞綺羅森塔爾
 - **AZBae** — 與 Hakos Baelz
+- **AZHACHI** — 與 HACHI
 - **AZRyS** — 與 IRyS
 - **FWMCAZ** — 與 FUWAMOCO
 - **KoZMy** — 與博衣小夜璃＆雪花菈米
 
 ### 跨領域
 - KAF（Kamitsubaki Studio）的忠實粉絲，曾在 KAF 演唱會同台
+- 她的3rd服裝概念設計師（Koh_rd）同時也為 Ai-pii、Love-chan、Nekomiya Makuro、Kashiko Mari 設計
 
 ---
 
@@ -137,6 +140,7 @@ AZKi 經歷了多次服裝更新，是 Hololive 中唯一一位初代服裝被�
 | 2024年4月28日 | 達成 YouTube 100 萬訂閱 |
 | 2024年8月3日 | 主流出道演唱會〈Kowairo Enthropy〉@ Zepp Yokohama |
 | 2025年6月25日 | 離開 Victor，回歸 Hololive Records |
+| 2025年8月20日 | 8th 服裝「Youthful Summer Fashion」公開 |
 | 2025年11月19日 | 首場 arena 級個唱〈Departure〉@ Pia Arena MM |
 | 2025年12月7日 | 達成 130 萬 YouTube 訂閱 |
 | 2026年3月24日 | 獲任小豆島警察署一日署長及香川縣交通大使 |

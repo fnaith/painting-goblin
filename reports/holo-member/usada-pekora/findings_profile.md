@@ -14,7 +14,7 @@
 | **身高** | 153 cm（不含兔耳） |
 | **种族** | 来自ぺこらンド（Pekoland）的兔子少女 |
 | **体重** | 三根胡萝卜的重量 |
-| **插画设计** | 憂姫はぐれ (Yuuki Hagure) |
+| **插画设计** | 憂姫はぐれ (Yuuki Hagure) — 与天ノ川しな、月夜井アヴィ、小森めと共用相同绘师 |
 | **Live2D 建模** | rariemonn |
 | **3D 建模** | Yatsurugi |
 | **粉丝名称** | **野うさぎ同盟** (Nousagi Doumei) — 野兔同盟 |
@@ -40,6 +40,9 @@
   - "Power is Power"
   - "こーうん！こーうん！世界で一番かわいいよー！"
   - "Ogey Rrat"（源自MGS3直播中捡老鼠时说的"Okay, rat"）
+  - "きｔら" (Kitira) — 可爱/搞怪感叹词，源自直播中口误
+  - "バカタレ" (Bakatare) — 骂人笨蛋的ぺこら版
+  - "PE↗ KO↘ PE↗ KO↘ PE↗ KO↘" — 压制式宣告存在感，用于挑衅或搞笑
 
 ### 性格特点
 
@@ -53,6 +56,9 @@
 - ぺこーら / Peko-chan / 社長 (Shachou) / うーぺー (U-Pe-) / 長 (Osa，首领)
 - 海外粉丝常用：**War Criminal**（战争罪犯，因其在Minecraft中的TNT大炮等行为）、**Comedian**
 - くさぎ (Kusagi，臭兔子) — 当她调皮捣蛋时粉丝的戏称
+- **非常食** (Hijou Shoku / Emergency Food Supply) — 粉丝玩梗，指她可爱到可以当应急粮食
+- **兎鍋** (Usagi Nabe / Rabbit Stew) — さくらみこ威胁要把她做成兔肉火锅而来的绰号
+- **ぺこら王女** (Pekora Princess) — 自称ぺこらんど的皇族后裔
 
 ## 三、直播风格与内容
 
@@ -67,6 +73,18 @@
 - 粉丝被称为Nousagi，频道吉祥物也是Nousagi（由画师kuu创作的类似百变怪的ぺこら形象）
 - 直播开场播放「にーんじん🥕」歌曲，粉丝会同步刷🥕
 - 通过红色Super Chat让ぺこら给粉丝起昵称/绰号是常见互动
+- 直播聊天室互动用语：
+  - **たっきぺこ** (Taiki peko) — 催促/等待用
+  - **にんじん** (Nīnjin) — 胡萝卜刷屏
+  - **ぶんぶんちゃ** (Bun bun cha) — 开场互动
+
+**游戏挑战成就（与其他Hololive成员的对决）：**
+- 2020/2/16 Minecraft PvP 击败さくらみこ
+- 2021/7/31 Mario Kart 击败紫咲シオン
+- 2021/8/4 Getting Over It 击败白銀ノエル
+- 2021/8/22 PUBG 击败獅白ぼたん
+- 2021/9/3 Fall Guys 击败百鬼あやめ
+- SSBU（大乱斗）获胜
 
 **音乐作品：**
 - 原创曲：`PEKORANDOMBRAIN`、`ララララビット！！`、`最强女神†Usa Pekora`、`USAGI THE MEGAMI`（首张专辑）、`Love Scab` 等
@@ -95,7 +113,8 @@
 
 ## 五、趣闻杂谈
 
-- 2020年12月13日，她在百万订阅达成后向母亲坦白了自己是VTuber的身份，母亲随后在直播中登场，被称为"ぺこママ"（PekoMama）
+- 2020年12月13日，她在百万订阅达成后向母亲坦白了自己是VTuber的身份，母亲随后在直播中登场，被称为"ぺこママ"（PekoMama / Christine）
+- 父亲血型A型，自称普通上班族
 - ぺこら给两个哥哥分别起了昵称：**Michael（ミカエル）** 和 **Diablo（ディアボロ）**
 - ぺこら玩偶曾被贡献的Nousagi送上太空（2025年1月）
 - 戴隐形眼镜和眼镜
@@ -107,5 +126,7 @@
 
 - Hololive 官方资料页: https://hololive.hololivepro.com/en/talents/usada-pekora/
 - Hololive Fan Wiki: https://hololive.wiki/wiki/Usada_Pekora
+- Hololive Fandom Wiki: https://hololivevtuber.fandom.com/wiki/Usada_Pekora
+- Seesaawiki (日本维基): https://seesaawiki.jp/hololivetv/d/%c5%c6%c5%c4%a4%da%a4%b3%a4%e9
 - YouTube 频道: https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ
 - Twitter: https://twitter.com/usadapekora

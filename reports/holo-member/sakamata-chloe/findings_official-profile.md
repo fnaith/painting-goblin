@@ -1,7 +1,6 @@
 # Sakamata Chloe (沙花叉クロヱ) — Official Profile Research
 
-> **Note:** The Fandom wiki (virtualyoutuber.fandom.com) returned 403/blocked.
-> All information below is sourced from **official hololive production** channels only.
+> **Note:** Data sourced from official hololive production channels, hololive.wiki (Miraheze), fandom wiki, and seesaawiki.jp.
 
 ---
 
@@ -40,11 +39,15 @@ Key character notes:
 ## Character Design Details
 
 - **Illustrator / Character Designer:** パセリ (Parsley / Parsley_F) — https://twitter.com/Parsley_F
+- **Live2D Modeler:** 入江燈 (jenny / IrisLight) — https://twitter.com/jennya_IRIS
+- **3D Modeler:** ユウコテツ (Yukotetsu)
 - **Hair:** Long silver-white hair with blue/teal undertones, styled with two distinctive fin-like protrusions at the back (evoking orca/killer whale dorsal fins)
 - **Outfit:** Black-and-white theme — a fitted dark dress/suit with white accents, layered with translucent blue fabric elements suggesting water/aquatic themes
 - **Headwear:** A black peaked cap with a holoX emblem (military/agent aesthetic)
 - **Accessories:** Black gloves, asymmetrical legwear (one thigh-high, one knee-high), choker with a blue gem, belt with pouches/tools
 - **Color scheme:** Black, white, and blue/teal (orca/ killer whale colors)
+- **Background color:** #ab0e0c / #cf4c4a (red tones)
+- **Outside background color:** #921a1b
 - **Height:** 148 cm
 - **Fan mark:** 🎣 (fishing rod and fish)
 
@@ -67,7 +70,9 @@ Key character notes:
 | **Height** | 148 cm |
 | **Unit** | holoX |
 | **Illustrator** | パセリ (Parsley) |
-| **Fan Name** | Handlers |
+| **Fan Name** | Handlers / Zookeepers (飼育員さん) |
+| **Community** | Orcart (オーカート) |
+| **Nickname** | Shachiken (シャチけん) |
 | **Dream 1** | To hold a solo live concert on a big stage |
 | **Dream 2** | To get a statue figure |
 | **Dream 3** | To collab with an aquarium |
@@ -97,11 +102,24 @@ Key character notes:
 
 ## Likes & Interests
 
-- **Mentaiko** (spicy cod roe)
+### Liked Foods
+- **Mentaiko** (spicy cod roe) — favorite food
 - **Shortcakes**
+- **Natto**
+- **Squid**
+- **Tomato**
+
+### Hobbies
 - **Music** (composing, writing lyrics, singing, voice training)
+- **Karaoke**
+- **Listening to music** (favorite artists: Sia, Bruno Mars, Yorushika, ZUTOMAYO)
+- **Watching movies**
+- **Shopping for accessories**
+- **Going to theme parks**
 - **Sleep**
-- **Theme parks**
+
+### Dislikes
+- **Ghosts** (horror/spooky things)
 
 ---
 
@@ -118,6 +136,11 @@ A: My 3D reveal stream, 'cuz I feel like I put a lot of myself into it!
 
 **Q: What do you plan to do moving forward?**
 A: Apart from putting out songs, I'd also want to start posting more videos!
+
+### Dreams
+1. Hold a solo live concert on a big stage
+2. Get a statue figure
+3. Collab with an aquarium
 
 ---
 
@@ -150,3 +173,7 @@ A: Apart from putting out songs, I'd also want to start posting more videos!
 2. **Official Talent Page (JP)** — https://hololive.hololivepro.com/talents/sakamata-chloe/
 3. **holoX Debut Announcement** — https://hololive.hololivepro.com/en/news/20211126-1-41/
 4. **Illustrator Twitter (Parsley)** — https://twitter.com/Parsley_F
+5. **Live2D Modeler (jenny / IrisLight)** — https://twitter.com/jennya_IRIS
+6. **Hololive Wiki (Miraheze)** — https://hololive.wiki/wiki/Sakamata_Chloe
+7. **Fandom Wiki** — https://hololivevtuber.fandom.com/wiki/Sakamata_Chloe
+8. **Seesaawiki (非公式wiki)** — https://seesaawiki.jp/hololivetv/d/%BA%BB%B2%D6%BA%B5%A5%AF%A5%ED%A5%F1

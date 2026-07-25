@@ -1,224 +1,154 @@
-# 天音かなた (Amane Kanata) 綜合研究報告
+# 天音かなた（Amane Kanata）综合研究报告
 
-> 本報告用於同人遊戲設定參考，資料整理自官方網站、粉絲維基及各大媒體報導。
+## 一、基本信息
 
----
-
-## 一、官方設定與基本資料
-
-### 角色設定
-天音かなた是 **Hololive 4期生 (holoForce)** 所屬的虛擬YouTuber，角色設定為**來自天界學園的天使**。官方描述：
-- 在親近的朋友面前活潑開朗，但在人群面前會變得安靜內向
-- 休假時都待在家裡
-- 正在學習如何治癒他人
-- 為了掩蓋害羞而假裝冷酷
-- 自稱擔任**學生會書記**
-- 目標是在**埼玉超級競技場**舉辦演唱會
-
-### 基本資料
-| 項目 | 內容 |
+| 项目 | 内容 |
 |------|------|
-| **姓名** | 天音かなた (Amane Kanata) |
-| **生日** | 4月22日 |
-| **身高** | 149 cm |
+| **姓名** | 天音かなた（Amane Kanata） |
+| **所属** | Hololive Japan 4期生 |
 | **出道日** | 2019年12月27日 |
-| **畢業日** | 2025年12月27日 |
-| **粉絲名** | へい民 (Hei-min) |
-| **象徵符號** | 💫 (暈眩臉，代表天使光環) |
-| **角色設計** | おしおしお (Oshioshio) |
-| **訂閱數** | 172萬 (畢業時) |
-| **總觀看數** | 5.76億次 |
+| **毕业日** | 2025年12月27日 |
+| **角色设定** | 天界学园的天使（治愈方向） |
+| **种族** | 天使 |
+| **生日** | 4月22日 |
+| **年龄** | 20岁（出道时17岁） |
+| **身高** | 149 cm |
+| **血型** | B型 |
+| **画师** | oshioshio |
+| **Live2D建模** | rariemonn |
+| **3D建模** | Yatsurugi（八剣） |
+| **粉丝名** | へい民（Heimin，意为"平民"） |
+| **标语/招呼** | "へい！"（Hei!） |
+| **直播标签** | `#天界学園放送部` |
+| **粉丝艺术标签** | `#かなたーと` |
+| **剪辑标签** | `#PPカット` |
+| **应援标记** | 💫（晕眩表情，象征天使光环） |
+| **YouTube** | UCZlDXzGoo7d44bwdNObFacg |
+| **Twitter** | @amanekanatach |
 
-### 外觀設計
-- 天使主題，白色與藍色配色方案
-- 帶有天使光環與翅膀
-- 長髮飄逸設計
-- 共有6套以上不同服裝（新年服裝、3D偶像服、魔法少女holoWitches等）
+## 二、角色设定
 
-### 來源
-- [Hololive官方網站](https://hololive.hololivepro.com/en/talents/amane-kanata/)
-- [Hololive粉絲維基](https://hololive.wiki/wiki/Amane_Kanata)
-- [Wikipedia](https://en.wikipedia.org/wiki/Amane_Kanata)
+天音かなた的角色设定是**天界学园（Heaven Academy）的天使**，正在学习治愈他人的能力。她在学生会担任书记。虽然性格害羞，但她会装作冷静的样子来掩饰这一点。
 
----
+她的经典开场白是"へい！"，粉丝会回应"へい！"。完整自我介绍为："こんかなた～！ホロライブ4期生かなたんこと、天音かなたでーす！"
 
-## 二、個人特色與性格
+她拥有四角星形金属光环，蓝色挑染的头发，以及标志性的天使翅膀。她的校服领带总是不对称/歪斜的。
 
-### 性格特徵
-- **反差萌**：可愛天使外表 vs. 驚人怪力（握力>50kg）
-- **純真**：被認為是Hololive最純潔的成員之一，避免成人笑話和髒話
-- **努力家**：克服梅尼爾氏症（一耳失聰）仍追求偶像夢想
-- **偶像宅**：本身就是偶像宅，以早安少女組的亀井絵里為偶像啟蒙
-- **天然呆**：方向感差、時尚品味獨特
+## 三、性格与特点
 
-### 聲音與直播風格
-- **強大歌唱力**：被譽為「天使之聲」，能在現場演唱中維持20秒以上的長音
-- **創作歌手**：自己作詞作曲多首歌曲，並與Toby Fox、Camellia等合作
-- **PowerPoint天使**：初期直播大量使用PowerPoint簡報，成為個人標誌
-- 直播開場招呼：「へい！」（Hei!）
-- 直播結束語：「おつかなたー！」（Otsukanata!）
+### 声音与歌唱
+- 拥有**惊人的音域**，被认为是Hololive中最会唱的成员之一
+- 能模仿多种声音（童声、低沉男声、夸张卡通声）
+- 能成功伪装成其他人给其他成员打恶作剧电话
+- 粉丝圈流传的梗：Kanata其实是一个人声演了Hololive所有成员
+- 出道时清唱了传统日本民谣**《ソーラン節》（Sōran Bushi）**，这首歌实际上成为了她的主题曲
 
-### 與其他成員的關係
+### 性格特征
+- 非常甜美、礼貌、友好且端庄
+- 有点笨拙但心地纯洁
+- 相比4期生的其他成员较为安静内向
+- 自称有"施虐狂"的一面——经常捉弄观众和同僚
+- 非常害羞，用"冷酷外表"来掩饰
+- 天真单纯，经常听不懂成人笑话，避免使用不良用语
+- 粉丝常开玩笑担心她被其他成员（如桐生可可、夏色祭）"带坏"
+- 即使面对困难（如一只耳朵近乎失聪）也能保持积极心态
 
-| 關係 | 對象 | 說明 |
-|------|------|------|
-| **同期** | 常闇トワ、角巻わため、姫森ルーナ、桐生ココ | 4期生holoForce |
-| **音樂組合** | 常闇トワ → **ORIO** | 天使與惡魔的音樂組合 |
-| **音樂組合** | AZKi、沙花叉クロヱ → **Kanaken** | 三人音樂單位 |
-| **同居人** | 桐生ココ | 曾同居，ココ叫她「Kana-Gorilla」 |
-| **合作對象** | Toby Fox | 共同創作《Fallen Wing》 |
+### 知性面
+- 在癒月ちょこ的通识测验中得到了**满分20分**
+- 记忆力极好
+- 被英文圈粉丝称为"BB Tenshi"（Big-Brained Angel/大腦天使）
+- 是《Pop Team Epic》、《Hunter × Hunter》和《名侦探柯南》的狂热粉丝
+- 成功邀请了《Pop Team Epic》的作者Bkub为其创作会员印章
 
-### 來源
-- [Real Sound專訪](https://realsound.jp/2022/05/post-1022934.html)
-- [Famitsu訪談](https://www.famitsu.com/news/202403/15337235.html)
-- [KAI-YOU人物介紹](https://kai-you.net/word/%E5%A4%A9%E9%9F%B3%E3%81%8B%E3%81%AA%E3%81%9F)
+### 其他特质
+- 没有时尚感——桐生可可声称只见过她穿过两套不同的衣服
+- 不擅长起名——频道会员名称投票的选项为"Kanatas"、"THE Kanata"和"Kanata Fan Club"
+- 养了两只兔子
+- 小时候自称"Nyan Nyan"
 
----
+## 四、外貌与服装
 
-## 三、經典梗與精華片段
+### 基础设计
+- **身高**：149 cm（Hololive中较矮的成员之一）
+- **头发**：淡蓝色/银白色，刘海间隙有钴蓝色挑染
+- **翅膀**：白色天使翅膀
+- **光环**：四角星形金属光环
+- **校服**：天界学园制服，高领经常遮住部分脸部，领带总是不对称
 
-### 1. PP天使 (PPTenshi)
-- **由來**：出道直播大量使用PowerPoint，粉絲因此稱她為「PowerPoint天使」
-- **發展**：後來也被重新解讀為「Perfect Pitch天使」（完美音準天使）
-- **影響**：成為她最知名的別名，甚至被日本媒體PANORA用在報導標題中
+### 换装
+- 初始服装：天界学园制服
+- 新年和服（2021年1月1日）
+- 3D偶像服（2021年2月15日）
+- 第三套Live2D服装（2021年5月5日）
+- 第四套Live2D服装（2022年5月1日）
+- 第五套Live2D服装（2023年6月17日）
+- Magical Girl holoWitches服装
 
-### 2. 怪力天使 / ゴリラ (Gorilla)
-- **由來**：握力超過50kg，經常不小心在直播中捏壞手把、捏扁罐頭等
-- **發展**：桐生ココ因為常找她開罐頭而叫她「Kana-Gorilla」
-- **中文圈梗**：「彈藥包」— 指她的手臂肌肉發達，像是扛著彈藥包的士兵
+## 五、音乐作品
 
-### 3. ソーラン節 (Sōran Bushi)
-- 出道時演唱的日本傳統民謠，意外成為她的主題曲
-- 粉絲會在直播中與她進行Call & Response
+### 原创单曲
+1. **特者生存ワンダラダー!!**（2021年8月19日）
+2. **天使のagape**（2021年12月27日）
+3. **中空の庭**（2022年4月21日）
+4. **Over Time**（2022年5月2日）
+5. **Capture the Moment**（2024年3月7日）
 
-### 4. 20秒長音挑戰
-- 多次在線上演場會中維持20秒以上的長音，展現驚人肺活量
+### 合作单曲
+1. **STARDUST SONG**（2021年2月4日）
+2. **Dreaming Days**（2021年2月11日）
+3. **Kiseki knot**（2021年6月25日）- 4期生合作
+4. **マドロミ**（2021年10月15日）
+5. **Our Bright Parade**（2023年3月8日）
 
-### 5. 腎結石事件 (2025年6月)
-- 直播途中因劇痛緊急住院，後來以記者會風格直播宣布得了腎結石
-- 被日本主流媒體報導（ASCII.jp、Ameba News）
+### EP
+- **Over Time EP**（2022年7月30日）- 包含Like a Phoenix、Pray等
 
-### 6. 畢業公告 (2025年12月)
-- 六週年當天畢業，聲明不會「轉生」
-- 原因為工作壓力與組織內部結構問題
+### 所属组合
+- **ORIO**：2022年2月27日与常闇トワ结成的音乐组合
 
-### 7. Kabaya綽號
-- 赤井はあと曾拼錯她的名字，觀眾開始叫她「Kabaya」並成為流行
+## 六、社区迷因与轶事
 
-### 8. 粉絲文化
-- **つよつよ**：每當她展現力量或歌力時，聊天室刷的用語
-- **かなたんワールド**：指她獨特、有時混亂的直播邏輯
-- 聊天室常用PowerPoint相關笑話
+### 1. "PP天使"（PP Tenshi / PowerPoint天使）
+这是Kanata最著名的绰号。她在出道直播中使用了Microsoft PowerPoint，因此被称为"PPT天使"。粉丝们为这个缩写创造了多种解读：
+- Perfect Pitch Tenshi（唱歌时）
+- Perpetually Panicked Tenshi（玩恐怖游戏时）
 
-### 來源
-- [PANORA 3D出道報導](https://panora.tokyo/archives/7883)
-- [Real Sound特輯](https://realsound.jp/tech/2022/01/post-942262.html)
-- [KAI-YOU人物介紹](https://kai-you.net/word/%E5%A4%A9%E9%9F%B3%E3%81%8B%E3%81%AA%E3%81%9F)
-- [ASCII.jp腎結石報導](https://ascii.jp/elem/000/004/295/4295784/)
-- [ITmedia畢業報導](https://www.itmedia.co.jp/news/articles/2512/02/news130.html)
+### 2. ソーラン節（Sōran Bushi）
+出道时清唱这首传统民谣的经历让她与这首歌紧密绑定。混音版成为她直播的待机音乐，粉丝们会在直播中配合歌曲喊出"ドッコイショー！ソーラン！ハイ！ハイ！"
 
----
+### 3. 大猩猩 / Kana-Gorilla
+她的握力高达**50公斤**，远超同龄日本女性平均水平（19-30公斤），甚至超过男性平均水平（40-45公斤）。桐生可可与她同住时经常让她帮忙拧开难开的玻璃罐，因此给她起了"Kana-Gorilla"的绰号。她曾多次捏碎罐子、弄坏手柄和键盘，医生也无法解释她娇小身材下的这种力量。
 
-## 四、相關軼事
+### 4. "Kabaya"事件
+赤井はあと在打字时不小心将Kanata的名字拼错成"Kabaya"，直到聊天室开始这样称呼她才发现。从此"Kabaya"和"PP Kabaya"成为她的别名之一。
 
-### 令人印象深刻的直播軼事
-- **PowerPoint出道**：2019年12月出道直播全程使用PowerPoint，奠定「PP天使」稱號
-- **握力傳說**：與桐生ココ同居時，ココ經常請她幫忙開罐頭，封她為「Kana-Gorilla」
-- **COVID-19確診**：2022年2月確診，休息9天後回歸
-- **腎結石記者會**：2025年6月以記者會風格直播公開病情，稱結石為「炸彈」
+### 5. 恶作剧电话与声优梗
+Kanata拥有惊人的声线变化能力，曾成功伪装成他人给其他Hololive成员打Discord恶作剧电话。英文圈粉丝以此为梗，开玩笑说Kanata其实是一个人声演了所有Hololive成员。
 
-### 與其他VTuber的知名互動
-- **ORIO組合**：與常闇トワ組成天使x惡魔的音樂組合，2022年發行EP《Over Time》
-- **Toby Fox合作**：因Toby Fox主動聯絡而促成《Fallen Wing》的合作
-- **讀賣巨人球賽**：2023年8月與白上虎太郎共同擔任讀賣巨人隊的現場播報員
-- **Animelo Summer Live 2024**：與大神ミオ共同登上Animelo Summer Live的VTuber專場
-- **Blue Journey計畫**：參與Hololive × EMI Records的音樂企劃
+### 6. 纯洁与"被带坏"梗
+由于Kanata的天真单纯，粉丝们经常开玩笑担心她被其他成员"污染/带坏"，尤其是与她同住的桐生可可。
 
-### 特殊成就
-- **首位Ariake Arena單獨Live**：2025年8月在Ariake Arena舉辦首次個唱《LOCK ON》，獲得廣泛好評
-- **專輯成績**：首張專輯《Unknown Diva》Oricon第6名，《Trigger》第5名
-- **歌曲創作**：為桐生ココ畢業創作holoForce團體曲《Kiseki Knot》
-- **遊戲合作**：為《Memento Mori》演唱《Lumière》、與常闇トワ共同演唱《Deep Insanity: Asylum》主題曲
+### 7. 时尚感缺失
+Kanata极差的时尚感是一个经典笑点。桐生可可声称只见过她穿两套衣服。她的校服领带也总是不对称。
 
-### 日常生活
-- 養了兩隻寵物兔子
-- 是《Pop Team Epic》的大粉絲，邀請作者Bkuk設計會員貼圖
-- 曾是Hololive官方Reddit版主之一
-- 時尚品味差到桐生ココ說只看過她穿兩套不同的衣服
+### 8. 近乎失聪
+Kanata一只耳朵近乎失聪，但她很少抱怨，粉丝们对她逆境中的积极态度表示钦佩。
 
-### 來源
-- [Dengeki Online Kanaken報導](https://dengekionline.com/article/202501/29888)
-- [PASH! PLUS LOCK ON演唱會報導](https://www.pashplus.jp/report/428858/)
-- [Famitsu LOCK ON回顧](https://www.famitsu.com/article/202508/50424)
-- [4Gamer Memento Mori報導](https://www.4gamer.net/games/590/G059012/20250627030/)
-- [Billboard Japan Blue Journey報導](https://www.billboard-japan.com/d_news/detail/124063/2)
+### 9. 棒球爱好
+她与戌神ころね都是狂热的棒球爱好者，曾一起现场观赛。
 
----
+### 10. 毕业
+2025年12月2日宣布毕业，12月27日举行最终直播并正式毕业，恰好在出道6周年之际。
 
-## 五、同人遊戲設定建議
+## 七、研究来源
 
-基於以上研究，以下是可用於同人遊戲的核心設定元素：
+- [Hololive Fan Wiki - Amane Kanata](https://hololive.wiki/wiki/Amane_Kanata)
+- [Hololive Fandom Wiki - Amane Kanata](https://hololivevtuber.fandom.com/wiki/Amane_Kanata)
 
-### 可玩的角色特性
-1. **天使身份**：可設計飛行、治療等天使系技能
-2. **怪力屬性**：與可愛外表形成反差的物理攻擊能力
-3. **PowerPoint攻擊**：作為獨特的技能或武器系統
-4. **歌力爆發**：唱歌相關的增益Buff或範圍攻擊
-5. **ソーラン節**：可作為特殊技能或主題曲
+## 八、总结
 
-### 劇情潛力素材
-1. **克服病痛**：梅尼爾氏症的設定可作為角色克服困難的劇情線
-2. **天使x惡魔**：與常闇トワ的ORIO組合可作為雙主角設定
-3. **畢業/離別**：2025年畢業事件可作為劇情轉折點
-4. **同居日常**：與桐生ココ的同居生活可作為日常場景
+天音かなた作为Hololive 4期生的天使系VTuber，以**天界学园治愈系天使**的独特设定出道。她以**惊人的歌唱力**和**宽广的音域**著称，是Hololive中最优秀的歌手之一。尽管拥有天使般的外表和纯洁的性格，她却以**50公斤握力**的"怪力天使"形象形成了强烈反差萌。从"PPT天使"到"Kana-Gorilla"，再到"Kabaya"误拼事件，她的社区文化丰富多元。
 
-### 角色關係網（可加入遊戲）
-| 角色 | 關係定位 | 遊戲中可能功能 |
-|------|---------|--------------|
-| 常闇トワ | 最佳搭檔（ORIO） | 雙人技夥伴 |
-| 桐生ココ | 前同居人/最佳損友 | 引導角色 |
-| AZKi | 音樂夥伴（Kanaken） | 協力角色 |
-| 角巻わため | 同期好友 | 輔助角色 |
-| 姫森ルーナ | 同期 | 互動角色 |
+她与桐生可可的同居生活、与常闇トワ组成的ORIO组合、以及与戌神ころね的棒球爱好等关系网都为角色增添了深度。2025年12月的毕业标志着一个时代的结束，但她的天使形象和丰富的迷因文化仍将是同人创作的绝佳素材。
 
-### 視覺設計方向
-- 主色調：白色、天藍色
-- 象徵元素：天使光環（💫）、翅膀、PowerPoint圖標
-- 服裝變化：天使學院服、3D偶像服、魔法少女服、浴衣等
-
-### 來源
-- [Hololive官方網站](https://hololive.hololivepro.com/en/talents/amane-kanata/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Amane_Kanata)
-- [Hololive粉絲維基](https://hololive.wiki/wiki/Amane_Kanata)
-
----
-
-## 六、資料來源總整理
-
-| # | 來源 | URL |
-|---|------|-----|
-| 1 | Hololive官方網站 | https://hololive.hololivepro.com/en/talents/amane-kanata/ |
-| 2 | Wikipedia | https://en.wikipedia.org/wiki/Amane_Kanata |
-| 3 | Hololive粉絲維基 | https://hololive.wiki/wiki/Amane_Kanata |
-| 4 | YouTube頻道 | https://www.youtube.com/@AmaneKanata |
-| 5 | Real Sound專訪 | https://realsound.jp/2022/05/post-1022934.html |
-| 6 | Real Sound特輯 | https://realsound.jp/tech/2022/01/post-942262.html |
-| 7 | Famitsu訪談 | https://www.famitsu.com/news/202403/15337235.html |
-| 8 | KAI-YOU人物介紹 | https://kai-you.net/word/%E5%A4%A9%E9%9F%B3%E3%81%8B%E3%81%AA%E3%81%9F |
-| 9 | KAI-YOU ORIO報導 | https://kai-you.net/article/83545 |
-| 10 | PASH! PLUS LOCK ON報導 | https://www.pashplus.jp/report/428858/ |
-| 11 | PANORA 3D出道 | https://panora.tokyo/archives/7883 |
-| 12 | PANORA LOCK ON | https://panora.tokyo/archives/114417 |
-| 13 | ASCII.jp腎結石 | https://ascii.jp/elem/000/004/295/4295784/ |
-| 14 | ITmedia畢業報導 | https://www.itmedia.co.jp/news/articles/2512/02/news130.html |
-| 15 | Dengeki Kanaken | https://dengekionline.com/article/202501/29888 |
-| 16 | Famitsu LOCK ON | https://www.famitsu.com/article/202508/50424 |
-| 17 | 4Gamer Memento Mori | https://www.4gamer.net/games/590/G059012/20250627030/ |
-| 18 | Billboard Japan | https://www.billboard-japan.com/artists/detail/957467 |
-| 19 | Oricon排行榜 | https://www.oricon.co.jp/prof/789957/rank/album/ |
-| 20 | Excite COVID-19 | https://www.excite.co.jp/news/article/Inside_136810/ |
-
----
-
-*報告完成日期：2026年6月21日*
-*所有資料來自公開可用的官方來源、粉絲維基及新聞媒體報導*
+对于同人游戏创作而言，她的**天使/天界学园**设定、天使与怪力的反差、标志性的"へい！"打招呼方式、ソーラン節主题曲、丰富的换装系统以及与Hololive其他成员的互动关系都是极佳的素材来源。

@@ -74,7 +74,7 @@ Iofi 與同期生 **Ayunda Risu** 和 **Moona Hoshinova** 組成 **「Area 15」
 三人感情極深，是 HoloID 最具代表性的組合之一。
 
 ### 3.2 IoSoRadio
-Iofi 與 **Tokino Sora**（Iofi 稱她為"Sora-neesan"）共同主持每月廣播節目 **「IoSoRadio」**，在 Otaku Talk 頻道播出。
+Iofi 與 **Tokino Sora**（Iofi 稱她為"Sora-neesan"——她曾向 Sora 請求能否叫「Nee-san」，獲得了許可）共同主持每月廣播節目 **「IoSoRadio」**，在 Otaku Talk 頻道播出。Iofi 還親自設計了 IoSoRadio 的廣播標誌。
 
 ### 3.3 Kira Kira Family
 與 Risu、**Aragami Oga**、**Arurandeisu** 組成的聯動團體。
@@ -82,21 +82,24 @@ Iofi 與 **Tokino Sora**（Iofi 稱她為"Sora-neesan"）共同主持每月廣�
 ### 3.4 HoloFOI
 與 **Shirakami Fubuki**（白上吹雪）和 Oga 組成的聯動團體。
 
-### 3.5 Pochimaru 的深厚友誼
+### 3.5 UniDemons
+與 **Aragami Oga** 和 **Deep Blizzard Miyuki** 組成的聯動組合，是跨分部聯動的又一代表。
+
+### 3.6 Pochimaru 的深厚友誼
 Iofi 與知名R18繪師兼個人勢 Vtuber **Pochimaru**（Pochi-sensei）關係極好，兩人曾合唱「Happy Synthesizer」並創作聯合畫作。由於這層關係，HoloID 2期生的 **Pavolia Reine** 稱 Iofi 為 **「tante Iofi」（Iofi 阿姨）**。
 
-### 3.6 Inafi（與 Ninomae Ina'nis）
+### 3.7 Inafi（與 Ninomae Ina'nis）
 Iofi 與 HoloEN 的 **Ninomae Ina'nis** 經常有聯動，粉絲稱這對繪師組合為 **「Inafi」**。兩人互相為對方繪製藝術圖，展現了深厚的友情。
 
-### 3.7 與 Tsunomaki Watame
+### 3.8 與 Tsunomaki Watame
 Iofi 與 **Watame** 經常進行一對一聯動，關係密切。
 
-### 3.8 作為「橋樑」的角色
+### 3.9 作為「橋樑」的角色
 Iofi 憑藉其多語言能力和友善的性格，在 Hololive 中扮演了重要的「橋樑」角色：
 - 幫助促成 **Usada Pekora** 和 **Moona Hoshinova** 的聯繫（這導致了經典的「Pekora x Moona」故事線）
 - 幫助 **Yukoku Roberu** 和聲優 **Ono Yuuki** 建立聯繫
 
-### 3.9 與其他 HoloID 成員
+### 3.10 與其他 HoloID 成員
 作為 HoloID 1期生的「大姊姊」，Iofi 與所有後期 HoloID 成員保持良好關係，包括 Kureiji Ollie、Anya Melfissa、Pavolia Reine、Vestia Zeta、Kaela Kovalskia 和 Kobo Kanaeru。
 
 ---
@@ -116,15 +119,23 @@ Iofi 憑藉其多語言能力和友善的性格，在 Hololive 中扮演了重�
 | 400,000 訂閱 | 2021年7月2日 |
 | 500,000 訂閱 | 2021年12月31日 |
 | 600,000 訂閱 | 2022年7月12日 |
+| 700,000 訂閱 | 2023年5月 |
+| 800,000 訂閱 | 2025年7月 |
 | **目標** | **突破 100 萬訂閱！** |
 
 ### 3D 模型
 - **2022年3月20日**：在 hololive 3rd fes. **「Link Your Wish」** 中首次披露3D模型
 - **2022年9月17日**：展示主要 3D 服裝
+- **3D 变体**：Bright、HoloSummer2023、Yukata、ID JiwaKarya、ColorRise 等多套 3D 造型
+
+### 3D 生日演唱会
+- **2024年**：生日 3D Live「Galaxy Ticket」
+- **2025年**：生日 3D Live「Lucid Dream」
 
 ### 原創歌曲
 | 歌曲名稱 | 發行日期 | 備註 |
-|---|---|---|
+|---|---|---|---|
+| Bersama Ioforia | 2021年3月 | 由 Rikka 作曲 |
 | id:entity voices | 2021年4月 | HoloID 1期生合唱 |
 | Q&A=E | 2022年3月 | **首張個人原創單曲** |
 | HI-15 | 2022年4月 | Area 15 合唱曲 |
@@ -139,6 +150,7 @@ Iofi 憑藉其多語言能力和友善的性格，在 Hololive 中扮演了重�
 
 ### 翻唱歌曲
 - **「エイリアンエイリアン」(Alien Alien)** — 首支翻唱，非常符合外星人設定（她自己繪製了縮圖插畫）
+- **「Mozart no Tamenaru (Reloaded)」** — holo27 Covers Vol.1 收錄
 - **「太陽が似合うよ」(Taiyou ga Niau yo)** — 原唱：水樹奈奈
 - **「おちゃめ機能」(Ochame Kinou)** — HoloID 1期合唱
 - **「ハッピーシンセサイザ」(Happy Synthesizer)** — 與 Pochimaru 合唱
@@ -207,6 +219,10 @@ Iofi 是 Hololive 中公認最頂尖的繪師之一：
 6. **Channel Logo**：她的頻道標誌由她本人與柊椋合作設計。
 
 7. **出道前背景**：據說在成為 Vtuber 前，Iofi 就已經是活躍的繪師和同人創作者。
+8. **在家自學背景**：Iofi 小時候在家自學（homeschool），姐姐是她唯一的好朋友。成為 VTuber 是為了交更多朋友。
+9. **名字拼寫偏好**：偏好將名字完全小寫——**"iofi"**。
+10. **自學語言**：通過動畫、遊戲和日劇自學日語和英語，能寫平假名和片假名，仍在學習漢字。
+11. **頻道會員**：Kira Kira Club 提供多檔位會員福利，包括專屬表情、徽章和會員限定內容。
 
 8. **最喜歡的聲優/歌手**：特別喜歡水樹奈奈，翻唱過她的「太陽が似合うよ」。
 
@@ -288,6 +304,8 @@ Iofi 發布了大量語音包，主題涵蓋：
 
 - https://hololive.hololivepro.com/en/talents/airani-iofifteen/
 - https://hololive.wiki/wiki/Airani_Iofifteen
+- https://hololivevtuber.fandom.com/wiki/Airani_Iofifteen
+- https://seesaawiki.jp/hololivetv/d/Airani%20Iofifteen
 - https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg
 - https://twitter.com/airaniiofifteen
 - https://www.instagram.com/airani_iofifteen/

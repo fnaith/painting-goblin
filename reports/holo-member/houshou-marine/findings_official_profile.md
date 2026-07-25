@@ -2,15 +2,18 @@
 
 ## Basic Information
 - **Name**: Houshou Marine (宝鐘マリン)
-- **Nickname**: Senchou (Captain), Marine
+- **Nickname**: Senchou (Captain), Marine, Maririn (from Pekora and Korone)
 - **Birthday**: July 30
+- **Zodiac**: Leo
+- **Blood Type**: O
 - **Height**: 150 cm
 - **Debut**: August 11, 2019 (Last member of hololive 3rd Generation "hololive Fantasy")
 - **Unit**: hololive 3rd Generation (with Usada Pekora, Uruha Rushia, Shirogane Noel, Shiranui Flare)
 - **Illustrator**: Akasa Ai (@AkasaAi)
 - **Live2D Rigging**: Ilie Tou
 - **Fan Name**: Houshou no Ichimi (Houshou's Pirate Crew)
-- **Hashtags**: Stream - #マリン航海記, Fan Art - #マリンのお宝
+- **Oshi Mark**: 🏴‍☠️
+- **Hashtags**: Stream - #マリン航海記, Fan Art - #マリンのお宝, Clips - #わかるマリン, Memes - #宝鐘海賊団クソコラ部, NSFW Art - #沈没後悔日記, Stream Suggestions - #マリン船長これやってください
 
 ## Official Lore (from hololive website)
 "Ahoy! Captain of the Houshou Pirates, Houshou Marine here! Keep 'er steady!"
@@ -35,14 +38,36 @@
 ## Channels & Social Media
 - YouTube: Marine Ch. 宝鐘マリン (https://www.youtube.com/@HoushouMarine)
 - Twitter/X: @houshoumarine
+- Bilibili: 宝钟玛琳Official
+- Pixiv: 宝鐘マリン
+- Reddit: /u/HoushouMarineLEGIT (moderator of /r/Hololive)
 - Subscribers: 4.32 million (as of March 2026)
 - Total Views: 2.190 billion
 - Most-subscribed active VTuber worldwide, second most-subscribed overall after Gawr Gura
 
+## Fan Interactions
+- **Greeting**: "Ahoy!"
+- **Farewell**: "ヨーソロー！" (Yosoro!)
+- **Viewer waiting line**: "待機なんだワ" (Taikinandawa)
+- **Overseas viewers**: "Overseas Sexy Guys & Ladies"
+- **Headpat meme**: Fans ask for headpats, Marine responds with "DON!" (bam sound effect)
+
 ## Milestones
-- January 10, 2024: Reached 3.01M subscribers (surpassed Kizuna AI as most-subscribed JP VTuber)
-- May 5, 2025: Reached 4M subscribers (second VTuber ever after Gawr Gura)
+- September 9, 2019: 10,000 subscribers
+- October 31, 2019: 50,000 subscribers
+- December 10, 2019: 100,000 subscribers
+- January 25, 2020: 200,000 subscribers
+- April 16, 2020: 500,000 subscribers
+- July 23, 2020: 700,000 subscribers
+- October 27, 2020: 1,000,000 subscribers (3rd in hololive)
+- January 24, 2021: 1,500,000 subscribers
+- September 18, 2021: 2,000,000 subscribers (5th in hololive)
+- September 11, 2022: 2,500,000 subscribers
+- January 10, 2024: 3,010,000 subscribers (surpassed Kizuna AI as most-subscribed JP VTuber)
+- May 5, 2025: 4,000,000 subscribers (second VTuber ever after Gawr Gura)
 
 Sources:
 - https://hololive.hololivepro.com/en/talents/houshou-marine/
 - https://en.wikipedia.org/wiki/Houshou_Marine
+- https://hololive.wiki/wiki/Houshou_Marine
+- https://hololivevtuber.fandom.com/wiki/Houshou_Marine

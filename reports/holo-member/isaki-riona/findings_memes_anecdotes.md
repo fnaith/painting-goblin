@@ -51,16 +51,36 @@
 - Apologized formally afterward
 - Community largely forgave her; became a learning moment
 
-### 9. 3D Debut Triumph
-- November 2025 3D debut received massive praise
+### 9. 3D Debut Triumph — "Make it or Break it"
+- November 23, 2025 3D debut received massive praise
 - La+ (Laplus Darknesss) famously said "ママァ" (mom / mama~) in response
 - Dancing skills (jazz, ballet, tap) on full display
 - Regarded as one of the most impressive 3D debuts
+- Title theme: "Make it or Break it"
 
-### 10. Past Life Speculation (前世)
+### 10a. HoloGra Debut
+- Debuted on HoloGra (Hololive's official skit series) on November 30, 2025
+- Marked her entry into the broader Hololive variety content scene
+
+### 10b. 500,000 Subscriber Milestone
+- Reached 500,000 YouTube subscribers on July 13, 2026
+- Celebrated with a special milestone stream
+- Half-million milestone within ~1.5 years of debut
+
+### 11. Past Life Speculation (前世)
 - Widely speculated that she is the former 立仙愛理 (Ririsu Tessen/Airi Rissen)
 - Previously was an AKB48 member
 - This explains her excellent dancing and singing ability
+
+## Original Songs
+
+### "Ring my Name" — May 29, 2026
+- Released on her birthday
+- A celebratory song marking her fandom journey
+
+### "Life is Work" — November 24, 2025
+- Rap-style original song
+- Showcases her versatility as a performer
 
 ## Key Relationships
 

@@ -90,6 +90,13 @@ She speaks in a soft, gentle tone — noticeably warmer and slower than many Hol
 - **Physical strength (in-character):** Above-average strength among Hololive members, consistent with her knight persona.
 - **Modding/Community:** One of the moderators of the official Hololive subreddit.
 
+### Additional Notes from Other Sources
+
+- **Voice coach:** Noel works with a voice coach she describes as "particularly harsh and difficult to impress." After hearing Ookami Mio sing at the Toyosu PIT live event, her coach praised Mio's talent, much to Noel's dismay. (Source: hololivevtuber.fandom.com)
+- **Kamen Rider Den-O:** Noel watched Kamen Rider Den-O during her grade school years. (Source: hololivevtuber.fandom.com)
+- **Alcohol tolerance:** Despite having an ALDH2 deficiency (which typically causes poor alcohol metabolism), Noel can drink heavily, surprising even herself. (Source: seesaawiki.jp)
+- **Academics:** Scored 47/47 in Japanese, 46/47 in social studies, and 61/68 in general subjects. (Source: seesaawiki.jp)
+
 **Source:** [Hololive Fan Wiki — Trivia](https://hololive.wiki/wiki/Shirogane_Noel#Trivia)
 
 ---

@@ -174,16 +174,57 @@ Despite her chaotic exterior, Matsuri is deeply kind and sensitive:
 
 ---
 
-## 9. Source URLs
+## 9. Additional Anecdotes from Seesaawiki.jp (Japanese Community Wiki)
+
+The Japanese community wiki (seesaawiki.jp/hololivetv) maintains a detailed glossary of Matsuri-related terms (関連語). Below are notable entries not covered in other sections, useful for character depth.
+
+| Term/Meme | Description |
+|-----------|-------------|
+| **ALT+F4** | Matsuri is notoriously bad at closing games/software properly. In a *Papers, Please* stream (2020/11/27), she minimized the window instead of closing it. When chat told her ALT+F4, she followed instructions — twice. Later explained she "aimed well" and "has no regrets." |
+| **HOTEL (Minecraft)** | Built a hotel on the Hololive Minecraft server that became a hangout spot. The hotel is a luxury accommodation/turning point, with guest rooms named after members. The exterior features Matsuri's face and promotional Hololive posters. Featured in "VTuber Holocaust" (a Minecraft event video by fans). |
+| **Pokémon Let's Go Nickname Incident** | On 2018/11/18, during a Pokémon Let's Go stream, Matsuri named a Pokémon after a certain Hololive member's CV whom she admires, causing a brief stir. |
+| **Boko Matsuri (Gacha Matsuri)** | In Apex Legends gacha/charity streams — she raised over 100-man yen in 10 minutes for charity. Known as "Boko Matsuri" or "Sora Matsuri" (空まつり) for the sky-high donation amounts. |
+| **The (H)ate Wave** | Early in her career (around July 2018), there was a wave of hate comments. When some presumed she only had "nice Matsuri" fans, deeper investigation revealed a minority of anti-fans. She herself is not particularly bothered. |
+| **2-ren Call (Double Call)** | When calling other Hololive members, Matsuri often follows up with a second call immediately if the first doesn't connect. As of 2024/9/29, this has supposedly decreased. |
+| **Hate / Mate / Orusee Matsuri** | Community terms for different Matsuri moods: Hate (angry/annoyed mode), Mate (waiting mode from chat), Orusee (shut-up mode). |
+| **Yami Matsuri (Dark Matsuri)** | References Matsuri's dark/yandere side, occasionally surfacing during streams. Connects to the "Mukuro Matsuri" (Corpse Matsuri) persona. |
+| **Matsuri Balance** | A meme about Matsuri trying and failing to maintain balance — both literally (physical stunts) and metaphorically (life balance). Includes the famous "failed backflip" incident. |
+| **Matsuri Diet** | Running joke about Matsuri's weight fluctuations. 2023 data: height 152.3cm, weight 55.0kg (BMI 23.71). By 2024/05 she lost 17kg over half a year through dieting (sauna, one meal/day). As of 2024/07 body fat was reportedly 40%+; she resumed exercise but noted it made backflips harder. |
+| **2000兆円 (2000 Trillion Yen)** | A meme amount of money associated with Matsuri's gacha spending or fantastical donations. |
+| **パパ (Dad)** | Matsuri's father appears in fan art and occasionally in stories. Unlike Mamatsuri (mother), he is less publicly visible. |
+| **飲みまつり (Drinking Matsuri)** | Matsuri's drinking streams where she drinks alcohol and becomes more chaotic. The drunk call to Yashiro Kizuku is a famous example. |
+| **箱まつり (Hako / Box Matsuri)** | References Matsuri sleeping in boxes or confined spaces, similar to a cat. |
+| **寝子祭 (Neko Matsuri)** | When Matsuri acts cat-like, including wearing cat-ear accessories or meowing on stream. |
+| **痛いまつり (Itai / Cringe Matsuri)** | Community term for moments when Matsuri does something painfully cringe or embarrassing, which she embraces as part of her charm. |
+| **Nemui Matsuri (Sleepy Matsuri)** | Refers to Matsuri's sleepy/low-energy mode, contrasting with her usual hyper energy. |
+| **Matsuri's Headphones** | Her signature white headphones have become an iconic accessory. |
+| **Matsuri's Housemate** | Matsuri has casually mentioned living with a roommate (同棲相手) in streams. |
+| **リツコさん (Ritsuko-san)** | A reference/character associated with Matsuri's lore from the community wiki. |
+| **C Part** | At the end of charity streams, Matsuri would do a "C Part" (after-credits segment) where she thanked viewers one by one, reading each Super Chat. This led to the "うん" (uh-huh) tradition. |
+| **Matsuri vs Aki Rosenthal** | The JP wiki documents a friendly rivalry/content dynamic between Matsuri and fellow 1st Gen member Aki Rosenthal. |
+| **夏色吹雪 (NatsuFubu kanji)** | The ship name for Matsuri × Fubuki is also written in kanji as 夏色吹雪, combining both their names. |
+| **Backdrop / Failed Backflip** | In a notable stream moment, Matsuri attempted a backflip (backdrop) and failed, becoming a recurring community joke. |
+| **The One-song Idol** | In early streaming, Matsuri would sing only one song before stopping — a running gag about her vocal shyness. |
+
+### Character Insights from JP Community
+
+- The JP wiki notes Matsuri has a **"messiah complex" / approval-seeking personality** — 承認欲求の化物 (monster of approval-seeking). She wants everyone to like her and is deeply affected by being disliked.
+- She is described as having **"Yoroshiku Matsuri"** (よろしくまつり) — a tendency to be too polite/accommodating, potentially to her own detriment.
+- **Matsurisu** fans are characterized as having a "parent watching their child" dynamic — protective but also enjoying the chaos.
+
+---
+## 10. Source URLs
 
 - **Hololive Fan Wiki:** https://hololive.wiki/wiki/Natsuiro_Matsuri
 - **Official Hololive Profile (EN):** https://hololive.hololivepro.com/en/talents/natsuiro-matsuri/
+- **seesaawiki.jp — ホロライブwiki / 夏色まつり:** https://seesaawiki.jp/hololivetv/d/%B2%C6%BF%A7%A4%DE%A4%C4%A4%EA
+- **seesaawiki.jp — 夏色まつり/関連語 (Community Glossary):** https://seesaawiki.jp/hololivetv/d/%B2%C6%BF%A7%A4%DE%A4%C4%A4%EA%A1%DA%B4%D8%CF%A2%B8%EC%A1%DB
 - **YouTube Channel:** https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg
 - **Twitter:** https://www.twitter.com/natsuiromatsuri
 
 ---
 
-## 10. Story Hooks for Doujin Game Writing
+## 11. Story Hooks for Doujin Game Writing
 
 1. **The Seiso Paradox:** A character who insists she's pure while doing the most unhinged things. Great for comedy routes.
 2. **Matsuhiko / Fuyuiro Alt-Personas:** Built-in excuse for alternate character forms or secret identities.

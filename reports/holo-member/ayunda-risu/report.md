@@ -23,8 +23,10 @@
 | **Live2D建模** | Himono（v1.0）、Brian Tsui（v2.0）、Kurorogi Hitsugi（v2.1/v3.0）、Enma A（v5.0） |
 | **3D模型** | 2022年3月20日（hololive 3rd fes. Link Your Wish） |
 | **語言** | 印尼語（主要）、英語、日語 |
+| **平台** | YouTube / Twitter / Instagram / Facebook / Bilibili |
 | **YouTube** | [Ayunda Risu Ch. hololive-ID](https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw) |
 | **Twitter** | [@ayunda_risu](https://twitter.com/ayunda_risu) |
+| **Bilibili** | ayunda_risu |
 
 ---
 
@@ -145,7 +147,8 @@ Risu 最著名的特色之一——能自由切換四種聲線：
 | 10萬 | 2020年8月9日（銀盾） |
 | 50萬 | 2021年8月11日（金盾） |
 | 80萬 | 2023年3月13日 |
-| ~100萬 | 即將達成 |
+| 90萬 | 2024年11月12日 |
+| 100萬 | **2026年6月14日**（鑽石盾） |
 
 ### 2. 豬豬存錢筒事件（2020年7月）
 Risu 直播數硬幣時，Moona 突然亂入，開玩笑說那些硬幣是從她的豬豬存錢筒偷來的。從此成為一個經典梗——每當 Risu 提到錢就會被提起。
@@ -167,14 +170,18 @@ Risu 被選為三位 **Hololive Meet 大使**之一，與 **Tokino Sora** 和 **
 #### 原創歌曲
 | 歌曲 | 發佈日期 |
 |------|---------|
-| ALiCE&u | 2022年1月 |
-| 1:15 AM | 2023年4月 |
-| Sing Out | 2023年10月 |
-| metropolis | — |
-| MIR//or | — |
-| As Star Fall | — |
-| Senandung Jiwa | — |
-| 以及其他多首 |
+| ALiCE&u | 2022年1月16日 |
+| 1:15 AM | 2023年4月13日 |
+| Sing Out | 2023年10月31日 |
+| Dramatic XViltration（AREA15） | 2024年4月15日 |
+| HI:STREET TIME | 2024年7月2日 |
+| Senandung Jiwa | 2024年8月18日 |
+| metropolis | 2025年1月16日 |
+| Juara Khatulistiwa（hololive Indonesia） | 2025年4月7日 |
+| 染められタイム‼（hololive IDOL PROJECT） | 2025年7月10日 |
+| Show Them (Who You Are) | 2025年11月9日 |
+| MIR//or | 2025年11月22日 |
+| 星が降る / As Star Fall | 2026年1月16日 |
 
 #### 知名翻唱
 - **KING**（Kanaria）—— 展示聲域的代表作
@@ -185,6 +192,28 @@ Risu 被選為三位 **Hololive Meet 大使**之一，與 **Tokino Sora** 和 **
 
 ### 8. 特殊稱號
 - **Tupaisen** —— HoloID二期生對她的愛稱（tupai「松鼠」+ paisen「先輩」的倒裝）
+
+### 9. 重要Live演出
+| 活動 | 日期 | 備註 |
+|------|------|------|
+| hololive 3rd fes. Link Your Wish | 2022年3月20日 | 3D模型首次披露 |
+| hololive 5th fes. | 2024年3月16日 | |
+| Risu's Isekai Express : Special Performance Delivery | 2025年1月15日 | 首次3D生日個人Live |
+| hololive 6th fes. | 2025年3月8日 | |
+| ID 5th Anniversary LIVE Chromatic Future | 2025年11月15日 | |
+| hololive 7th fes. | 2026年3月7日 | |
+
+### 10. 週年紀念服裝
+- **5週年**（2025年4月10日）：「THE EARTH」紀念服裝
+- **6週年**（2026年4月10日）：新週年紀念服裝
+
+### 11. 其他軼事
+- **ALiCE&u / Alice原名**：Risu曾透露原本想為自己取名Alice，此設定藏於首張原創曲ALiCE&u歌名中
+- **Korone與Okayu的女兒**：粉絲圈玩笑設定——Risu是犬山ころね（狗）和貓又おかゆ（貓）的女兒
+- **4耳確認**：Q&A中確認角色設定有4隻耳朵（2人耳+2松鼠耳）
+- **Bilibili**：擁有Bilibili帳號，面向中文圈粉絲
+- **Yagoo的夢想**：Risu和HoloID的成功讓Yagoo感到創立偶像公司的夢想成真
+- **TRUST（原Ko-fi）**：接受TRUST平台贊助
 
 ---
 
@@ -227,6 +256,8 @@ Risu 被選為三位 **Hololive Meet 大使**之一，與 **Tokino Sora** 和 **
 
 - [hololive 官方檔案](https://hololive.hololivepro.com/en/talents/ayunda-risu/)
 - [hololive Fan Wiki - Ayunda Risu](https://hololive.wiki/wiki/Ayunda_Risu)
+- [hololive VTuber Fandom Wiki - Ayunda Risu](https://hololivevtuber.fandom.com/wiki/Ayunda_Risu)
+- [Seesaawiki (日文) - Ayunda Risu](https://seesaawiki.jp/hololivetv/d/Ayunda%20Risu)
 - [Playboard 分析](https://playboard.co/en/channel/UCOyYb1c43VlX9rc_lT6NKQw)
 - [YouTube頻道](https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw)
 - 維基百科 - Hololive Production

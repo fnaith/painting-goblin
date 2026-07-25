@@ -191,6 +191,9 @@ A fan poll shortly after Advent's debut resulted in a **landslide** for Shiori w
 - **"Genesis"** (August 4, 2025) -- Advent second anniversary original song
 - **"Breakout"** (January 26, 2026) -- Advent group original song
 - **"Monsters and Men"** (February 15, 2026) -- first solo original song
+- **"What Goes Around"** (February 26, 2026) -- Advent group original
+- **"Unchained"** (March 26, 2026) -- Advent group original
+- **"Serendipity"** (June 20, 2026) -- hololive English 4th Concert theme song
 
 ### 3D Milestones
 - **3D chibi model debut:** May 2, 2024 (birthday stream)
@@ -199,6 +202,10 @@ A fan poll shortly after Advent's debut resulted in a **landslide** for Shiori w
 - **Buff 3D model:** April 1, 2025 (April Fools with Nerissa and Bijou)
 - **3D swimsuit:** August 29, 2025 (Advent 2nd anniversary live "On the Run!")
 - **3D idol costume:** March 8, 2025 (hololive 6th fes. Color Rise Harmony)
+
+### Concert Appearances
+- **hololive 7th fes. Ridin' on Dreams DAY2** (March 7, 2026)
+- **hololive English 4th Concert -Serendipity-** (July 4-5, 2026)
 
 ### Other Milestones
 - **Membership opening:** September 17, 2023
@@ -290,3 +297,5 @@ The membership channel includes a **"bonk" emote** for viewers to use when they 
 | Crunchyroll Interview (July 2023) | https://www.crunchyroll.com/news/interviews/2023/7/31/shiori-novella-hololive-advent-interview-sherlock-holmes |
 | TikTok | https://www.tiktok.com/@shiorinovella |
 | Bilibili | https://space.bilibili.com/3706943625497110 |
+| Seesaawiki (Japanese) | https://seesaawiki.jp/hololivetv/d/%b7%ee%a4%ea%a4%cf%a5%ce%a5%f4%a5%a7%a5%e9 |
+| Fandom Wiki | https://hololivevtuber.fandom.com/wiki/Shiori_Novella |

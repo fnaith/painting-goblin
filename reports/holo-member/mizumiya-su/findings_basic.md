@@ -13,6 +13,11 @@
 - **問候語**: 「しゅぴしゅわ〜！」(Shupi shuwa~!)
 - **標語**: 「Is your Su-charge at 100%?」
 
+## 問候語/台詞一覽
+- **打招呼**: 「しゅぴしゅわ〜！」(Shupi shuwa~!)
+- **自我介紹**: 「すうの充電たりてる？ ホロライブ DEV_IS FLOW GLOWのえらい宣伝担当水宮枢です！」(Suu no juuden tari teru? Hololive DEV_IS FLOW GLOW no erai senden tantou Mizumiya Su desu!) —「你的Su充電滿了嗎？」
+- **告別**: 「おつすうありがとうバイバイ」(Otsusuu arigatou baibai) —「Otsusuu」是「おつ」(Otsu)與Su名字的合成詞
+
 ## 外貌設計
 - **髮型**: 淺藍色雙辮子，繫著藍色蝴蝶結，帶有粉色挑染
 - **特徵**: 大型閃電形狀的呆毛，淺藍色眼睛
@@ -48,3 +53,4 @@
 來源:
 - https://hololive.hololivepro.com/en/talents/mizumiya-su/
 - https://virtualyoutuber.fandom.com/wiki/Mizumiya_Su
+- https://hololive.wiki/wiki/Mizumiya_Su

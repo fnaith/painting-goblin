@@ -68,6 +68,21 @@
 ### Snake Pet: Boros
 - Kronii met her snake Boros in the woods and adopted him. Boros has become a beloved mascot among Kronies.
 
+### The "Bunkeronii"
+- Kronii's streaming room is jokingly referred to as the **"Bunkeronii"** — a cluttered bunker-like space filled with monitors, snacks, and general chaotic energy.
+
+### "Second Graders"
+- Kronii has jokingly referred to her fans as "second-graders," playing up her self-proclaimed superiority.
+
+### Anime/Manga/Webtoon List (from fan wiki)
+- **Anime watched/mentioned:** Death Note, Death Parade, Devilman Crybaby, Ghost Stories, Miss Kobayashi's Maid Dragon, Paranoia Agent, Saint Young Men, Daily Lives of High School Boys, Full Moon o Sagashite, Madoka Magica, Blood+, Gintama, Kaitou Saint Tail, Princess Mononoke
+- **Manga read:** Azumanga Daioh, Hell Teacher Nūbē, Rave Master, Spice and Wolf, Doraemon
+- **Webtoon favorites:** Solo Leveling, Medical Reincarnation, The Pale Horse, Medina, Skeleton Soldier Couldn't Protect the Dungeon, Lout of Count's Family, The Strongest Florist, FFF Trash Tier Hero, Miss Guillotine, Who Made Me a Princess, The Villainess Reverses the Hourglass, This Witch of Mine, Death is the Only Ending for the Villainess, Roxanna, Path of the Shaman, 4 Cut Hero, Poison Dragon, and many more — particularly fond of villainess/reincarnation genres.
+
+### Self-Mixed Covers
+- Kronii self-mixed her cover of **MAFIA** by wotaku, doing the audio engineering herself.
+- She also released covers of **Bakushou** (syudou) and **Kimagure Mercy** (8#Prince).
+
 ---
 
 ## Relationships with Other Hololive Members
@@ -113,6 +128,12 @@
 #### Takanashi Kiara
 - They released a duet cover of "Always With You" (Epic Seven OST).
 
+#### Koseki Bijou
+- As Promise members, they interact regularly. Bijou is often the target of Kronii's teasing.
+
+#### Shiori Novella / Nerissa Ravencroft / Hiodoshi Ao / Honma Himawari / etc.
+- Kronii has collaborated with various HoloJP members across projects and events.
+
 ---
 
 ## Achievements & Milestones
@@ -145,6 +166,9 @@
 - **3D Model Debut (May 25, 2023)** — Debuted her main 3D model
 - **hololive 4th fes. Our Bright Parade (Mar 19, 2023)** — Idol 3D costume debut
 - **Anime NYC 2021 panel (Nov 20, 2021)** — Council panel appearance
+- **Birthday 3D Live "The Goddess Descends" (#krorigin) (May 7, 2026)** — Revealed Live2D 3.0 twin-tail hairstyle
+- **Kronii Birthday Event 2026 (Jun 7, 2026)** — Held at Shinagawa Prince Hotel Grand Hall, featured a "nightmare" theme with surprises
+- **1st EP Release (May 2026)** — *OURO KRONII 1ST EP* featuring *STORM*, *Way 2 U*, and more
 
 ### Outfits
 1. Main outfit (WADARCO)
@@ -239,6 +263,11 @@
 8. Was part of **Council → Promise** transition after Sana's graduation
 9. **One of the few members with a dedicated fan game** — *Chrono Gear: Warden of Time* and *Hololive CouncilRyS RPG*
 10. **Pi Day birthday** (March 14)
+11. **Streaming room called "Bunkeronii"** — a cluttered bunker aesthetic
+12. **Extensive webtoon/anime knowledge** — reads dozens of Korean webtoons, especially villainess/reincarnation genre
+13. **Released 1st EP in May 2026** — *OURO KRONII 1ST EP*
+14. **Held Birthday Event 2026** at Shinagawa Prince Hotel (June 7, 2026)
+15. **Debated Doraemon preferences** — Path of Shaman rap, Frieren impressions
 
 ---
 

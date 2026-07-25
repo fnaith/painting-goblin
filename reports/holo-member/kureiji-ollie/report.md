@@ -36,9 +36,24 @@ Kureiji Ollie是一名**殭屍高中女生**——從墳墓中復活，憑藉生
 - 「Kureiji」是暱稱（由母親「Mama Lily」所取），並非本名
 - 名字源自日語發音的「Crazy（クレイジー）」
 
+### 家庭成員
+| 成員 | 關係 | 備註 |
+|------|------|------|
+| **Illo（イロ）** | 哥哥 | 10歲時因病去世 |
+| **Ollo（オロ）** | 弟弟 | 健在，普通人類 |
+| **Ellie（エリ）** | 妹妹 | 健在，普通人類 |
+| **Mama Lily** | 母親 | 普通人類，為Ollie取了「Kureiji」這個暱稱 |
+- 全家人均為普通人類，只有Ollie是殭屍
+
 ### 能力設定
 - **復活能力**：擁有重生之力，主要用於「恢復希望與夢想」
 - **殭屍體質**：身體部位偶爾會脫落（出道時5分鐘內手臂掉了兩次）
+- **已死亡多次**：設定上至少死了兩次，進一步強化其重生能力的概念
+
+### 其他設定細節（來自Q&A）
+- **生前眼睛**：Ollie生前雙眼就已經是不同顏色（異色瞳），並非因為變成殭屍
+- **辣食矛盾**：喜歡吃辣但不太能承受辣味，享受灼燒感——呼應其混沌的「痛並快樂著」殭屍個性
+- **生日巧合**：10月13日正好是**世界殭屍日（World Zombie Day）**，與殭屍偶像身份完美契合
 
 ---
 
@@ -90,6 +105,15 @@ Kureiji Ollie是一名**殭屍高中女生**——從墳墓中復活，憑藉生
 ### 模仿能力
 出道直播中一口氣模仿了42位Hololive成員和YAGOO（公司CEO），震驚全場，立即確立了「最強Hololive粉絲」的地位。
 
+### 直播規範（來自直播簡介）
+Ollie的直播說明中列出了6條規則：
+1. **不要當 jerk** — 聊天室保持尊重
+2. **禁止劇透** — 除非她主動要求
+3. **不要指導遊玩** — 除非她主動求助
+4. **勿提及其他Liver** — 除非與直播相關或她先提起
+5. **禁止歧視** — 種族、性別等任何形式的歧視
+6. **遵守Ollie的規則** — 開心享受！
+
 ### 喜好
 - **食物**：辣食、甜食、草莓牛奶（**討厭**：高麗菜、大部分水果）
 - **遊戲**：寶可夢、Minecraft、動物森友會、Osu、西洋棋、APEX英雄
@@ -124,6 +148,12 @@ Minecraft聯動中反覆問「doko?（在哪裡？）」然後自己回答「kok
 ### 8. 尖叫合集
 粉絲製作的各種尖叫超剪，經常被用作jump scare預警。
 
+### 9. CDawgVA狂粉事件
+Ollie公開自己是CDawgVA（Chris Broad）的粉絲，稱他為「Papa」。當CDawgVA回應她時，她激動尖叫——成為Hololive與CDawgVA社群之間的跨界迷因。
+
+### 10. 西洋棋比賽
+Ollie參加了Hololive西洋棋錦標賽Arc 2，展現了與混沌個性形成反差的策略性一面。西洋棋隨之成為她的常規直播內容之一。
+
 ---
 
 ## 六、與其他Hololive成員的關係
@@ -150,6 +180,7 @@ Minecraft聯動中反覆問「doko?（在哪裡？）」然後自己回答「kok
 | **Gawr Gura**（EN） | 共享混沌幽默感 |
 | **Hakos Baelz**（EN） | 混沌親和力，同樣極度精力充沛 |
 | **ときのそら**（JP） | 深懷敬意，出道時為之尖叫 |
+| **CDawgVA**（YouTuber） | Ollie是其粉絲，稱「Papa」，互動時激動尖叫 |
 
 ### 粉絲命名組合
 - **Astellie**：Ollie + Astel Leda
@@ -170,7 +201,13 @@ Minecraft聯動中反覆問「doko?（在哪裡？）」然後自己回答「kok
 | 2020.12.06 | 出道2天達20萬訂閱 |
 | 2021.03.24 | 達50萬訂閱（ID 2期首位） |
 | 2022.03.24 | **突破100萬訂閱**（Hololive第25位、ID第2位、ID 2期首位） |
+| 2024.01.18 | 達140萬訂閱 |
+| 2024.04.22 | 視覺小說《Days With Ollie》Steam發售 |
+| 2024.12.02 | 達150萬訂閱 |
 | 2025.01.05 | Twitter粉絲突破100萬 |
+| 2025.07.01 | 被任命為holoplus大使 |
+| 2025.11.12 | 首次Twitch直播 |
+| 2026.03.17 | 達160萬訂閱 |
 
 ---
 
@@ -180,16 +217,32 @@ Minecraft聯動中反覆問「doko?（在哪裡？）」然後自己回答「kok
 |------|----------|
 | **JOLLIE JOLLIE** | 2022.04.18 |
 | **NEW[zom]BIE!!** | 2023.02.19 |
-| **HISTORY** | 2024.10 |
+| **HI:STREET TIME** | 2023.09.03 |
+| **Slap by Step**（ID 2期群體曲） | 2023.12.28 |
+| **Senandung Jiwa**（holoID群體曲） | 2024.08.28 |
+| **HISTORY** | 2024.10.13（MV: 2024.12.04） |
+| **Juara Khatulistiwa** | 2025.04.27 |
+| **LIVE IT LOUD!** | 2025.06.25 |
+| **Show Them (Who You Are)** | 2025.10.13 |
 | **Kureiji for you** | 2025.12.04 |
-| **LIVE IT LOUD!** | 2025.06 |
-| **Juara Khatulistiwa** | 2025.04 |
-| **Senandung Jiwa**（holoID群體曲） | 2024.08 |
-| **Slap by Step**（ID 2期群體曲） | 2023.12 |
 
 ---
 
-## 九、額外形象（Alternate Personas）
+## 九、其他重要合作與媒體
+
+### DECO*27《Zombie》
+- Ollie參與了知名Vocaloid製作人**DECO\*27**的歌曲**《Zombie》**（2022年）的副歌部分
+- 這次合作讓Ollie在日本主流音樂圈獲得了重要曝光
+
+### 《Days With Ollie》視覺小說
+- **發售日期**：2024年4月22日（Steam平台）
+- **類型**：視覺小說/互動 fiction
+- **簡介**：以Ollie為主角的官方視覺小說，粉絲可在故事驅動的格式中與她互動
+- 少數擁有獨立官方視覺小說遊戲的Hololive成員之一
+
+---
+
+## 十、額外形象（Alternate Personas）
 
 | 形象 | 描述 |
 |------|------|
@@ -199,7 +252,7 @@ Minecraft聯動中反覆問「doko?（在哪裡？）」然後自己回答「kok
 
 ---
 
-## 十、遊戲角色設定建議（總結）
+## 十一、遊戲角色設定建議（總結）
 
 ### 角色原型
 **殭屍×高中女生×偶像** — 混沌、高能量的不死偶像
@@ -245,8 +298,10 @@ Minecraft聯動中反覆問「doko?（在哪裡？）」然後自己回答「kok
 ## 資料來源
 
 - [Hololive官方檔案頁](https://hololive.hololivepro.com/en/talents/kureiji-ollie/)
-- [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Kureiji_Ollie)
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Kureiji_Ollie)
+- [seesaawiki（日本語Wiki）](https://seesaawiki.jp/hololivetv/d/Kureiji%20Ollie)
+- [Hololive VTuber Fandom Wiki](https://hololivevtuber.fandom.com/wiki/Kureiji_Ollie)
+- [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Kureiji_Ollie)
 - [YouTube頻道](https://www.youtube.com/@KureijiOllie)
 - [Twitter/X](https://twitter.com/kureijiollie)
 - [Instagram](https://www.instagram.com/kureijiollie/)

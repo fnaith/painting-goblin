@@ -130,6 +130,43 @@
 
 ---
 
+## マイルストーン・タイムライン
+
+### チャンネル登録者数
+| 節目 | 達成日 | 備考 |
+|------|--------|------|
+| 10万 | 2019年5月 | |
+| 20万 | 2019年8月 | |
+| 30万 | 2019年11月 | |
+| 40万 | 2020年2月 | |
+| 50万 | 2020年4月 | |
+| 60万 | 2020年7月 | |
+| 70万 | 2020年9月 | |
+| 80万 | 2020年12月 | |
+| 90万 | 2021年3月 | |
+| 100万 | 2021年6月 | ホロライブ3人目の100万達成者 |
+| 150万 | 2022年6月 | |
+| 200万 | 2022年10月 | |
+| 210万 | 2023年2月 | |
+| 220万 | 2023年11月 | |
+| 230万 | 2024年6月 | |
+| 240万 | 2024年11月 | |
+| 250万 | 2025年2月 | |
+| 265万 | 2026年5月 | 現在値 |
+
+### その他の節目
+- **Twitter認証バッジ取得**: 2021年12月24日
+- **公式イラストレーター変更**: なぎしみと (Nagishiro Mito) に決定
+- **ゲームコラボ実績**:
+  - Dawn of the Breakers — プレイアブルキャラ (2020)
+  - Azur Lane — 艦船化 (2020年11月)
+  - World of Warships — ボイス実装 (2021年11月)
+  - Phantasy Star Online 2 — コラボ (2022年2月)
+  - Muse Dash — プレイアブルキャラ
+- **ホロライブ・オルタナティブ漫画**: Chapter 14「Underground」に登場
+
+---
+
 ## 代表作・伝説的エピソード
 
 ### ① 色違いコイキング狩り (27日間)
@@ -201,6 +238,7 @@
 - **コーン収集要素** — 🌽を集めてフブキのコスチュームアンロック
 
 ### BGM参考
+- **BGMコンポーザー**: Fox-Tail Grass Studio (Hamu) — フブキの配信・動画用BGMを多数作曲
 - 「Say! Fanfare!」 — 明るいテーマ曲
 - 「KINGWORLD」 — バトル曲候補
 - 「Hi Fine FOX!!」 — 日常BGM
@@ -214,6 +252,7 @@
 - [公式プロフィール (JP)](https://hololive.hololivepro.com/talents/shirakami-fubuki/)
 - [YouTube チャンネル](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Shirakami_Fubuki)
-- [Know Your Meme](https://knowyourmeme.com/memes/people/shirakami-fubuki)
 - [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Shirakami_Fubuki)
+- [Seesaawiki (hololivetv)](https://seesaawiki.jp/hololivetv/) — Fubuki個別ページは404
+- [Know Your Meme](https://knowyourmeme.com/memes/people/shirakami-fubuki)
 - [Wikipedia](https://en.wikipedia.org/wiki/Shirakami_Fubuki)

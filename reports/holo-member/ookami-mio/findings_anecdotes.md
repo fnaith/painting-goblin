@@ -140,6 +140,9 @@
 - **Tawa** (タワ): Second male cat, revealed June 20, 2021. An Abyssinian breed.
 - Real cat appearances are a beloved recurring stream element.
 
+### Azur Lane Collaboration
+- Mio participated in the "Looking Glass of Fact and Fiction" Azur Lane collab alongside Natsuiro Matsuri, Nakiri Ayame, Shirakami Fubuki, Murasaki Shion, Tokino Sora, and Minato Aqua (November 26 – December 11, 2019).
+
 ### Height Inconsistency Meme
 - Different official sources have listed Mio's height as **155 cm**, **160 cm**, and **165 cm** at various times. This inconsistency is a running joke among fans.
 
@@ -222,3 +225,8 @@
 - **YouTube Channel:** https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg
 - **Twitter:** https://twitter.com/ookamimio
 - **Hololive TV:** https://en.hololive.tv/portfolio/items/433580
+
+## Source Accessibility Notes
+- **seesaawiki.jp/hololivetv** — 404 Not Found; page for Ookami Mio could not be accessed
+- **hololive.wiki** — Successfully accessed and used as primary source; detailed milestones, anecdotes, and trivia
+- **hololivevtuber.fandom.com** — 403 Forbidden; could not retrieve data

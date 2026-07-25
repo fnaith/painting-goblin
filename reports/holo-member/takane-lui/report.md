@@ -10,15 +10,22 @@
 |------|------|
 | **姓名** | 鷹嶺ルイ (Takane Lui) |
 | **所屬** | Hololive 6期生 — 祕密結社 holoX |
+| **所屬團體** | HOLOTORI (鳥主題團體) |
 | **職位** | 女幹部（執行官/秘書長）— 實質上的領導者 |
-| **生日** | 6月11日 |
+| **生日** | 6月11日（雙子座） |
 | **身高** | 161 cm |
+| **暱稱** | ルイ姉 (Lui-nee), The XO, 幹部, 琉依姐/老鹰 (中文圈) |
 | **繪師** | Kakage (かかげ) [@kakage0904](https://twitter.com/kakage0904) |
+| **Live2D建模** | rariemonn (主要)；ヲニ村 & rariemonn (服裝"The XO") |
 | **粉絲名** | ルイ友 (Lui-tomo) / Birds of my feather |
 | **粉絲標記** | 🥀 (枯萎的玫瑰) |
 | **出道日** | 2021年11月27日 |
 | **YouTube** | https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g |
-| **Twitter** | https://twitter.com/takanelui |
+| **Twitter (主)** | https://twitter.com/takanelui |
+| **Twitter (副)** | https://twitter.com/sub_luilui |
+| **Twitch** | https://www.twitch.tv/takanelui_hololive |
+| **Instagram** | https://instagram.com/takaneluilui |
+| **Reddit** | https://www.reddit.com/user/TakaneLui |
 
 ---
 
@@ -89,6 +96,33 @@
 ### 跨期互動
 - ** Dorobo Kensetsu**：與大神澪、白上吹雪、貓又小粥等前輩的合作單位
 - **Reddit 版主**：她是 hololive 官方 Reddit 的版主之一
+- **雙子愛好者**：對雙胞胎（Fuwawa & Mococo）特別喜愛，在她們出道時非常開心
+
+---
+
+## 樂曲作品
+
+### 原創曲（個人）
+
+| 曲名 | 發行日期 | 備註 |
+|------|---------|------|
+| **浄夜リペイント (Jouya Repaint)** | 2022年12月24日 | 首張原創曲 |
+| **狂宴連盟〜SHAKE★NABE〜** | 2023年3月11日 | 合作曲 |
+| **ラビリンス・ラビリンス (Labyrinthine Labyrinth)** | 2024年7月19日 | 個人原創 |
+| **超夢ドデッカイ！ (Cho Yume Dodekkai！)** | 2024年7月20日 | 個人原創 |
+
+### 翻唱曲（個人）
+EYE、Love ka？、フォニイ(Phony)、MIRA、プロローグ(Prologue)
+
+### 翻唱曲（合作）
+- **おちゃめ機能**（holoX全員）
+- **アイデンティティ**（貓又小粥）
+- **光ルナ**（Roboco、夜空メル、沙花叉クロエ、常闇トワ）
+
+---
+
+## holoX MEETing 漫畫
+於 **少年Jump+** 連載的官方Hololive漫畫，Lui為主要角色之一。
 
 ---
 
@@ -106,10 +140,16 @@
 | 里程碑 | 日期 | 備註 |
 |--------|------|------|
 | 10萬訂閱 | 出道前 | 未出道即達標 |
+| 20萬訂閱 | 出道日（2021/11/27） | 出道當天達成 |
 | 30萬訂閱 | 出道8天 | |
-| 50萬訂閱 | 2022年4月 | 在 Karaoke 直播中達成 |
-| 3D模型披露 | 2022年6月21日 | |
-| 100萬訂閱 | 2024年11月16日 | 約出道3年達成 |
+| 50萬訂閱 | 2022年4月26日 | Karaoke直播中達成 |
+| 新年服裝披露 | 2022年1月1日 | 新年和服 |
+| 3D模型披露 | 2022年6月21日 | 標題：「這是我的成長軌跡」 |
+| 1週年3D Live | 2022年11月27日 | 披露3D偶像服 |
+| Live2D Ver.3.0更新 | 2023年7月27日 | 主要模型畫質提升 |
+| 70萬訂閱 | 2023年3月20日 | 耐久Karaoke中達成 |
+| 80萬訂閱 | 2023年9月25日 | Karaoke直播中達成 |
+| 100萬訂閱 | 2024年11月16日 | 耐久直播中達成，約出道3年 |
 
 ---
 
@@ -118,8 +158,11 @@
 1. [Hololive 官方 — 鷹嶺ルイ](https://hololive.hololivepro.com/en/talents/takane-lui/)
 2. [Hololive 6期生出道公告](https://hololive.hololivepro.com/en/news/20211126-1-41/)
 3. [Hololive Wiki — Takane Lui](https://hololive.wiki/wiki/Takane_Lui)
-4. [繪師 Kakage Twitter](https://twitter.com/kakage0904)
+4. [Hololive Fandom Wiki — Takane Lui](https://hololivevtuber.fandom.com/wiki/Takane_Lui)
+5. [繪師 Kakage Twitter](https://twitter.com/kakage0904)
+6. [Live2D建模師 rariemonn Twitter](https://twitter.com/rariemonn765)
+7. [Live2D建模師 ヲニ村 Twitter](https://twitter.com/wonimura47041)
 
 ---
 
-*報告完成於 2026年6月*
+*報告更新於 2026年7月25日 — 新增 hololive.wiki 與 hololivevtuber.fandom.com 資料*

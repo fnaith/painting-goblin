@@ -145,7 +145,53 @@
 
 ---
 
-## 8. Summary for Fan Game Use
+## 6. Additional Profile Details (from Hololive Fan Wiki)
+
+### Personal Preferences
+| 類別 | 內容 |
+|------|------|
+| **喜歡** | 烏龍麵、漢堡排、日式甜點、Pon de Ring甜甜圈、粉紅Monster能量飲料 |
+| **不喜歡** | 豆子（口感與味道）、Suntory Strong Zero、巧克力薄荷（但喜歡顏色）、香草/椰子香氣、生番茄（煮熟可接受）、紫蘇 |
+| **過敏** | 西瓜、哈密瓜 |
+
+### Physical Data
+| 項目 | 資料 |
+|------|------|
+| **年齡設定** | 1500+ 歲 |
+| **體重** | 42 kg（Ring Fit Adventure直播中意外透露） |
+
+### Pet
+- **名字**：Ziru（ジル，源自「Blue Zircon」藍寶石，因眼睛顏色）
+- **品種**：Ragdoll（布偶貓）
+
+### External Friends (Outside Hololive)
+| 朋友 | 所屬 | 配對名 |
+|------|------|--------|
+| **戌亥とこ (Inui Toko)** | Nijisanji | おにべろす (Oniberos，鬼+Cerberus) |
+| **96Neko (Kuroneko)** | Utaite | - |
+| **現世ユミ (Utsutsu Yomi)** | 個人勢VTuber | - |
+
+### Illustrator Shared With
+繪師 奈奈神楽 (Kagura Nana) 同時為以下VTuber設計：
+- Spade Echo（Hololive China 1期生，已畢業）
+- Jeibu
+- Fuyumori Shizuku（Irodori Entertainment，已畢業）
+- Naki Kamizuki、Lucifer Poi、Memori Ciena、Amemiya Nazuna、Tuyune Minazuki、Ace Taffy
+
+### Outfit Timeline (After Original Report)
+| 時間 | 服裝 |
+|------|------|
+| 2021/05 | Gaming主題 Live2D |
+| 2023/03 | 巫女（Shrine Maiden）Live2D |
+| 2024/02 | Cutie Jersey Live2D |
+| 2025/05 | 主視覺更新 |
+| 2025/09 | 3D新服裝（7週年3D Live） |
+| 2025/11 | 軍裝主題 Live2D |
+| 2026/02 | 魔法少女主題 Live2D |
+
+---
+
+## 7. Summary for Fan Game Use
 
 **Core Character Pillars:**
 1. **Oni girl from the Underworld Academy** — supernatural/demon theme
@@ -165,3 +211,4 @@
 - Shirakami Fubuki — creator of her associated mascot "Poyoyo"; frequent collaborator in unit "AyaFubuMi" (with Ookami Mio)
 - Ookami Mio — third member of the "AyaFubuMi" unit
 - Fellow 2nd Gen members (Minato Aqua, Murasaki Shion, Oozora Subaru, Yuzuki Choco)
+- External: Inui Toko (Nijisanji) — pair name "Oniberos"

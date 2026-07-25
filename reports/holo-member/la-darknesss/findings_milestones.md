@@ -4,6 +4,8 @@
 > - https://virtualyoutuber.fandom.com/wiki/La%2B_Darknesss
 > - https://hololive.hololivepro.com/en/talents/la-darknesss/
 > - https://hololive.hololivepro.com/en/music/753/
+> - https://hololive.wiki/wiki/La%2B_Darknesss
+> - https://hololivevtuber.fandom.com/wiki/La%2B_Darknesss
 
 ---
 
@@ -73,9 +75,11 @@
 - **1月31日** — 第3套2D服裝披露（Bob頭、短雙馬尾、火焰外套）
 - **2月23日** — 首次個人 Solo Live **「WakuWaku DARK NIGHTMARE」**（與日清炒麵U.F.O.合作）
 - **5月25日** — 生日發布第3張原創單曲 **《drop candy》**
+- **7月13日** — holoX 團體曲 **《Labyrinthine Labyrinth》** 及 **《Cho Yume Dodekkai！》** 發布
 - **7月15日** — 第4套2D服裝披露（水手服風格）
 
 ### 2025年
+- **7月24日** — 與跨媒體企劃 **《2.5次元的誘惑（2.5 Dimensional Seduction）天使們的舞台》** 遊戲合作
 - **3月8日** — hololive 6th fes.「Color Rise Harmony」3D偶像服裝披露
 - **9月22日** — 第5套2D服裝披露（黑色連衣裙、繃帶角、眼罩烏鴉）
 - **12月1日** — holoX 4週年：宣布首張團體專輯 **《Secret ORDER》** 及首次演唱會 **「First MISSION」**（2026年4月29日 Pia Arena MM）

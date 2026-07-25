@@ -84,7 +84,7 @@ Other personality traits:
 ### Music Career
 - **"Ai no Chiisana Uta"** (Feb 16, 2021) — First original song
 - **"High Tide"** (Feb 15, 2022) — Second original single
-- **"Perisai Jitu"** (Nov 25, 2022) — First Bahasa Indonesia original song
+- **"Perisai Jitu"** (Nov 25, 2022) — First Bahasa Indonesia original song. Notably, Moona performed this song live during her 3D Showcase on **September 16, 2022**, over a month before its official release.
 - **"Who's Toxic? It's You!"** (Apr 12, 2023)
 - **"Senandung Jiwa"** (Aug 18, 2024)
 - **"Show Them (Who You Are)"** (2025)
@@ -130,7 +130,11 @@ Other personality traits:
 - **Two Souls, One Body**: The Moona/Hoshinova duality is treated as an in-universe fact. "Hoshinova" is described as visiting Moona's streams on rare occasions, giving a lore-friendly explanation for her vocal range.
 - **Birthday Coincidence**: Her birthday (February 15) coincides with that of astronomer Galileo Galilei. Her surname "Hoshinova" combines Japanese "hoshi" (star) + Latin "nova" (new).
 - **Self-Produced Covers**: Moona has handled instrumentation, mixing, and video editing for several of her own cover songs — showing significant technical skill beyond just performing.
-- **Pre-VTuber Career**: Before Hololive, she was a print model for a magazine — a background that contrasts sharply with the typical "otaku/gamer" VTuber origin story.
+- **Pre-VTuber Career**: Before Hololive, she was a print model for **NEO magazine** — a background that contrasts sharply with the typical "otaku/gamer" VTuber origin story.
+- **Shares Illustrator with Other VTubers**: Moona shares her character designer Nyori with Tsukinami Nato, Uten Hiyori, Hoshifuri Iku, and Yukine Miiya — creating a loose "Nyori family" among independent and agency VTubers.
+- **English Profile Evolution**: Moona's early English official profile did not originally mention she was a college student — this detail was added in a later revision of her talent page.
+- **Address Manners**: In Japanese, Moona refers to herself as "watashi." She calls gen-mates Risu and Iofi with "-chan" suffix. When Hoshinova takes over, she calls gen-mates with "-chan" as well, but addresses viewers as "kimi-tachi" (you all) — a subtle linguistic distinction between the two personas.
+- **Cross-Platform Accounts**: In addition to YouTube, Moona maintains a **Twitch channel** (twitch.tv/moonahoshinova) which occasionally hosts exclusive or VOD-archived content, as well as TikTok and Instagram accounts.
 - **"I'm an Idol, not a Comedian"**: From her official FAQ — asked if she's a comedian, she replied "No, I'm an Idol," a classic idol-response that fans find endearing given her naturally goofy demeanor.
 - **The Pororo Rule**: The penguin plushie "Pororo" is a recurring prop that Moona treats with great (comedic) seriousness and possessiveness.
 
@@ -140,6 +144,7 @@ Other personality traits:
 
 - https://hololive.hololivepro.com/en/talents/moona-hoshinova/ (Official profile)
 - https://hololive.wiki/wiki/Moona_Hoshinova (Hololive Fan Wiki — comprehensive milestones, discography, trivia)
+- https://seesaawiki.jp/hololivetv/d/Moona%20Hoshinova (Japanese fan wiki — detailed profile, timeline, costume data)
 - https://en.wikipedia.org/wiki/Hololive_Production (Agency context, redirects from "Moona Hoshinova")
 
 ---

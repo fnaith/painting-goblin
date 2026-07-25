@@ -48,8 +48,31 @@ This is the official catchphrase displayed on her Hololive Production profile pa
 
 ## Stream Tags / Hashtags
 
-- **Stream tag:** `#calliolive` / `#カリオライブ`
-- **Fan art tag:** `#callillust` / `#カリイラスト`
+| Type | Tag |
+|------|-----|
+| **Stream tag** | `#calliolive` / `#カリオライブ` |
+| **Fan art tag** | `#callillust` / `#カリイラスト` |
+| **Meme/Clip tag** | `#callioclast` |
+| **Outfit reveal** | `#calliopeNEWlook` |
+| **Cosplay** | `#calli_cos` |
+
+*Source: hololive.wiki, hololivevtuber.fandom.com*
+
+## BlueSky Account
+
+- **BlueSky**: [@moricalliope.com](https://bsky.app/profile/moricalliope.com)
+
+*Source: hololive.wiki*
+
+## Color Palette (from fan wikis)
+
+| Color | Hex Code | Usage |
+|-------|----------|-------|
+| Main color | `#a1020b` | Deep crimson/blood red |
+| Accent color | `#c90d40` | Bright red |
+| Overall palette | — | Black, white, pink, red (gothic punk) |
+
+*Source: seesaawiki.jp/hololivetv*
 
 ## Hololive English -Myth- Generation Context
 
@@ -95,10 +118,15 @@ Mori Calliope's real name has **not been publicly disclosed** by Cover Corporati
 
 ## Notable Milestones
 
-- **Sep 12, 2020:** Debut stream as part of Hololive English -Myth-
-- **Dec 2020:** Infamous 90-minute stream begging Atlus to allow *Persona 3* streaming
+- **Sep 12, 2020:** Debut stream — first holoEN member to debut (6:00 PM PST)
+- **Dec 2020:** Infamous 90-minute stream begging Atlus to allow *Persona 3* streaming (~250K concurrent viewers)
 - **Apr 2022:** Signed major-label contract with EMI Records (Universal Music Japan)
 - **Jul 2022:** First solo concert *New Underworld Order* at Toyosu Pit, Tokyo
 - **Dec 2023:** Won "Best Music Vtuber" at The Vtuber Awards
 - **Mar 2024:** Announced as ending theme artist for *Suicide Squad Isekai* ("Go-Getters")
+- **Oct 2024:** Live2D 3.0 model update
+- **Dec 2024:** *Calli's Christmas Catastrophe* mini-series (co-produced with Merryweather)
+- **Apr 2025:** Performed at World Expo 2025 Opening Ceremony, Osaka
+- **Jun 2025:** 2nd solo concert *GriMoire* at Hollywood Palladium, Los Angeles
+- **Sep 2025:** 5th Anniversary VRChat Live event
 - **Feb 2026:** Released 4th studio album *Disasterpiece*

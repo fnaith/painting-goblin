@@ -76,6 +76,7 @@
 ### 聲音迷因
 - **「HORE SHIIT!!」** — 驚嚇或激動時的自創英文，流傳最廣的聲音迷因
 - **「It's habbening!」** — 故意拼錯的「It's happening!」
+- **「PE↗ KO↘ PE↗ KO↘ PE↗ KO↘」** — 宣告存在感的魔性節奏喊叫
 - **箭矢笑聲** — 魔性笑聲是 Hololive 最容易辨識的聲音之一
 - 她的聲音素材在聲音按鈕網站、Discord 機器人中被大量使用
 
@@ -107,11 +108,15 @@
 - **同期潤羽るしあ畢業事件**（2022年2月）：三期生同期因合約問題解約
 
 ### 趣聞
-- ぺこら給兩個哥哥分別取了暱稱：Michael（ミカエル）和 Diablo（ディアブロ）
+- ぺこら給兩個哥哥分別取了暱稱：Michael（ミカエル）和 Diablo（ディアブロ），母親被稱為 Christine
 - ぺこら玩偶曾被粉絲送上太空（2025年1月）
 - Minecraft RTA 擊敗末影龍用時 12 小時 46 分
 - 喜歡的食物：草莓、番茄、牛奶
 - 戴隱形眼鏡和眼鏡
+- 曾客串動畫《異世界魔王與召喚少女的奴隸魔術 Ω》（2021）
+- 在企劃 #幻想郷ホロイズム 中為東方Project因幡てゐ配音
+- 有賭博癖好，經常在直播中發起賭注式挑戰
+- Minecraft 無政府伺服器 2b2t 中有玩家用黑曜石建造巨大的ぺこら頭像
 
 ---
 
@@ -174,3 +179,5 @@
 - VICE 報導 DS2 客串：https://www.vice.com/en/article/usada-pekora-hololive-death-stranding-2/
 - Siliconera 人類兔化計画：https://www.siliconera.com/hololive-pekora-figure-is-life-size-for-year-of-the-rabbit/
 - Fortune 雜誌 VTuber 全球化報導（2021）
+- Hololive Fandom Wiki：https://hololivevtuber.fandom.com/wiki/Usada_Pekora
+- Seesaawiki（日本維基）：https://seesaawiki.jp/hololivetv/d/%c5%c6%c5%c4%a4%da%a4%b3%a4%e9

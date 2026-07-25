@@ -59,7 +59,7 @@ Iofi has a consistently cheerful, energetic, and talkative presence throughout h
 | **Free Talk / Just Chatting** | Frequent, highly interactive with chat |
 | **Drawing Streams** | Teaches art, draws Hololive members; hosts "#holoctober" drawing events |
 | **Gacha Games** | "NO GACHA NO LIFE!" — plays *Arknights*, *BanG Dream!*, *THE iDOLM@STER* |
-| **Rhythm Games** | *osu!*, *BanG Dream!*, stays on one song for full combo |
+| **Rhythm Games** | *osu!*, *BanG Dream!* (favorite band: Roselia, favorite member: Minato Yukina), stays on one song for full combo |
 | **Karaoke/Singing** | Occasional karaoke, includes a cappella |
 | **ASMR** | Relaxing ASMR streams, including "Salonpas ASMR" |
 | **Art Tutorials** | Uses hashtag #iorials for art tutorials |
@@ -71,11 +71,13 @@ Iofi has a consistently cheerful, energetic, and talkative presence throughout h
 - **"IoSoRadio"** — Monthly otaku radio show with Tokino Sora
 - **"Kira Kira Family"** — Collab group with Risu, Aragami Oga, Arurandeisu
 - **"HoloFOI"** — Collab with Shirakami Fubuki and Oga
+- **"UniDemons"** — Collab group with Aragami Oga and Deep Blizzard Miyuki
 
 ### Multilingual Streaming
 - Speaks **6 languages**: Indonesian, Sundanese, English, Japanese, German, Korean
 - Also learning sign language
-- Self-taught Japanese and English through anime, video games, and dramas
+- Self-taught Japanese and English through anime, video games, and dramas (watched Japanese anime with English subtitles simultaneously)
+- Can write in Hiragana and Katakana; still learning Kanji
 - Often greets in German ("guten tag") and Korean ("gomawo")
 - Explains that she learned languages because "it's fun and I was bored"
 
@@ -103,9 +105,10 @@ Iofi has a consistently cheerful, energetic, and talkative presence throughout h
 - Uses her multilingual ability as a "bridge" between personalities — helped connect Usada Pekora with Moona, and Yukoku Roberu with Ono Yuuki
 
 ### Music
-- Original songs: "Bersama Ioforia", "Q&A=E", "Here I Am", "HI:STREET TIME"
+- Original songs: "Bersama Ioforia" (composed by Rikka, Mar 2021), "Q&A=E", "Here I Am", "HI:STREET TIME"
 - Group songs: "id:entity voices", "HI-15", "Dramatic XViltration", "Senandung Jiwa", "Juara Khatulistiwa"
 - First cover was "Alien Alien" by NayutalieN
+- Cover songs: "Mozart no Tamenaru (Reloaded)" (holo27 Covers Vol.1), "Happy Synthesizer" (with Pochimaru), "Ochame Kinou" (with HoloID 1st Gen), "Taiyou ga Niau yo"
 - Performed songs in sign language during 3D showcase
 
 ### Gaming
@@ -126,11 +129,23 @@ Iofi has a consistently cheerful, energetic, and talkative presence throughout h
 ## 4. Voice Characteristics & Appeal
 
 - Has **rhotacism** — difficulty pronouncing "R" sounds, which fans find endearing
-- Has suffered from tonsillitis but has been reluctant to have surgery
+- Has suffered from **tonsillitis** but has been reluctant to have surgery
 - Voice is described as cute and energetic
 - Switches between Indonesian, English, and Japanese mid-sentence
 - Uses the catchphrase **"OBISA!"** (from "Oh, bisa!" — "Oh, it works!")
 - Sign-off: **"Otsulonpas"** (portmanteau of "Otsukare" and "Salonpas")
+
+## 4b. Personal Background
+
+- Was **homeschooled** growing up; her sister was her only close friend
+- Became a VTuber to gain more friends and social connections
+- Prefers her name spelled in **lowercase** ("iofi")
+- Asked Tokino Sora for permission to call her **"Nee-san"** (big sis) — permission was granted
+- Designed the IoSoRadio logo herself
+
+## 4c. Channel Membership (Kira Kira Club)
+
+Iofi's channel membership program ("Kira Kira Club") offers tiered perks including exclusive emotes, custom badges, and members-only content.
 
 ---
 
@@ -160,6 +175,7 @@ Iofi has a consistently cheerful, energetic, and talkative presence throughout h
 - Very active collab partner — bridges gaps between different VTuber groups
 - Close with genmates Risu and Moona (Area 15)
 - Monthly show "IoSoRadio" with Tokino Sora
+- **"UniDemons"** — Collab group with Aragami Oga and Deep Blizzard Miyuki
 - Frequently collabs with Tsunomaki Watame, Ninomae Ina'nis, Pochimaru, and others
 - Part of "Fanfic Club" with Pavolia Reine, Gigi Murin, and Shiori Novella
 - Referred to as "tante Iofi" (Auntie Iofi) by Pavolia Reine due to friendship with Pochimaru
@@ -171,6 +187,8 @@ Iofi has a consistently cheerful, energetic, and talkative presence throughout h
 1. **Hololive Official Profile:** https://hololive.hololivepro.com/en/talents/airani-iofifteen/
 2. **Virtual YouTuber Wiki (Fandom):** https://virtualyoutuber.fandom.com/wiki/Airani_Iofifteen
 3. **Hololive Fan Wiki:** https://hololive.wiki/wiki/Airani_Iofifteen
+4. **Hololive VTuber Fandom Wiki:** https://hololivevtuber.fandom.com/wiki/Airani_Iofifteen
+5. **Seesaawiki Japanese Wiki:** https://seesaawiki.jp/hololivetv/d/Airani%20Iofifteen
 
 ---
 

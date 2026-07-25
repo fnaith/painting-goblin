@@ -47,6 +47,14 @@
 - **Thigh Portal:** She can produce objects from between her thighs — the nature of this "portal" is as mysterious as her twintails
 - **Goals:** "An AkiRose in every household!" / Wants to meet fans using VR/AR technology / Wants to try doing an entertainment show
 
+### Name Format
+- **Unique Western-style naming:** Aki Rosenthal uses Western name order (Given + Family), whereas most other Hololive JP members use Japanese order (Family + Given). This is consistent with her "from another world" lore.
+
+### Additional Fandom Wiki Findings
+- **Detachable Pigtails:** In *Holo no Graffiti* shorts, her floating pigtails have been shown as detachable accessories, consistent with the official lore that they are AI-powered accessory extensions named "Aik"
+- **"Giving Birth" to Oozora Subaru:** In a *Holo no Graffiti* skit, Aki produced Oozora Subaru from between her thighs (via the Thigh Portal), which the fan community dubbed "giving birth to Subaru"
+- **3D Idol Outfit:** Announced March 2025, marking a significant model upgrade
+
 ### Catchphrases / Memes
 | Phrase | Meaning |
 |--------|---------|
@@ -88,6 +96,10 @@
 | 2021-01-09 | 400,000 subscribers | |
 | 2021-05-04 | 500,000 subscribers | |
 | 2021-10-26 | 600,000 subscribers | During a karaoke stream |
+| 2022-10-24 | 700,000 subscribers | |
+| 2023-06-29 | 800,000 subscribers | |
+| 2024-06-11 | 900,000 subscribers | |
+| 2025-05-04 | 1,000,000 subscribers | 1st gen member, last to reach 1M among 1st gen |
 
 ### Additional Career Events
 - **2018-12-02:** Hiatus announced due to a traffic accident (leg surgery)
@@ -95,7 +107,13 @@
 - **2019-06-29:** Main 3D model revealed
 - **2020-01-24:** Participated in Hololive 1st fes. "Nonstop Story"
 - **2020-06-30:** Released full version of original song *SHALLYS*
+- **2022-01:** Vocal cord surgery
 - **2022-07-09:** Live2D model updated to "Ver.3.0"
+- **2023-02-17:** Birthday 3D Live
+- **2023-08:** Participated in Hololive Summer festival
+- **2024–2025:** VCR GTA participation as "NEO POLICE" gang leader
+- **2025-03:** New 3D idol outfit announced
+- **2026:** 8th anniversary celebration events
 
 ---
 

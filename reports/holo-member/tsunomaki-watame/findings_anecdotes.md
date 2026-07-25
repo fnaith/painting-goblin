@@ -21,6 +21,10 @@
 - The most famous running gag associated with Watame. The phrase originated from an "apology" video she made after a previous stream had connection issues.
 - Variants include "Giri giri warukunai Watame" (Borderline nothing wrong Watame).
 - The official Hololive bio includes "Watame did nothing wrong!"
+- **"GiriGiri Warukunai Watame" (ギリギリ悪くないWatame)**: A live-action short series launched on January 7, 2022, featuring Watame in live-action skit videos. Hashtag: #ギリわる
+
+### "Watame Have a nice day" Series
+- A short-form video series launched on October 25, 2022, featuring various slice-of-life Watame content. Hashtag: #はばない
 
 ### "Konban dododo!"
 - Her signature greeting, a catchy and unique opener for her streams.
@@ -102,6 +106,36 @@
 
 ---
 
+## Career Timeline
+
+| Date | Milestone |
+|------|-----------|
+| 2019/12/27 | 10,000 subscribers (pre-debut) |
+| 2019/12/29 | YouTube debut |
+| 2020/01/08 | 5,000 subscribers |
+| 2020/02/01 | WNF (Watame Night Fever) begins as "Saturday Night Watame Fever!!" |
+| 2020/02/03 | "Watame no Uta" song corner begins |
+| 2020/02/06 | Channel demonetized and later reinstated |
+| 2020/07/12 | 3D model debut + 1st original song "Aimai Chocolate" |
+| 2020/10/24 | MC at IMAGINATION vol.3 event |
+| 2020/12/21-22 | hololive 2nd fes. |
+| 2021/01/01 | Kimono 2D outfit reveal |
+| 2021/05/03 | Casual 2D outfit reveal |
+| 2021/07/17 | 1,000,000 subscribers (during karaoke stream) |
+| 2021/10/12 | 1st Solo Live "Watame Night Fever!! in Zepp Tokyo" |
+| 2022/01/07 | "GiriGiri Warukunai Watame" live-action short series begins |
+| 2022/03/13 | "Prism Melody" release |
+| 2022/03/20 | hololive 3rd fes. |
+| 2022/05/06 | 100M cumulative channel views |
+| 2022/10/25 | "Watame Have a nice day" short series begins |
+| 2022/12/12 | 100K Twitter followers |
+| 2023/01/09 | NHK Radio appearance |
+| 2023/01/28 | 100th WNF stream |
+| 2023/03/18 | hololive 4th fes. |
+| 2024/01/31 | 2nd Solo Live "Watame Night Fever!! in Tokyo Garden Theatre" |
+| 2026/06/24 | 夏祭2026 live performance |
+| 2026/07/11 | ホロサマ (HoloSummer) event |
+
 ## Subscriber Milestones & Growth
 
 | Date | Milestone | Notes |
@@ -114,6 +148,7 @@
 | Oct 25, 2020 | 500,000 | |
 | Jul 17, 2021 | **1,000,000** | During a karaoke stream |
 | Jul 14, 2022 | 1,250,000 | |
+| 2026 | 2,000,000+ | Estimated as of mid-2026 |
 
 As of mid-2026, Watame continues to grow steadily, maintaining her position as a beloved musical talent within Hololive.
 
@@ -136,6 +171,15 @@ As of mid-2026, Watame continues to grow steadily, maintaining her position as a
 ### Collab with Mori Calliope
 - The "Reaper vs. Sheep" series of songs with Mori Calliope was a notable cross-branch collaboration, producing two versions of the same song.
 
+### Blue Journey Project
+- Watame is a participating member of **Blue Journey**, a Hololive music project that released a collaborative album and held a live concert featuring multiple Hololive members across generations.
+
+### Nemu Nemu Wata no Mori (ねむねむわたのもり)
+- A Watame-themed Minecraft mod/datapack referenced on the seesaawiki, featuring Watame-themed content within Minecraft.
+
+### NHK Radio Appearance
+- On January 9, 2023, Watame appeared on NHK Radio, a notable mainstream media appearance for a Hololive VTuber.
+
 ---
 
 ## Groups & Sub-Units
@@ -145,6 +189,7 @@ As of mid-2026, Watame continues to grow steadily, maintaining her position as a
 | **PPTrio** | Watame, Kiryu Coco, Amane Kanata | 4th Gen subgroup |
 | **Bakatare** | Watame, Shirakami Fubuki, Shiranui Flare | Cross-gen collab group |
 | **4th Gen (holoForce)** | Watame, Towa, Luna, Kanata, Coco | Full generation |
+| **Blue Journey** | Watame + multiple Hololive members | Music project (album + live) |
 | Watame x Haato | Watame, Akai Haato | Minecraft duo |
 
 ---
@@ -169,3 +214,5 @@ As of mid-2026, Watame continues to grow steadily, maintaining her position as a
 - https://www.twitter.com/tsunomakiwatame (Official Twitter)
 - https://hololive.hololivepro.com/en/talents/tsunomaki-watame/ (Official Hololive Profile)
 - https://en.wikipedia.org/wiki/Hololive_Production (Wikipedia — Hololive Production overview)
+- https://www.tiktok.com/@tsunomakiwatame_hololive (Official TikTok)
+- https://seesaawiki.jp/hololivetv/ (Hololive Seesaa Wiki — Japanese fan wiki)

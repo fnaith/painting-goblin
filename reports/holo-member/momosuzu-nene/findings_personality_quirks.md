@@ -99,7 +99,8 @@
 
 ## Trivia Highlights
 
-- Shares an illustrator (Nishizawa 5mm) with Shinomiya Runa of VSPO!
+- Shares an illustrator (Nishizawa 5mm) with Shinomiya Runa of VSPO! (Nishizawa 5mm herself also designs VSPO! members)
+- Appears as **Karamomo Suzune** in the official *Hololive ERROR* horror visual novel
 - Was featured in Shueisha's *Weekly Playboy* as "Next Generation Beautiful Girls 55+1" (Oct 2021)
 - Voiced a supporting character (Kelly) in the anime *The World's Finest Assassin Gets Reincarnated Into Another World as an Aristocrat*
 - Member of subunits NEGI☆U (with Minato Aqua & Oozora Subaru) and O'riends (with Takanashi Kiara)

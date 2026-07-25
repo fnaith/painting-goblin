@@ -15,7 +15,7 @@
 
 ## 1. 性格特征与直播风格
 
-- **性格特质**: 性格冷静沉稳（calm）但有点天然呆（air-headed），喜欢可爱的事物，容易害羞，讨厌被吓到。
+- **性格特质**: 性格冷静沉稳（calm）但有点天然呆（air-headed），喜欢可爱的事物，容易害羞，讨厌被吓到。在竞技场合会展现出强烈的"杀手本能"（killer instinct），与平时温和形象形成鲜明对比。
 - **直播风格**: 使用3D模型进行直播（她没有2D模型，与同期的Sora、Miko、AZKi一样），作为Hololive的第二位成员，常被称为"Roboco前辈"（Roboco Senpai）。
 - **特征招呼语**: "Haro~bo~"（はろーぼー）——"Hello"与"Roboco"的结合语。
 - **结束语**: "Otsurobo"（おつろぼ）——"Otsukare-sama"与"Roboco"的结合。
@@ -75,6 +75,7 @@
 - **Reddit版主**: 是Hololive官方Subreddit的管理员之一。
 - **MMD**: 拥有专用的MMD模型（在niconico上可获取）。
 - **多套3D服装**: 拥有多套不同风格的3D服装（连帽衫、泳装、新年和服、T恤等）。
+- **DJ**: 2019年以DJ身份参加 Re:Animation 13 活动演出。
 
 ---
 

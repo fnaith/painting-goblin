@@ -111,9 +111,14 @@
 
 ### 喜歡的事物
 - 睡覺／小睡、夜間散步、**存在主義恐懼（existential dread）**、游泳、動漫、漫畫、Webtoon
+- **喜歡的動漫**：死亡筆記本、死亡遊行、惡魔人Crybaby、校園怪談、幸福荘的岡崎小姐、妄想代理人、聖☆哥傳、男子高中生的日常、尋找滿月、魔法少女小圓、Blood+、銀魂、神風怪盜、魔法公主
+- **喜歡的漫畫**：校園漫畫大王、地獄先生、Rave、狼與辛香料、哆啦A夢
+- **喜歡的Webtoon**：Solo Leveling、Medical Reincarnation、The Pale Horse、Medina、Skeleton Soldier Couldn't Protect the Dungeon、Lout of Count's Family、The Strongest Florist、FFF Trash Tier Hero、Miss Guillotine、Who Made Me A Princess、The Villainess Reverse the Hourglass、This Witch of Mine、I Want To Be You Just For a Day、Death Is the Only Ending for the Villainess、Roxanna、Harem Survival、The Princess Imprints a Traitor、Path of the Shaman、4 Cut Hero、Poison Dragon
+- **喜歡的遊戲**：Fire Emblem、Monster Hunter、薩爾達傳說、寶可夢、動物森友會、Super Mario Sunshine、解謎遊戲、放鬆遊戲、模擬遊戲、哲學遊戲、劇情向遊戲、獨立遊戲
 
 ### 討厭的事物
 - 睡覺／小睡（矛盾）、拖延症、蔬菜、時間壓力下的工作（對時間看守者而言很諷刺）、讓人暴躁的遊戲
+- **討厭的食物**：ピーナッツバター（花生醬）、青椒
 
 ### 口頭禪與台詞
 | 用語 | 場合 |
@@ -189,12 +194,36 @@
 - 《Our Promise》（2024年6月）
 - 《Breaking Dimensions》（2024年8月）
 - 《MONSTER》（2025年5月）
-- 《STORM》（2026年5月）
+- 《All for One》（2025年7月）
+- 《Kirameki Rider (English ver.)》（2025年8月）
+- 《Run Back 'Round》（2025年10月）
+- 《Bright Tonight》（2025年12月）
+- 《Way 2 U》（2026年3月，1st EP收錄曲）
+- 《STORM》（2026年5月，1st EP收錄曲）
+- 《Serendipity》（2026年6月）
 - 以及其他多首單曲
+
+### 翻唱歌曲（節選）
+| 歌曲 | 原唱 | 合作 | 備註 |
+|------|------|------|------|
+| MAFIA | wotaku | 獨唱 | Kronii自行混音 |
+| 爆笑 (Bakushou) | syudou | 獨唱 | |
+| 気まぐれメルシィ (Kimagure Mercy) | 八王子P | 獨唱 | |
+| Holy Night | 逢坂大河&川嶋亞美 | Hakos Baelz | 聖誕合唱 |
+| Always With You | Epic Seven | Takanashi Kiara | |
+| Mr.シャーデンフロイデ | Hitoshizuku-P | HoloEN多人 | 9人合作 |
+| ドーナツホール (Donut Hole) | 米津玄師 | Nanashi Mumei | |
+| Bad ∞ End ∞ Night | Hitoshizuku-P | HoloEN/ID多人 | |
+| 光るなら (Hikaru Nara) | Goose house | Council全員 | |
+| The Twelve Days of Christmas | 傳統歌謠 | HoloEN全員 | |
+| おちゃめ機能 (Ochame Kinou) | LamazeP | HoloEN全員 | |
 
 ### 重要活動
 - 3D模型公開（2023年5月25日）
 - hololive 4th fes. Our Bright Parade（2023年3月19日）
+- 首張EP《OURO KRONII 1ST EP》發行（2026年5月）
+- 生日3D LIVE「The Goddess Descends」（#krorigin，2026年5月7日）
+- Kronii Birthday Event 2026（新高輪格蘭王子大飯店，2026年6月7日）
 - hololive English 4th Concert -Serendipity-（2026年7月）
 
 ---

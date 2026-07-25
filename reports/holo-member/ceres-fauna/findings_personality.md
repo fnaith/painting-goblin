@@ -25,6 +25,8 @@
 ### Comparison to Other Members
 - Hakos Baelz described Fauna at debut as a "natural mama," a "soothing beauty," and someone who "gives the best headpats."
 - Fans frequently compare her to Yukihana Lamy (from Hololive JP) — both share a soft voice, motherly personality, and nature motif.
+- **Admires Shirogane Noel** from Hololive JP.
+- **Self-perceived inferiority:** During her graduation period, Fauna revealed that she often felt "lesser" compared to her fellow Council/Promise members, which influenced her streaming habits and interactions.
 
 ---
 
@@ -101,7 +103,9 @@ Fauna was originally part of **Council** (alongside Nanashi Mumei, Ouro Kronii, 
 ## 7. Key Facts
 
 - **1 Million YouTube Subscribers** — Reached on December 28, 2024, just 7 days before her graduation.
-- **Original Songs:** *Let Me Stay Here* (2022), *Our Promise* (2024), *It's Not a Phase* (2024), and multiple group songs (*Rise*, *Connect the World*, *Aventure Holic*).
+- **Award:** Won "Best ASMR Streamer" at the VTuber Awards 2024.
+- **Clumsiness:** Despite her graceful appearance, she can be somewhat clumsy.
+- **Original Songs:** *Let Me Stay Here* (2022), *Our Promise* (2024), *It's Not a Phase* (2024 collab with Nanashi Mumei), *Odyssey* (2024), and multiple group songs (*Rise*, *Connect the World*, *Aventure Holic*).
 - **3D Model Debut:** June 4, 2023 (on HoloGra episode 211).
 - **Fanbase:** Saplings are known for being a cozy, supportive community that mirrors Fauna's own gentle demeanor.
 - **Goals stated at debut:** Learn Japanese, learn to sing and create original songs, offline collabs with genmates, learn speedruns, voice act in a video game.

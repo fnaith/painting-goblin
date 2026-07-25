@@ -10,6 +10,8 @@
 |---|---|---|
 | Hololive Fan Wiki | https://hololive.wiki/wiki/Inugami_Korone | Accessed |
 | Virtual YouTuber Wiki | https://virtualyoutuber.fandom.com/wiki/Inugami_Korone | Accessed |
+| Hololive Fandom Wiki | https://hololivevtuber.fandom.com/wiki/Inugami_Korone | Accessed — new info (2024 VN, horror prefs, bug fear, Heavy Rain, Roomania) |
+| Seesaawiki Hololive TV | https://seesaawiki.jp/hololivetv/ | Korone page 404; content unavailable |
 
 ---
 
@@ -345,6 +347,7 @@ One of Korone's most famous prolonged segments:
 | **Tobu Zoo** | Zoo collab | Dec 2022 — games, foods, merch |
 | **Yomiuri Giants** | Baseball collab | Aug 2023 — at Tokyo Dome |
 | **Yo-Kai Watch♪** | Anime voice cameo | Mar 3, 2023 — Episode 94 |
+| **Okayunyumu!** | Visual Novel cameo | Nov 15, 2024 — ENTERGRAM-developed Okayu VN; Korone appears as a character |
 
 ---
 
@@ -366,6 +369,12 @@ One of Korone's most famous prolonged segments:
 - **Speaker user:** Took 2 years after debut to admit she normally plays game audio from speakers instead of headphones
 - **Two pairs of ears:** Has dog ears on top AND human ears (unlike Okayu who only has one pair)
 - **Voice cameo:** Voiced a character in Yo-Kai Watch♪ episode 94 (Mar 3, 2023)
+- **Horror preferences:** Fan of horror movies including *Human Centipede* and *Saw*
+- **Fear of insects:** Afraid of bugs, especially centipedes and mosquitoes
+- **Heavy Rain finger scene reaction:** During a *Heavy Rain* stream, when a character cuts off their own finger, she was unfazed — consistent with her "Yubi Yubi" finger-collecting persona
+- **Roomania 203 confidence issues:** During a Roomania 203 playthrough, she shared personal struggles with confidence, adding depth to her usually genki persona
+- **Okayunyumu! VN (2024):** Appeared in Nekomata Okayu's visual novel developed by ENTERGRAM, released November 15, 2024
+- **"Korone" etymology (fan theory):** Fans speculate her name resembles "chocolate cornet," a pastry — fitting her bakery theme
 
 ---
 

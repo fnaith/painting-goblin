@@ -61,6 +61,10 @@
 - **Fried Cheese Lover**: Favorite food is fried cheese.
 - **Console Gamer**: Prefers console gaming over PC because "there are fewer buttons to press."
 - **Music Taste**: Loves anime songs, J-pop, K-pop, hardstyle, and EDM.
+- **Anime Preferences**: Her **favorite anime** is *Fullmetal Alchemist: Brotherhood*. Her **top 3 anime duos** are:
+  1. Izaya & Shizuo (*Durarara*)
+  2. Edward & Alphonse Elric (*Fullmetal Alchemist: Brotherhood* — her all-time favorite)
+  3. Tanya & X (*Youjo Senki*)
 - **Rat Cheese Association**: Fans spam 🧀🧀🧀 in chat while waiting for streams, referencing mice/rat-cheese myths.
 
 ---
@@ -92,7 +96,15 @@
   - Horror game streams become comedy gold due to her extreme fear reactions.
   - "BAE-GEMITE" tasting segments showcase her Australian pride.
 - **Collab Dynamic**: Often plays the straight~~man~~rat or victim in collabs with other chaotic members. Her relationship with IRyS (the "BaeRyS" dynamic) is a recurring entertainment pillar.
+- **Watches Most (non-EN)**: Apart from hololive EN members, she watches **Oozora Subaru**, **Yukoku Roberu**, and **Houshou Marine** most frequently.
 - **Achievements**: Debuted August 23, 2021. Reached 1 million subscribers on December 12, 2024.
+- **Goals & Dreams**:
+  - Dance in 3D (achieved at hololive 4th fes. 2023)
+  - Attend a live voice actor event
+  - Do many collaboration streams
+  - Voice act in an anime
+  - Create her own coffee drink
+- **Creator Notes**: The instrumental for her debut original song **"PLAY DICE!"** was composed by **Camellia**. She also has an **official artist YouTube channel** for posting covers and original music.
 
 ---
 
@@ -104,6 +116,7 @@
 | Birthday | February 29 (leap day) |
 | Height | 149 cm |
 | Illustrator | Mika Pikazo |
+| Live2D Modeler | Jujube |
 | Gen/Unit | hololive English -Council- (formerly) → -Promise- |
 | Fan Name | Brats / Baerats |
 | Emoji | 🎲 |

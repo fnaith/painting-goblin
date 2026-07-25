@@ -1,9 +1,31 @@
 # 相關軼事與冷知識
 
-## 里程碑
-- **2024年6月23日**: 作為 hololive EN -Justice- 第四位成員出道
-- **2025年6月**: Justice 組 3D 展示發表
-- **2026年7月**: 參加 hololive English 4th Concert -Serendipity-
+## 詳細里程碑
+
+### 2024年
+- **4月3日**: YouTube 頻道創建
+- **6月22日-23日**: 作為 hololive EN -Justice- 第四位成員出道（初配信）
+- **7月**: 參加 Japan Expo Paris 2024（於法國巴黎）
+- **7月22日**: YouTube 訂閱數突破 30萬
+- **11月17日**: YouTube 訂閱數突破 40萬
+- **11月**: The Vtuber Awards 2024 - Best Art VTuber 獲獎
+
+### 2025年
+- **3月26日**: YouTube 訂閱數突破 50萬
+- **6月**: Justice 組 3D 展示發表
+- **7月**: hololive English 3rd Concert -All for One- 出演
+- **8月10日**: 個人 3D 模型公開（標語：「Big Cat Means Big Trouble!」）
+- **11月**: 因健康因素暫停活動一週
+- **11月**: 為 Takanashi Kiara 設計新服裝
+- **hololive SUPER EXPO 2025** 出演
+- **2025新年和服** 服裝發表
+
+### 2026年
+- **1月28日**: YouTube 訂閱數突破 61.1萬
+- **1月**: Monster Hunter Wilds 合作服裝發表
+- **5月11日**: 生日 3D LIVE CONCERT 舉辦
+- **7月**: hololive English 4th Concert -Serendipity- 出演
+- **hololive 7th fes. Ridin' on Dreams** 出演
 
 ## 軼事與趣聞
 
@@ -33,6 +55,27 @@
 - 粉絲名 Chattini（單數：Chattino）是一個自創詞
 - 源自「chat」（聊天）與義大利語風格的結合
 - 粉絲社群活躍在直播聊天室和社群平台
+- 聊天室常要求 Chattini 獲得 jetpack，但 Raora 堅定拒絕
+
+### 耳尖敏感
+- Raora 的耳朵非常敏感（hololive.wiki 記錄）
+
+### 招牌招呼
+- 「Ciaora!」為 Ciao 和 Raora 的合成詞，是她辨識度最高的招呼用語
+
+### 代表色
+- 主色：#e75786（粉紅/紫色調）
+- 輔色：#f087a9
+
+### 週邊標籤系統 (Hashtags)
+| 用途 | 標籤 |
+|------|------|
+| 直播/粉絲文 | #RaoraPanthera |
+| 粉絲創作 | #RaorArt |
+| 粉絲迷因/聊天梗 | #RaraWara |
+| 直播評論 | #CiaoRaora |
+| 精華剪輯 | #4Raora |
+| NSFW 創作 | #Chattini（備註） |
 
 ## 知名迷因與剪輯主題
 - **偵探查案**: 結合「神之眼」設定的各種偵探迷因
@@ -47,7 +90,8 @@
 - 與其他 EN 成員有跨界合作
 
 ## 尚未確認/待補充資訊
-- 具體的直播名場面細節
-- 與 JP 組成員的互動記錄
+- 具體的直播名場面細節（如首次直播事故、經典回等）
+- 與 JP 組成員的互動記錄（已知參加 hololive 7th fes 但有無更多連動待查）
 - 更多粉絲社群中的熱門梗
 - 詳細的 3D 展示內容情報
+- **Fandom Wiki 資料**: 因 403 無法存取，待日後補齊

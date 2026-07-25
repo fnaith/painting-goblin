@@ -25,6 +25,10 @@
 - 對大空スバル極度癡迷——據Shiga Riko所述，Su有大量Subaru的周邊商品，甚至帶到Riko家
 - 與Pekora和Kiara的聯動中，因打字速度慢被開玩笑
 
+## 直播習慣用語
+- 開場白: 「すうの充電たりてる？」(你的Su充電滿了嗎？)
+- 結尾: 「おつすうありがとうバイバイ」(Otsusuu arigatou baibai)
+
 ## 特殊能力
 - 擅長跳舞和手工藝
 - 出道直播中展示了自己用針氈工藝製作的藍色大象
@@ -33,3 +37,4 @@
 來源:
 - https://virtualyoutuber.fandom.com/wiki/Mizumiya_Su
 - https://hololive.hololivepro.com/en/talents/mizumiya-su/
+- https://hololive.wiki/wiki/Mizumiya_Su

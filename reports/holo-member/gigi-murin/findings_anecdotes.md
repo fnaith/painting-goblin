@@ -46,7 +46,32 @@
 ## Source: Twitter/X Community
 - There is community discussion about Gigi possibly being ace (asexual), as noted by fans referencing that both of illustrator Maki Hitsuji's VTuber designs are ace
 
+## 2026 Events & Milestones
+
+### 🎤 CCGG MADNESS - 3D Live with Cecilia Immergreen (May 17, 2026)
+- Gigi and Cecilia held a joint 3D LIVE called "THE CCGG NETWORK"
+- Released the original song "CCGG MADNESS" with an accompanying MV
+- This solidified their "brainrot duo" branding at a new level
+
+### 🦖 Monster Hunter Wilds Collaboration Outfit (January 6, 2026)
+- Gigi debuted a Monster Hunter Wilds collaboration outfit
+- The costume design was created by genmate Raora Panthera
+- Modeled by otsukue
+
+### 🎵 New Original Songs (2026)
+- "CCGG MADNESS" — duet with Cecilia Immergreen (May 17, 2026)
+- "Serendipity" — hololive English group song (June 20, 2026)
+- "enough" — solo original (June 24, 2026)
+- "SUPERNOVA SUPER GIRL" — Justice group song (June 29, 2026)
+
+### 🎪 hololive 7th fes (March 7, 2026)
+- Performed at hololive 7th fes "Ridin' on Dreams" DAY2 as part of Hololive STAGE2
+
+### 🎶 hololive English 4th Concert -Serendipity- (July 3-4, 2026)
+- Performed across both days of the concert alongside all Hololive English members
+
 ## Discord/Community Observations
 - Gigi has a close friendship with her genmates: Elizabeth Rose Bloodflame, Cecilia Immergreen, and Raora Panthera
 - Justice group dynamics: Liz (leader/vampire), Gigi (chaotic gremlin), Ceci (calm green witch), Raora (cat girl/artist)
 - Has ongoing interactions with Advent gen (Shiori, Bijou, Nerissa, Fuwamoco)
+- Known callsigns: Called "Gigi" by most members, "Cece" calls her "GiGi", "Liz" calls her "Gigi"

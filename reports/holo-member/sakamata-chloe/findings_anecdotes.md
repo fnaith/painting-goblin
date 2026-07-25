@@ -25,10 +25,12 @@
 
 ### Conclusion of Streaming Activities (2024–2025)
 - **November 29, 2024:** During her **3rd anniversary livestream**, Chloe announced she would be **concluding her streaming activities** effective **January 26, 2025**.
+- **Reason:** Cited physical health deterioration (cervical spine, back issues) and overworking. She had been pushing herself hard, leading to burnout.
 - This made her the **first holoX member** to step back from regular streaming.
 - Rather than a traditional "graduation" (full departure from the agency), COVER Corp introduced a new category: **"Affiliate member"** status. Under this arrangement, Chloe remains affiliated with hololive production and may participate in select future projects on a limited basis — similar to "a graduate visiting their alma mater."
 - **January 26, 2025:** Final stream — a 3D live performance.
-- *(Sources: COVER Corp official note, hololivepro.com announcement, hololive.wiki)*
+- **March 31, 2025:** First post-retirement return — released a cover of **"Turing Love" (チューリングラブ)** with **Murasaki Shion**, marking her first musical activity since the conclusion stream.
+- *(Sources: COVER Corp official note, hololivepro.com announcement, hololive.wiki, fandom wiki)*
 
 ### COVER Corp's New "Conclusion of Streaming Activities" Concept
 COVER Corp published an official note (note.cover-corp.com) explaining this new departure model:
@@ -59,6 +61,7 @@ COVER Corp published an official note (note.cover-corp.com) explaining this new 
 - A fan-favorite pairing with **Murasaki Shion** (hololive 2nd Gen).
 - The name combines "Shio" (from Shion) and "Shachi" (orca).
 - Known for their contrasting personalities — Shion's bratty/energetic persona vs. Chloe's calmer, tsundere-leaning demeanor.
+- On **March 31, 2025** — well after Chloe's retirement from streaming — the duo released a cover of **"Turing Love" (チューリングラブ)**, proving their bond outlasted her regular streaming career.
 
 ### Hakui Koyori
 - Particularly close gen-mate. They frequently collabed and released a duet cover of **"Identity" (アイデンティティ)** by Kanaria.
@@ -102,6 +105,7 @@ COVER Corp published an official note (note.cover-corp.com) explaining this new 
   - *"Animal"* (DECO*27) — solo cover
   - *"Unknown Mother Goose"* — 10-talent collaboration cover
   - *"Rabbit Hole"* (DECO*27) — duet with Amane Kanata
+  - *"Turing Love" (チューリングラブ)* — duet with Murasaki Shion (post-retirement, March 31, 2025)
 - **Music Involvement:** Chloe actively composed, wrote lyrics, and pursued voice training, not just performed. She described music as her primary passion.
 - *(Sources: hololive.wiki, official profile)*
 
@@ -128,6 +132,12 @@ COVER Corp published an official note (note.cover-corp.com) explaining this new 
 ---
 
 ## 4. Interesting Stories and Fan-Favorite Moments
+
+### The Debut Eye Mask Incident
+- During her debut stream, Chloe didn't realize her Live2D model didn't have an eyepatch/eye mask on it. As a result, she couldn't see the chat comments scrolling by and was visibly confused at times. This became a memorable debut blooper that fans still reference.
+
+### "#orcart" Community Name Origin
+- Chloe's fan community is known as "Orcart" (オーカート), a portmanteau blending "orca" (her motif animal) with "heart". The name was coined by fans rather than Chloe herself — she later mentioned that she was not consulted about the name, but accepted it warmly.
 
 ### The Orca/Fish Roleplay Consistency
 Chloe maintained her orca/killer whale persona with remarkable consistency across her entire streaming career:
@@ -176,5 +186,7 @@ Chloe maintained her orca/killer whale persona with remarkable consistency acros
 3. **COVER Corp Note on "Conclusion of Streaming Activities"** — https://note.cover-corp.com/n/ne3a8b7a553c0
 4. **Graduation Announcement (JP)** — https://hololivepro.com/news/20241129-01/
 5. **Hololive Fan Wiki — Sakamata Chloe** — https://hololive.wiki/wiki/Sakamata_Chloe
-6. **YouTube Channel** — https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw
-7. **X (Twitter)** — https://twitter.com/sakamatachloe
+6. **Fandom Wiki — Sakamata Chloe** — https://hololivevtuber.fandom.com/wiki/Sakamata_Chloe
+7. **Seesaawiki (非公式wiki)** — https://seesaawiki.jp/hololivetv/d/%BA%BB%B2%D6%BA%B5%A5%AF%A5%ED%A5%F1
+8. **YouTube Channel** — https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw
+9. **X (Twitter)** — https://twitter.com/sakamatachloe

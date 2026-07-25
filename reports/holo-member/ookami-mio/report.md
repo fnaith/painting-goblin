@@ -22,7 +22,7 @@
 | **象徵符號** | 🌲（松樹——因為頭髮像松樹） |
 | **訂閱數** | 125萬（2024年12月） |
 
-**來源：** [Hololive官方檔案](https://hololive.hololivepro.com/en/talents/ookami-mio/) · [Hololive Wiki](https://hololive.wiki/wiki/Ookami_Mio)
+**來源：** [Hololive官方檔案](https://hololive.hololivepro.com/en/talents/ookami-mio/) · [Hololive Wiki](https://hololive.wiki/wiki/Ookami_Mio) · [seesaawiki.jp/hololivetv](https://seesaawiki.jp/hololivetv)（404無法存取）· [hololivevtuber.fandom.com](https://hololivevtuber.fandom.com/wiki/Hololive_Wiki)（403禁止存取）
 
 ---
 
@@ -98,6 +98,9 @@
 - 飼養兩隻公貓：Taiga（タイガ）和Tawa（タワ，阿比西尼亞貓）
 - Taiga常出現在實況中造成混亂
 
+### 碧藍航線聯動
+- 參與2019年11月26日至12月11日的「虛實鏡像」碧藍航線聯動活動，同聯動成員包括夏色祭、百鬼綾目、白上吹雪、紫咲詩音、時乃空、湊阿庫婭
+
 ---
 
 ## 6. 遊戲設計相關素材
@@ -151,7 +154,9 @@
 
 - [Hololive官方檔案（EN）](https://hololive.hololivepro.com/en/talents/ookami-mio/)
 - [Hololive官方檔案（JP）](https://hololive.hololivepro.com/talents/ookami-mio/)
-- [Hololive Fan Wiki](https://hololive.wiki/wiki/Ookami_Mio)
+- [Hololive Fan Wiki](https://hololive.wiki/wiki/Ookami_Mio) — 主要資料來源，可完整存取
 - [YouTube頻道](https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg)
 - [Twitter](https://twitter.com/ookamimio)
 - 繪師伊沢泉：https://twitter.com/AC______
+- [seesaawiki.jp/hololivetv](https://seesaawiki.jp/hololivetv) — 404無法存取
+- [hololivevtuber.fandom.com](https://hololivevtuber.fandom.com/wiki/Hololive_Wiki) — 403禁止存取

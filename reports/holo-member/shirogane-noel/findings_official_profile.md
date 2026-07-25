@@ -11,6 +11,8 @@
 | **Birthday** | November 24 |
 | **Height** | 158 cm |
 | **Age** | 18 years+2◯ months old (eternally, as per VTuber convention) |
+| **Blood Type** | O |
+| **Zodiac Sign** | Sagittarius (射手座) |
 
 ## Character Design
 
@@ -87,6 +89,13 @@
 | ノエスタ (Noesta) | Abbreviation for Noel Studio — where she streams |
 | テント (Tent) | Nickname for her home (described as in a "countryside slum") |
 | ポップちゃん (Pop-chan) | Her pet hamster, considered family |
+
+## Media & Game Appearances
+
+| Title | Type | Date | Notes |
+|-------|------|------|-------|
+| **Neptunia Virtual Stars** | Video Game | Announced Jan 28, 2020 | Guest VTuber character alongside other Hololive members |
+| **#Gensokyo Holoism** | Music Project | Jul 10, 2020 | Voiced Touhou character Saigyouji Yuyuko |
 
 ## Media Links
 

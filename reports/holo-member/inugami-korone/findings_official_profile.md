@@ -4,13 +4,16 @@
 
 ### Basic Info
 - **Name:** Inugami Korone (戌神ころね)
-- **Nickname:** Korone, Korone-chan
+- **Nickname:** Korone, Korone-chan, Koronen, Koroneken
 - **Birthday:** October 1
+- **Zodiac:** Libra
+- **Blood Type:** O
 - **Height:** 156 cm
 - **Debut Stream:** April 13, 2019
 - **Unit:** hololive GAMERS
 - **Illustrator (Mama):** Fukahire (https://twitter.com/fuka_hire)
 - **Catchphrase:** "Ello! Fingers! Give me your fingers!"
+- **Battle Cry:** "Horayo!" (ホラヨ！)
 
 ### Character Background / Lore
 - "A dog from a bakery in the city. She likes to play games during her free time while watchdogging."
@@ -52,6 +55,8 @@
 - Often wears a baker/apron-style outfit referencing her bakery background
 - Official artwork by Fukahire
 - 3D model debuted in a dedicated showcase stream
+
+## Source: Hololive Fandom Wiki (hololivevtuber.fandom.com — blood type, zodiac, battle cry "Horayo!", additional nicknames)
 
 ## Source: X/Twitter bio (@inugamikorone)
 

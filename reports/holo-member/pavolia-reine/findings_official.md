@@ -23,9 +23,24 @@
 | **Catchphrase (ID)** | *"Perhatian, sang putri merak yang tertiup angin, aku Pavolia Reine dari hololive ID."* |
 | **Catchphrase (EN)** | *"Attention Please! I'm Pavolia Reine from hololive ID 2nd generation."* |
 
+### Name Etymology
+- **"Pavolia"** — derived from Latin *pavo* (peacock); *Pavo* is also the genus for peafowl
+- **"Reine"** — French word for "queen"
+- **Nickname "Kanjeng"** — traditional Indonesian honorific for high-ranking nobility
+
+### Notable Facts
+- **Tallest active female Hololive VTuber** — at 172 cm, she is the tallest currently active female member (second all-time behind Kiryu Coco at 180 cm, who graduated)
+- **Name etymology:** "Pavolia" from Latin *pavo* (peacock); "Reine" from French for "queen"
+- **Mechanical keyboard enthusiast** — knowledgeable about custom keyboards; her own keyboard is fully customizable per-key and lacks dedicated arrow keys
+- **Shares illustrator with:** Lenri Ashieda, Natsume Ulta, DiscoTei Meteo, Yukimaru Sen, Hinomori Anzu (second model) — all designed by Pochimaru
+- **VR Models** — has multiple VR models designed by Kathy (Prii) and keenbiscuit
+- **Third bird-themed Hololive member** — after Oozora Subaru and Takanashi Kiara
+
 ### Social Links
 - **YouTube:** https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q
 - **Twitter/X:** https://twitter.com/pavoliareine
+- **Facebook:** https://www.facebook.com/pavoliareine/
+- **Instagram:** https://www.instagram.com/pavoliareine/
 - **MMD Model:** https://3d.nicovideo.jp/works/td92056
 
 ### Hashtags
@@ -61,7 +76,7 @@ Key lore elements:
 | **True Nature** | Dorky, silly, goofy — becomes apparent after spending more time with her |
 | **Laugh** | Distinctive laugh frequently compared to a car engine starting |
 | **Hobbies** | Chatting/free talk, simulator/sandbox games, puzzle/mystery games, singing, drawing |
-| **Stream Style** | Relaxed, conversational; weekly brunch free-talk streams ("YABE" — Yet Another Brunch Everyone) |
+| **Stream Style** | Relaxed, conversational; weekly brunch free-talk streams ("YABE" — Yet Another Brunch Everyone); also hosts fan-fiction reading streams and Reine's Classroom language-teaching series |
 | **Favorite Drink** | Tea (over coffee) |
 | **Temperament** | Prefers "pleasantly" warm or "pleasantly" cold weather |
 
@@ -90,10 +105,14 @@ The design is built around peacock imagery, reflected in:
 3. **3D Model** — debuted July 2023
 4. **"Our Bright Parade" Idol Outfit** — designed by Mika Pikazo for the hololive ID idol outfit set
 
+### Membership Program: "The Royaltea"
+- Members-only live streams, badges, and custom emoji
+
 ### Signature Props
 - **Tatang Tambourine** (full name: *Tatang Tambourine*) — used during donation readings
 - **Peacock feather fan** — elegant hand prop
 - **"Chat food"** — hand-drawn illustrations of food mentioned in chat, used as stream props
+- **Pen display/tablet** — used for drawing on stream
 
 ---
 

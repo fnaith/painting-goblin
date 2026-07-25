@@ -4,8 +4,8 @@
 
 | 項目 | 內容 |
 |------|------|
-| 名稱 | Watson Amelia（ワトソン・アメリア） |
-| 暱稱 | Ame、Amechan、Ground Pounder、Gremlin Ame、Smol Ame |
+| 名稱 | Watson Amelia（ワトソン・アメリア），全名 Amelia H. Watson |
+| 暱稱 | Ame、Amechan、Ground Pounder、Gremlin Ame、Smol Ame、Watsoff Amelia（引退後）、Watochama（ワトちゃま，日文圈） |
 | 生日 | 1月6日（摩羯座） |
 | 身高 | 150 cm（4'11"） |
 | 血型 | O型 |
@@ -51,7 +51,9 @@ Amelia是一位來自**1920年代的時空偵探**，使用**金色懷錶**進�
 
 ### 吉祥物
 
-- **Bubba** — 以她的真實寵物狗為原型，由同期的 Ninomae Ina'nis 設計吉祥物版本
+- **Bubba** — 以她的真實寵物狗（獵犬）為原型，由同期的 Ninomae Ina'nis 設計吉祥物版本
+- **Mikki／Nikki** — 另一隻寵物獵犬
+- **Wellington** — 寵物貓
 
 ---
 
@@ -82,6 +84,15 @@ Amelia 的性格是在「溫柔支援型朋友」和「混亂邪惡Gremlin」之
 - **無濾鏡**：wiki記載：「Amelia有濾鏡，但大部分被濾網擋住的 outrageous 發言最終還是會說出口」
 - **出道時曾用假英國口音**（為了滿足觀眾對夏洛克式角色的期待），之後揭露是偽裝
 
+### 私人趣聞
+
+- **會彈烏克麗麗**
+- **有一個弟弟**
+- **童年趣事**：曾吃沙子、喝朋友的眼淚、受過13次傷
+- **喜歡的動漫**：《星際牛仔》、《死亡筆記本》、《鋼之鍊金術師》、《暗殺教室》、《遊戲王》等
+- **Amenade調酒**：粉絲為她創作的調酒配方——琴酒、檸檬汁、蜂蜜、氣泡水、可食用亮粉，以懷錶裝飾
+- **與福爾摩斯同日生日**：1月6日在部分設定中也是福爾摩斯的生日
+
 ### 經典語錄／迷因
 
 | 語錄 | 說明 |
@@ -110,6 +121,7 @@ Amelia 的性格是在「溫柔支援型朋友」和「混亂邪惡Gremlin」之
 - 製作原創節奏遊戲《ChikuTaku》（itch.io發布）
 - 製作「Smol Adventures」動畫系列
 - 主持「Ame in the A.M.」/「Watson Weekly」新聞節目
+- 參與D&D系列「Hunter Myth: Myth Breakers」戰役
 
 ---
 
@@ -160,6 +172,10 @@ Amelia 的性格是在「溫柔支援型朋友」和「混亂邪惡Gremlin」之
 | 首場慈善直播 | 2021/6/5 | hololive首次，募款$235,972，捐給動物保護組織 |
 | ChikuTaku發布 | 2023/1/17 | 原創曲+自製節奏遊戲 |
 | 轉為Affiliate | 2024/9/30 | 首創此模式，停止常態直播但保留參與權 |
+| Kiara 3D音樂會客串 | 2025/4/20 | 引退後首次實體活動亮相 |
+| Best Friends慈善直播 | 2026/2/18 | 再次為動物保護組織募款 |
+| Kronii 3D生日Live | 2026/3/14 | 以Affiliate身份參與 |
+| Kiara 3D音樂會 | 2026/7/7 | 再度參與Kiaria的3D演出 |
 
 ---
 

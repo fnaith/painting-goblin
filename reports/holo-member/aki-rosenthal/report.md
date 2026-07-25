@@ -85,6 +85,14 @@
 - ムキロゼ的誕生讓許多人發現 Aki 並成為粉絲，顯著提升觀看數
 - **同人遊戲素材**：可作為隱藏角色、變身型態、或召喚技能
 
+### ★ 浮遊雙馬尾可拆卸
+- *Holo no Graffiti* 動畫中顯示雙馬尾是可拆卸配件（對應官方設定「AI搭載型飾品Aik」）
+- 其他成員可以取下、傳遞甚至當工具使用
+
+### ★ 「生出大空昴」迷因
+- *Holo no Graffiti* 短片中，Aki 從大腿次元傳送門拉出大空昴
+- 粉絲稱之為「生出/分娩大空昴」，鞏固了大腿傳送門的惡搞形象
+
 ### ★ 「沒有鼻子」迷因
 - 早期 Live2D 模型鼻子不明顯，粉絲以此玩梗
 - Reddit 上曾有系列貼文「shitpost until she gets a nose」
@@ -102,6 +110,11 @@
 | 2019年12月 | YouTube 被取消收益化（因ASMR內容） |
 | 2020年1月 | 參加 Hololive 首次演唱會「Nonstop Story」 |
 | 2022年1月 | 接受聲帶手術 |
+| 2022年7月 | Live2D 模型更新至 Ver.3.0 |
+| 2023年2月 | 生日3D Live 演出 |
+| 2023年8月 | 參加 Hololive Summer 祭典 |
+| 2024–2025年 | VCR GTA 參演，成為幫派老大「NEO POLICE」 |
+| 2025年3月 | 新3D偶像服裝發表 |
 | 2025年5月 | 達到100萬訂閱（1期生中最晚達成） |
 
 ---
@@ -147,3 +160,5 @@
 - Hololive Fan Wiki: https://hololive.wiki/wiki/Aki_Rosenthal
 - 官方 Hololive 網站: https://hololive.hololivepro.com/en/talents/aki-rosenthal/
 - ANN Yagoo 訪談: https://www.animenewsnetwork.com/feature/2020-09-02/meet-cover-corp-ceo-motoaki-yagoo-tanigo-the-man-behind-hololive-virtual-youtubers/.163495
+- Fandom Wiki: https://hololivevtuber.fandom.com/wiki/Aki_Rosenthal
+- Seesaawiki（日本Wiki）: https://seesaawiki.jp/hololivetv/d/%a5%a2%a5%ad%a1%a6%a5%ed%a1%bc%a5%bc%a5%f3%a5%bf%a1%bc%a5%eb

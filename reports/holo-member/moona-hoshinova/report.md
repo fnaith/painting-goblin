@@ -54,6 +54,7 @@ Moona 最具特色的官方設定為 **「一人之中有兩個靈魂」**：
 - **頭髮**：銀白色長髮、漸層藍色髮尾、側編髮
 - **眼睛**：藍紫色
 - **配件**：新月髮飾、星星飾品
+- **角色設計者**：Nyori（nyorinyori），與其他VTuber（月並ナト、雨天ひより、星降いく、幸ねみや）共享同一繪師
 
 ### 服裝型態
 - 原始2D Live模型（2020年4月出道）
@@ -92,7 +93,7 @@ Moona 最具特色的官方設定為 **「一人之中有兩個靈魂」**：
 |------|------|------|
 | Ai no Chiisana Uta | 2021.02.16 | 第一首原創曲 |
 | High Tide | 2022.02.15 | 第二首原創單曲 |
-| Perisai Jitu | 2022.11.25 | 第一首印尼語原創曲 |
+| Perisai Jitu | 2022.11.25 | 第一首印尼語原創曲（2022.09.16 3D Showcase 已先行演唱） |
 | Who's Toxic? It's You! | 2023.04.12 | |
 | Senandung Jiwa | 2024.08.18 | |
 | Show Them (Who You Are) | 2025 | |
@@ -145,6 +146,7 @@ Moona 最具特色的官方設定為 **「一人之中有兩個靈魂」**：
 - **自製Cover**：多首Cover曲由Moona親自處理樂器、混音、插畫、剪輯，展現技術力
 - **前模特兒**：出道前是雜誌模特兒，與一般VTuber「宅/遊戲玩家」出身形成反差
 - **網路問題**：出道初期網路很差，有時得用手機網路直播
+- **不喜歡番茄**：設定上不喜歡番茄（トマト）
 - **「我是偶像」**：官方Q&A被問是不是搞笑藝人時回答「不，我是偶像」——粉絲認為對比她的天然呆行為格外可愛
 
 ---
@@ -167,6 +169,7 @@ Moona 最具特色的官方設定為 **「一人之中有兩個靈魂」**：
 - [Hololive Official — Moona Hoshinova Talent Page](https://hololive.hololivepro.com/en/talents/moona-hoshinova/)
 - [Hololive Official — Indonesia Branch Talents](https://hololive.hololivepro.com/en/talents?gp=indonesia)
 - [Hololive Fan Wiki — Moona Hoshinova](https://hololive.wiki/wiki/Moona_Hoshinova)
+- [Seesaawiki Japanese Wiki — Moona Hoshinova](https://seesaawiki.jp/hololivetv/d/Moona%20Hoshinova)
 - [Wikipedia — Hololive Production](https://en.wikipedia.org/wiki/Hololive_Production)
 - [Moona Hoshinova YouTube Channel](https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg)
 - [Moona Hoshinova Twitter/X](https://twitter.com/moonahoshinova)

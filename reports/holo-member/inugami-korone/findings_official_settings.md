@@ -12,6 +12,8 @@
 | Official Hololive Production Website (EN) | https://hololive.hololivepro.com/en/talents/inugami-korone/ | Accessed |
 | Virtual YouTuber Wiki | https://virtualyoutuber.fandom.com/wiki/Inugami_Korone | 403 Forbidden |
 | Hololive TV (EN) | https://en.hololive.tv/portfolio/items/433592 | 404 Not Found |
+| Hololive Fandom Wiki | https://hololivevtuber.fandom.com/wiki/Inugami_Korone | Accessed — new info: blood type O, zodiac Libra, battle cry "Horayo!", age discrepancy (90 vs 95 dog years) |
+| Seesaawiki Hololive TV | https://seesaawiki.jp/hololivetv/ | Korone-specific page 404; only main site reachable |
 
 ---
 
@@ -26,8 +28,10 @@
 | **Oshi Mark / Emoji** | Croissant (🥐) |
 | **Fan Name** | Koronesuki (ころねすきー) — also called "Koronesky (Korone Likers)" officially, and "Goma King" (ごまキング) by Korone herself |
 | **Birthday** | October 1 |
+| **Zodiac** | Libra |
+| **Blood Type** | O |
 | **Height** | 156 cm |
-| **Age** | 95 years old (dog years) |
+| **Age** | 95 years old (dog years); some sources (fandom wiki) state 90 dog years |
 | **Dog Breed** | Cavalier King Charles Spaniel |
 
 ---
@@ -104,12 +108,14 @@
 |---|---|
 | **Birthday** | October 1 |
 | **Height** | 156 cm |
-| **Age** | 95 (in dog years; ~94 at debut) |
+| **Age** | 95 (in dog years; ~94 at debut); some sources cite 90 in dog years |
 | **YouTube Subscribers** | 2,000,000+ (achieved June 28, 2023) |
 | **YouTube Channel** | [Korone Ch. 戌神ころね](https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q) |
 | **Twitter** | [@inugamikorone](https://twitter.com/inugamikorone) / [@k5r6n3](https://twitter.com/k5r6n3) |
 | **Spotify** | [戌神ころね](https://open.spotify.com/artist/6EFbQU0BE4wGLdqBjey64b) |
 | **Bilibili** | [戌神沁音Official](https://space.bilibili.com/412135619/) |
+| **Marshmallow** | [@inugamikorone](https://marshmallow-qa.com/inugamikorone) |
+| **TikTok** | [@inugamikorone](https://www.tiktok.com/@inugamikorone) |
 | **Verified YouTube** | Yes |
 
 ---
@@ -130,6 +136,7 @@
 |---|---|---|
 | Greeting | ぉぁょ | *oayo* — Korone's version of *ohayou* (good morning) |
 | Introduction | "Yubi yubi!" / "Fingers!" | Taking viewers' fingers for safekeeping |
+| Battle cry | ホラヨ！ | *Horayo!* — used during exciting/intense moments |
 | Farewell | おつころーん | *otsukoron* — portmanteau of *otsukare* + *Korone* |
 | Viewer waiting | ゆ。。ゆ。。 | *Yu.. Yu..* — first syllable of "Yubi" |
 | English section | "Hey Guys!" | Tradition of addressing English-speaking fans |
@@ -168,6 +175,8 @@
 - Frequently plays games on original hardware rather than re-releases.
 - Her mascots **Hosoinu** (thin dog) and **Futoinu** (fat dog) started as her own doodles; later received full designs.
 - **Nyanpyou** — a white cat-like creature holding a sword from a PS2 mini-game that Korone played obsessively for hours.
+- **"Korone" etymology** — Her name may resemble "chocolate cornet" (a pastry), which her mother supposedly referenced when naming her, fitting the bakery theme.
+- **Pronunciation detail** — Pronounces 皆 (minna) as "MIIN-na" rather than the more common "min-NAA" among young speakers.
 
 ---
 

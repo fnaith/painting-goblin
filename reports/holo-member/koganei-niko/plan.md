@@ -26,3 +26,10 @@
 
 ## Synthesis
 將以上四個面向的資料整合，產出一份完整的中文報告，可直接用於同人遊戲的角色設定參考。
+
+## 三項指定資料來源存取結果
+| 來源 | 狀態 | 備註 |
+|------|------|------|
+| seesaawiki.jp/hololivetv | ✅ 可存取 | 無Niko獨立頁面，僅取得首頁日程資訊（含3D Live 2026/7/25） |
+| hololive.wiki/wiki/Koganei_Niko | ✅ 已存取 | 頁面標記「Under construction」，發現官網錯誤記載（繪師/生日）及合作翻唱資料 |
+| hololivevtuber.fandom.com/wiki/Koganei_Niko | ❌ 404 | 該Fandom頁面不存在 |

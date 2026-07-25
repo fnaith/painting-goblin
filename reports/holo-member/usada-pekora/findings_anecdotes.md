@@ -157,6 +157,8 @@
 - **《Idol Showdown》**（2023）— Hololive 同人格鬥遊戲，可玩角色
 - **《Dragon Quest Treasures》**（2022）— 怪物「ぺこって」配音
 - **《Death Stranding 2: On the Beach》**（2025）— NPC 配送員客串
+- **《异世界魔王与召唤少女的奴隶魔术Ω》**（2021）— 动画客串
+- **「#幻想郷ホロイズム」** — 配音东方Project因幡てゐ（Inaba Tewi）
 
 ---
 
@@ -178,6 +180,13 @@
 ### 聲音迷因文化
 - ぺこら的叫聲、笑聲、「HORE SHIIT」等聲音素材在 Hololive 聲音按鈕網站、Discord 機器人中被大量使用。
 - 她的聲音是 Hololive 最容易辨識的聲音之一，也是同人語音合成作品中最受歡迎的素材角色。
+
+### 迷因與冷知識
+- **2b2t ぺこら肖像**：在《Minecraft》無政府伺服器 2b2t 中，有玩家用黑曜石建造了巨大的ぺこら頭像，成為該伺服器標誌性建築之一
+- **賭博中毒設定**：ぺこら自稱有賭博癮，多次在直播中進行賭注式挑戰，粉絲將其作為混沌性格特徵之一
+- **Mario Kart 過彎歪頭**：ぺこら在玩 Mario Kart 8DX 時過髮夾彎會傾斜頭部，成為粉絲津津樂道的冷知識
+- **胡蘿蔔真假之謎**：ぺこら頭上的胡蘿蔔是真胡蘿蔔還是假胡蘿蔔是粉絲間長期爭論的話題，Hololive Alternative 短篇中曾有過官方調侃
+- **「兔女郎不穿內褲」發言**：ぺこら在直播中提到「兔女郎不穿內褲」，引發粉絲熱議和大量二創
 
 ---
 
@@ -201,6 +210,9 @@
 - https://streamscharts.com/news/most-popular-female-streamers-2023
 - https://www.siliconera.com/hololive-pekora-figure-is-life-size-for-year-of-the-rabbit/
 - https://hololive.hololivepro.com/en/talents/usada-pekora/
+- Hololive Fan Wiki: https://hololive.wiki/wiki/Usada_Pekora
+- Hololive Fandom Wiki: https://hololivevtuber.fandom.com/wiki/Usada_Pekora
+- Seesaawiki (日本维基): https://seesaawiki.jp/hololivetv/d/%c5%c6%c5%c4%a4%da%a4%b3%a4%e9
 - https://www.vice.com/en/article/usada-pekora-hololive-death-stranding-2/
 - Fortune 雜誌報導 (2021) — Nicholas Gordon, "Once an oddity of Japan's digital culture, VTubers are expanding worldwide"
 - Dexerto — Amos, Andrew (14 June 2022), "Hololive's Usada Pekora surprises fans with return stream one month after hiatus"

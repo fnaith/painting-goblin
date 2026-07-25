@@ -1,6 +1,6 @@
 # Fuwawa Abyssgard（フワワ・アビスガード）綜合研究報告 — 同人遊戲設定用
 
-> 報告日期：2026-06-21 | 語言：繁體中文（zh-TW）
+> 報告日期：2026-06-21（更新：2026-07-25） | 語言：繁體中文（zh-TW）
 
 ---
 
@@ -35,6 +35,7 @@
 | **身高** | 155 cm |
 | **角色設計** | ICOMOCHI（@rswxx） |
 | **Live2D 建模** | Jujube（@MegaJujube） |
+| **3D 建模** | Shiba Tsukune（柴つくね，@shiba_tsukune） |
 | **粉絲名稱** | Ruffians（惡徒/汪汪們） |
 | **會員制度** | The Doggy Pack（Doggy / Hot Dog / Mad Dog 三階） |
 | **代表符號** | 🐾💙（爪印＋藍色愛心） |
@@ -77,6 +78,14 @@
 ### 與 Mococo 的外觀區別
 - Fuwawa：更蓬鬆的毛髮，較為柔和的氣質
 - Mococo：稍微短一點的頭髮，較為活潑銳利的氣質
+
+### 已知服裝造型
+| 造型名稱 | 公開日期 | 備註 |
+|----------|----------|------|
+| 初始造型 | 2023/07/31 | 出道造型，紫黑色系短裙 |
+| 新年造型 | 2024/01/06 | 新年和風造型 |
+| **Baufit** | 2025/01/16 | 運動風格造型 |
+| **Pajamas** | 2026/03/15 | 睡衣風格造型 |
 
 ---
 
@@ -303,7 +312,14 @@ FUWAMOCO 是官方 Hololive Subreddit 的管理員之一，直接參與社群管
 | 2024/10/12 | **達成 YouTube 100 萬訂閱（銀盾）** — 出道約 14 個月達成 |
 | 2024 | The Vtuber Awards「Vtuber Of The Year」獲獎 |
 | 2025/01/11 | Hololive 猜拳錦標賽冠軍，贏得 100 萬日圓 |
+| 2025/01/16 | 公開 Baufit 運動造型 |
 | 2025/10/31 | Ducky x FUWAMOCO 聯名鍵盤發售 |
+| 2026/01 | 原創曲〈Breakout〉發表 |
+| 2026/02 | 原創曲〈What Goes Around〉發表 |
+| 2026/03/15 | 公開 Pajamas 睡衣造型 |
+| 2026/03 | 原創曲〈Unchained〉發表 |
+| 2026/04 | 原創曲〈Mekurumeku Rendezvous〉發表 |
+| 2026/07/03～04 | 參加 hololive English 4th Concert「Serendipity」 |
 
 ---
 
@@ -390,6 +406,9 @@ FUWAMOCO 是官方 Hololive Subreddit 的管理員之一，直接參與社群管
 | Hololive 官方音樂頁 | https://hololive.hololivepro.com/en/music |
 | 角色設計師 ICOMOCHI | https://twitter.com/rswxx |
 | Live2D 建模師 Jujube | https://twitter.com/MegaJujube |
+| 3D 建模師 Shiba Tsukune | https://twitter.com/shiba_tsukune |
+| Seesaawiki（FUWAMOCO 非官方維基） | https://seesaawiki.jp/hololive/d/FUWAMOCO |
+| Hololive VTuber Fandom Wiki（Fuwawa） | https://hololivevtuber.fandom.com/wiki/Fuwawa_Abyssgard |
 | Tenor GIF 資料庫 | https://tenor.com/view/fuwawa-abyssgard-fuwawa-fuwamoco-vtuber-hololive-gif-14579612673913487551 |
 | Joyreactor 迷因社群 | https://joyreactor.com/tag/Fuwawa+Abyssgard |
 | 白上吹雪×FUWAMOCO Visage 聯動 | https://www.youtube.com/watch?v=l1N528i1N1U |
@@ -397,5 +416,5 @@ FUWAMOCO 是官方 Hololive Subreddit 的管理員之一，直接參與社群管
 
 ---
 
-*本報告基於網路公開資料整理，資訊截至 2026 年 6 月 21 日。*
+*本報告基於網路公開資料整理，資訊截至 2026 年 7 月 25 日。*
 *報告用途：同人遊戲角色設定參考，請遵守 Hololive 二創規範。*

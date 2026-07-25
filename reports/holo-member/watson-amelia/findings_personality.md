@@ -21,6 +21,8 @@
 | **"Test test, Hello~ Amelia Watson! #1 Detective at your service!"** | Standard intro line from her official profile |
 | **"Time we will never get back—but it was all worth it."** | Sign-off quote displayed on her wiki profile |
 | **"HIC"** | Chat spam reaction to her frequent hiccups on stream; she theorizes they are "upside-down burps converted to cuter hiccups" |
+| **"Watsoff Amelia"** | Post-retirement nickname given by fans, playing on "off" vs her active persona |
+| **"Watochama" (ワトちゃま)** | Nickname used by Japanese fans |
 | **"Amelia Tech Tips"** | Meme referencing her habit of helping genmates troubleshoot streaming/tech issues (parody of Linus Tech Tips) |
 | **"Ameway"** | Fan term for her stubborn determination to do things *her way*, ignoring chat/game feedback until she succeeds |
 | **"True Gamer"** | Ironic fan label for her salty/toxic competitiveness in FPS games |
@@ -118,11 +120,17 @@ Unofficially considered the **leader of HoloMyth** due to her technical knowledg
 
 ### Other Quirks
 
-- **Likes:** Iced tea, roller coasters, sleeping, FPS games (Apex, Valorant), open-world games (Fallout, Zelda: BotW), animals/marine biology (Animal Review series).
+- **Likes:** Iced tea, roller coasters, sleeping, FPS games (Apex, Valorant), open-world games (Fallout, Zelda: BoTW), animals/marine biology (Animal Review series).
 - **Dislikes:** Onions, going outside (despite liking roller coasters).
-- **Real-life pet dog Bubba** is her mascot, occasionally heard barking on stream.
+- **Favorite anime/manga:** Cowboy Bebop, Death Note, Fullmetal Alchemist, Assassination Classroom, Yu-Gi-Oh!, and more.
+- **Plays ukulele.**
+- **Has a little brother.**
+- **Childhood anecdotes:** Ate sand as a kid, drank a friend's tears, sustained 13 injuries growing up.
+- **Real-life pets:** Hunting terrier Bubba (mascot), a second terrier named Mikki/Nikki, and a cat named Wellington.
 - **Height:** 150 cm (4'11") — frequently the subject of "smol" jokes.
+- **Amenade cocktail:** Fan-created drink (gin, lemon juice, honey, sparkling water, edible glitter, garnished with a pocket watch) that she acknowledged.
 - **Hobbies outside streaming:** Emergency medicine studies (backup career before hololive).
+- **Birthday (Jan 6) matches Sherlock Holmes' birthday** in some canons, adding to her detective theme.
 
 ---
 

@@ -1,7 +1,7 @@
 # 小金井ニコ (Koganei Niko) — 趣闻与故事汇总
 
-> 编译日期: 2026-06-21
-> 信息来源: Hololive 官方网站、Hololive Fan Wiki、YouTube 频道
+> 编译日期: 2026-07-25
+> 信息来源: Hololive 官方网站、Hololive Fan Wiki、YouTube 频道、seesaawiki.jp/hololivetv
 
 ---
 
@@ -39,11 +39,11 @@
 - FLOW GLOW 是 Hololive DEV_IS 旗下的第二期团体
 - 2024年11月7日官方发布出道预告，11月9日正式出道
 - 團员包括:
-  - 音乃瀬奏 (Otonose Kanade)
-  - 一条莉々華 (Ichijo Ririka)
-  - 儒烏風亭らでん (Juufuutei Raden)
-  - **小金井ニコ (Koganei Niko)**
-  - 轟はじめ (Todoroki Hajime)
+  - **Isaki Riona（響咲リオナ）** — 隊長 👑
+  - **Koganei Niko（虎金妃笑虎）** — 搞笑擔當 ☺️🐅
+  - **Mizumiya Su（水宮枢）** — 宣傳擔當 💬
+  - **Rindo Chihaya（輪堂千速）** — DJ擔當 🎧
+  - **Kikirara Vivi（綺々羅々ヴィヴィ）** — 化妝擔當 💅
 
 ---
 
@@ -61,6 +61,18 @@
 - 粉丝名"25P"源自她的名字（Niko → 2（ni）5（ko）→ 25）
 - P 代表"P"（朋友/fan），整体意为"Niko 的朋友们"
 - 粉丝社群活跃，出道以来增长迅速
+
+---
+
+### 官方网站资料错误更正
+根据 hololive.wiki 页面的脚注说明，hololivepro.com 英文版存在两处资料错误：
+1. **生日**：曾误列为 5月29日（与 Isaki Riona 相同），正确生日为 7月25日
+2. **角色设计**：曾误列为 Shirabii（Isaki Riona 的绘师），正确绘师为 TETSUKAZU（鉄一）
+
+这些错误已随网站更新修正，但在早期存档版本中仍可查见。
+
+### 3D Live 演出（2026年7月25日）
+seesaawiki.jp/hololivetv 的直播日程表显示，Niko 于 2026年7月25日（本日）举行 3D Live 演出。
 
 ---
 
@@ -84,12 +96,14 @@
 ## 搜索局限性说明
 
 本次搜索未能获取到大量深层趣闻故事，主要原因是:
-1. **出道时间短**: 2024年11月才出道，至今仅7个月，积累的故事素材有限
-2. **搜索工具限制**: Google 搜索被重定向拦截，Reddit 需要验证，Fandom 返回 403
+1. **出道时间短**: 2024年11月出道，至今约20个月，积累的故事素材仍在增长中
+2. **搜索工具限制**: Google 搜索被重定向拦截，Reddit 需要验证
 3. **语言壁垒**: 日文搜索返回结果有限，未能深入日本本土粉丝社区的讨论板（如 5ch、Twitter 详细搜索等）
 4. **YouTube 数据有限**: YouTube 页面只返回了基础结构化数据，无法获取直播中的具体内容
+5. **seesaawiki.jp**: 未找到 Niko 的专属页面（仅获取到包含直播日程的首頁）
+6. **hololivevtuber.fandom.com**: 页面不存在（404）
 
 如需更深入的故事挖掘，建议:
-- 直接观看 Niko 的直播存档，特别是**耐久歌回**和**杂谈回**
+- 直接观看 Niko 的直播存档，特别是**耐久歌回**、**杂谈回**和**3D Live**
 - 搜索日本粉丝 Wiki 或まとめサイト
 - 使用 Twitter/X 搜索 `#KoganeiNiko` 或 `#小金井ニコ`

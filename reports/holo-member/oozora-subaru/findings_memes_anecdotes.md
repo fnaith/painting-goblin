@@ -53,6 +53,18 @@ Subaru 在 Minecraft 中建造了某個雕像，成為經典迷因。
 
 Subaru 被稱為「警察」，經常用「この右の人」（this one right here）的哏指向他人，類似「就是他/她就是犯人」的構圖。
 
+### 7. 唐老鴨 ASMR
+
+Subaru 以其獨特的沙啞嗓音模仿唐老鴨說話，被粉絲稱為唐老鴨 ASMR，與其鴨子形象深度綁定。
+
+### 8. 「假裝宅宅」出道故事
+
+Subaru 曾在訪談中透露，為了通過 Hololive 徵選，她在面試時假裝自己是御宅族（オタク），實際上那時她對 ACG 文化還不太熟悉。
+
+### 9. 「空媽是廁所」發言
+
+2026年 0th 配信中，Subaru 在開玩笑時說出「トワ様のトイレはそらちゃん」（空媽是 Towa 的廁所）的驚人發言，再次展現其失言王本色。
+
 來源：
 - https://9gag.com/tag/oozora-subaru
 - https://www.reddit.com/r/OozoraSubaruMemes/
@@ -150,6 +162,14 @@ Subaru 曾在錄音室睡覺導致臉上留下傷痕的有趣插曲。
 
 Subaru 的經典形象是運動短褲，加上她的活潑氣質，成為 hololive 中的「運動系擔當」。
 
+### 7. 胸口愛心疤痕
+
+Subaru 出生時患有心室中隔缺損（VSD），接受了心臟手術，胸口留下愛心形狀的疤痕。這道疤痕與她開朗陽光的形象形成強烈反差，成為粉絲津津樂道的話題。
+
+### 8. YAGOO 命名事件
+
+在 3D 模型初披露直播中，Subaru 準備了鴨子惡作劇企劃。該企劃中她誤將 Cover CEO 谷郷元昭（Tanigou Motoaki）的名字唸成「YAGOO」，從此這個稱呼成為社長的代名詞並沿用至今。
+
 來源：
 - https://vortexgaming.io/ja/postdetail/649547
 - https://26g.me/2925
@@ -174,7 +194,12 @@ Subaru 的經典形象是運動短褲，加上她的活潑氣質，成為 hololi
 | 2025.04 | 《LAMBDUCK》 |
 | 2025.09 | 《Love Me!》 |
 | 2026.04 | 《BEEP BEEP》 |
-| 2025-2026 | 連續參加 hololive 6th fes、7th fes 等大型演唱會 |
+| 2026.07.03 | 《Okie Dokie Dance》（生日當天發行） |
+| 2025.09 | 出席 hololive 7th fes |
+| 2026.03.29 | 新 3D 服裝披露 |
+| 2026.04.01 | BIG3 首次 3D LIVE「BIG3とあつまったお！」 |
+| 2026.05.19 | YouTube 訂閱突破 200 萬 |
+| 2026.07 | 7th Anniversary LIVE 開催 |
 
 來源：hololive 官方音樂列表
 https://hololive.hololivepro.com/en/talents/oozora-subaru/

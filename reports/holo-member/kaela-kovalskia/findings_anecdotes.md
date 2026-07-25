@@ -9,11 +9,27 @@
 | **出道日期** | 2022年3月26日 |
 | **生日** | 8月30日 |
 | **身高** | 173 cm |
-| **角色设计（ illustrator）** | ヤスダスズヒト（Yasuda Suzuhito） |
+| **角色设计（ illustrator）** | ヤスダスズヒト（Yasuda Suzuhito；同绘师亦负责 Suntory Nomu） |
+| **血液型** | O 型 |
+| **惯用手** | 左撇子 |
 | **粉丝名称** | Pemaloe |
 | **口头禅／自我介绍** | "Aku Kaela, dari holoID gen 3!" |
 
 ---
+
+## 姓名考据
+
+- **Kaela**：源自希伯来语名 "Keila"，意为"桂冠"（crown of laurel）
+- **Kovalskia**：近似俄语/乌克兰语/白俄罗斯语姓氏 "Kowalski"（Ковальська），源自西斯拉夫语 "kowal"（铁匠）— 与角色铁匠设定完美契合
+
+## 个人背景（Fandom Wiki 来源）
+
+- **与父母同住**
+- **有一名姐姐**
+- **曾在当地铁匠铺工作** — Kaela 的铁匠角色设定并非纯虚构，部分来自她的真实工作经历
+- **左撇子**
+- **喜欢睡觉**
+- **YouTube 频道创建日**：2022 年 1 月 27 日（正式出道为 3 月 26 日）
 
 ## 官方背景故事（Lore）
 
@@ -22,33 +38,91 @@
 - 决定踏上自由之旅，寻找珍稀的锻造材料
 - 其中有一种材料的传闻指向城镇中某个"偶像团体"的大楼下方
 - 该背景确立了她"铁匠"（blacksmith）的核心身份
+- **注**：Kaela 现实中曾在铁匠铺工作的经历可能影响了这一角色设定
 
 ---
 
-## 里程碑事件
+## 详细活动时间线（来源：seesaawiki 直播记录 + hololive 官方发表）
 
 ### 2022年
-- **3月26日** — 作为 hololive Indonesia 3rd Generation 成员正式出道
-- 初配信（Debut Stream）
-- 早期以游戏实况和杂谈为主，逐步积累粉丝
+| 日期 | 事件 |
+|------|------|
+| 1月27日 | **YouTube 频道创建**（早于出道约 2 个月） |
+| 3月26日 | **YouTube 初配信**（Debut Stream）「Now Smithing... Kaela Kovalskia - Hololive Indonesia 3rd Gen」— 截至 2023 年初累计 **588,000+ 观看** |
+| 4月3日 | YouTube 订阅突破 2 万 |
+| 5月3日 | 首次 RAFT 直播（10 小时 15 分） |
+| 5月15日 | 首次 Minecraft 直播 |
+| 6月9日 | 会员（KAELUARGA）开通 |
+| 6月14日 | **PC 故障**（Hololive Fan Wiki 记录） |
+| 6月21日 | 第二次 RAFT 直播（11 小时 54 分） |
+| 6月22日 | YouTube 订阅突破 3 万 |
+| 7月5日 | 第三次 RAFT 直播（11 小时 28 分） |
+| 7月16日 | 首次 Rust / Minecraft 直播 |
+| 8月3日 | YouTube 订阅突破 4 万 |
+| 8月3日 | 首次 Minecraft 超长直播（11 小时 32 分） |
+| 9月7日 | Minecraft 10 小时直播 |
+| 9月13日 | Minecraft 11 小时 55 分直播 |
+| **9月** | **月间直播时长 235 小时 51 分**（hololive ID 第一；全 hololive 第二） |
+| 9月25日 | Comic Frontier 15 Otaku Cosplay Competition 参加 |
+| 10月16日 | YouTube 订阅突破 5 万 |
+| 10月17日 | Rust / 宝可梦 SV 直播 |
+| — | YouTube Partner Day 获「**最多 Super Chat 收入频道**」奖（hololive ID 代表） |
 
 ### 2023年
-- **8月15日** — hololive Indonesia 3rd Generation新服装展示（New Outfit Showcase）
-- **10月** — holoID 3期生 3D Showcase 确定消息发布
-- YouTube频道订阅数持续快速增长，以其独特的耐力直播风格闻名
+| 日期 | 事件 |
+|------|------|
+| 1月4日 | Minecraft / HoloCure 直播 |
+| 2月11日 | holoID「hi:BANA」活动参加 |
+| 3月1日 | Minecraft 合辑直播（18 小时 22 分） |
+| 3月19日 | hololive SUPER EXPO 2023 自由谈话环节「KOTOBA QUEST」参加 |
+| **3月26日** | **出道一周年纪念直播** |
+| 3月28日 | 「holoh3ro」一周年纪念「诞生日会」 |
+| 4月7日 | YouTube 订阅突破 6 万 |
+| 5月9日 | hololive Indonesia 3rd Anniversary Café 参加 |
+| 8月10日 | 宝可梦 SV「最强喷火龙」讨伐活动参加 |
+| 10月21日 | 原创曲「**Backseat**」Premiere |
+| — | **The Vtuber Awards 2023 最佳 Minecraft VTuber 获奖** |
+| — | **就任 holo Indie 应援大使** |
 
 ### 2024年
-- 参与多场 hololive 大型演唱会（如 hololive 5th fes. Capture the Moment 等）
-- 发行多首原创单曲
-- **8月** — 参与 "Gebyar hololive Indonesia" 3D直播活动
+| 日期 | 事件 |
+|------|------|
+| 3月16日 | hololive 5th fes. Capture the Moment DAY1 Stage2 出演 |
+| 3月28日 | 原创曲「**save our hearts**」Premiere（holoID 3期生曲） |
+| 7月2日 | 原创曲「**HI:STREET TIME**」Premiere |
+| **7月13日** | **Japan Expo Paris 2024** 出演（与 Vestia Zeta、Kobo Kanaeru 同行） |
+| 8月18日 | 原创曲「**Senandung Jiwa**」Premiere |
+| **8月30日** | **生日** — 约 20 名 hololive 成员聚集为她庆祝生日，含蛋糕与惊喜策划 |
+| 12月1日 | **holo Indie** 官方账号管理就任（@holoindie_ccmc） |
+| — | The Vtuber Awards 2024 Gamer Of The Year 提名 |
+| — | 与 Kay Yu 合作发布《**Kaelaverse: Pemascape**》 |
 
 ### 2025年
-- **3月8日** — hololive SUPER EXPO 2025 & hololive 6th fes. 活动相关
-- **3月19日** — 官方公布 Kaela 将于近期公开新设计（New Design）
-- **11月15日** — hololive Indonesia 5th Anniversary LIVE "Chromatic Future"（首次线下演唱会）
+| 日期 | 事件 |
+|------|------|
+| 3月8日 | hololive 6th fes. Color Rise Harmony hololive STAGE1 出演 |
+| **3月26日** | **出道三周年 / REDEBUT STREAM**「I'M POSSIBLE!! KAELLO~ TO THE FORGE NOW! 🔨 #Ka3volution」— 2D 模型全面更新、GACHAN 吉祥物登场、新开场白「Kaello~」 |
+| 4月7日 | 原创曲「**Juara Khatulistiwa**」Premiere（ID 5 周年纪念曲） |
+| 8月30日 | 生日 — 与 hololive 成员联动庆祝 + holo Indie 发布「Kaelaverse: Pemascape」更新 |
+| 8月31日 | 原创曲「**dahlah.**」Premiere |
+| 11月9日 | 原创曲「**Show Them (Who You Are)**」Premiere |
+| **11月15日** | **hololive Indonesia 5th Anniversary LIVE「Chromatic Future」**（首次线下演唱会，出演） |
+| 12月3日 | holo Indie 独立管理 / 账号移交完成（@holoindie_ccmc） |
+
+### 家庭信息（来源：seesaawiki + Fandom Wiki）
+- **与父母同住**
+- **有一名姐姐**
+- **父亲生日**：3 月 18 日
+- **母亲**：典型的操心型母亲，会在 Kaela 长时间直播时为她准备便当
 
 ### 2026年
-- **7月** — 当前时间点，出道满4周年，持续活跃
+| 日期 | 事件 |
+|------|------|
+| 3月8日 | hololive 7th fes. Ridin' on Dreams DAY3 hololive STAGE4 出演 |
+| **3月26日** | **出道四周年纪念 / 新衣装披露** |
+| **3月27日** | **3D Redebut Live「#3DJAVU: Déjà vu — it's all coming back to me now」**— 3D 模型更新 / 新曲披露 / 新环节 |
+| 6月9日 | PEMALOE Day 2026（Ckia 人格登场） |
+| **7月** | 当前时间点，出道满 4 周年，持续活跃 |
 
 ---
 
@@ -103,8 +177,11 @@
 - 参与过 hololive Indonesia 各类大型企划
 
 ### 其他趣事
-- （以下部分因数据源限制未完整获取：具体直播中的搞笑时刻、与其他成员的深入互动故事、健康或生活琐事分享等）
-- 建议进一步关注的资料来源：YouTube 直播存档、Hololive 粉丝 wiki（当前域名已失效）、Reddit r/Hololive 社区讨论
+- **房间墙壁为淡紫色（lilac）**
+- **电视已坏了五年**未修理 — 体现她只关注游戏不管生活琐事的性格
+- **现实中有认识的人笑声也是无声的** — Kaela 自己的无声笑并非刻意
+- 曾差一点以个人势VTuber身份出道，收到hololive合格邮件后才取消 — 至今保留当时准备的素材作为自我激励
+- **YouTube 频道创建于 2022 年 1 月 27 日**（早于正式出道约 2 个月），出道直播截至 2023 年初已累计 **58.8 万+ 观看**
 
 ---
 

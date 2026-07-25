@@ -1,6 +1,6 @@
 # Mococo Abyssgard（FUWAMOCO）— 軼事、迷因與精彩片段研究報告
 
-> 研究日期：2026-06-21
+> 研究日期：2026-07-25
 > 注意：Mococo 與其雙胞胎姐姐 Fuwawa 以組合「FUWAMOCO」活動，以下內容涵蓋個人與組合層面。
 
 ---
@@ -85,6 +85,11 @@
 | 2024年 | 獲得 The Vtuber Awards 2024「年度 VTuber」 |
 | 2025年1月11日 | Fuwawa 在猜拳錦標賽中獲勝，贏得 100 萬日圓獎金 |
 | 2025年10月31日 | Ducky 聯名限量版鍵盤發售（2 周年紀念） |
+| 2025年2月 | 舉辦生日 LIVE，邀請多位 hololive 成員作為嘉賓 |
+| 2026年1月 | 發布原創曲《Breakout》 |
+| 2026年2月2日 | Mococo 舉辦 3D 生日 LIVE |
+| 2026年3月20日 | Fuwawa 接受手術住院，Mococo 首次 solo 直播 |
+| 2026年4月 | 發布原創曲《Mekurumeku Rendezvous》 |
 | 2026年7月3-4日 | hololive English 4th Concert「Serendipity」預定舉行 |
 
 ---
@@ -142,12 +147,40 @@
 - **身高：** 155 cm
 - **喜歡：** 毯子、地下偶像、黑甘草、可愛的女孩子
 - **不喜歡：** 恐怖事物、高空、辣食、巧克力、偏頭痛、冰冷的腳趾、過敏、轉生系動畫
-- **綽號：** Moco-chan、Mogojyan、Mogogo、Mococœ、The Fuzzy One
+- **綽號：** Moco-chan、Mogojyan、Mogogo、Mococœ、The Fuzzy One、もこじゅあん (Mogojyan)、もごご (Mogogo)、元子 (Moko-chan)、もちもち (Mochimochi)、もふもふ (Mofumofu)
 - **角色定位：** 雙子中的妹妹，性格自發、興奮、調皮，經常捉弄姐姐
+- **語尾特色：** 常帶「え」(eh)音，如「Noeh」「Mococoeh」
+- **⤵︎ 表情符號：** Mococo 經常使用「⤵︎」符號，粉絲也隨之使用此符號與其互動
 
 ---
 
-## 八、資料來源
+## 八、近期重大事件詳情
+
+### 1. Fuwawa 手術與 Mococo 首次 Solo 直播（2026年3月20日）
+- Fuwawa 因健康因素接受手術並住院休養
+- Mococo 首次獨自進行直播，展現獨立作戰能力
+- 粉絲（Ruffians）大量支持與鼓勵
+- **父母（Papa-Puppy, Mama-Puppy）** 曾於直播中被提及，並被認為在觀看直播
+
+### 2. 2025年生日 LIVE 嘉賓
+- 邀請多位 hololive 成員參加，包括同期 Advent 成員
+- 展現 Mococo 在 hololive 社群中的好人緣
+
+### 3. TV 動畫合作 — 《FAILED PRINCESS》ED 主題曲
+- FUWAMOCO 演唱《FAILED PRINCESS》片尾主題曲
+- 首次挑戰電視動畫主題曲合作
+
+### 4. 電視出演 — テレビ東京《しおこうじのおと》
+- FUWAMOCO 出演テレビ東京節目《しおこうじのおと》
+- 為 hololive 成員跨足傳統電視媒體的重要里程碑
+
+### 5. CP 名稱
+- **FUWAMOCALLI**：Mococo（FUWAMOCO）× Koseki Bijou，兩人有多次可愛互動
+- **Diamond Dogs**：Mococo × Moona Hoshinova，跨期合作組合
+
+---
+
+## 九、資料來源
 
 - hololive 官方網站：https://hololive.hololivepro.com/en/talents/mococo-abyssgard/
 - Hololive Fan Wiki：https://hololive.wiki/wiki/FUWAMOCO
@@ -155,3 +188,5 @@
 - FUWAMOCO Twitter（X）：https://twitter.com/fuwamoco_en
 - 官方新聞（Ducky 聯名鍵盤）：https://hololive.hololivepro.com/en/news/20251031-01-167/
 - hololive English 4th Concert：https://serendipity.hololivepro.com/
+- [Seesaawiki.jp - FUWAMOCO](https://seesaawiki.jp/hololivetv/d/FUWAMOCO)
+- [Hololivevtuber Fandom - Mococo Abyssgard](https://hololivevtuber.fandom.com/wiki/Mococo_Abyssgard)

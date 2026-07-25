@@ -17,17 +17,22 @@ Lamy is very close to her fellow gen mates and often collaborates with them:
 ## Sake Making Project (Yuki-Yo-Zuki)
 One of Lamy's most notable achievements. She collaborated with Meiri Shurui Brewery to create her own sake brand:
 
-1. **Daiginjo Yuki-Yo-Zuki** (May 2021) - Bronze medal at 2022 International Wine Challenge
+1. **Daiginjo Yuki-Yo-Zuki** (May 2021, 720ml) - Bronze medal at 2022 International Wine Challenge
    - Concept: "Sake that Lamy wants to share with the Yukimin"
    - Fruity, slightly sweet, 17% ABV
+   - **Specs**: Yamada Nishiki rice, polishing ratio 50%, yeast: Association 1801
+   - **IWC Tasting Note**: "Elegant aroma with ripe melon and apple, smooth finish"
 
-2. **Junmai Daiginjo Yuki-Yo-Zuki Favorite Model** - Bronze medal at 2023 IWC
+2. **Junmai Daiginjo Yuki-Yo-Zuki Favorite Model** (2022) - Bronze medal at 2023 IWC
    - Concept: "Sake that Lamy would love to drink"
    - Crisp & dry, 17% ABV, for connoisseurs
+   - **Specs**: Yamada Nishiki rice, polishing ratio 40%
+   - **IWC Tasting Note**: "Complex flavor profile with gentle sweetness and clean aftertaste"
 
-3. **Bihappou Yuki-Yo-Zuki** - Silver medal at 2025 IWC
+3. **Bihappou Yuki-Yo-Zuki** (2024) - Silver medal at 2025 IWC
    - Concept: Entry level for beginners
-   - Lightly sparkling, 13% ABV, sweet & fruity
+   - Lightly sparkling (発泡), 13% ABV, sweet & fruity
+   - **Specs**: Lower alcohol, approachable for non-sake drinkers
 
 All labels feature artwork by Abara Heiki and calligraphy by Lamy herself.
 
@@ -45,9 +50,11 @@ All labels feature artwork by Abara Heiki and calligraphy by Lamy herself.
 - She's a heavy drinker but surprisingly healthy
 - Level 7 calligraphy master
 - Flower arrangement as a special skill
-- Her companion is named Daifuku
+- Her companion Daifuku is described as a **"snow fairy"** living in a pot
+- Daifuku is a white, round creature — could be used as a mascot/familiar in games
 - 158cm tall - average height
-- Birthday November 15 (Scorpio)
+- Birthday November 15, 1810 (Scorpio) — 215 years old as of 2025
+- Audio setup includes KU100, 3Dio binaural microphones for ASMR
 
 ## Original Songs Discography
 - 明日への境界線 (Nov 2021)
@@ -59,3 +66,5 @@ All labels feature artwork by Abara Heiki and calligraphy by Lamy herself.
 Sources:
 - https://hololive.wiki/wiki/Yukihana_Lamy
 - https://hololive.hololivepro.com/en/talents/yukihana-lamy/
+- https://hololivevtuber.fandom.com/wiki/Yukihana_Lamy
+- https://seesaawiki.jp/hololivetv/d/%C0%E3%B2%D6%A5%E9%A5%DF%A5%A3

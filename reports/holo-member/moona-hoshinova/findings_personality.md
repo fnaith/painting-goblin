@@ -18,7 +18,8 @@ Moona Hoshinova is a VTuber from **hololive Indonesia 1st Generation**, debuting
 - **Fast learner:** Picks up new games quickly; often goes quiet mid-stream to focus on gameplay.
 - **Detail-oriented:** Takes time to ensure things are exactly as she wants them.
 - **Random & humorous:** Known for dad jokes, memes on Twitter, and spontaneous behavior. Her laugh is frequently described as sounding like a dolphin.
-- **Large appetite:** Frequently eats snacks on stream; cheeseburgers are a particular favorite.
+- **Large appetite:** Frequently eats snacks on stream; cheeseburgers, cheesecake, pasta, spaghetti, and carbonara are noted favorites.
+- **Dislikes:** Tomato.
 - **Self-described:** "I love music! So I'm usually humming in my stream. Singing in random lyrics is my favorite thing!"
 
 ---
@@ -79,6 +80,7 @@ Moona Hoshinova is a VTuber from **hololive Indonesia 1st Generation**, debuting
 - https://hololive.wiki/wiki/Moona_Hoshinova — Hololive Fan Wiki (comprehensive)
 - https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg — Official YouTube channel
 - https://twitter.com/moonahoshinova — Official Twitter/X
+- https://seesaawiki.jp/hololivetv/d/Moona%20Hoshinova — Japanese fan wiki (detailed profile data)
 
 ---
 

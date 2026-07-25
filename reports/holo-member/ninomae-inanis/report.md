@@ -1,7 +1,7 @@
 # Ninomae Ina'nis（一伊那尓栖）綜合研究報告
 ## 用於同人遊戲角色設定的完整資料彙整
 
-> 資料整理日期：2026-06-21 | 使用來源：Hololive官網、Wikipedia、Fandom Wiki、Crunchyroll採訪、Siliconera、Anime Trending
+> 資料整理日期：2026-06-21 | 使用來源：Hololive官網、Wikipedia、Fandom Wiki、Crunchyroll採訪、Siliconera、Anime Trending、seesaawiki.jp、hololive.wiki、hololivevtuber.fandom.com
 
 ---
 
@@ -19,11 +19,13 @@
 | **3D模型** | Rei Amagai（2023年2月公開） |
 | **粉絲名稱** | Takodachi / Takos（タコダチ = tako章魚 + tomodachi朋友） |
 | **官方粉絲群稱** | Tentacult（觸手邪教） |
-| **語言** | 英語、日語、韓語（三語流利） |
+| **語言** | 英語、日語、韓語（三語流利），亦會法語 |
+| **國籍** | 加拿大（韓裔） |
 | **職業** | VTuber / 專業插畫師 |
 | **YouTube訂閱** | 165萬（截至2026年5月） |
 | **總播放量** | 1.93億 |
 | **Oshi Mark** | 🐙 |
+| **名字含義** | 「Ninomae」=「二之前」（一の前），「Inanis」拉丁語意為「虛無／空」，致敬《O Fortuna》與FF VII《One-Winged Angel》|
 
 ---
 
@@ -77,9 +79,14 @@ Myth 全員五人，設定上 Gura（鯊魚/亞特蘭蒂斯）、Kiara（不死�
 ### 3.3 小習慣與特質
 - 玩恐怖遊戲時會抱著粉色兔子布偶 **Burrito** 壯膽
 - 直播恐怖遊戲時聲線變高，和平時的冷靜形成反差萌
-- 固定直播時間稱爲 **Takotime**
+- 固定直播時間稱爲 **Takotime**（太平洋時間14:00 / JST 06:00）
 - 聊天室違規時會說要用AO-chan或鐵撬「bonk」觀眾（結果粉絲反而享受被bonk）
 - 直播結束時粉絲會發送 `= w=)7`（敬禮章魚顏文字）
+- **口癖**：經常發出「humu」的聲音，已成為訂閱者專用表情（hapa-inahumu）
+- **討厭事物**：青瓜、蟲子、無聊
+- **人生目標**：畫遍所有Hololive成員、提升日語和歌唱能力、征服世界
+- **Reddit版主**：是 r/Hololive 的版主之一
+- **家庭成員**：Nini（祖母）、Mama（母親，會看她的直播）、Papa（父親，身材高大）、Nana（妹妹，會一些日語）
 
 ---
 
@@ -170,10 +177,11 @@ Ina 很適合以下遊戲角色類型：
 
 ### 角色關係網（遊戲劇情可用）
 - Ina ↔ Kiara：TakoTori搭檔，最佳合作夥伴
-- Ina ↔ Calliope：音樂創作夥伴
+- Ina ↔ Calliope：音樂創作夥伴；Ina曾爲Calliope出道EP《DEAD BEATS》繪製封面
 - Ina ↔ Amelia：被調查的祭司 vs 偵探
 - Ina ↔ Gura：同爲Umisea海洋組
 - Ina ↔ Takodachis：祭司與信徒的關係（但實際上是互相寵愛）
+- Ina ↔ holoMyth：在TRPG《Hunter Myth: Myth Breakers》中飾演角色 **Yuul B. Alwright**
 
 ---
 
@@ -181,12 +189,14 @@ Ina 很適合以下遊戲角色類型：
 
 1. Hololive官方 - https://hololive.hololivepro.com/en/talents/ninomae-inanis/
 2. Wikipedia - https://en.wikipedia.org/wiki/Ninomae_Ina%27nis
-3. Fandom Wiki - https://virtualyoutuber.fandom.com/wiki/Ninomae_Ina'nis
+3. Fandom Wiki (VTuber) - https://virtualyoutuber.fandom.com/wiki/Ninomae_Ina'nis
 4. Hololive Fan Wiki - https://hololive.wiki/wiki/Ninomae_Ina%27nis
 5. Crunchyroll訪談 (2022) - Clemons, Jared. "Ninomae Ina'nis Discusses Becoming a Meme, Puns, and How It Feels to Be in Hololive"
 6. Anime Trending - Takodachi時代廣場報導 (2024)
 7. Siliconera - Ina訪談 (2026)：EP與演唱會
 8. Anime Trending - "Why They Can't See She's Just A Normal Girl" (2026)
+9. seesaawiki.jp - Hololive非官方Wiki（日本）：https://seesaawiki.jp/hololivetv/d/Ninomae%20Ina%27nis
+10. hololivevtuber.fandom.com - Hololive Fandom Wiki：https://hololivevtuber.fandom.com/wiki/Ninomae_Ina%27nis
 
 ---
 

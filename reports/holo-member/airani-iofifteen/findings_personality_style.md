@@ -28,8 +28,9 @@ Iofi 的直播內容非常多元：
 
 - **繪圖直播**（招牌內容）: 經常進行繪畫直播，邊畫畫邊與粉絲聊天。她本人就是一位才華橫溢的畫師，甚至自己設計過服裝
 - **遊戲直播**:
-  - 最愛**抽卡遊戲（Gacha）**: 自稱「無Gacha不生活」，玩過地球上幾乎所有抽卡遊戲
-  - **節奏遊戲**: 極度熱愛，會為了一首歌曲的Full Combo反覆挑戰
+  - 最愛**抽卡遊戲（Gacha）**: 自稱「無Gacha不生活」，玩過地球上幾乎所有抽卡遊戲，喜歡 Arknights、THE iDOLM@STER 等
+  - **節奏遊戲**: 極度熱愛，會為了一首歌曲的Full Combo反覆挑戰，喜歡 BanG Dream!（最喜歡的樂團是 Roselia，最喜歡的成員是湊友希那）、osu!
+  - **其他喜愛遊戲**: Monster Hunter、Stardew Valley、視覺小說
   - 不擅長FPS遊戲和Minecraft
 - **卡拉OK/歌唱直播**: 時不時會開歌唱直播，包含無伴奏清唱
 - **雜談直播（Free Talk）**: 非常喜歡自由聊天，經常與觀眾討論各種話題
@@ -47,6 +48,8 @@ Iofi 是**多語言使用者**，能夠理解和使用的語言包括：
 5. **韓語**
 6. **「外星語」**（Alienish，角色設定語言）
 
+她通過**動畫、遊戲和日劇自學日語和英語**（最喜歡的方式是同時開日語動畫配英語字幕），能夠書寫平假名和片假名，仍在學習漢字。
+
 她學習多種語言的原因是「因為有趣而且很無聊」。她經常在直播中自由切換多種語言。
 
 ## 4. 與粉絲互動風格
@@ -63,6 +66,7 @@ Iofi 是**多語言使用者**，能夠理解和使用的語言包括：
 
 - **聲線**: 偏高、甜美、有活力的少女聲線
 - **特點**: 有**R音發音困難（Rhotacism）**，即無法或不擅長發出R音，這成為她的一個可愛特徵
+- **健康**: 曾患有**扁桃體炎（tonsillitis）**，對手術持保留態度
 - 說話語氣活潑多變，能根據場景在可愛、溫柔、撩人之間切換
 
 ## 6. 直播習慣與時間
@@ -75,9 +79,10 @@ Iofi 是**多語言使用者**，能夠理解和使用的語言包括：
 ## 7. 常規節目/系列
 
 - **Area 15**: 與同期的 Moona Hoshinova 和 Ayunda Risu 每月定期聯動，Iofi 在其中扮演 Moona 的「丈夫」和 Risu 的「爸爸」
-- **IoSoRadio**: 與**時乃空（Tokino Sora）**每月在「Otaku Talk」頻道共同主持的節目（Iofi 稱 Sora 為「Sora-neesan」）
+- **IoSoRadio**: 與**時乃空（Tokino Sora）**每月在「Otaku Talk」頻道共同主持的節目（Iofi 稱 Sora 為「Sora-neesan」——她曾徵求 Sora 的同意能否叫「Nee-san」，獲得了許可。Iofi 還親自設計了 IoSoRadio 的標誌）
 - **Kira Kira Family**: 與 Risu、Aragami Oga、Arurandeisu 的聯動組合
 - **HoloFOI**: 與 Shirakami Fubuki 和 Oga 的聯動組合
+- **UniDemons**: 與 Aragami Oga 和 Deep Blizzard Miyuki 的聯動組合
 - 她經常與**Pochimaru**（另一位知名繪師兼Vtuber）聯動，因為兩人關係親密，被 Pavolia Reine 稱為「tante Iofi（Iofi阿姨）」
 - 她也與**Ninomae Ina'nis**（hololive EN）、**Tsunomaki Watame** 等有頻繁的一對一聯動
 - 曾擔任不同Vtuber之間的「橋樑」，幫助她們建立聯繫（如 Usada Pekora 和 Moona）
@@ -85,6 +90,8 @@ Iofi 是**多語言使用者**，能夠理解和使用的語言包括：
 ## 8. 其他趣聞
 
 - **繪畫才華**: 她不僅是Vtuber，還是一位出色的插畫師，自己設計過直播服裝
+- **在家自學背景**: Iofi 小時候在家自學（homeschool），姐姐是她唯一的好朋友，成為 VTuber 是為了交更多朋友
+- **名字拼寫**: 偏好將名字完全小寫：**"iofi"**
 - 喜歡的話題: 美容護膚、聲優、抽卡遊戲、動畫（最愛《One Piece》）
 - 喜歡的唱見（Utaite）: 96NEKO
 - 與Pochimaru的友誼源於她對R-18繪師的了解，這也是「Erofi」綽號的由來之一

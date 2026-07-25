@@ -7,9 +7,10 @@
 - **Unit**: hololive English -Promise- (merged Council + Project: Hope)
 - **Role**: VSinger (singing-focused VTuber)
 - **Designer/Illustrator**: redjuice
-- **Birthday**: March 7
-- **Height**: 162 cm
+- **Birthday**: March 7 (disputed: some sources list March 6)
+- **Height**: 162 cm (166 cm with heels)
 - **Fan Name**: **IRyStocrats**
+- **Vocal Training**: 99% self-taught singer; no formal voice training at debut
 
 **Sources:**
 - https://hololive.hololivepro.com/en/talents/irys/
@@ -26,6 +27,18 @@ IRyS's official introduction is: *"HiRyS, it's IRyS! Your seiso nephilim here to
 - **"Seiso"** (清楚) means pure/innocent — this is her marketed image.
 - **Nephilim** — half-angel, half-demon — used as an in-universe explanation for her chaotic duality.
 - **"Hopium"** — a portmanteau of "hope" and "opium"; her fans jokingly describe her content as addictive doses of hope.
+- **Greeting patterns:** Streamer greets with "HiRyS, it's IRyS!", viewer chats use "HIRyS!" while waiting for stream to start. Farewell patterns: "ByeRyS, buh-byeRyS!" (streamer), "ByeRyS!" (viewer).
+
+### Self-Taught Artist
+
+- IRyS is approximately **99% self-taught** as a singer. She has cited listening to **YOASOBI**, **Ado**, and **Eve** as inspiration for learning to sing by ear.
+- Despite her lack of formal training, she is known for powerful, controlled vocals with strong breath support and projection.
+- Her speaking voice is soft and high-pitched (often compared to Yukihana Lamy), while her singing voice is deeper, more powerful, and resonant (compared to Tokoyami Towa).
+
+### Introvert Personality
+
+- IRyS describes herself as an introvert who feels shy when meeting new people, despite her extroverted on-stream persona.
+- This shyness contrasts with her chaotic streaming behavior and makes her off-stream interactions more reserved.
 
 ### Chaos Gremlin Tendencies
 
@@ -44,6 +57,27 @@ Despite the "seiso" label, IRyS is widely recognized in the community for:
 - This bilingual ability is a core part of her appeal as a "VSinger" bridging EN and JP audiences.
 
 ---
+
+### Personal Preferences
+
+| Category | Preference |
+|----------|-----------|
+| **Food** | Likes good spaghetti with meatballs; prefers instant ramen over cereal (considers cereal "not a real meal") |
+| **Tofu** | Enjoys tofu |
+| **Cheese** | Likes cheese |
+| **Celery** | Strongly dislikes celery |
+| **Pineapple Pizza** | Neutral — does not have strong feelings either way |
+| **Season** | Favorite season is Spring (represents the theme of Hope) |
+| **Morning Person** | No — not a morning person |
+| **Rain** | Likes the sound of rain; dislikes going out in the rain |
+| **Swimming** | Cannot swim; prefers hot springs |
+| **Heights** | Afraid of heights — despite having wings, she prefers to walk |
+| **Santa** | Dislikes Santa; as a half-demon, Santa never visited her — she forgets she is also half-angel |
+| **Ceiling Fans** | Dislikes ceiling fans; cites *Final Destination* as the reason |
+| **Bugs** | Dislikes bugs |
+| **Math** | Dislikes math |
+| **Anime/Manga** | Evangelion, Bakuman, Death Note, Angel Beats!, Kaguya-Sama, The Promised Neverland, Gundam SEED Destiny; enjoys romance comedies and shojo manga |
+| **Favorite Music** | UNISON SQUARE GARDEN, Frederic, YOASOBI, Yorushika |
 
 ## Streaming Content
 
@@ -78,6 +112,9 @@ Despite the "seiso" label, IRyS is widely recognized in the community for:
 | Phrase/Quirk | Context |
 |---|---|
 | "HiRyS, it's IRyS!" | Standard stream greeting / catchphrase |
+| "HIRyS!" | Viewer-side greeting used in chat while waiting for stream to start |
+| "ByeRyS, buh-byeRyS!" | Streamer farewell |
+| "ByeRyS!" | Viewer-side farewell in chat |
 | "Your seiso nephilim" | Self-introduction |
 | "Hopium" | Her brand of content — hopeful entertainment |
 | "Yabai" (やばい) | Exclamation during chaotic/unexpected moments |

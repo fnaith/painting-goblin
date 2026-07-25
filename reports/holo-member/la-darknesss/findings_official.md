@@ -42,8 +42,10 @@ La+ Darknesss 是秘密結社 holoX 的创立者/总帅。原本拥有巨大的�
 
 - **YouTube**: https://www.youtube.com/@LaplusDarknesss
 - **Twitter (X)**: https://twitter.com/LaplusDarknesss
+- **Twitter 子帳號 (sub)**: https://twitter.com/wagahaida_l（@wagahaida_l）
 - **Twitch**: https://www.twitch.tv/laplusdarknesss_hololive
 - **TikTok**: https://www.tiktok.com/@laplusdarknesss_hololive
+- **TwitCasting**: https://twitcasting.tv/laplusdarknesss
 
 ---
 
@@ -87,4 +89,5 @@ La+ Darknesss 是秘密結社 holoX 的创立者/总帅。原本拥有巨大的�
 
 - hololive 官方网站: https://hololive.hololivepro.com/en/talents/la-darknesss/
 - Virtual YouTuber Wiki: https://virtualyoutuber.fandom.com/wiki/La%2B_Darknesss
+- Hololive Fan Wiki: https://hololive.wiki/wiki/La%2B_Darknesss
 - Social Blade (YouTube 统计数据): https://www.socialblade.com/youtube/channel/UCENwRMx5Yh42zWpzURebzTw

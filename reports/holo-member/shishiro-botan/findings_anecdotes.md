@@ -103,12 +103,17 @@
 
 ### 13. 俄羅斯粉絲稱號
 - 被俄羅斯粉絲稱為「императрица Ботан」（Empress Botan，博坦女皇）。
+- 推測因其運動服造型類似俄羅斯 gopnik 文化中的 Adidas 運動套裝，因而吸引大量俄羅斯粉絲。
+
+### 14. 雨女（Rain Girl / Ameonna）
+- 在 Minecraft 實況中經常招來雨天，被粉絲戲稱為「雨女」。
 
 ---
 
 ## 五、合作與特殊事件
 
 - Red Bull Virtual Ambassador（2021年6月）
+- **Kiara PC 搬运**：协助 Takanashi Kiara 搬迁时拆卸并重装电脑，特别叮嘱「保护好 GPU」（2021年）
 - 富士急ハイランド合作（2021年9-10月）：合作裝飾、廣播、食品、集章
 - REALFORCE聯名鍵盤（2024年9月TGS）
 - No More Heroes 3 官方直播（2021年）

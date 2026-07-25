@@ -9,6 +9,7 @@
 | **出道日期** | 2020年8月14日（YouTube首播） |
 | **生日** | 9月8日 |
 | **身高** | 166 cm |
+| **血型** | A 型 |
 | **角色设计/插画师** | tomari（トマリ）[@ttomarii](https://twitter.com/ttomarii) |
 | **Live2D建模** | 入江燈 [@tou_ilie](https://twitter.com/tou_ilie) |
 | **3D建模** | Yatsurugi |
@@ -16,6 +17,9 @@
 | **推しマーク** | ♌（狮子座） |
 | **YouTube频道** | [UCUKD-uaobj9jiqB-VXt71mA](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA) |
 | **Twitter/X** | [@shishirobotan](https://twitter.com/shishirobotan) |
+| **Twitch** | [shishirobotan_hololive](https://www.twitch.tv/shishirobotan_hololive) |
+| **Bilibili** | [狮白牡丹Official](https://space.bilibili.com/664150) |
+| **Reddit** | [u/shishirobotaaaaan](https://www.reddit.com/user/shishirobotaaaaan) |
 
 ---
 
@@ -44,6 +48,9 @@
 - ぼたん（Botan）
 - ししろん（Shishiron）
 - **SSRB**（官方粉丝名）
+- **Adidas Lion（アディダスライオン）** — 因運動服造型類似 Adidas 風格
+- **Apex Predator（エペックストップ）** — FPS 頂尖實力的稱號
+- **Botan Mama（ぼたんママ）** — 可靠照顧他人的形象
 
 ### 标签系统
 | 用途 | 标签 |
@@ -66,12 +73,15 @@
 - **最喜欢的食物**: 肉！（※仅限可以复活再生的动物）
 - **自信点**: 对观众的压迫力
 - **未来目标**: 频道订阅100万人
+- **饮食限制**: 因健康因素无法饮酒；无法吃辛辣食物
 
 ### 兴趣与特技
-- **兴趣**: 游戏
+- **兴趣**: 游戏、阅读漫画
 - **喜欢的**: 靶场打靶、橙汁、观众们
+- **喜欢的漫画**: 《寄生獸》（Parasyte）、《難波金融道》（Naniwa Kin'yūdō）、《火影忍者》（Naruto）
 - **特技**: 能自己组装电脑、把自己制作的交通工具（强行）载上观众
 - **擅长的直播**: 游戏实况（尤其FPS类）
+- **不擅长的游戏**: 格斗游戏、赛车游戏
 
 ### 专属梗/词汇
 | 词汇 | 说明 |

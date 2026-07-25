@@ -232,7 +232,71 @@ Red (primary), yellow, and pink.
 
 ---
 
-## 13. Game Character Design Notes (Summary for Implementation)
+## 13. New Findings from Supplementary Sources
+
+### Family Members (from hololivevtuber.fandom.com Q&A)
+
+| Member | Name | Relationship | Notes |
+|--------|------|-------------|-------|
+| **Illo** | Illo (イロ) | Older brother | Died at age 10 due to illness |
+| **Ollo** | Ollo (オロ) | Younger brother | Alive, still a human |
+| **Ellie** | Ellie (エリ) | Younger sister | Alive, still a human |
+| **Mama Lily** | — | Mother | A living human. Gave Ollie the nickname "Kureiji" |
+
+- Ollie's family are all normal humans (not zombies), except Illo who passed away.
+- Ollie's human form (when alive) also had heterochromia (different colored eyes).
+
+### Additional Trivia
+
+| Fact | Detail |
+|------|--------|
+| **Deaths** | Has died at least twice (zombie lore — resurrected more than once) |
+| **Eyes (alive)** | Both eyes were already different colors when she was alive |
+| **Spicy food** | Cannot handle spicy food well but enjoys the burning sensation |
+| **Birthday significance** | October 13 coincides with **World Zombie Day** |
+| **CDawgVA** | Ollie is a fan of CDawgVA; called him "Papa" during interactions |
+| **Visual Novel** | "Days With Ollie" — official visual novel released on Steam on April 22, 2024 |
+| **DECO*27 collaboration** | Ollie was featured in the chorus of DECO*27's song **"Zombie"** (2022) |
+| **Chess tournament** | Participated in Hololive Chess Tournament Arc 2 |
+
+### Updated Milestones (from hololive.wiki & seesaawiki)
+
+| Milestone | Date |
+|-----------|------|
+| 1,000,000 YouTube subscribers | March 24, 2022 |
+| 1,400,000 YouTube subscribers | January 18, 2024 |
+| 1,500,000 YouTube subscribers | December 2, 2024 |
+| 1,600,000 YouTube subscribers | March 17, 2026 |
+| 1,000,000 Twitter/X followers | January 5, 2025 |
+| First Twitch stream | November 12, 2025 |
+| Holoplus ambassador | July 1, 2025 |
+
+### Additional Original Songs (from hololive.wiki)
+
+| Song | Release Date |
+|------|-------------|
+| **HI:STREET TIME** | September 3, 2023 |
+| **Slap by Step** (HoloID Gen2 group song) | December 28, 2023 |
+| **Senandung Jiwa** (holoID group song) | August 28, 2024 |
+| **HISTORY** | October 13, 2024 (MV: December 4, 2024) |
+| **Juara Khatulistiwa** | April 27, 2025 |
+| **LIVE IT LOUD!** | June 25, 2025 |
+| **Show Them (Who You Are)** | October 13, 2025 |
+| **Kureiji for you** | December 4, 2025 |
+
+### Cover Songs (selected, from hololive.wiki)
+
+| Song | Original Artist | Date |
+|------|----------------|------|
+| **King** | Kanaria | 2021 |
+| **Dah!** | Didi Kempot (with Pavolia Reine) | 2021 |
+| **Villain** | — | 2022 |
+| **KICK BACK** | Ken Yamamoto (Chainsaw Man OP) | 2023 |
+| **Koi wa Ameagari no You ni** | — | 2023 |
+
+---
+
+## 14. Game Character Design Notes (Summary for Implementation)
 
 - **Archetype**: Zombie + Schoolgirl + Idol — a chaotic, high-energy undead idol
 - **Key visual hook**: Sword through the head (can be removed/replaced), mismatched shoes, button eye, stitched skin patches, stitched bear mascot (Udin)

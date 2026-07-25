@@ -4,7 +4,7 @@
 > 研究範圍：官方設定、個人特色、知名梗、相關軼事
 > 適用範圍：同人遊戲角色設定參考
 
-**資料來源：** [Hololive官方](https://hololive.hololivepro.com/en/talents/shiranui-flare/) | [Fan Wiki](https://hololive.wiki/wiki/Shiranui_Flare) | [YouTube](https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg) | [Twitter](https://twitter.com/shiranuiflare)
+**資料來源：** [Hololive官方](https://hololive.hololivepro.com/en/talents/shiranui-flare/) | [Fan Wiki](https://hololive.wiki/wiki/Shiranui_Flare) | [Fandom Wiki](https://hololivevtuber.fandom.com/wiki/Shiranui_Flare) | [Seesaawiki](https://seesaawiki.jp/hololivetv/d/%c9%d4%c3%ce%b2%d0%a5%d5%a5%ec%a5%a2) | [YouTube](https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg) | [Twitter](https://twitter.com/shiranuiflare) | [Twitch](https://www.twitch.tv/shiranuiflare_hololive)
 
 ---
 
@@ -17,6 +17,8 @@
 | **出道日** | 2019年8月7日（YouTube） |
 | **生日** | 4月2日（設定年：1798年，現年221歲） |
 | **身高** | 158 cm |
+| **血型** | B |
+| **品牌色** | #dc3813（紅）、#ff5028／#FE3D1C（橙紅） |
 | **種族** | 半精靈（人類與精靈混血）— *強調不是黑暗精靈* |
 | **繪師** | lack（Twitter: @lalalalack） |
 | **Live2D 模型** | 入江燈 (tou_ilie)、ナナメ (7name_) |
@@ -42,7 +44,11 @@
 | 新年和服 | 2020年1月1日 | 紅白振袖，曾長期作為主要直播服裝 |
 | 便服 | 2020年11月14日 | 水手風休閒洋裝 |
 | 主造型改版 | 2021年12月12日 | 重新設計，保留火焰主題 |
-| 百萬紀念服裝 | 2023年 | 概念由 Saeki Yahiro 設計 |
+| 便服（第二版） | 2023年9月 | 與2020年水手服不同的休閒造型 |
+| 百萬紀念服裝「Luminous」 | 2023年 | 概念由 Saeki Yahiro 設計的3D造型 |
+| 房間服 | 2024年6月 | 居家放鬆造型 |
+| Fantasy 主題服 | 2024年8月 | 三期生「Hololive Fantasy」主題造型 |
+| 祭典2025服裝 | 2025年9月 | 演唱會活動主題造型 |
 
 ---
 
@@ -55,6 +61,9 @@
 - **俏皮一面**—單人直播時即興搞笑和短劇
 - **禮貌周到**—對每個 SuperChat 鞠躬感謝
 - **傲嬌屬性**—與 Noel 互動時尤為明顯
+- **隱藏的可愛面（反差萌）** —恐怖遊戲驚嚇、酒醉後鬆懈的模樣與平常的大姊姊形象形成強烈對比
+- **「後宮」傳說** —其他 Fantasy 成員形容她因溫柔體貼而自然吸引眾多仰慕者
+- **建築品味** —Minecraft 中擅長美觀設計的建築
 
 ### 特殊才能
 - **三種八度音域**—不使用假聲即可達到，極罕見
@@ -105,6 +114,15 @@
 ### 6. Getting Over It 事件
 Noel 耐力直播中，Flare 陪伴並安慰 Noel，展現大姐姐形象。
 
+### 7. 白金對戒（2021年2月）
+Flare 與 Noel 訂製 Platinum 戒指，象徵深厚羈絆，是ノエフレ最具代表性的事件。
+
+### 8. 酒醉直播
+喝酒後變得奔放、滔滔不絕，偶爾會提及他人身體部位，展現與平時完全不同的面貌。
+
+### 9. 恐怖遊戲反差萌
+平常冷靜沉穩，但玩恐怖遊戲時真實的恐懼反應（尖叫、驚嚇）是粉絲最愛的「反差萌」橋段。
+
 ---
 
 ## 六、重要人際關係
@@ -116,6 +134,8 @@ Noel 耐力直播中，Flare 陪伴並安慰 Noel，展現大姐姐形象。
 | **宝鐘マリン (Marine)** | 三期生，多次聯動唱歌與雜談 |
 | **白上フブキ (Fubuki)** | 跨世代好友，Bakatare 成員 |
 | **角巻わため (Watame)** | Bakatare 成員 |
+| **ときのそら (Sora)** | Sora 曾公開讚賞 Flare 的多變聲線與成熟氣場 |
+| **不知火 Homura** | 男性 persona（同繪師 lack 設計），同人 AU 概念
 
 ### 所屬小團體
 - **お姉さん組 (Onee-san Gumi)**：Noel、Marine 組成
@@ -129,7 +149,7 @@ Noel 耐力直播中，Flare 陪伴並安慰 Noel，展現大姐姐形象。
 - 《scrap & build !》（2024年6月）
 
 ### 代表原創曲
-《NAKAMAKA》《Atelier》《SKYSONAR》《Stay Blue》《kakū to hontō》（6周年紀念）《Silent Flame, Never Fade》
+《Zenryoku Jumping》《NAKAMAKA》《Atelier》《SKYSONAR》《Yggdrasil》《Like Marble》《Funfair》《Stay Blue》《angel's ladder》《kakū to hontō》（6周年紀念）《Vivid Stampede!!!!》《Silent Flame, Never Fade》《elf-friend》《Six Roses》《BAKATARATION》
 
 ### 三期生團體曲
 《3tay on, 3tay together》《Ai Ai Ai Ai♡Ai Love You》《REALITY FANTASY》
@@ -161,11 +181,13 @@ Noel 耐力直播中，Flare 陪伴並安慰 Noel，展現大姐姐形象。
 
 ### 可用劇情元素
 - 三期生（Hololive Fantasy）的冒險夥伴關係
-- 與 Noel 的深厚羈絆作為支線劇情
+- 與 Noel 的深厚羈絆作為支線劇情（白金對戒可作為關鍵道具）
 - Elfriend 粉絲支持作為成長動力
 - Kintsuba 作為跟隨寵物
 - 「不是黑暗精靈」作為搞笑對話選項
 - 221歲的年齡設定可融入智慧長者對話
+- 「Homura」男性 persona 可作為隱藏型態或 alter ego
+- 建築設計才能（Minecraft）可作為工匠/建造技能
 
 ### 同人遊戲主題建議
 - RPG／奇幻設定完美契合半精靈起源故事

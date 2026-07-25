@@ -10,11 +10,14 @@
 - **Affiliation:** Hololive English (originally "Project: HOPE"; later folded into **hololive English -Promise-** on October 9, 2023)
 - **Character:** Nephilim (half-angel, half-demon) — the embodiment of hope
 - **Role:** VSinger (first VSinger introduced to Hololive English)
-- **Designer:** redjuice (illustration), rariemonn (original Live2D)
+- **Designer:** redjuice (illustration), rariemonn (original Live2D), Brian Tsui (2022 Winter redesign)
 - **Fan Name:** IRyStocrats
 - **Membership Name:** Nephamily
 - **Emoji:** 💎
 - **Catchphrase:** "HiRyS, it's IRyS!"
+- **Greeting/Farewell Patterns:** Streamer: "HiRyS, it's IRyS!" / "ByeRyS, buh-byeRyS!"; Viewer: "HIRyS!" (waiting)/"ByeRyS!" (leaving)
+- **Eye Color:** Heterochromia (different-colored eyes; one of 5 hololive members with this trait)
+- **Vocal Training:** 99% self-taught singer
 - **Subscriber Milestone:** Reached 1,000,000 YouTube subscribers on March 6, 2024
 
 ---
@@ -33,11 +36,16 @@
 - In January 2022, they co-wrote a Minecraft "fanfiction" titled *"A Night Like Any Other"* where the fictional IRyS suggested playing Monopoly "on the bed," leading to "Monopoly" becoming fan shorthand for sexual innuendo.
 
 ### Model Evolution
-- **November 26, 2022:** Debuted a major 2.0 model redesign with brighter colors, two halos (white + black), smaller horns (because she "behaved well"), and more defined hair.
-- **July 20, 2022:** Debuted "Beeg Smol" 3D chibi models designed by Tsukumo Sana alongside Council members.
-- **March 19, 2023:** Debuted 3D idol costume at Hololive 4th fes. "Our Bright Parade."
-- **August 20, 2023:** Official 3D model debut on her own channel.
-- Multiple additional costumes: New Year kimono (2023), casual third costume (October 2023), school girl fourth costume (January 2024), gothic lolita maid fifth costume (June 2025).
+- **July 11, 2021:** Original 2D model (rariemonn design) — debut outfit
+- **November 26, 2022:** 2.0 model redesign (Brian Tsui) — brighter colors, two halos (white + black), smaller horns (because she "behaved well"), more defined hair
+- **January 14, 2023:** New Year 2023 costume (kimono)
+- **March 18–19, 2023:** 3D idol debut at Hololive 4th fes. "Our Bright Parade" (Day 2)
+- **August 20, 2023:** Official 3D model debut on her own channel (Bright costume; uses iPhone mocopi for live performances; model uses Performer Path for greater flexibility)
+- **October 16, 2023:** Casual third costume
+- **January 31, 2024:** School girl fourth costume (also called "Gamer" outfit)
+- **June 8, 2025:** Fifth costume (gothic lolita maid)
+- **July 20, 2022:** Debuted "Beeg Smol" 3D chibi models designed by Tsukumo Sana alongside Council members
+- **April 27, 2026:** Monster Hunter collaboration 3D outfit
 
 ### The Formation of -Promise- (October 2023)
 - On October 9, 2023, following Tsukumo Sana's graduation, IRyS was formally integrated with the remaining Council members (Ceres Fauna, Ouro Kronii, Nanashi Mumei, Hakos Baelz) to form **hololive English -Promise-**.
@@ -55,7 +63,7 @@
 - **HyperX Collaboration (May 2025):** Custom keycap and headset accessory released.
 - **Los Angeles Dodgers Collaboration (July 2025):** Featured in commercials, merchandise, and a live stream from Dodger Stadium alongside Koseki Bijou and Ninomae Ina'nis.
 - **Vite Ramen "Hopium Soda" (June 2025):** IRyS's in-joke "Hope Soda" became a real product — a yuzu-lemon-melon blend (Hopium Soda) and cherry cola flavor (Hope Soda).
-- **First Solo Concert Announced (March 2026):** Scheduled for October 6, 2026 at SGC Hall Ariake, Tokyo, Japan.
+- **First Solo Concert Announced (March 2026):** IRyS 1st Concert **"HOPE 𝄆 Beyond the Stars"** scheduled for October 6, 2026 at SGC Hall Ariake (Sankaku Hiroba), Tokyo, Japan.
 
 ---
 
@@ -77,8 +85,10 @@
 - **First solo album *DANGERyS*** announced March 2026.
 
 ### Music Style & Vocal Ability
-- Described as having a high-pitched, soft, calm speaking voice contrasting with a powerful, deeper singing tone (often compared to Tokoyami Towa's vocal capability).
+- IRyS is approximately **99% self-taught** as a singer; she learned primarily by listening to artists like YOASOBI, Ado, and Eve.
+- Described as having a high-pitched, soft, calm speaking voice (often compared to Yukihana Lamy) contrasting with a powerful, deeper singing tone (compared to Tokoyami Towa's vocal capability).
 - Known for songs spanning J-pop, rock, and electronic genres.
+- Favorite bands/artists: UNISON SQUARE GARDEN, Frederic, YOASOBI, Yorushika.
 - Part of the **Star Flower** unit alongside Moona Hoshinova, Hoshimachi Suisei, and AZKi.
 
 ---
@@ -131,17 +141,49 @@
 
 ---
 
+## IRyS's Personal Goals (From Debut)
+
+1. Release a full original album
+2. Hold a 3D debut live concert
+3. Sing anime opening/ending themes
+4. Make lots of friends
+5. Collab with every hololive member
+6. Bring hope to the world
+
+## Anime & Media Preferences
+
+IRyS has mentioned enjoying the following anime/manga:
+- **Evangelion** (Neon Genesis Evangelion)
+- **Bakuman**
+- **Death Note**
+- **Angel Beats!**
+- **Kaguya-Sama: Love Is War**
+- **The Promised Neverland**
+- **Gundam SEED Destiny**
+- Romance comedies and shojo manga in general
+
 ## Trivia & Unique Facts
 
 1. **IRyS is the 3rd Hololive EN member ever announced**, debuting between Myth (2020) and Council (August 2021).
 2. Her full canonical name is ███████ Irys (redacted in lore).
 3. Her YouTube and Twitter accounts were both temporarily restricted on debut day due to excessive activity from fans.
-4. Her **height is 162 cm** (166 cm with heels), and her birthday is **March 7** (Pisces).
-5. Her horns shrank in her 2.0 model because she claims she "behaved well."
-6. She took a break in January 2022 due to worsening throat condition and again in December 2022 due to COVID-19.
-7. The term **"Hopium"** (hope + opium) was coined by IRyS and is now a staple of her branding, later used for her real-world soda product.
-8. **Umino Miruku** (an oyster girl) was introduced as IRyS's neighbor on April 1, 2025 as an April Fools joke.
-9. She participated in the **hololive 7th fes. Color Rise Harmony** in March 2025 and is set for the hololive English 4th Concert -Serendipity- in July 2026.
+4. Her **height is 162 cm** (166 cm with heels), and her birthday is **March 7** (Pisces; some sources state March 6).
+5. She has **heterochromia** (different-colored eyes), one of 5 hololive members with this trait (after Marine, Luna, Ollie, Roberu).
+6. Her horns shrank in her 2.0 model because she claims she "behaved well."
+7. She took a break in January 2022 due to worsening throat condition and again in December 2022 due to COVID-19.
+8. The term **"Hopium"** (hope + opium) was coined by IRyS and is now a staple of her branding, later used for her real-world soda product.
+9. **Umino Miruku** (an oyster girl) was introduced as IRyS's neighbor on April 1, 2025 as an April Fools joke.
+10. She participated in the **hololive 7th fes. Color Rise Harmony** in March 2025 and is set for the hololive English 4th Concert -Serendipity- in July 2026.
+11. **Self-taught singer** — she is approximately 99% self-taught, learning by listening to YOASOBI, Ado, and Eve.
+12. **Feat of heights** — despite having wings, she prefers to walk because she is afraid of heights.
+13. **Santa dislike** — as a half-demon, IRyS claims Santa never visited her, forgetting she is also half-angel. This is a running joke.
+14. **Game aliases:** IRySuperGlue (Minecraft), irysocool (Apex Legends), IRySwitch (Mario Kart 8DX), IRYSOPRO (Gartic Phone/Steam).
+15. **First original song "Caesura of Despair"** released alongside her debut — the first Hololive EN member to debut with an original song.
+16. **Monster Hunter collab outfit** (April 27, 2026) — her latest costume, a 3D outfit from the Monster Hunter collaboration.
+17. **Bust size** is A cup (documented in JP community sources).
+18. Her **3D model uses iPhone mocopi** for live performances and is more flexible than standard due to using the Performer Path instead of Simple Path.
+19. **She has an Official Artist Channel** — one of a few hololive members with one.
+20. **Her speaking voice** is compared to Yukihana Lamy (high-pitched, soft), while her singing voice is compared to Tokoyami Towa (powerful, deep).
 
 ---
 

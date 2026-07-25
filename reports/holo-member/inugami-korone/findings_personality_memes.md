@@ -3,6 +3,7 @@
 **Research compiled from:**
 - [Hololive Fan Wiki — Inugami Korone](https://hololive.wiki/wiki/Inugami_Korone)
 - [hololive official website — Inugami Korone](https://hololive.hololivepro.com/en/talents/inugami-korone/)
+- [Hololive Fandom Wiki — Inugami Korone](https://hololivevtuber.fandom.com/wiki/Inugami_Korone) (additional info)
 
 ---
 
@@ -11,7 +12,7 @@
 | Attribute | Details |
 |-----------|---------|
 | **Name** | Inugami Korone (戌神ころね) |
-| **Nicknames** | Koro-san, Korosan |
+| **Nicknames** | Koro-san, Korosan, Koronen, Koroneken |
 | **Debut** | April 13, 2019 (YouTube) |
 | **Unit** | hololive GAMERS |
 | **Illustrator** | Fukahire |
@@ -165,6 +166,7 @@ Member of the GAMERS sub-unit alongside Shirakami Fubuki, Ookami Mio, and Nekoma
 | おつころーん | Otsukoron | Farewell (otsukare + korone) |
 | "Hey Guys!" | — | English greeting for overseas fans at stream end |
 | "'Ello! Fingers!" | — | Her official bio catchphrase |
+| ホラヨ！ | Horayo! | Battle cry used during exciting/intense moments |
 
 ---
 
@@ -178,3 +180,6 @@ Member of the GAMERS sub-unit alongside Shirakami Fubuki, Ookami Mio, and Nekoma
 6. **Original song discography**: Includes *SAIKYO TENSAI WONDERFUL WORLD of KORONE*, *Doggy god's street*, *Wonky Monkey*, *TROUBLE "WAN"DER!*, and *Mafiosa*.
 7. **2 million subscribers**: Achieved on June 28, 2023.
 8. **Kusoge lover**: She loves "kuso-ge" (trash games) and "baka-ge" (stupid games), finding them endearing rather than frustrating.
+9. **Battle cry "Horayo!"**: Shouts "Horayo!" (ホラヨ！) during exciting or intense moments on stream.
+10. **Fear of bugs**: Afraid of insects, especially centipedes and mosquitoes.
+11. **Horror movie fan**: Enjoys horror films including *Human Centipede* and *Saw*.

@@ -1,6 +1,6 @@
 # 一條莉々華（Ichijou Ririka）知名剪輯、迷因與軼事報告
 
-> 本報告整理自官方資料、Hololive Fan Wiki 及社群觀察，用於同人遊戲設計參考。
+> 本報告整理自官方資料、Hololive Fan Wiki、seesaawiki.jp及社群觀察，用於同人遊戲設計參考。
 
 ---
 
@@ -24,6 +24,11 @@
 - Hololive Fan Wiki 記錄了「Unnamed game by Ichijou Ririka」
 - 表示她本人也在開發自己的遊戲，這在同人遊戲創作中是極具魅力的設定要素
 
+### 5. 「SOS飯」進化史與Yahoo!ニュース掲載（2025年5月）
+- 「SOS飯」= 悲慘伙食，最初Ririka的料理失敗產物
+- 從炭化料理、カロリー爆弾逐漸進步
+- 2025年5月相關內容登上Yahoo!ニュース，成為粉絲津津樂道的成長象徵
+
 ---
 
 ## 二、知名剪輯與迷因
@@ -46,13 +51,25 @@
 
 ### 4. 催眠配信企劃
 - 參與 ReGLOSS 催眠相關企劃
-- 在催眠配信中展現容易上當的萌感
+- 在催眠配信中展現容易上當的可愛
 - 經典台詞「エリート誕生！」
 
 ### 5. 社長 vs 生活廢人反差
 - 官方設定中她能獨自處理海外商務談判
 - 但私生活ガサツ（粗枝大葉）、不擅家務
 - 這反差成為粉絲最喜愛的萌點之一
+
+### 6. ILのメッセージ（seesaawiki記錄）
+- **I** = Love（愛）
+- **L** = Lucky（幸運）
+- **L** = Laugh（笑）
+- Ririka提出的正向人生哲學
+- 粉絲間廣為流傳的代表性訊息
+
+### 7. ゴロかつ配信文化
+- **ゴロかつ** = ゴロゴロしながらかつを食べる（躺著吃炸豬排）
+- 結合美食與放鬆氛圍的獨特配信風格
+- 已發展為標誌性直播類型
 
 ---
 
@@ -82,7 +99,23 @@
 
 ---
 
-## 五、語音包主題傾向（角色定位參考）
+## 五、2025-2026年新活動記錄（seesaawiki補充）
+
+### 2025年
+- **Shadowverse CR大会出場**：參加CR盃Shadowverse大會
+- **hololive 6th fes**：出演hololive第六屆大型演唱會
+- **ReGLOSS 2nd Album「Snapshot」**：第二張團體專輯發行
+- **Flashpoint 1st Live**：3D模型Flashpoint首場Live（2025/12/16）
+
+### 2026年
+- **hololive 7th fes**：第七屆大型演唱會出演
+- **Pokémon Champions主催**：主辦Pokémon Champions比賽
+- **Lucky Loud SOLO ver.**：個人SOLO版本發行
+- **3D模型進化**：從Daybreak進化至Flashpoint的完整軌跡
+
+---
+
+## 六、語音包主題傾向（角色定位參考）
 
 從官方語音包標題可歸納她在遊戲中適合的對話路線：
 
@@ -96,23 +129,32 @@
 
 ---
 
-## 六、同人遊戲可參考的劇情靈感
+## 七、同人遊戲可參考的劇情靈感
 
 1. **holo Indie 大使**：遊戲中可設定她為「獨立遊戲應援大使」身份
 2. **自稱天才社長**：自信滿滿但經常出包的社長角色
 3. **初配信被媽認出**：作為搞笑事件融入劇情
 4. **54萬耐久馬利歐**：展現遊戲狂熱的一面
 5. **開發中的遊戲**：設定她為正在製作遊戲的社長
+6. **SOS飯進化**：從料理失敗到登上新聞的成長劇情
+7. **ILのメッセージ**：「Love・Lucky・Laugh」作為角色核心價值觀
+8. **ゴロかつ配信**：美食主題日常場景
+9. **Shadowverse/Pokémon大會**：遊戲對戰相關劇情
+10. **3D模型進化**：Daybreak → Flashpoint的視覺進化線
 
 ---
 
 ## 資料來源
 
-- [Hololive Fan Wiki - Ichijou Ririka](https://hololive.wiki/wiki/Ichijou_Ririka)
-- [Hololive 官方網站（日文）](https://hololive.hololivepro.com/talents/ichijou-ririka/)
-- [Hololive 官方網站（英文）](https://hololive.hololivepro.com/en/talents/ichijou-ririka/)
-- [X（Twitter）@ichijouririka](https://twitter.com/ichijouririka)
+| 來源 | URL | 狀態 |
+|------|-----|------|
+| Hololive Fan Wiki | https://hololive.wiki/wiki/Ichijou_Ririka | ✅ |
+| Hololive 官方網站（日文） | https://hololive.hololivepro.com/talents/ichijou-ririka/ | ✅ |
+| Hololive 官方網站（英文） | https://hololive.hololivepro.com/en/talents/ichijou-ririka/ | ✅ |
+| X（Twitter）@ichijouririka | https://twitter.com/ichijouririka | ✅ |
+| **seesaawiki.jp（日本社群Wiki）** | https://seesaawiki.jp/hololivetv/d/一條莉々華 | ✅ |
 
 ---
 
-*本報告僅供同人創作參考，部分軼事來自社群觀察。*
+*本報告僅供同人創作參考，部分軼事來自社群觀察及Wiki整理。*
+*第二版更新：2026-07-25*

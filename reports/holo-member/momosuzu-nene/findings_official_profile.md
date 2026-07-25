@@ -90,7 +90,8 @@ Nene's design features a Chinese dress / qipao-inspired outfit with peach/pink a
 - Applied **four times** for Hololive 5th Gen auditions before being accepted
 - Can play piano (10 years experience), knows kyuudou (archery), baseball, tennis, programming (Java), and drawing
 - Holds various certificates (typing, programming, marketing)
-- Shares illustrator (Nishizawa 5mm) with VSPO! member Shinomiya Runa
+- Shares illustrator (Nishizawa 5mm) with VSPO! member Shinomiya Runa (and Nishizawa 5mm herself)
+- Character **Karamomo Suzune** in *Hololive ERROR* horror game
 
 ## Source URLs
 - https://hololive.hololivepro.com/en/talents/momosuzu-nene/ (official profile)

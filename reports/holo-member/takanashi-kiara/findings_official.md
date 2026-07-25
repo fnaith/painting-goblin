@@ -15,14 +15,25 @@
 | **出道日期** | 2020年9月12日 |
 | **身高** | 165 cm |
 | **粉絲名稱** | KFP（Kiara Fried Phoenix 員工） |
-| **角色設計** | huke（知名插畫家） |
+| **角色設計** | huke（知名插畫家、《Steins;Gate》角色設計師） |
+| **Live2D 建模** | けっふぃー (keffiy) |
+| **3D 模型** | 由 Cover 提供 |
+| **代表 Emoji** | 🐔（雖是鳳凰但粉絲以雞 Emoji 代表） |
+| **慣用手** | 左手（左撇子） |
+| **星座** | 巨蟹座（Cancer） |
 | **YouTube 頻道** | https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww |
+| **德語副頻道** | https://www.youtube.com/channel/UCq4ky2drohLT7W0DmDEw1dQ |
 | **X (Twitter)** | https://twitter.com/takanashikiara |
+| **Reddit** | /u/takanashikiara（亦為 Hololive Subreddit 版主） |
+| **Spotify** | https://open.spotify.com/artist/6UCFRdg4ySMWj6O4QRKyZs |
+| **bilibili** | https://space.bilibili.com/674600646/ |
 
 ### 主題標籤 (Hashtags)
 
-- 直播標籤：`#kfp` / `#キアライブ`
-- 粉絲藝術：`#artsofashes` / `#絵ニックス`
+- 直播標籤：`#kfp`（EN）/ `#キアライブ`（JP）
+- 粉絲藝術：`#ArtsOfAshes`（初期）→ `#KFPicasso`（現行）/ `#絵ニックス`（JP）
+- 粉絲交流：`#kiarafanclub`（初期，已由 `#kfp` 取代）
+- 迷因：`#kfpmemes`
 
 ---
 
@@ -33,6 +44,13 @@ Kiara 是一隻**鳳凰**（非常重要——不是雞，也不是火雞）。
 她的夢想是成為一家連鎖快餐店的老闆。她燃燒自己，拼命工作，因為她知道無論如何都會從灰燼中重生。
 
 作為 hololive English -Myth- 的一員，她代表了神話中的**不死鳥 / 鳳凰**意象，與死神 Mori Calliope 形成「死亡 vs 重生」的對立與搭檔關係。
+
+設定上腰間的皮帶可以將她變回鳳凰型態；生氣時頭髮會燃起火焰。
+
+### 寵物／吉祥物
+- **Kotori（コトリ）**：Kiara 的官方吉祥物小鳥
+- **Chonkers**：Kiara 養的貓（體型偏胖）
+- **Smoothie**：Kiara 養的另一隻貓
 
 ---
 
@@ -74,12 +92,27 @@ Kiara 的基礎設計由 huke 操刀，主要特徵包括：
 - **Mori Calliope**：Myth 組同事，死神 vs 鳳凰的經典搭檔，合作曲包括〈Fire N Ice〉
 - **Ninomae Ina'nis**：Myth 組同事，兩人將於 2026 年舉辦聯合演唱會「Drawn to Dawn」
 - **Hololive EN Myth 全員**：Mori Calliope、Takanashi Kiara、Ninomae Ina'nis、Gawr Gura、Watson Amelia
+- **Momosuzu Nene**（JP 組）：組成二人組「O'riends」
+- **Holotori**：Hololive 內「鳥類」成員的非正式團體
+- **Hololive Australia**：與 EN 組澳洲相關成員的鬆散組合
 
 ### 個人品牌：KFP
 Kiara 將自己的形象與「KFP」（Kiara Fried Phoenix）快餐品牌深度綁定：
 - 粉絲被稱為「KFP 員工」
 - 直播風格帶有快餐店主/經理的活力感
 - 周邊商品常以 KFP 主題呈現
+- KFP 菜單經典品項：Phoenix Burger、Yagoo Burger
+
+### 直播定型規則（Stream Rules）
+Kiara 在直播中反覆強調的規則：
+1. **Keep it KFP**：保持頻道友善、歡樂的氛圍
+2. **Don't be creepy**：不要 creepy
+3. **Don't talk about other streamers**：避免在聊天室無關地提及其他 VTuber
+
+### 系列節目
+- **HoloTalk**：Kiara 主持的談話節目，來賓包括 YAGOO、A-chan、Hololive 各期成員、VShojo 成員等
+- **Am Zoo**：Kiara 模仿各種動物的短影音系列
+- **Hunter Myth: Myth Breakers**：Myth 組的 D&D 風格 TTRPG 系列，Kiara 扮演角色「Tiara」
 
 ---
 
@@ -116,7 +149,9 @@ Kiara 將自己的形象與「KFP」（Kiara Fried Phoenix）快餐品牌深度�
 | Kiara YouTube 頻道 | https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww |
 | Kiara Twitter | https://twitter.com/takanashikiara |
 | Drawn to Dawn 演唱會公告 | https://hololivepro.com/en/support_advertising/382223/ |
+| Hololive Wiki (hololive.wiki) | https://hololive.wiki/wiki/Takanashi_Kiara |
+| Hololive Fandom Wiki | https://hololivevtuber.fandom.com/wiki/Takanashi_Kiara |
 
----
+> **注意**：seesaawiki.jp 上的 Hololive TV 非官方 wiki 頁面已無法訪問（所有 URL 變體均回傳 404），本報告未使用該來源。
 
 *本報告僅整理官方公開資訊，所有權利歸屬 COVER Corporation 及 Takanashi Kiara 本人。*

@@ -67,6 +67,27 @@ Members: Marine, Amane Kanata, Sakura Miko, Himemori Luna, Murasaki Shion, Sakam
 
 ## Notable Events & Firsts
 
+### Channel Demonetization (March 2020)
+- Channel was demonetized by YouTube for sexual content
+- Monetization was restored within the same month
+
+### Channel Termination Incident (July 8, 2021)
+- Marine's channel was briefly terminated on July 8, 2021
+- It was restored the same day — no official explanation was given
+
+### Throat Hiatus (July 2021)
+- Took a break in July 2021 due to throat strain
+- Returned to streaming after recovery
+
+### #宝鐘マリン3D Trending #1 Worldwide
+- When Marine's 3D model was revealed, the hashtag #宝鐘マリン3D trended #1 worldwide on Twitter
+
+### Reddit Moderation
+- Marine is a verified moderator of /r/Hololive (Reddit account: /u/HoushouMarineLEGIT)
+
+### Touhou Collab Album
+- Participated in COOL&CREATE's Touhou x Hololive collaboration album *Gensokyo Holoism*
+
 ### FNS Music Festival (Historic First)
 - **December 2023**: First VTuber ever invited to perform on Fuji TV's **FNS Music Festival**, a major annual Japanese music TV special
 - Performed "Bishoujo Muzai♡Pirates" alongside J-pop acts like King Gnu, ClariS, Nana Mizuki
@@ -166,3 +187,5 @@ Members: Marine, Amane Kanata, Sakura Miko, Himemori Luna, Murasaki Shion, Sakam
 - https://en.wikipedia.org/wiki/Houshou_Marine
 - https://hololive.hololivepro.com/en/talents/houshou-marine/
 - https://www.siliconera.com/fns-music-festival-first-vtuber-singer-is-houshou-marine/
+- https://hololive.wiki/wiki/Houshou_Marine
+- https://hololivevtuber.fandom.com/wiki/Houshou_Marine

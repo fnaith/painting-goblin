@@ -21,6 +21,7 @@ This is widely considered one of the most famous and deeply rooted pairings in a
 | **Real-life Interaction** | They have traveled together on vacation (real-life trips), which is rare for Hololive members to openly discuss |
 | **Trust** | Noel has described Flare as one of the people she trusts the most; Flare is often the one Noel turns to for support |
 | **Playful Fighting** | They have a bickering, married-couple style dynamic that fans find very charming |
+| **Platinum Rings** | In February 2021, they got custom-made platinum rings together, which fans see as a symbolic gesture of their deep commitment to each other |
 
 ### Why It's Popular
 - The "childhood friend" energy (even though they met through Hololive, their dynamic feels like they've known each other forever)

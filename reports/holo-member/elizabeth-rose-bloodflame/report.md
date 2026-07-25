@@ -28,6 +28,7 @@
 - Hololive中最長的羅馬字姓名（23個字母）
 - 首位英國腔的Hololive EN成員
 - -Justice-中首位達到50萬訂閱者
+- -Justice-中首位達到60萬訂閱者（2026年1月31日）
 
 ### 同期成員
 - Gigi Murin
@@ -48,10 +49,11 @@
 - **主題**: 深紅女王（Scarlet Queen）／秩序的先驅（Harbinger of Order）
 - **眼睛**: 紅色
 - **頭髮**: 長紅髮帶藍色調，有顯眼的呆毛
-- **特徵**: 胸前有藍色火焰
-- **服裝**: 黑白配色服裝搭配皮帶、紅色肩甲、可拆式袖子
-- **武器**: 大型黑紅劍「Thorn（荊棘）」，劍身刻有鱗片圖案（象徵正義）
+- **特徵**: 胸前有藍色火焰（據本人說會隨機升溫但不會燙傷自己）
+- **服裝**: 黑白配色服裝搭配皮帶、紅色肩甲、可拆式袖子，附有藍色披風配件（2025年11月追加）
+- **武器**: 大型黑紅劍「Thorn（荊棘）」，劍身刻有天秤鱗片圖案（象徵正義）
 - **3D模型**: 2025年8月1日公開
+- **新年服裝**: 2026年1月1日公開 — 紅底白藍玫瑰紋樣和服，刀型笄髮飾，附扇子、麥克風、綠色雞尾酒配件
 
 ### 視覺關鍵字
 - 🌹 玫瑰
@@ -89,9 +91,11 @@ Elizabeth親自設計的官方吉祥物，由 badger_yekun 繪製：
 | 場景 | 台詞 |
 |------|------|
 | 打招呼 | "Lovely to see you, to see you... Lovely~!" |
+| 直播開場 | "Ello Ello Ello~!"（Cockney腔，省略h音的招呼方式） |
 | Debut介紹 | "OH- HOHOHOHO~! Roses are red, the fire of my heart is blue, also known as The Scarlet Queen, Harbinger of Order, Leader of -Justice- — I am Elizabeth Rose Bloodflame!" |
 | 道別 | "Parting is such sweet sorrow, but I will see you on the Morrow~!" |
 | 觀眾招呼 | "Huzzah!" |
+| 聖誕節傳統 | 每年聖誕節上傳短片作為「Queen's Speech」（女王聖誕致詞）致敬英國傳統 |
 
 ### Hashtag一覽
 - `#Bloodflame` — 一般內容
@@ -104,9 +108,9 @@ Elizabeth親自設計的官方吉祥物，由 badger_yekun 繪製：
 - `#BloodflameHub` — 資源
 
 ### 喜歡 / 討厭
-- **喜歡**: 企鵝、獅子、狗、塗鴉、香水、唱歌、卡拉OK、聲優、模仿、現場表演、化妝、Pub、電視/電影/動畫、好氣氛
+- **喜歡**: 企鵝、獅子、狗、塗鴉、香水、唱歌、卡拉OK、聲優、模仿、現場表演、化妝、Pub、電視/電影/動畫、好氣氛、fizzy pop（碳酸飲料）、CRUNKY巧克力
 - **討厭**: 茶、過敏、霸凌者
-- **喜歡的食物**: 薄荷巧克力、洋芋片、牛排、Toad in the hole、炸魚薯條、chip buttie
+- **喜歡的食物**: 薄荷巧克力、洋芋片、牛排、Toad in the hole、炸魚薯條、chip buttie、Cheeky Chicken（Nando's）
 - **喜歡的遊戲**: Valorant、Fortnite、Overwatch 2、VRChat
 
 ---
@@ -114,17 +118,17 @@ Elizabeth親自設計的官方吉祥物，由 badger_yekun 繪製：
 ## 4. 直播風格與內容
 
 ### 內容類型
-- **歌枠** — 歌聲是她的核心身份標誌
-- **ASMR** — 曾舉辦鍵盤ASMR直播
+- **歌枠** — 歌聲是她的核心身份標誌；常有3小時以上「UNARCHIVED」卡拉OK直播，成員會特別提醒觀眾不要錯過（因不會留檔）
+- **ASMR** — 鍵盤ASMR、枕邊談話（pillow talk）
 - **遊戲實況** — 多種類型遊戲
 - **卡拉OK / 翻唱** — 發布多首翻唱曲
 - **雜談** — 輕鬆對話型直播
 - **合作直播** — 常與Justice和Advent成員合作
 
 ### 音樂作品
-- **原創曲**: 「ABOVE BELOW」(團體)、「RENEGADE」、「Odyssey」、「ALL for One」、「START AGAIN」
+- **原創曲**: 「ABOVE BELOW」(團體)、「RENEGADE」、「Odyssey」、「ALL for One」、「START AGAIN」、「Serendipity」(2026/06/20)、「SUPERNOVA SUPER GIRL」(2026/06/29)
 - **翻唱**: 「OTONABLUE」(ATARASHII GAKKO!)、「I Wanna Be Your Slave」(Måneskin)
-- **參與活動**: hololive 6th fes. Color Rise Harmony、7th fes. Ridin' on Dreams
+- **參與活動**: hololive 6th fes. Color Rise Harmony、7th fes. Ridin' on Dreams (2026/03/07)、3D Birthday Live「NOW That's an 80s BOP!」(2026/04/25)、hololive English 4th Concert「Serendipity」(2026/07/03-04)
 
 ### 麥克風歷史（軼事）
 最初使用Logitech耳機麥克風（用膠帶固定），後升級至Blue Snowball、Blue Spark，最終購入Neumann U 87（和爺爺各出一半錢，另一半用信用卡支付）。
@@ -140,6 +144,8 @@ Elizabeth親自設計的官方吉祥物，由 badger_yekun 繪製：
 - **Advent VS Justice（#AdVSJus）**: 4集動態漫畫系列，Justice（獵人）vs Advent（逃亡者）的追逐劇情。Elizabeth為Justice方的獵人角色。
 - **ENigmatic Recollection**: Hololive EN集體Minecraft RPG劇情活動（Starmine開發），Elizabeth參與第3章「Broken Bonds」。
 - **holoPop NEXUS**: 在美國紐澤西舉辦的pop-up活動。
+- **Justice團隊設定**: Justice的會議室名為「The Lookout」，位於Justice總部。團隊擁有吉祥物「Sergeant Smokey」，偶爾會下達命令。Justice有權任命第五名成員（但為臨時職位，「像換襪子一樣頻繁更換」）。Cecilia Immergreen曾被強迫在Justice擔任女僕工作。
+- **Cockney腔**: Elizabeth是標準RP（Received Pronunciation）英語使用者，但為了角色扮演學習了Cockney方言。著名的Cockney特徵包括省略h音（"Ello"而非"Hello"）以及「bottle of water」發音為「BO-OH-O-WO-ER」。
 
 ### 與其他成員關係
 - **Nerissa Ravencroft（Advent）**: Elizabeth對她有「not-so-secret appreciation」（公開的秘密欣賞）
@@ -189,6 +195,8 @@ Elizabeth親自設計的官方吉祥物，由 badger_yekun 繪製：
 - 「ABOVE BELOW」 — 團體場景
 - 「All for One」 — 團隊合作主題
 - 「START AGAIN」 — 新開始/重生
+- 「Serendipity」 — 2026年原創曲，同名音樂會主題曲
+- 「SUPERNOVA SUPER GIRL」 — 2026年原創曲，高能量超級英雄風
 
 ### 開發注意事項
 - **Cover Corp同人遊戲規範**於2023年11月公布
@@ -212,8 +220,9 @@ Elizabeth親自設計的官方吉祥物，由 badger_yekun 繪製：
 10. Advent VS Justice動態漫畫: https://www.youtube.com/playlist?list=PLK3z7l3pSqCY46-27EFl1xtWL6WGH3G0F
 11. Age of Advent Steam頁面: https://store.steampowered.com/app/2864500/Age_of_Advent/
 12. 官方Hololive人才列表: https://hololive.hololivepro.com/en/talents?gp=justice
+13. Seesaa Wiki (日本語): https://seesaawiki.jp/hololive/d/Elizabeth%20Rose%20Bloodflame
 
 ---
 
-*報告生成日期: 2026-06-21*
+*報告生成日期: 2026-07-03*
 *調查範圍: 官方設定、個人特色、軼事、同人遊戲可行性*

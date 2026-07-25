@@ -102,6 +102,45 @@
 - 出道自我介紹時巧妙以「我是青君」的男孩風口吻製造反差效果。
 - 生日的 2月27日 與她的「畫家／創作者」設定有某種巧妙的契合。
 - 畢業後仍保留在官方網站的「Alum」分類中，官方紀錄並未被刪除。
+- 血液型 A 型（Seesaawiki 獨有記錄）。
+- 家族成員：母親稱 Ao 為「Ao」，Ao 稱母親為「ママ」；父親為普通上班族。
+
+## Seesaawiki 補充軼事
+
+以下資訊源自 Seesaawiki 日本社群維基，以 Shift-JIS 編碼取得，部分內容經解讀整理：
+
+### PON 屬性
+- 出道前就被其他成員預測「PON 屬性很強」，出道直播確實緊張到失誤連連
+- 經常搞錯遊戲操作、忘記檢查 BGM、直播中出現各種意外
+- 會因為過於專注而忽略周圍，形成天然呆的萌點
+
+### 性格描述
+- 表面裝酷但其實非常在意他人眼光：會因為想讓觀眾開心而努力嘗試各種企劃
+- 具有「想做什麼就試試看」的行動派精神
+- 對於 Hololive 的歸屬感強烈，認為能被 Hololive 錄取是最開心的事之一
+
+### 家庭互動
+- 母親是典型的關心型家長，會在她的直播留言區出現
+- 曾在直播中透露父親不太了解 VTuber 的工作，但仍然支持她
+
+### 與其他 VTuber 的交流
+- 與 Neo-Porte 的成員（如電脳 mayo）有交流
+- 在 VCR GTA 等大型企劃中與大量其他 VTuber 建立聯繫
+- 與 EN 成員 Meloco Kyoran 關係良好
+
+### 興趣嗜好
+- 愛好：漫畫、VRChat、鋼筆、自動鉛筆、讀書、書店巡禮、文具收集、怪談、旅行、購物、電影、音樂劇、攝影（特別是夜景）、甜點、遊戲中心、拼圖
+- 喜歡的食物：燒肉、鰻魚、玉子燒
+- 不喜歡的食物：青椒、納豆
+- 喜歡的動物：貓、狗
+- 不喜歡的動物：蟲、爬蟲類
+- 喜歡的品牌：JIMMY CHOO（因為被高跟鞋的設計所吸引）
+
+### 畢業相關
+- 2025年3月因「違規行為」停止活動
+- 同年10月3日正式畢業，無畢業直播
+- 畢業後仍收到大量來自粉絲和其他 VTuber 的告別訊息
+- 畢業後其 YouTube 頻道仍保留（截至 2026年）
 
 ---
 
@@ -109,4 +148,6 @@
 
 - Hololive 官方網站：https://hololive.hololivepro.com/en/talents/hiodoshi-ao/
 - Hololive Fan Wiki：https://hololive.wiki/wiki/Hiodoshi_Ao
+- Hololive Fandom Wiki：https://hololivevtuber.fandom.com/wiki/Hiodoshi_Ao
+- Seesaawiki - 火威青：https://seesaawiki.jp/hololivetv/d/%B2%D0%B0%D2%C0%C4
 - YouTube 頻道：https://www.youtube.com/@HiodoshiAo

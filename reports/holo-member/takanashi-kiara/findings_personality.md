@@ -22,6 +22,15 @@ Kiara 的角色核心是「燃燒自己、努力工作到骨頭散架，反正�
 ### 2. 情感豐富、真誠直率
 Kiara 以情感開放著稱，在直播中經常坦率表達喜怒哀樂。Polygon 記者 Ana Diaz 特別指出她的反差魅力：玩遊戲時可以很 chill 地隨口說「我拉肚子了」，但在舞臺上又是光彩照人的流行巨星。
 
+### 2b. 表面外向、實則害羞（害羞外向者）
+Kiara 展現出強烈、活潑的公眾形象，但私下性格其實較為內向害羞。她自己也承認在公眾場合的活力表現某種程度上是一種演出，本質上她更偏向羞怯。
+
+### 2c. 鳥腦（Bird-brained／天然呆）
+Kiara 有容易忘事、脫線的一面，粉絲常稱她「bird-brained」。這種特質與她的鳳凰設定結合，成為她可愛的萌點之一。
+
+### 2d. 被歸類為「左下角」——最大限度的好色與愚蠢
+在 Hololive 成員常見的「純度 vs 智力」二維圖中，Kiara 被粉絲歸類於左下角：純度最低（色氣擔當）且智力表現為搞笑式的「愚蠢」，但事實上她的事業規劃與語言能力展現出相當的智慧。
+
 ### 3. 幽默搞笑、迷因愛好者
 她喜歡發迷因影片，熱衷於 Rickroll 別人。Anime Feminist 的 Katie Gill 指出，Kiara 的迷因行為偏離了傳統偶像的可愛路線，展現出更接地氣的一面。
 
@@ -30,6 +39,12 @@ Kiara 是 Myth 中最後一個達到百萬訂閱的成員（2021年5月30日）�
 
 ### 5. 多語能力
 她以英語直播，但也能流利使用日語和德語。Crunchyroll 專訪中提及她自認是「文化橋樑」，幫助英語觀眾理解日本偶像文化。
+
+### 5b. 語言冷知識
+Kiara 與《新世紀福音戰士》的惣流·明日香·蘭格雷共享相同的語言背景：日語、德語、英語。
+
+### 5c. 健康狀況
+Kiara 有氣喘（asthma），這與她高耗能的直播表演和歌唱風格形成有趣的對比。
 
 ### 6. 不認為自己是傳統偶像
 在 2022 年接受 Crunchyroll 採訪時，Kiara 明確表示她不將自己視為「偶像」，而更傾向於以真實自我面對觀眾。
@@ -44,6 +59,12 @@ Kiara 是 Myth 中最後一個達到百萬訂閱的成員（2021年5月30日）�
 
 ### 1. 遊戲實況
 直播各類遊戲，包括《Stellar Blade》、《Inscryption》、《Grand Theft Auto》、《Minecraft》等。遊玩風格輕鬆自然，常搭配隨性交談。
+
+#### 遊戲偏好
+Kiara 偏愛 RPG（角色扮演遊戲）勝過開放世界遊戲。最喜歡的遊戲系列包括：《Tales of》系列、《Atelier》系列、《薩爾達傳說》系列、《瑪利歐》系列。也遊玩《明日方舟》（Arknights）。
+
+#### 動畫喜好
+最喜歡的動畫：《化物語》（Bakemonogatari）、《科學超電磁砲》（A Certain Scientific Railgun）、《天元突破 紅蓮螺巖》（Gurren Lagann）。
 
 ### 2. Holotalk 訪談節目
 Kiara 主持的招牌談話節目 **Holotalk**，定期邀請其他 Hololive 成員進行深度訪談。她利用這個節目向英語觀眾介紹日本的偶像文化、VTuber 行業的細節，甚至提供給即將「畢業」的 VTuber 一個發表感言的平臺。
@@ -157,3 +178,7 @@ Kiara 在 Hololive EN 中扮演「連結者」角色：
 | 8 | Anime Herald – Samantha Ferreira 專訪 (2025) | https://animeherald.com/meeting-the-tenchou-a-conversation-with-takanashi-kiara/ |
 | 9 | Anime Corner – Teddy Cambosa (2022) | https://animecorner.me/takanashi-kiaras-fever-night-the-best-of-synthwave-and-pop-combined/ |
 | 10 | ESC kompakt – Eurovision 相關報導 (2023) | https://www.esc-kompakt.de/ (存檔) |
+| 11 | Hololive Wiki (hololive.wiki) | https://hololive.wiki/wiki/Takanashi_Kiara |
+| 12 | Hololive Fandom Wiki | https://hololivevtuber.fandom.com/wiki/Takanashi_Kiara |
+
+> **注意**：seesaawiki.jp 上的 Hololive TV 非官方 wiki 頁面已無法訪問（所有 URL 變體均回傳 404），本報告未使用該來源。

@@ -19,7 +19,7 @@
 | **結束語** | おつろぼ (Otsurobo) — 辛苦了 + Roboco |
 | **頻道** | [YouTube](https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g) • [Twitter](https://twitter.com/robocosan) • [Twitch](https://www.twitch.tv/robocosan_hololive/) • [bilibili](https://space.bilibili.com/20813493/) |
 | **標籤** | `#ロボ子生放送`（直播）• `#ロボ子Art`（粉絲繪）• `#ろぼさー`（粉絲） |
-| **百萬訂閱** | 2024年4月12日達成（Hololive第42位，0期生第4位） |
+| **百萬訂閱** | 2024年4月12日達成（Hololive第42位，0期生第4位）；2025年6月110萬；2026年1月115萬 |
 
 ## 二、角色背景設定
 
@@ -33,6 +33,7 @@
 - **冷靜沉穩**但**天然呆**（air-headed）
 - 喜歡可愛的事物（桌上會排滿可愛小物）
 - 容易害羞，討厭被嚇到
+- 競技場合展現強烈**殺手本能**（killer instinct），與平時形象反差極大
 - 使用略帶男性氣息的日文第一人稱「僕（boku）」
 
 ### 直播風格
@@ -103,6 +104,7 @@
 - Hololive官方Reddit子版塊**版主**之一
 - 少數擁有YouTube官方驗證頻道的Hololive成員
 - 最初是kuromaru9的3D個人專案，並非一開始就計劃成為VTuber
+- **跨界出演**：曾於《Dawn of the Breakers》（2019）及《Neptunia Virtual Stars》（2020）中作為可玩角色登場
 
 ### 3D模型演進（遊戲設定參考）
 - V3更新（2022）— 三角形頭飾、表情進化

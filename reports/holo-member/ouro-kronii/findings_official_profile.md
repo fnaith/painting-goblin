@@ -144,8 +144,9 @@
 | *Kirameki Rider (English ver.)* | Aug 2025 | Original Single |
 | *Run Back 'Round* | Oct 2025 | Original Single |
 | *Bright Tonight* | Dec 2025 | Original Single |
-| *Way 2 U* | Mar 2026 | Original Single |
-| *STORM* | May 2026 | Original Single |
+| *Way 2 U* | Mar 2026 | Original Single (1st EP) |
+| *STORM* | May 2026 | Original Single (1st EP) |
+| *Serendipity* | Jun 2026 | Original Single |
 
 ### Notable Collaborations
 - **Kura Sushi USA** — Summer 2025 collaboration.
@@ -154,6 +155,8 @@
 - **UNDONE** — Arcade theme watch collection (hololive 6th fes.).
 - **iPASS** — Hololive 6th fes. transit card blind pack.
 - **hololive English 4th Concert -Serendipity-** (July 2026).
+- **Birthday Event 2026** (June 7, 2026 at Shinagawa Prince Hotel Grand Hall).
+- **1st EP "OURO KRONII 1ST EP"** — contains *STORM*, *Way 2 U*, and other tracks.
 - **hololive English Official Pop-Up Store** in Los Angeles (2025) and New Jersey (2025).
 
 ### Voice Packs (Selected)
@@ -174,6 +177,11 @@
 - Has a pet snake named **Boros** whom she found in the woods and adopted.
 - Upon creating her Twitter account, she gained followers so fast that **Twitter temporarily restricted her account** for excessive activity.
 - Her mismatched likes/dislikes (sleeping, napping, procrastinating appear on both lists) are a running joke.
+- Her room is known as the **"Bunkeronii"** — a cluttered bunker-like space with monitors, snacks, and a general "chronically online" vibe.
+- She has a tendency to avoid vegetables (especially green peppers and peanut butter).
+- Kronii self-mixed her cover of *MAFIA* (wotaku), handling the audio engineering herself.
+- She has mentioned interest in the "villainess" webtoon genre and actively keeps up with Korean webtoon series.
+- Referred to her fans as **"second-graders"** (a playful jab).
 
 ---
 

@@ -1,7 +1,13 @@
 # 常闇トワ（Tokoyami Towa）— 同人遊戲角色設定報告
 
-> 產出日期：2026-06-21
+> 產出日期：2026-07-25（更新）
 > 用途：同人遊戲角色設定參考
+>
+> **來源可用性備註**：
+> - ✅ hololive 官方網站 — 資料完整
+> - ✅ hololive.wiki（https://hololive.wiki/wiki/Tokoyami_Towa）— 資料完整
+> - ✅ virtualyoutuber.fandom.com（https://virtualyoutuber.fandom.com/wiki/Tokoyami_Towa）— 資料完整
+> - ❌ seesaawiki.jp（https://seesaawiki.jp/hololivetv/d/常闇トワ）— 無法存取（HTTP 404），未納入
 
 ---
 
@@ -15,10 +21,15 @@
 | **出道日** | 2020年1月3日 |
 | **生日** | 8月8日 |
 | **身高** | 150 cm |
-| **角色設計** | rurudo |
-| **粉絲名** | 常闇眷屬（Tokoyami Kenzoku） |
+| **角色設計** | rurudo（@rurudo_） |
+| **Live2D 建模** | Jujube、Date（ダテ） |
+| **3D 建模** | ぽんぷ長 |
+| **代表符號** | 👾（Space Invader） |
+| **粉絲名** | 常闇眷屬（Tokoyami Kenzoku，亦稱 TowaFam） |
 | **官方頻道** | [YouTube](https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw) |
+| **頻道建立日** | 2019年12月4日 |
 | **Twitter** | [@tokoyamitowa](https://twitter.com/tokoyamitowa) |
+| **訂閱數** | 約 157 萬（截至 2026-06） |
 
 ---
 
@@ -49,11 +60,20 @@
 - 個性溫柔敦厚，對粉絲極為體貼
 - 聲音極具辨識度的沙啞嗓音（ハスキーボイス），剛起床時聲線更低被稱為「低音炮」
 - 直播步調舒適，氣氛溫馨
+- 擁有健康作息，經常開早晨直播（曾被桐生可可吐槽）
+- 會親自下廚做健康料理；曾在家辦4期生章魚燒派對，親手做蛋糕、會後獨自洗碗
 
 ### 內在性格（惡魔面）
 - FPS遊戲中展現冷酷精準的一面
 - 華語圈粉絲稱「切開是黑的」
 - 具備優秀的企劃組織能力，能主辦大型跨社比賽（ホロお正月CUP、常闇祭）
+- 實際上有怕生的一面：初到 hololive 辦公室時緊跟在天使型態的天音かなた身後拉著她的手
+- 自稱「トワ様」，講話帶辣妹語調（gyaru語）
+
+### 搞笑與才藝面
+- 擅長模仿：米老鼠、七龍珠（悟空/貝吉塔）、EVA（真嗣/明日香）
+- 不喜歡恐怖遊戲（容易被嚇到）
+- 遇到其他 VTuber 的「色氣攻擊」時會成為罕見的認真吐槽角色
 
 ### 核心矛盾梗（遊戲彩蛋重點）
 - **TMT（トワ様マジ天使）**：粉絲認為她是天使，本人堅持自己是惡魔
@@ -76,7 +96,10 @@
 | YAB | 糟了（YABAI打錯字） | 失誤/驚訝 |
 | Big Kusa / 大草原 | 笑死（LMAO） | 搞笑場面 |
 | てんQ（ThankQ） | 謝謝 | 感謝 |
+| TenQ TIME | Super Chat 感謝環節 | 直播結束前的唸留言時間 |
 | メンタル＆ゆっくり | 冷靜、慢慢來 | 自我安撫 |
+| トワまち / Towaiting | Towa + waiting | 觀眾等待開台時刷的用語 |
+| おやすみトワ | 晚安 Towa | 直播結束時粉絲刷的道別語 |
 
 ---
 
@@ -91,13 +114,16 @@
 | **解謎** | 喜愛密室逃脫/懸疑解謎遊戲 | 解謎/偵查輔助技能 |
 
 ### 競技成就（可作為角色「稱號」解鎖條件）
-- CR Cup Apex 第7回 優勝（2021）
-- CR Cup Apex 第10回 優勝（2023）
+- CR Cup Apex 第7回 優勝（2021）— 與 Cpt、Kurumi Noah 組隊
+- CR Cup Apex 第10回 優勝（2023）— 與 Selly、Ex Albio 組隊
 - CR Cup Overwatch 第3回 優勝（2023）
 - CR Cup Overwatch 第4回 優勝（2024）
+- CR Cup 累計最多冠軍數（共8次）
 - Red Bull LEGENDUS 最強道場決定戰 優勝（2025）
 - e-elements DREAM MATCH APEX 優勝（2026）
 - 曾加入 Crazy Raccoon 旗下頂尖隊伍「GOSU」
+- 2024 Hololive New Year Cup 優勝（2024）
+- VTuber 最協決定戦 Season 4 參賽（與星街すいせい、湊あくあ組 Startend）
 
 ---
 
@@ -124,14 +150,52 @@
 | シルベ | 2026 | 動畫合作主題曲 |
 | BEEP BEEP | 2026 | 原創單曲 |
 
+### 高人氣翻唱曲
+| 曲名 | 原曲作者 | 觀看數 |
+|------|----------|--------|
+| -ERROR | niki | 700萬+ |
+| Bocca della Verità | Hiiragi Kirai | 400萬+ |
+| KING | Kanaria | 300萬+ |
+| 百鬼祭 | Kanaria | 300萬+ |
+| 灰色と青（with 星街すいせい） | 米津玄師 × 菅田將暉 | 100萬+ |
+
 ### 演唱會經歷
 - 2023年10月：首次個人演唱會「Break your ×××」（豊洲PIT）
-- 2025年10月：第2次個人演唱會「SHINier」
+- 2025年10月：第2次個人演唱會「SHINier」（有明アリーナ）
+- 參與 hololive 大型演唱會（hololive fes.、COUNTDOWN LIVE、hololive SUPER EXPO）
+- 2024年4月：參加 DreamHack Melbourne 海外演出
 - 夢想：舉辦單獨巨蛋演唱會、發行完整專輯、海外演出
 
 ---
 
-## 八、人際關係設定（可作為遊戲NPC/夥伴系統參考）
+## 八、成長里程碑（可作為遊戲劇情推進／解鎖要素）
+
+| 日期 | 事件 |
+|------|------|
+| 2019-11-29 | Twitter 帳號創立 |
+| 2019-12-04 | YouTube 頻道創立 |
+| 2020-01-03 | 初配信出道 |
+| 2020-04-17 | 突破 10 萬訂閱 |
+| 2020-07-26 | 首次公開 3D 模型 |
+| 2020-12 | 領養愛貓 Kotaro；開始接受正式聲樂訓練 |
+| 2021-02-26 | 發行首張原創單曲《Palette》 |
+| 2021-10-09 | CR Cup Apex #7 奪冠（首次大賽優勝） |
+| 2022-02-27 | 與天音かなた宣布組成音樂組合 ORIO |
+| 2022-04-03 | 達成 YouTube 100 萬訂閱 |
+| 2023-09-27 | 發行首張完整專輯《Aster》 |
+| 2023-10-13 | 首次個人演唱會「Break your ×××」（豊洲PIT） |
+| 2024-01 | 贏得 Hololive New Year Cup |
+| 2024-03 | 首張個人演唱會 Blu-ray 發行 |
+| 2024-04 | DreamHack Melbourne 海外演出 |
+| 2025-08-08 | 宣布 2nd 專輯《SHIN》及 2nd 個人演唱會 |
+| 2025-10-08 | 2nd 專輯《SHIN》正式發行 |
+| 2025-10-29 | 第2次個人演唱會「SHINier」（有明アリーナ） |
+| 2026-01-03 | 動畫合作主題曲 CD 全國流通發行 |
+| 2026-03 | 參與 hololive SUPER EXPO 2026 & 7th fes. |
+
+---
+
+## 九、人際關係設定（可作為遊戲NPC/夥伴系統參考）
 
 ### 同期生（4期生）
 | 成員 | 關係 | 遊戲化建議 |
@@ -139,18 +203,29 @@
 | 天音かなた | 親友，合作曲《マドロミ》 | 摯友/搭檔角色，可設計合體技 |
 | 角巻わため | 同期友好 | 治癒系輔助角色 |
 | 姫森ルーナ | 同期友好 | 公主系角色 |
-| 桐生ココ（畢業） | 曾關係密切 | 傳說/回憶角色 |
+| 桐生ココ（畢業） | 曾關係密切，Coco 在 Asacoco 中戲稱 Towa「精神年齡有問題」 | 傳說/回憶角色 |
 
 ### 重要合作對象
 | 成員 | 關係 | 備註 |
 |------|------|------|
-| 星街すいせい | Startend組合夥伴 | 三人隊伍協作 |
+| 星街すいせい | Startend組合夥伴、合作翻唱〈灰色と青〉 | 三人隊伍協作 |
 | 湊あくあ | Startend組合夥伴 | 同上 |
 | 獅白ぼたん | FPS好搭檔 | 合作曲《君と明かした夜》 |
+| 天音かなた | 組成正式音樂組合 **ORIO**（2022.02.27 發表） | 合作曲《Over Time》《マドロミ》，摯友 |
+
+### 跨箱友誼
+- **Nun Bora**（NIJISANJI KR）：非常要好的朋友，Bora 畢業後將其專屬冬季麥克風圖形遺贈給 Towa
+
+### 外部組合
+| 組合名 | 成員 | 說明 |
+|--------|------|------|
+| TOKONOKISE（とこのきせ） | 樟木しお、一ノ瀬うるは | APEX 遊戲小組，關係緊密互相調侃 |
+| VORUTO | 一ノ瀬うるは、Wokka | 遊戲聯動組合 |
+| Lily Antoinette | 一條莉莉華 | 組合搭檔 |
 
 ---
 
-## 九、梗與彩蛋（可作為遊戲內隱藏要素/收集品）
+## 十、梗與彩蛋（可作為遊戲內隱藏要素/收集品）
 
 | 梗名稱 | 說明 | 遊戲化建議 |
 |--------|------|-----------|
@@ -161,28 +236,40 @@
 | **こたーち** | 貓咪小太郎 | 收集/養成要素 |
 | **Suppies文化** | 獨特的粉絲問候 | 好感度系統用語 |
 | **Startend** | 與すいせい、あくあ的組合 | 隊伍合體技 |
+| **ORIO** | 與かなた的音樂組合 | 特殊合體歌曲技能 |
+| **ARK 復仇記** | 馴服的梁龍 Loveny 被異特龍殺死，花整場直播清剿伺服器上的異特龍 | 隱藏任務觸發條件 |
+| **3 日元事件** | 小學時撿到 3 日元送到警察局，害怕被逮捕 | 彩蛋對話 |
+| **壽司打工王** | 學生時期同時在兩間壽司店打工 | 背景故事要素 |
+| **夾娃娃機神人** | LAG 到看不到畫面仍成功夾到大神澪的掛軸 | 運氣滿點被動技能 |
+| **自我摸索的歌聲** | 2020 年底前完全自學唱歌，之後才接受正式聲樂訓練 | 成長型角色設定 |
+| **Towamachi** | 粉絲等待開台時的用語 | 好感度系統用語 |
+| **TenQ TIME** | 直播 Super Chat 感謝環節 | 互動技能 |
 
 ---
 
-## 十、粉絲文化設定（可作為遊戲社群/NPC對話參考）
+## 十一、粉絲文化設定（可作為遊戲社群/NPC對話參考）
 
-- **粉絲稱呼**：常闇眷屬
+- **粉絲稱呼**：常闇眷屬（Tokoyami Kenzoku，英文亦稱 TowaFam / Kin of Tokoyami）
 - **聊天室文化**：TMT刷屏、YAB泛濫、Big Kusa大笑
+- **等待開台文化**：刷「トワまち」（Towamachi）或「Towaiting」
+- **下播文化**：粉絲刷「おやすみトワ」（晚安 Towa）
 - **繪圖標籤**：#TOWART
+- **上色投稿標籤**：#トワ様塗ったよ
 - **剪輯標籤**：#CUTOWA
 - **直播標籤**：#トワイライヴ
-- **粉絲互動**：Towa經常唸會員留言，重視交流
+- **粉絲互動**：Towa定期節目「トワラジオ」（Towaradio），經常唸會員留言，重視交流
+- **男裝 persona**：粉絲間存在 Towa-kun 和 Eternal 等男裝形象設定
 
 ---
 
-## 十一、角色核心口號（可作為遊戲標題/選單用語）
+## 十二、角色核心口號（可作為遊戲標題/選單用語）
 
 - 日文：**「こんやっぴー！ホロライブ4期生 常闇トワ様です！」**
 - 英文：**"Suppies! 'Tis I, Tokoyami Towa, from hololive 4th Generation!"**
 
 ---
 
-## 十二、遊戲化設計建議總結
+## 十三、遊戲化設計建議總結
 
 1. **雙重型態系統**：天使型態（TMT）vs 惡魔型態（TMD），不同型態有不同技能組
 2. **FPS戰鬥風格**：遠程精準射擊為核心戰鬥方式
@@ -195,9 +282,15 @@
 
 ## 參考來源
 
-- hololive 官方網站：https://hololive.hololivepro.com/en/talents/tokoyami-towa/
-- hololive 官方網站（日文）：https://hololive.hololivepro.com/talents/tokoyami-towa/
+### 主要來源（成功取得資料）
+- hololive 官方網站（EN）：https://hololive.hololivepro.com/en/talents/tokoyami-towa/
+- hololive 官方網站（JP）：https://hololive.hololivepro.com/talents/tokoyami-towa/
+- hololive 粉絲維基（hololive.wiki）：https://hololive.wiki/wiki/Tokoyami_Towa
+- virtualyoutuber.fandom.com：https://virtualyoutuber.fandom.com/wiki/Tokoyami_Towa
 - 日文維基百科：https://ja.wikipedia.org/wiki/常闇トワ
 - 英文維基百科：https://en.wikipedia.org/wiki/Hololive_Production
 - YouTube 頻道：https://www.youtube.com/@tokoyamitowa
 - Twitter：https://twitter.com/tokoyamitowa
+
+### 無法存取的來源
+- seesaawiki.jp（https://seesaawiki.jp/hololivetv/d/常闇トワ）— HTTP 404，頁面可能已移除或搬遷

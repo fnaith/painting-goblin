@@ -45,6 +45,9 @@ Elizabeth Rose Bloodflame (エリザベス・ローズ・ブラッドフレイ�
 ### Greeting
 > *"Lovely to see you, to see you... Lovely~!"*
 
+### Stream Opening (Cockney)
+> *"Ello Ello Ello~!"* — uses Cockney dialect (drops 'h' before 'ello')
+
 ### Introduction (Debut Line)
 > *"OH- HOHOHOHO~! Roses are red, the fire of my heart is blue, also known as The Scarlet Queen, Harbinger of Order, Leader of -Justice- — I am Elizabeth Rose Bloodflame!"*
 
@@ -53,6 +56,9 @@ Elizabeth Rose Bloodflame (エリザベス・ローズ・ブラッドフレイ�
 
 ### Viewer Greeting
 > *"Huzzah!"*
+
+### Christmas Tradition
+> *"Queen's Speech"* — annual short video uploaded on Christmas Day, inspired by the British royal tradition where the monarch delivers a Christmas message to the nation
 
 ### Nicknames
 - **The Scarlet Queen** (official epithet)
@@ -76,8 +82,8 @@ Elizabeth Rose Bloodflame (エリザベス・ローズ・ブラッドフレイ�
 ## Streaming Style & Content Themes
 
 ### Content Categories
-- **Singing streams** — Her singing voice is a core part of her identity ("captures hearts with her beautiful singing voice"); she has released original songs including "ABOVE BELOW," "RENEGADE," "Odyssey," "START AGAIN," and "All for One"
-- **ASMR/keyboard ASMR** — She has hosted ASMR recital streams (e.g., "KEYBOARD ASMR RECITAL")
+- **Singing streams** — Her singing voice is a core part of her identity ("captures hearts with her beautiful singing voice"); she has released original songs including "ABOVE BELOW," "RENEGADE," "Odyssey," "START AGAIN," "All for One," "Serendipity" (2026/06/20), and "SUPERNOVA SUPER GIRL" (2026/06/29). Notably, her karaoke streams are often labeled "UNARCHIVED" and can run 3+ hours; members frequently remind viewers not to miss them as they will not be saved
+- **ASMR/keyboard ASMR** — She has hosted ASMR recital streams (e.g., "KEYBOARD ASMR RECITAL") and pillow talk (枕邊談話) ASMR sessions
 - **Gaming streams** — Plays a variety of games; participated in ENigmatic Recollection (TTRPG-style narrative events)
 - **Karaoke/cover songs** — Has released covers including "OTONABLUE" (ATARASHII GAKKO!) and "I Wanna Be Your Slave" (Måneskin) with Justice members
 - **Chatting/Just Chatting** — Relaxed conversational streams
@@ -130,3 +136,4 @@ Elizabeth Rose Bloodflame (エリザベス・ローズ・ブラッドフレイ�
 6. **Illustrator (MEPHISTO):** https://twitter.com/MEPHIST0216
 7. **Live2D Modeler (Zearu):** https://twitter.com/zearu_2d
 8. **Hololive English -Justice- group page:** https://hololive.hololivepro.com/en/talents?gp=justice
+9. **Seesaa Wiki (日本語):** https://seesaawiki.jp/hololive/d/Elizabeth%20Rose%20Bloodflame

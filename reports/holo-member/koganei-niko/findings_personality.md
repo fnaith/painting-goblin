@@ -92,7 +92,10 @@
 
 ### 个人翻唱
 - シカ色デイズ（鹿色Days）— 首支翻唱
-- Sing My Pleasure — 最新翻唱（2026年6月）
+- Sing My Pleasure — 翻唱（2026年6月）
+
+### 合作翻唱
+- **III Justen x Sena Remix.ver** — 翻唱宝钟玛琳×Kobo Kanaeru的III，与天音彼方、Ayunda Risu、森美声、Elizabeth Rose Bloodflame五人合唱（hololive.wiki收录）
 
 ## 关键里程碑
 
@@ -103,7 +106,8 @@
 | 2024年11月10日 | 突破20万订阅（因YouTube清理一度回落） |
 | 2024年12月16日 | 耐力歌回中达成30万订阅 |
 | 2025年10月 | 爱猫急逝，暂停部分活动 |
-| 2026年6月 | 发布最新翻唱《Sing My Pleasure》 |
+| 2026年6月 | 发布翻唱《Sing My Pleasure》 |
+| 2026年7月25日 | 3D Live 演出（seesaawiki日程记载） |
 
 ## 资料来源
 

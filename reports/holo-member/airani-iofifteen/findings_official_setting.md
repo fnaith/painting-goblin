@@ -43,6 +43,14 @@ An **alien princess** who ran away from home and came to Earth. She fell in love
 - Multilingual: speaks **Indonesian, Japanese, English, German, Korean, and "Alienish"**
 - Has **rhotacism** (difficulty pronouncing /r/ sounds)
 
+### Real-life Background (from interviews)
+- Was **homeschooled**; her sister was her only close friend growing up
+- Became a VTuber to gain more friends
+- Self-taught Japanese and English through anime, video games, and dramas
+- Can write in Hiragana and Katakana; still learning Kanji
+- Prefers her name spelled completely in lowercase: **"iofi"**
+- Has suffered from **tonsillitis** and has been reluctant to have surgery
+
 ### Official Catchphrases
 | Phrase | Meaning |
 |---|---|
@@ -81,11 +89,23 @@ An **alien princess** who ran away from home and came to Earth. She fell in love
 - High ponytail hairstyle with a large ribbon or bow accessory
 - Wears a choker and earring accessories
 
-### Alternate Outfits
+### Alternate Outfits (2D)
 1. **Indonesian-themed outfit** (revealed Aug 16, 2020) — Traditional Indonesian inspired design
 2. **Casual outfit** (self-designed with Yano Mitsuki) — More casual modern look
-3. **3D model** (revealed Mar 20, 2022 at hololive 3rd fes. Link Your Wish)
-4. **New Year outfit** (revealed Feb 4, 2023)
+3. **Dress outfit** (revealed Oct 2022)
+4. **Kimono outfit** (revealed Feb 4, 2023)
+5. **Birthday outfit** (revealed Jul 2023)
+6. **4th Anniversary outfit** (revealed Apr 2024)
+7. **"The Sea" outfit** (revealed Apr 2025)
+8. **Nurse outfit** (revealed Apr 2026)
+
+### 3D Model Variants
+1. **Default 3D** (revealed Mar 20, 2022 at hololive 3rd fes. Link Your Wish)
+2. **Bright 3D** variant
+3. **HoloSummer2023 3D** variant
+4. **Yukata 3D** variant
+5. **ID JiwaKarya 3D** variant
+6. **ColorRise 3D** variant
 
 ### Physical Appearance
 - **Height:** 150 cm (officially); speculated 145 cm by fans
@@ -110,8 +130,17 @@ An **alien princess** who ran away from home and came to Earth. She fell in love
 | 500K subscribers | December 31, 2021 |
 | 3D model debut | March 20, 2022 |
 | 600K subscribers | July 12, 2022 |
+| 700K subscribers | May 2023 |
+| 800K subscribers | July 2025 |
+
+### 3D Birthday Live Events
+| Event | Date |
+|---|---|
+| Birthday 3D Live "Galaxy Ticket" | 2024 |
+| Birthday 3D Live "Lucid Dream" | 2025 |
 
 ### Original Songs
+- "Bersama Ioforia" (composed by Rikka, Mar 15, 2021)
 - "id:entity voices" (collab with HoloID 1st Gen, 2021)
 - "Q&A=E" (2022)
 - "HI-15" (2022)
@@ -120,18 +149,35 @@ An **alien princess** who ran away from home and came to Earth. She fell in love
 - "Senandung Jiwa" (2024)
 - "Juara Khatulistiwa" (2025)
 
+### Cover Songs
+- "Alien Alien" by NayutalieN (first cover)
+- "Mozart no Tamenaru (Reloaded)" — holo27 Covers Vol.1
+- "Happy Synthesizer" — with Pochimaru
+- "Ochame Kinou" — with HoloID 1st Gen
+- "Taiyou ga Niau yo" — original by Nana Mizuki
+
 ### Hobbies & Interests
 - Gacha games ("NO GACHA NO LIFE!")
 - Rhythm games (will retry songs repeatedly for full combo)
 - Drawing and art (hosts drawing streams and art tutorials)
 - Language learning
 - Beauty/skin care discussions
+- Specific games: Arknights, BanG Dream! (favorite band: Roselia, favorite member: Minato Yukina), THE iDOLM@STER, osu!, Monster Hunter, Stardew Valley, visual novels
 
 ### Special/Regular Streams
 - Comfy drawing streams while talking with fans
 - "Area 15" — Monthly collab with gen-mates Risu and Moona
 - "IoSoRadio" — Monthly show with Tokino Sora on "Otaku Talk"
+- "Kira Kira Family" — Collab with Risu, Aragami Oga, Arurandeisu
+- "HoloFOI" — Collab with Shirakami Fubuki and Aragami Oga
+- "UniDemons" — Collab group with Aragami Oga and Deep Blizzard Miyuki
 - Karaoke and free talk streams
+
+### Time Zone
+- **JST-2 (WITA, Indonesian Central Time)**
+
+### Membership Perks ("Kira Kira Club")
+Iofi's channel membership offers tiers with perks including exclusive emotes, badges, and members-only content.
 
 ---
 
@@ -140,6 +186,8 @@ An **alien princess** who ran away from home and came to Earth. She fell in love
 1. **Official hololive PRO website (EN):** https://hololive.hololivepro.com/en/talents/airani-iofifteen/
 2. **Wikipedia — Hololive Production (redirects from Airani Iofifteen):** https://en.wikipedia.org/wiki/Hololive_Production
 3. **Hololive Fan Wiki — Airani Iofifteen:** https://hololive.wiki/wiki/Airani_Iofifteen
+4. **Virtual YouTuber Wiki (Fandom):** https://hololivevtuber.fandom.com/wiki/Airani_Iofifteen
+5. **Seesaawiki (Japanese comprehensive wiki):** https://seesaawiki.jp/hololivetv/d/Airani%20Iofifteen
 
 ---
 

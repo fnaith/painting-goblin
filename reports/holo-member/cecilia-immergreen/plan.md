@@ -22,5 +22,10 @@
 - 粉絲社群中的常見迷因
 - 有趣的軼事或事故
 
+## 指定資料來源
+- https://seesaawiki.jp/hololivetv/d/Cecilia%20Immergreen
+- https://hololive.wiki/wiki/Cecilia_Immergreen
+- https://hololivevtuber.fandom.com/wiki/Cecilia_Immergreen
+
 ## 預期產出
 整合上述三個面向的中文報告，用於同人遊戲的角色設定參考。

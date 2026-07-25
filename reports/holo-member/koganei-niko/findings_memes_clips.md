@@ -1,6 +1,6 @@
 # 小金井ニコ (Koganei Niko) — 迷因與剪輯精華研究報告
 
-> 研究日期：2026-06-21
+> 研究日期：2026-07-25
 
 ## 一、基本資料
 
@@ -84,6 +84,11 @@ DeviantArt 上出現名為「Comrade Koganei Niko」的迷因創作（作者 LaZ
 | 11月13日 | 再次站穩20萬訂閱 |
 | 12月16日 | **耐久歌回直播中達成30萬訂閱** |
 
+### 2026年
+| 日期 | 事件 |
+|------|------|
+| 7月25日 | **3D Live 演出**（seesaawiki.jp/hololivetv 日程表记载）|
+
 ### 出道效應
 
 Niko 的出道引起大量關注，首月內即從0增長至30萬訂閱，顯示出強大的初期人氣。
@@ -95,6 +100,7 @@ Niko 的出道引起大量關注，首月內即從0增長至30萬訂閱，顯示
 ### 4.1 歌回 / 翻唱
 
 - 首支翻唱：[シカ色デイズ (Dear-colored Days)](https://youtu.be/kMGNnYdZ1uU)（《鹿乃子乃子虎視眈眈》主題曲，與老虎主題完美契合）
+- 多人合作翻唱：[III Justen x Sena Remix.ver](https://youtu.be/R8eEQ_eOiXI)（翻唱宝钟玛琳×Kobo Kanaeru的III，由Niko与天音彼方、Ayunda Risu、森美声、Elizabeth Rose Bloodflame五人合唱）
 - FLOW GLOW 團體曲：[FG ROADSTER](https://youtu.be/6h1mezywMCw)、[MAKE IT, BREAK IT](https://www.youtube.com/watch?v=6h1mezywMCw)
 
 ### 4.2 耐久直播
@@ -155,7 +161,8 @@ Niko 所屬的 FLOW GLOW 是 Hololive DEV_IS 旗下的第二個團體（2024年1
 | 來源 | URL |
 |------|-----|
 | Hololive 官方網站 | https://hololive.hololivepro.com/en/talents/koganei-niko/ |
-| Hololive Fan Wiki | https://hololive.wiki/wiki/Koganei_Niko |
+| Hololive Fan Wiki (action=raw) | https://hololive.wiki/wiki/Koganei_Niko?action=raw |
+| seesaawiki.jp/hololivetv | https://seesaawiki.jp/hololivetv/ |
 | YouTube 官方頻道 | https://www.youtube.com/@KoganeiNiko |
 | Twitter（X）官方帳號 | https://twitter.com/koganeiniko |
 | DeviantArt 粉絲作品 | https://www.deviantart.com/search?q=Koganei+Niko |

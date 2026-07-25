@@ -117,6 +117,14 @@
 | **欲望に満ちた青年団**（翻唱） | Solo Cover | **231K** | |
 | **Acid Black Cherry - Black Cherry**（翻唱） | Solo Cover | **78K** | |
 
+### 翻唱作品製作人員（以《完全感覚Dreamer》為例）
+| 職位 | 人員 |
+|------|------|
+| 插圖（Illustration） | AKKE |
+| 混音（Mixing） | さぶろう |
+| 影片（Video） | こんぶ |
+| 伴奏（Instrumental） | Hayato |
+
 ### 注意事項
 以上觀看數為資料收集時的近似值，實際數字請以 YouTube 頻道為準。
 
@@ -166,6 +174,11 @@
    - Vtube Tengoku、Wiselion Clips、Vivid Clips、Ricky's TLs & Music
    - ふみ / Fumi、Dar烤肉!、Fumichi CH.符咪焼肉屋、社畜加班中
    - Hololive Cut、Hikari Clips、Holo chicken、ホロの箱庭
+
+---
+
+7. **Hololive Fan Wiki — Rindo Chihaya**
+   https://hololive.wiki/wiki/Rindo_Chihaya
 
 ---
 

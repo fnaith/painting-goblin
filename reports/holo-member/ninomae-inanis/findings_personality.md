@@ -1,7 +1,7 @@
 # Ninomae Ina'nis (一伊那尓栖) 人物研究报告
 
 > 研究日期：2026-06-21
-> 数据来源：Wikipedia、Hololive 官方 Talent 页面、Crunchyroll 采访、Anime Trending 报道、Siliconera 等
+> 数据来源：Wikipedia、Hololive 官方 Talent 页面、Crunchyroll 采访、Anime Trending 报道、Siliconera、seesaawiki.jp、hololivevtuber.fandom.com 等
 
 ---
 
@@ -65,6 +65,11 @@
 - 对 ACG 次文化有广泛且深入的涉猎，涵盖机人动画、流行摇滚、FPS 游戏等多元化领域
 - 喜欢食物是杯面 (cup noodles)
 - 患有缺铁性贫血
+- **口癖**：经常在思考时发出「humu」声，已作为订阅者专属表情（hapa-inahumu）
+- **讨厌**：青瓜、虫子、无聊
+- **人生目标**：画遍所有Hololive成员、提升日语和歌唱能力、**征服世界**（自称）
+- **Reddit版主**：是 r/Hololive 的版主之一
+- **家人**：Nini（祖母）、Mama（母亲，会看直播）、Papa（父亲，身材高大）、Nana（妹妹，会一些日语）
 
 ---
 
@@ -93,14 +98,18 @@
 
 ### 3.3 多语言能力
 - 流利使用 **英语、日语、韩语** 三语直播
+- 因加拿大背景亦会 **法语**
 - 能在直播中无缝切换语言
+- 拥有韩裔血统
 
 ### 3.4 游戏技巧
 - 擅长各类游戏，尤以 **horror 游戏** 闻名
 - 玩恐怖游戏时会抱着一只粉色兔子布偶「Burrito」壮胆
 - 玩恐怖游戏时的惊吓反应是粉丝喜爱的看点之一
 
----
+### 3.5 ACG 喜好
+- **最喜欢的轻小说**：《ビブリア古書堂の事件手帖》《86─不存在的战区》《Lord El-Melloi II 事件簿》
+- **最喜欢的动画**：《Evangelion》《刀剑神域》《银魂》《齐木楠雄的灾难》《日常》《机动战士GUNDAM UC》《3月的狮子》《来自深渊》《魔法少女小圆》
 
 ## 四、直播风格 (Streaming Style)
 
@@ -248,3 +257,5 @@ Ninomae Ina'nis 是 Hololive English 初代成员之一，以其 **温柔治愈�
 8. Los Angeles Times — MLB VTuber Feature (2025): https://www.newspapers.com/article/the-los-angeles-times-vtubers-upgrade-fr/193021156/
 9. Siliconera — Idol Showdown Character Feature: https://www.siliconera.com/see-the-hololive-en-myth-inanis-ninomae-3d-model/
 10. Crunchyroll — 1 Million Subscribers Report: https://www.crunchyroll.com/news/latest/2021/5/31/vtubers-ninomae-inanis-and-takanashi-kiara-stream-past-1-million-subs
+11. seesaawiki.jp — Hololive非官方Wiki（日本）: https://seesaawiki.jp/hololivetv/d/Ninomae%20Ina%27nis
+12. hololivevtuber.fandom.com — Hololive Fandom Wiki: https://hololivevtuber.fandom.com/wiki/Ninomae_Ina%27nis

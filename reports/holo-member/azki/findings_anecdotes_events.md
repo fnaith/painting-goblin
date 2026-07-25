@@ -73,6 +73,7 @@ AZKi 擅長為每次合作即興命名組合：
 - **FWMCAZ** — 與 FUWAMOCO
 - **AZBae** — 與 Hakos Baelz
 - **AZRyS** — 與 IRyS
+- **AZHACHI** — 與 HACHI（Live Union 所屬歌手）
 - **KoZMy** — 與博衣小夜璃（Hakui Koyori）＆雪花菈米
 
 ### 與 KAF 的跨領域合作
@@ -98,10 +99,10 @@ AZKi 自 2020 年第一屆 Hololive 祭典《Nonstop Story》起，**全勤參�
 2025 年 8 月 7 日，AZKi 與知名聲優歌手 **內田真禮** 發行合作單曲〈世界の色〉（SEKAI NO IRO）。
 
 ### 服裝演變
-AZKi 經歷了四次主要造型更替，是 Hololive 中唯一一位初代服裝被完整更換的成員。其初代設計靈感來自《攻殻機動隊》，臉頰上的標記靈感來自 Audi TT 跑車頭燈——該標記在第四代造型中被移除，象徵她突破過去的決心。
+AZKi 經歷了四次主要造型更替，是 Hololive 中唯一一位初代服裝被完整更換的成員。其初代設計靈感來自《攻殻機動隊》，臉頰上的標記靈感來自 Audi TT 跑車頭燈——該標記在第四代造型的演唱〈Over Light〉時脫落，象徵她突破過去的決心。2025年8月推出第8套服裝「Youthful Summer Fashion」；2026年4月1日則以 Live2D 版初代設計回歸作為愚人節驚喜。
 
 ### 粉絲名稱與象徵
-粉絲名為「**開拓者**」（Pioneers），代表符號為⚒️，吉祥物是一隻背負鎬與錘的粉色海狸。
+粉絲名為「**開拓者**」（Pioneers），代表符號為⚒️，吉祥物是一隻背負鎬與錘的粉色海狸。AZKi 曾開設名為「FRONTLiNE」的 Fanbox 粉絲俱樂部。
 
 ---
 

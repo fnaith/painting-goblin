@@ -18,7 +18,8 @@
 | **生日** | 7月8日 |
 | **身高** | 168 cm |
 | **角色設計** | toridamono（トリダモノ） |
-| **粉絲名** | ちはニック（Chihaniq / Nics） |
+| **Live2D 建模** | Keffiy |
+| **粉絲名** | ちはニック（Chihaniq / Nics），也稱 Nikku（ニック），源自 メカニック（mechanic） |
 | **代表色** | 青藍/水色系 |
 | **YouTube** | [@RindoChihaya](https://www.youtube.com/@RindoChihaya) |
 | **X (Twitter)** | [@rindochihaya](https://x.com/rindochihaya) |
@@ -47,7 +48,7 @@
 - 低音深沉有力，清晨剛起床的聲音是「知名珍品」
 
 ### 粉絲文化
-- 粉絲 tag：`#おしゃべりん堂`（直播）、`#みてやちはや`（推し活）、`#千速い`（創作）
+- 粉絲 tag：`#おしゃべりん堂`（直播）、`#みてやちはや`（推し活）、`#千速い`／`#もはやちはや`（創作）、`#きりとりん堂`（精華剪輯）、`#絵っちはや`（NSFW）
 - 社群氣氛溫和，粉絲多形容看她直播「安心」、「療癒」
 
 ---
@@ -184,3 +185,4 @@
 8. [Wikipedia（中文）— 輪堂千速](https://zh.wikipedia.org/wiki/輪堂千速)
 9. [pixiv百科事典 — 輪堂千速](https://dic.pixiv.net/a/輪堂千速)
 10. [推しマークMemo — 性格分析](https://www.oshimark.com/note/250101-rindo-chihaya-analysis)
+11. [Hololive Fan Wiki — Rindo Chihaya](https://hololive.wiki/wiki/Rindo_Chihaya)

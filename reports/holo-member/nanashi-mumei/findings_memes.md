@@ -42,6 +42,16 @@ A farewell play-on-words coined by Ouro Kronii at the end of the first Council c
 - Her mascot "Friend" — a paper bag with Norse runes (ᚠᚱᛁᛖᚾᛕ = "FRIEND") and eye holes.
 - Friend is canonically untrustworthy, conning Hoomans, fighting dirty, and trying to steal Mumei's powers.
 - Mumei keeps Friend "folded away" to prevent mischief ("forced hibernation").
+- Friend is also described as a "free elf" who does not want to be contained and will demand to be let out.
+
+### 7b. "Friend" Lore Expansion
+- Friend has canonically fought dirty, cheated at games, and attempted to steal Mumei's powers.
+- Mumei occasionally "unfolds" Friend for streams, leading to unpredictable chaos.
+- The paper bag design uses Elder Futhark runes spelling "FRIEND."
+
+### 7c. Hootsie
+- Hootsie is the small owl that appeared in Mumei's New Year costume basket.
+- Not as prominent as Friend, but recognized as a pet companion.
 
 ### 8. "Hoomans"
 The fan name itself became a meme — Mumei's fans are literally "owl noises + humans." Used in countless community jokes and fanart.
@@ -51,6 +61,21 @@ Her Passpartout: The Starving Artist streams produced notoriously disturbing "ar
 
 ### 10. The Haato-Mumei "War"
 In March 2022, Mumei and Akai Haato engaged in a Twitter "war" (playful threats). Mumei claimed it had been "multiple centuries" since she last participated in a war, referencing her 1346 Black Death era fleas anecdote.
+
+### 11. Twitter Account Restricted at Debut
+Upon her debut, Mumei's Twitter account was temporarily restricted because the massive surge in new followers was mistaken for bot activity by Twitter's automated systems.
+
+### 12. McDonald's Fence Incident
+Mumei admitted on stream that she reversed her car into a McDonald's fence. The story became a recurring joke in the community because of how casually she mentioned it.
+
+### 13. "Free elf" Friend
+Friend the paper bag was described as a "free elf" who resents being folded up and demands liberation. This expanded the lore of Friend as an unwilling captive rather than just a mischievous mascot.
+
+### 14. Live2D 3.0 Upgrade (Feb 15, 2025)
+Mumei showcased a Live2D 3.0 upgrade in a dedicated stream during her final months. The improved model featured smoother movements and enhanced facial expressions, a notable technical milestone.
+
+### 15. Birthday = International Owl Awareness Day
+Mumei's birthday (August 4) coincidentally falls on International Owl Awareness Day, a fact the community found perfectly fitting for the owl-themed Guardian of Civilization.
 
 ---
 
@@ -78,6 +103,13 @@ In March 2022, Mumei and Akai Haato engaged in a Twitter "war" (playful threats)
 - Featured all current HoloEN members performing her song "mumei."
 - Stream was temporarily hit by a Sony Music copyright takedown (retracted after 5 days).
 - Source: https://www.youtube.com/watch?v=tTABc1SlO8U
+
+### **Post-Graduation Cover Uploads**
+- After graduation, several of Mumei's cover songs were re-uploaded to other Hololive members' channels:
+  - **Anya Melfissa** (Aug 5, 2025) — "Fragile" cover
+  - **Ninomae Ina'nis** (Oct 28, 2025) — cover
+  - **IRyS** (Oct 28, 2025) — cover
+- Members-only content was discontinued on July 28, 2025.
 
 ---
 
@@ -170,3 +202,5 @@ In March 2022, Mumei and Akai Haato engaged in a Twitter "war" (playful threats)
 - https://www.youtube.com/watch?v=M2gwJ-7s0Zo (Debut stream)
 - https://www.youtube.com/watch?v=RQAlW4yR28k (Monetization stream)
 - https://www.youtube.com/watch?v=tTABc1SlO8U (Graduation stream)
+- Seesaawiki (JP): https://seesaawiki.jp/hololive/d/%c6%bb%bb%fa%a5%e0%a5%e1%a5%a4
+- Hololive Wiki: https://hololive.wiki/wiki/Nanashi_Mumei

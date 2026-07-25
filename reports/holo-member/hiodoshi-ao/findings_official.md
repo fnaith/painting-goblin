@@ -16,6 +16,7 @@
 | **生日** | 2月27日 |
 | **年齡** | 25歲 |
 | **身高** | 171 cm |
+| **血液型** | A 型 |
 | **粉絲名稱** | Ao-tomo（読者）/ Hime（火女）/ Hyottoko（火男） |
 | **官方粉絲名稱 (EN)** | Scholars |
 | **粉絲標記** | 🖋️（鋼筆） |
@@ -116,6 +117,7 @@
 - **2023年9月9日** — 作為 ReGLOSS 首位成員出道
 - **2023年9月11日** — 發行出道團體單曲《Shunkan Heartbeat》
 - **2024年3月24日** — 發行個人單曲《Symmetry》
+- **2024年9月28日** — 3D 模型初披露「ReGLOSS 3D LIVE - Reach the top」
 - **2025年10月3日** — Cover 公司宣布火威青畢業，即日生效（無畢業直播）
 
 ---
@@ -127,6 +129,8 @@
 - 愛好是畫畫，職業也是畫畫（設定上是漫畫家）
 - 是 hololive DEV_IS 旗下首個團體 ReGLOSS 的成員之一
 - 2025年10月3日畢業，是 ReGLOSS 中首位也是唯一一位畢業的成員
+- 血液型 A 型（Seesaawiki 記錄）
+- 3D 模型於 2024年9月28日「Reach the top」演唱會初披露
 
 ---
 
@@ -138,3 +142,5 @@
 - [hololive 官方網站 - Hiodoshi Ao (JP)](https://hololive.hololivepro.com/talents/hiodoshi-ao/)
 - [YouTube 頻道 - Ao Ch. 火威青](https://www.youtube.com/@HiodoshiAo)
 - [Twitter（X） - @hiodoshiao](https://twitter.com/hiodoshiao)
+- [Hololive Fandom Wiki - Hiodoshi Ao](https://hololivevtuber.fandom.com/wiki/Hiodoshi_Ao)
+- [Seesaawiki - 火威青](https://seesaawiki.jp/hololivetv/d/%B2%D0%B0%D2%C0%C4)

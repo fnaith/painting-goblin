@@ -7,8 +7,8 @@
 | 名稱 | 雪花ラミィ (Yukihana Lamy) |
 | 暱稱 | Wamy (ワミィ), Nyamy (貓形態), 雪媽 |
 | 出道日 | 2020年8月12日 |
-| 生日 | 11月15日 |
-| 年齡 | 210歲 (設定) |
+| 生日 | 11月15日（1810年11月15日） |
+| 年齡 | 210歲 (設定)，截至2025年為215歲 |
 | 身高 | 158 cm |
 | 所屬 | hololive 5期生 (NePoLaBo) |
 | 繪師 | Rin☆Yuu |
@@ -31,7 +31,8 @@
 - 需要時也能大膽果斷
 - 超級愛喝酒，但聲稱自己不太能喝
 - **反差**: 酒豪卻意外健康；端莊外表下是迷糊內在
-- 喜歡催淚和穿越時空的動畫
+- 被認為是hololive中最「清純(seiso)」的成員
+- 喜歡催淚和穿越時空的動畫（Steins;Gate、Re:Zero、Charlotte、Angel Beats!、Anohana、Violet Evergarden等）
 
 ## 亮點成就
 
@@ -46,8 +47,10 @@
 - **晨間直播**: 每工作日早上9點（聊天或遊戲）
 - **夜間直播**: 每週6天，晚上10-11點開始（喝酒聊天、ASMR、遊戲）
 - **超長直播**: 經常長達5小時
-- **招牌ASMR**: 以其柔和聲線進行 ASMR 直播為一大賣點
+- **招牌ASMR**: 以其柔和聲線進行 high-quality ASMR 直播為一大賣點
+- **ASMR設備**: KU100、3Dio Free Space Pro II/XLR 雙耳麥克風、NEUMANN TLM103 電容麥克風、Steinberg UR22C / YAMAHA AG03MK2 音效介面、SHURE SE535-CL 監聽耳機
 - **不擅長**: 恐怖遊戲（容易被嚇哭，與獅白牡丹的互動尤其有趣）
+- **擅長遊戲**: Minecraft、ARK、GTA V、Elden Ring 等
 
 ## 官方Q&A小知識（角色塑造用）
 
@@ -66,7 +69,7 @@
 - **繪畫**: 雪夜月系列酒標書法為本人親筆
 
 ### 夥伴/寵物
-- **大福 (Daifuku)** — 白色不明生物，可作為遊戲中的跟隨寵物
+- **大福 (Daifuku)** — 白色不明生物，被稱為「雪之妖精」，住在一個花盆裡。可作為遊戲中的跟隨寵物／妖精夥伴
 
 ### 招牌台詞
 - こんらみ (Konlamy) — 打招呼
@@ -79,9 +82,9 @@
 
 ### 代表性事件（可作為遊戲支線素材）
 - **雪夜月清酒計畫**: 從學習釀酒到開發三款得獎清酒（2021-2025）
-  - 大吟釀 雪夜月（2021）— IWC 2022 銅牌
-  - 純米大吟釀 雪夜月 Favorite Model（2022）— IWC 2023 銅牌
-  - 微發泡 美八宝 雪夜月（2024）— IWC 2025 銀牌
+  - 大吟釀 雪夜月（2021）— IWC 2022 銅牌。山田錦米、精米步合50%、酵母1801號、17% ABV
+  - 純米大吟釀 雪夜月 Favorite Model（2022）— IWC 2023 銅牌。山田錦米、精米步合40%、17% ABV
+  - 微發泡 美八宝 雪夜月（2024）— IWC 2025 銀牌。13% ABV、微甜氣泡感，入門款
   - 酒標書法為Lamy親筆
 - **百萬訂閱達成**: 2022年5月21日
 - **Hololive ERROR跨界**: 在官方恐怖遊戲中以「雪原凍花」身份登場
@@ -108,10 +111,16 @@
 
 ## 視覺設計要點
 - **配色**: 白色、雪藍色、銀色為主
+- **品牌色碼**: #48b5e3（主色）、#6bcdf8（輔色）
 - **雪/冰主題**: 服裝設計帶有雪花、冰晶元素
 - **特點**: 158cm平均身高，溫柔系外貌，端莊貴族氣質
+- **服裝**: 初始雪國貴族裝 → 第2套白色休閒洋裝 → 第3套新年貓咪裝
+- **Live2D**: 入江燈（初版）、jenny（Ver.3.0更新）
+- **3D模型**: pfy（2021年1月24日公開）
 
 ## 資料來源
 - hololive官方網站: https://hololive.hololivepro.com/en/talents/yukihana-lamy/
 - Hololive Fan Wiki: https://hololive.wiki/wiki/Yukihana_Lamy
+- Hololive VTuber Fandom Wiki: https://hololivevtuber.fandom.com/wiki/Yukihana_Lamy
+- Seesaawiki Hololive TV: https://seesaawiki.jp/hololivetv/d/%C0%E3%B2%D6%A5%E9%A5%DF%A5%A3
 - YouTube頻道: Lamy Ch. 雪花ラミィ (UCFKOVgVbGmX65RxO3EtH3iw)

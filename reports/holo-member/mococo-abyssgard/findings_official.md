@@ -1,7 +1,7 @@
 # Mococo Abyssgard（モココ・アビスガード）— 官方資料調查報告
 
-> 調查日期：2026-06-21
-> 來源：Hololive 官方網站、Hololive Fan Wiki
+> 調查日期：2026-07-25
+> 來源：Hololive 官方網站、Hololive Fan Wiki、Seesaawiki.jp、Hololivevtuber Fandom
 
 ---
 
@@ -11,6 +11,7 @@
 |------|------|
 | **日文名** | モココ・アビスガード |
 | **英文名** | Mococo Abyssgard |
+| **中文名** | 茸茸·阿比斯加德（Rong Rong Abisijiade） |
 | **所屬團體** | hololive English -Advent-（第 4/5 期生，以雙人組 FUWAMOCO 形式出道） |
 | **生日** | 2 月 2 日 |
 | **身高** | 155 cm |
@@ -33,6 +34,10 @@ Mococo 的設計主題圍繞「**惡魔看門犬**」，特徵包括：
 - **配色主題色**：粉紅色（🩷），與姐姐 Fuwawa 的藍色（💙）相對應
 - **代表 emoji / Oshi Mark**：🐾🩷（肉球 + 粉愛心）
 - **整體形象定位**：「The Fuzzy One」（毛茸茸的那位）
+
+### 語源
+
+名字「Mococo」源自日文擬聲詞「もこもこ (mokomoko)」，意為「毛茸茸的」，與其「毛茸茸的那位」角色定位相符。
 
 ### 已知服裝變裝
 
@@ -79,6 +84,8 @@ Mococo 與 Fuwawa 在 Advent 中負責帶來**活潑、治癒、搞笑**的氛�
 | **結尾問候** | "We hope you have a *howl* of a day! BAU BAU!" |
 | **雙人開場** | "Together we're... FUWAMOCO! BAU BAU!" |
 | **招牌叫聲** | "BAU BAU!"（🐾）— 觀眾也以此互動 |
+| **聊天室表情** | MOCOhuh、BAU、BAUBAU、BAUDOL、FWMCMococo 等 — 聊天室常用自訂 emoji |
+| **語尾特色** | Mococo 語尾常帶「え」(eh)音，例如「No」說成「Noeh」、「Mococo」說成「Mococoeh」 |
 
 ---
 
@@ -107,6 +114,17 @@ Mococo 與 Fuwawa 在 Advent 中負責帶來**活潑、治癒、搞笑**的氛�
 - 2023 年獲得 The Vtuber Awards「League of Their Own」獎項
 - 2024 年獲得 The Vtuber Awards「Vtuber Of The Year」獎項
 - YouTube 訂閱數已突破 **100 萬**（2024 年 10 月 12 日達成）
+- **2025年生日 LIVE**（2025年2月）：邀請多位 hololive 成員作為嘉賓
+- **2026年1月**：發布原創曲《Breakout》
+- **2026年3月20日**：Fuwawa 接受手術住院，Mococo 首次單獨直播
+- **2026年2月2日**：舉辦 3D 生日 LIVE
+- **2026年7月3-4日**：hololive English 4th Concert「Serendipity」
+- **TV 動畫合作**：演唱《FAILED PRINCESS》ED 主題曲
+- **電視出演**：出演テレビ東京《しおこうじのおと》
+- **CP 名稱**：FUWAMOCALLI（× Koseki Bijou）、Diamond Dogs（× Moona Hoshinova）
+- **Chat Emoji**：MOCOhuh、BAU、BAUBAU 等聊天室表情
+- **更多綽號**：もこじゅあん (Mogojyan)、もごご (Mogogo)、元子 (Moko-chan)、もちもち (Mochimochi)、もふもふ (Mofumofu)
+- **父母**：Papa-Puppy（父親）、Mama-Puppy（母親）— 曾於直播中被提及並觀看直播
 
 ---
 
@@ -116,3 +134,5 @@ Mococo 與 Fuwawa 在 Advent 中負責帶來**活潑、治癒、搞笑**的氛�
 - Hololive Fan Wiki — FUWAMOCO：https://hololive.wiki/wiki/FUWAMOCO
 - YouTube FUWAMOCO 官方頻道：https://www.youtube.com/@FUWAMOCOch
 - X (Twitter) 官方帳號：https://twitter.com/fuwamoco_en
+- [Seesaawiki.jp - FUWAMOCO](https://seesaawiki.jp/hololivetv/d/FUWAMOCO)
+- [Hololivevtuber Fandom - Mococo Abyssgard](https://hololivevtuber.fandom.com/wiki/Mococo_Abyssgard)

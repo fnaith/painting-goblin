@@ -178,10 +178,71 @@ Compared to many other Hololive members, Nakiri Ayame has maintained a **relativ
 
 ---
 
+## 9. Additional Anecdotes (from Hololive Fan Wiki)
+
+### "Docchi Docchi" Song Origin
+During a Minecraft stream, Ayame got lost and didn't know which way to go. She kept asking chat "Docchi? Docchi?" (どっち？どっち？ — "Which way? Which way?"). This became a fan-made remix/MAD (music anime douga) video that went viral. She later officially released it as a song on her YouTube channel. It has since become one of her most iconic meme songs.
+
+### "Shimakeshi" (島壊し / 島潰し) — Island Destroyer
+In a Minecraft stream while searching for treasure using a treasure map, she got frustrated and systematically destroyed an entire island in Minecraft block by block. This led to the "Shimakeshi" meme — a portmanteau of "shima" (島, island) and "kowashi" (壊し, destroy), or alternatively "tsubushi" (潰し, crush). Fans created the phrase "You walk into a bar and see Ayame destroying an island" as a running joke.
+
+### Legendary Gaming Luck
+Ayame has exhibited extreme luck in multiple gaming sessions:
+- **Minecraft**: Mined a vein of 11 diamonds from a single block (extremely rare, ~0.7% chance for this outcome from a single ore vein)
+- **Minecraft**: Mined a "silk touch" enchanted book from a fishing catch
+- **Apex Legends**: Obtained a rare Heirloom Shard from a regular Apex Pack (0.2% drop rate)
+- Her guildmates have nicknamed her "luckiest member"
+- Considered **possibly the best builder in Hololive** for Minecraft
+
+### Subscriber Milestones (Detailed)
+| Milestone | Date | Notes |
+|-----------|------|-------|
+| 100K subscribers | 2019-04-17 | |
+| 200K | 2019-10-27 | |
+| 300K | 2020-02-07 | |
+| 400K | 2020-04-28 | |
+| 500K | 2020-07-19 | |
+| 600K | 2020-10-09 | |
+| 700K | 2020-12-14 | Birthday stream |
+| 800K | 2021-03-27 | |
+| 900K | 2021-08-02 | |
+| 1M | 2021-11-25 | 1 million subscribers |
+| 1.1M | 2022-06-16 | |
+| 1.2M | 2023-03-09 | |
+| 1.3M | 2023-12-30 | |
+| 1.4M | 2024-07-19 | |
+| 1.5M | 2025-11-20 | |
+
+### Recent Milestones (2025-2026)
+| Date | Event |
+|------|-------|
+| 2025-03-07 | hololive 6th Fes. "Color Rise Harmony" |
+| 2025-05-10 | Main visuals updated (new key art) |
+| 2025-09-03 | 7th Anniversary — new 3D outfit revealed |
+| 2025-11-20 | Military uniform Live2D outfit (1.5M sub celebration) |
+| 2025-12-31 | Countdown Live 2025→2026 |
+| 2026-02-14 | Magical girl themed Live2D outfit revealed |
+| 2026-03-07 | hololive 7th Fes. "Ridin' on Dreams" |
+
+### Colllaborations with Games/Brands
+- **Dawn of the Breakers** (CyberStep) — Collaboration
+- **Azur Lane** — Collaboration (in-game ship character)
+- **Hololive Alternative** — Official manga appearance
+- **The Eminence in Shadow: Master of Garden** — Collaboration event
+
+### Other Trivia
+- She has a verified YouTube channel (verified badge)
+- Her membership perks include original stamps, pre-stream voice content, and membership-only streaming
+- She is allergic to watermelon and melon
+- In the fan community, there is a tradition of chanting "Ayame!" with her responding "Ayame desu!" when cheering
+
+---
+
 ## Source URLs
 
 - https://hololive.hololivepro.com/en/talents/nakiri-ayame/ — Official Hololive talent profile
 - https://en.wikipedia.org/wiki/Hololive_Production — Hololive Production overview
+- https://hololive.wiki/wiki/Nakiri_Ayame — Hololive Fan Wiki (comprehensive details)
 - Original songs and music videos on YouTube via Hololive official channels
 - Various Hololive fes events as documented on official hololive channels and Wikipedia
 

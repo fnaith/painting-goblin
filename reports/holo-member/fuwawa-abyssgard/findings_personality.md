@@ -138,6 +138,17 @@ Fuwawa 與 Mococo Abyssgard 是**同卵雙胞胎**（identical twins），生日
 - 2024年獲得 The Vtuber Awards「Vtuber Of The Year」獎項
 - 2024年10月12日達成 YouTube 100萬訂閱（銀盾）
 - 出道後迅速成長，短時間內達成多項訂閱里程碑（35萬、40萬、50萬、70萬、80萬、90萬、100萬）
+- 2025年1月11日：Hololive 猜拳錦標賽冠軍，贏得100萬日圓獎金
+- 2025年1月16日：公開 Baufit 運動造型
+- 2025年10月31日：Ducky x FUWAMOCO 聯名鍵盤發售
+- 2026年3月15日：公開 Pajamas 睡衣造型
+- 2026年7月3日～4日：參加 hololive English 4th Concert「Serendipity」
+
+### 原創歌曲里程碑
+- 2026年1月：〈Breakout〉發表
+- 2026年2月：〈What Goes Around〉發表
+- 2026年3月：〈Unchained〉發表
+- 2026年4月：〈Mekurumeku Rendezvous〉發表
 
 ---
 
@@ -147,3 +158,5 @@ Fuwawa 與 Mococo Abyssgard 是**同卵雙胞胎**（identical twins），生日
 - Hololive Fan Wiki（FUWAMOCO 頁面）：https://hololive.wiki/wiki/FUWAMOCO
 - FUWAMOCO YouTube 頻道：https://www.youtube.com/@FUWAMOCOch
 - 官方 Twitter（X）：https://twitter.com/fuwamoco_en
+- Seesaawiki（FUWAMOCO 非官方維基）：https://seesaawiki.jp/hololive/d/FUWAMOCO
+- Hololive VTuber Fandom Wiki：https://hololivevtuber.fandom.com/wiki/Fuwawa_Abyssgard

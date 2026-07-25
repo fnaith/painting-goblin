@@ -61,6 +61,9 @@ Mococo Abyssgard 是「惡魔看門犬」雙胞胎中的妹妹，與姐姐 Fuwaw
 | **I'm not Fuwawa, I'm Mococœ!** | 自我介紹台詞 |
 | **We hope you have a *howl* of a day!** | 結尾道別用語（雙關語：howl = 嚎叫 / whole） |
 | **Ruffians** | 粉絲稱呼，由「ruffian」（惡棍）和「ruff」（狗叫聲）組合而成。這個名稱是 Mococo 某天早上隨機想出來的 |
+| **語尾特色（え／eh）** | Mococo 語尾常帶「え」(eh)音，例如「No」說成「Noeh」、「Mococo」說成「Mococoeh」，已成為其標誌性說話風格 |
+| **自稱「Boss」** | Mococo 有時會自稱「Boss」，展現其自信、隨性的一面 |
+| **⤵︎ 表情符號** | Mococo 經常使用「⤵︎」符號，與她的語尾「eh」和調皮個性相呼應 |
 
 ---
 
@@ -152,6 +155,7 @@ Mococo Abyssgard 是「惡魔看門犬」雙胞胎中的妹妹，與姐姐 Fuwaw
 - 擁有 3D 模型，建模師為 Amanoern
 - Ducky 曾於 2025年10月推出 FUWAMOCO 聯名限量鍵盤，紀念出道二週年
 - Ruffians 名稱是 Mococo 某天早上醒來時隨機想到的
+- **更多綽號**：もこじゅあん (Mogojyan)、もごご (Mogogo)、元子 (Moko-chan)、もちもち (Mochimochi)、もふもふ (Mofumofu)
 
 ### 常用 Hashtag 一覽
 
@@ -168,12 +172,33 @@ Mococo Abyssgard 是「惡魔看門犬」雙胞胎中的妹妹，與姐姐 Fuwaw
 
 ---
 
+---
+
+## Call/Response 互動腳本
+
+| 發起方 | 內容 | 回應 |
+|--------|------|------|
+| Mococo | "Moco?" | "Moco!" |
+| FUWAMOCO | "BAU" | "BAU!" |
+| Mococo | "え〜" (eh~) | 觀眾模仿語尾 |
+| Mococo | "Boss?" | "Boss!"（粉絲回應） |
+
+## 互動文化說明
+
+- **「eh」語尾模仿**：粉絲在聊天室中經常模仿 Mococo 的「え」語尾，形成獨特的社群語言
+- **⤵︎ 符號文化**：粉絲也會使用「⤵︎」符號來與 Mococo 互動，呼應她的個人標誌
+- **Call/Response 文化**：Mococo 與 Ruffians 之間發展出多種 call/response 模式，增強直播互動性
+
+---
+
 ## 資料來源
 
 - [hololive 官方網站 - Mococo Abyssgard](https://hololive.hololivepro.com/en/talents/mococo-abyssgard/)
 - [Hololive Fan Wiki - FUWAMOCO](https://hololive.wiki/wiki/FUWAMOCO)
 - [YouTube: FUWAMOCO Ch. hololive-EN](https://www.youtube.com/@FUWAMOCOch)
 - [X (Twitter): @fuwamoco_en](https://twitter.com/fuwamoco_en)
+- [Seesaawiki.jp - FUWAMOCO](https://seesaawiki.jp/hololivetv/d/FUWAMOCO)
+- [Hololivevtuber Fandom - Mococo Abyssgard](https://hololivevtuber.fandom.com/wiki/Mococo_Abyssgard)
 - [YouTube: FUWAMOCO 出道直播（2023.07.31）](https://www.youtube.com/watch?v=Kttt7pb5o6I)
 - [YouTube: FUWAMOCO Q&A 直播（2023.08.02）](https://www.youtube.com/watch?v=AL3FAfr8FGc)
 - [The Vtuber Awards 官方網站](https://thevtuberawards.com/)

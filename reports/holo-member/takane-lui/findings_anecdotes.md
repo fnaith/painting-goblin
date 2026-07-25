@@ -69,11 +69,45 @@ A major milestone achieved roughly 3 years after debut. The slow-but-steady grow
 ### 4.5 Live2D ver.3.0 Update (July 27, 2023)
 Her main Live2D model received a significant visual update, improving quality and expressiveness.
 
-### 4.6 holoX 4th Anniversary 3D Live
+### 4.6 New Year's Outfit Reveal (January 1, 2022)
+Lui revealed a special New Year costume on January 1, 2022, featuring traditional Japanese New Year attire.
+
+### 4.7 holoX 4th Anniversary 3D Live
 Participated in the Secret Society holoX 4th anniversary 3D live event with a major announcement component.
 
-### 4.7 "holoX MEETing" Manga
+### 4.8 "holoX MEETing" Manga
 Lui is featured as a character in the official Hololive manga series "holoX MEETing," serialized in **Shounen Jump Plus**, alongside La+ Darknesss, Hakui Koyori, Sakamata Chloe, and Kazama Iroha.
+
+---
+
+## 4.9 Discography
+
+### Original Songs (Solo)
+
+| Title | Release Date | Notes |
+|-------|-------------|-------|
+| **Jouya Repaint (浄夜リペイント)** | December 24, 2022 | Debut original song |
+| **Kyouen Solidarity〜SHAKE★NABE〜 (狂宴連盟〜SHAKE★NABE〜)** | March 11, 2023 | Collab song |
+| **Labyrinthine Labyrinth (ラビリンス・ラビリンス)** | July 19, 2024 | Solo original |
+| **Cho Yume Dodekkai！ (超夢ドデッカイ！)** | July 20, 2024 | Solo original |
+
+### Cover Songs (Solo)
+
+| Title | Original Artist | Notes |
+|-------|----------------|-------|
+| **EYE** | Kanaria | Solo cover |
+| **Love ka? (Loveか？)** | - | Solo cover |
+| **Phony (フォニイ)** | Tsumiki | Solo cover |
+| **MIRA** | Kanaria | Solo cover |
+| **Prologue (プロローグ)** | - | Solo cover |
+
+### Cover Songs (Collab)
+
+| Title | Partners | Notes |
+|-------|----------|-------|
+| **Ochame Kinou (おちゃめ機能)** | La+ Darknesss, Hakui Koyori, Sakamata Chloe, Kazama Iroha | holoX group cover |
+| **Identity (アイデンティティ)** | Nekomata Okayu | Duo cover |
+| **Hikarunara (光ルナ)** | Roboco, Yozora Mel, Sakamata Chloe, Tokoyami Towa | Multi-member cover |
 
 ---
 

@@ -28,21 +28,25 @@
 | 600,000 | February 7, 2022 | |
 | 700,000 | July 12, 2022 | |
 | 800,000 | March 13, 2023 | |
-| **~1,000,000** | **Approaching** | Currently ~1M subscribers |
+| 900,000 | November 12, 2024 | |
+| **1,000,000** | **June 14, 2026** | Diamond Play Button |
 
 ### 1.3 3D Model Debuts
 
 - **March 20, 2022** — 3D model revealed at **hololive 3rd fes. Link Your Wish**.
 - **September 18, 2022** — Main 3D outfit showcased in a dedicated stream.
+- **January 15, 2025** — 3D Birthday Live **"Risu's Isekai Express : Special Performance Delivery"**.
+- **March 8, 2025** — hololive 6th fes. performance.
+- **March 7, 2026** — hololive 7th fes. performance.
 
 ### 1.4 Streaming Statistics
 
-- **Subscribers:** ~1,000,000
-- **Total video views:** ~94,600,000
-- **Total videos uploaded:** 1,692 (~7 per week)
+- **Subscribers:** 1,000,000 (as of June 14, 2026)
+- **Total video views:** ~94,600,000+
+- **Total videos uploaded:** 1,692+ (~7 per week)
 - **Average live viewers:** 2,036 (HIGH)
 - **Peak live viewers:** 18,304 (VERY HIGH)
-- **Lifetime Super Chat revenue:** NT,990,000 (~US90,000)
+- **Lifetime Super Chat revenue:** NT$990,000+ (~US$90,000)
 
 ---
 ## 2. Notable Collaborations
@@ -76,7 +80,20 @@ Risu was selected as one of three **Hololive Meet Ambassadors**, alongside **Tok
 - She expressed a strong desire to collab with **Inugami Korone**.
 - She proudly showcases her trilingual abilities (Indonesian, English, Japanese).
 
-### 2.5 Group Songs
+### 2.5 Anniversaries & Costumes
+
+- **April 10, 2025** — 5th anniversary, special costume "THE EARTH".
+- **April 10, 2026** — 6th anniversary, new anniversary costume.
+
+### 2.6 Festival Performances
+
+- **hololive 3rd fes. Link Your Wish** (March 20, 2022) — 3D debut.
+- **hololive 5th fes.** (March 16, 2024).
+- **hololive 6th fes.** (March 8, 2025).
+- **hololive 7th fes.** (March 7, 2026).
+- **ID 5th Anniversary LIVE Chromatic Future** (November 15, 2025).
+
+### 2.7 Group Songs
 
 Risu has participated in **Hololive IDOL PROJECT** group songs:
 - HI-15 (AREA 15 group song)
@@ -140,6 +157,19 @@ This vocal range is one of her most celebrated skills.
 
 - Her stated favorite nut is **cashews**.
 
+### 3.10 ALiCE&u / Alice Name Origin
+
+- Risu once stated she originally planned to name herself **Alice**.
+- This is hinted in her debut original song title **ALiCE&u** (ALiCE = Alice).
+
+### 3.11 Korone & Okayu's Child (Running Joke)
+
+- A popular fan joke that Risu is the child of **Inugami Korone** (dog) and **Nekomata Okayu** (cat) — a cat and dog raising a squirrel (rodent) daughter.
+
+### 3.12 4-Ears Confirmation
+
+- In a Q&A, Risu confirmed her in-universe design includes **4 ears**: 2 human ears + 2 squirrel ears on top of her head.
+
 ---
 ## 4. IRL Backstory & Biography Details
 
@@ -176,16 +206,18 @@ Key elements:
 
 | Song Title | Release Date |
 |-----------|-------------|
-| **ALiCE&u** | January 2022 |
-| **1:15 AM** | April 2023 |
-| **Sing Out** | October 2023 |
-| **metropolis** | TBD |
-| **MIR//or** | TBD |
-| **As Star Fall** | TBD |
-| **Senandung Jiwa** | TBD |
-| **Juara Khatulistiwa** | TBD |
-| **HI:STREET TIME** | TBD |
-| **Show Them (Who You Are)** | TBD |
+| **ALiCE&u** | January 16, 2022 |
+| **1:15 AM** | April 13, 2023 |
+| **Sing Out** | October 31, 2023 |
+| **Dramatic XViltration** (AREA15) | April 15, 2024 |
+| **HI:STREET TIME** | July 2, 2024 |
+| **Senandung Jiwa** | August 18, 2024 |
+| **metropolis** | January 16, 2025 |
+| **Juara Khatulistiwa** (hololive Indonesia) | April 7, 2025 |
+| **染められタイム!!** (hololive IDOL PROJECT) | July 10, 2025 |
+| **Show Them (Who You Are)** | November 9, 2025 |
+| **MIR//or** | November 22, 2025 |
+| **星が降る / As Star Fall** | January 16, 2026 |
 
 ### 5.2 Notable Covers
 
@@ -203,6 +235,8 @@ Key elements:
 
 - Hololive Official Profile: https://hololive.hololivepro.com/en/talents/ayunda-risu/
 - Hololive Fan Wiki: https://hololive.wiki/wiki/Ayunda_Risu
+- Hololive VTuber Fandom Wiki: https://hololivevtuber.fandom.com/wiki/Ayunda_Risu
+- Seesaawiki (JP): https://seesaawiki.jp/hololivetv/d/Ayunda%20Risu
 - Playboard Analytics: https://playboard.co/en/channel/UCOyYb1c43VlX9rc_lT6NKQw
 - Wikipedia: https://en.wikipedia.org/wiki/Hololive_Production
 

@@ -17,11 +17,21 @@
 | 项目 | 内容 |
 |------|------|
 | **生日** | 6月7日 |
+| **年龄** | 24岁 |
 | **身高** | 155 cm |
 | **初配信日** | 2023年9月10日 |
+| **频道创建日** | 2023年7月21日 |
 | **粉丝名称** | 真っす組 (Massugumi) |
+| **频道会员名称** | ぶんぶん部 (Bunbun bu) |
 | **推しマーク（应援标记）** | 🐧⚡ |
 | **角色设计/插画师** | Aちき (Achiki) [Twitter: @atikix](https://twitter.com/atikix) |
+| **共同绘师** | 与VSPO!一之瀬うるは（Ichinose Uruha）同为Aちき设计 |
+
+## 名称由来
+
+- **轟（Todoroki）**：意为"咆哮、呐喊、轰鸣"（Roar / Yell / Peal）
+- **はじめ（Hajime）**：意为"开始"（begin / start）
+- 全名组合暗示"以一声轰鸣开始"，与角色设定（番长）高度契合
 
 ## 官方设定/角色背景
 
@@ -35,10 +45,10 @@
 ## 外貌/服装描述
 
 根据官方立绘（2023年9月初版设计），她的形象特征包括：
-- 白发/浅色短发造型
-- 身着以白色、红色和黑色为主色调的服装
+- 发色为极浅的金色（近乎白色），渐变为浅紫色；短鲍伯头扎成两个半马尾
+- 身着金属紫色外套内搭白色T恤，配以红黑色调细节
 - 服装风格带有"番长"气质，融合了日式番长外套元素与现代风格
-- 戴红色围巾
+- 红色围巾为标志性配饰
 - 后期追加了眼镜造型的版本（2024年10月更新）
 
 ## 社群标签
@@ -50,6 +60,14 @@
 
 - YouTube频道: [@TodorokiHajime](https://www.youtube.com/@TodorokiHajime)
 - X (Twitter): [@todoroki_hajime](https://twitter.com/todoroki_hajime)
+
+## 翻唱曲
+
+| 曲名 | 原唱 | 备注 |
+|------|------|------|
+| 食虫植物 (Carnivorous Plant) | RIM | 个人翻唱 |
+| ツッパリHigh School Rock'n Roll (Delinquent High School Rock'n Roll) | Yokohama Ginbae | 个人翻唱 |
+| 愛のしるし | PUFFY | ReGLOSS全员翻唱 |
 
 ## 发行音乐作品（部分）
 
@@ -76,6 +94,8 @@
 - YouTube 频道: https://www.youtube.com/@TodorokiHajime
 - X (Twitter): https://twitter.com/todoroki_hajime
 - 角色设计师 Aちき: https://twitter.com/atikix
+- hololive.wiki: https://hololive.wiki/wiki/Todoroki_Hajime
+- hololivevtuber.fandom.com: https://hololivevtuber.fandom.com/wiki/Todoroki_Hajime
 
 ## 备注
 

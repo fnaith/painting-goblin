@@ -1,22 +1,30 @@
-# Otonose Kanade (乙ノ瀬かなで) Research Plan
+# Otonose Kanade Research Plan
 
 ## Main Research Question
-尋找Hololive成員Otonose Kanade的相關資料，包含官方設定/個人特色/上過精華的梗/相關軼事等，用於製作同人遊戲的設定，輸出中文報告
+Hololive DEV_IS ReGLOSS member Otonose Kanade's comprehensive profile for fan-game creation: official settings, personal characteristics, popular clips/memes, and anecdotes.
 
-## Subtopic 1: Official Profile & Settings
-- Hololive所屬、出道日期、所屬團體(ReGLOSS)
-- 官方角色設計、服裝、設定
-- 角色主題色、代表符號、自我介紹詞
+## Subtopic 1: Official Profile & Basic Info
+- Hololive DEV_IS ReGLOSS affiliation, debut date (Sep 9, 2023)
+- Official character design, outfit, and visual motifs (piano/music theme)
+- Character lore/setting (aspiring musician)
+- Basic stats: birthday April 20, height 153cm, age 20
+- VTuber model info: Illustrator gomzi, Live2D Otsukue
+- Fan name: Otonozei, Emoji: 🎹✨
 
-## Subtopic 2: Personal Characteristics & Quirks
-- 性格、說話方式、聲線特徵
-- 擅長的事情、興趣嗜好
-- 直播風格、與其他成員的互動
+## Subtopic 2: Personality, Characteristics & Streaming Style
+- Voice traits and speech patterns (greeting: こんのせ, farewell: おつのせ)
+- Personality description (energetic, playful, bratty, expressive)
+- Streaming content types (karaoke, gaming, chatting)
+- Notable skills: singing, multi-lingual (JP/KR/EN)
+- Fan community name and interactions (calls fans おまえら)
 
-## Subtopic 3: Memes, Clips & Anecdotes
-- 有名精華剪輯、粉絲間流傳的梗
-- 經典事件、有趣軼事
-- 粉絲社群文化相關
+## Subtopic 3: Memes, Popular Clips & Anecdotes
+- "Otonose Monday" nickname and Sunday memes
+- Failed first audition, played recorder in second
+- Not native Japanese, moved to Japan post-debut
+- Slow speech at debut (1.5x speed memes)
+- ReGLOSS group dynamics and milestones
+- Achievements: subscriber growth, 3D live, original songs
 
-## Expected Output
-綜合以上三個面向，產出一份完整的中文角色介紹報告，包含source URLs可供查證，作為同人遊戲的角色設定基礎。
+## Synthesis
+Consolidate all findings into a Chinese-language report suitable for fan-game character design reference.

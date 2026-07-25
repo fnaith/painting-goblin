@@ -67,8 +67,14 @@ After **Tsukumo Sana's graduation** in 2022, the remaining Council members (Faun
 ### With Hololive JP Members
 - **Houshou Marine** — Baelz lists Marine among the hololive members she watches most frequently.
 - **Oozora Subaru** — Another frequently watched member.
+- **Yukoku Roberu** — Among the hololive members Baelz watches most frequently (also listed in Holostars section).
 - **Hoshimachi Suisei** — Baelz and Suisei have an illustrated artwork together (by Mika Pikazo), indicating a notable connection.
 - **Tokoyami Towa** — Featured together in group illustrations.
+- **Tsunomaki Watame** — A famous cross-branch confusion: Baelz's Minecraft username **"whatabae"** caused many JP members (Subaru, Okayu, Aqua, Sora, Miko, and **Watame herself**) to mistakenly believe the account belonged to Watame. This became a running joke in the community.
+- **Nekomata Okayu** — Involved in the "whatabae" Minecraft username confusion with Watame.
+- **Minato Aqua** — Also part of the "whatabae" confusion incident.
+- **Tokino Sora** — Took part in the "whatabae" mix-up.
+- **Sakura Miko** — Also confused by the "whatabae" username.
 
 ### With Hololive ID Members
 - **Kureiji Ollie** — Baelz was noted as being initially almost as chaotic as Ollie during her first weeks after debut.
@@ -137,6 +143,7 @@ After **Tsukumo Sana's graduation** in 2022, the remaining Council members (Faun
 
 - https://hololive.hololivepro.com/en/talents/hakos-baelz/ (official profile)
 - https://hololive.wiki/wiki/Hakos_Baelz (Hololive Fan Wiki)
+- https://hololivevtuber.fandom.com/wiki/Hakos_Baelz (Fandom Wiki)
 - https://en.wikipedia.org/wiki/Hololive_Production (overview reference)
 - https://www.youtube.com/@HakosBaelz (YouTube channel)
 - https://twitter.com/hakosbaelz (X/Twitter)

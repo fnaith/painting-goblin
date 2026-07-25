@@ -22,5 +22,12 @@
 - 粉絲社群中的常見迷因
 - 有趣的軼事或事故
 
+## 研究方法
+- 三方資料來源比較分析：
+  1. hololive.wiki（英文 Fan Wiki）
+  2. seesaawiki.jp（日文 Hololive TV Wiki）
+  3. hololivevtuber.fandom.com（英文 Fandom Wiki，403 無法存取）
+- 交互比對後填入 findings 各檔案，有差異處標註來源
+
 ## 預期產出
 整合上述三個面向的中文報告，用於同人遊戲的角色設定參考。

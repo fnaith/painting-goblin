@@ -16,7 +16,7 @@
 | Field | Details |
 |---|---|
 | **Debut** | April 6, 2019 (Hololive GAMERS 2nd Generation) |
-| **Illustrator** | Yashigani |
+| **Illustrator** | Kamioka Chiroru (かみおかちろる, also known as Yashigani) |
 | **Fan Name** | Onigiryaa (おにぎりゃー) |
 | **Emoji** | 🍙 (onigiri/rice ball) |
 | **Subs** | 2.08M+ (as of May 2025) |
@@ -63,6 +63,10 @@
 
 ### Sakura Miko
 - Miko designed Okayu's channel logo
+- Shared the same illustrator Kamioka Chiroru with Shiina Yuika of Nijisanji (known as "Kamioka Sisters")
+
+### Oozora Subaru (additional)
+- Subaru gave Okayu the nickname **"Takada Donji"** after a comedian she resembles
 
 ---
 
@@ -91,6 +95,12 @@
 | 2025-02 | Official visual novel game "おかゆにゅ～～む！~Okayunyumu~" released |
 | 2025-05 | Reached 2 million subscribers |
 | 2025-05 | Held 2nd solo live "PERSONYA RESPECT" |
+
+---
+
+## 4.5 Other Notable Anecdotes
+- Okayu has a friend who regularly checks on her eating and sleeping schedule, referred to as her **"commuting wife"** (通勤妻)
+- Likes Shounen manga/anime (One Piece, Dragon Ball, etc.)
 
 ---
 

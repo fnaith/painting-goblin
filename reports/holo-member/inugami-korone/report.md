@@ -14,11 +14,13 @@
 | **所屬** | hololive GAMERS（Cover Corp） |
 | **種族** | 犬（Cavalier King Charles Spaniel）— 城市裡麵包店的看門犬 |
 | **繪師（Mama）** | Fukahire（@fuka_hire） |
-| **生日** | 10月1日 |
+| **生日** | 10月1日（天秤座） |
+| **血型** | O |
 | **身高** | 156 cm |
 | **粉絲名稱** | Koronesky / ころねすきー（Korone Likers），早期也稱「Goma King」（胡麻王） |
 | **開場白** | 「'Ello! Fingers! Give me your fingers!」 |
 | **招牌用語** | 「Yubi! Yubi!」（指！指！） |
+| **戰鬥口號** | 「Horayo!」（ホラヨ！） |
 | **推標記** | 🥐（可頌麵包） |
 | **直播Tag** | #生神もんざえもん |
 | **粉絲繪Tag** | #できたてころね |
@@ -108,6 +110,10 @@ Doggy god's street、Wonky Monkey、BITE! KAMU! BITE!、TROUBLE "WAN"DER!、SAIK
 6. **200萬訂閱**：2023年6月28日達成
 7. **百萬以上海外粉絲**：因努力學英文、用Google翻譯與粉絲溝通，在歐美圈人氣極高
 8. **黑暗面enoroK**：某次擷取卡故障時登場，顏色反轉、個性相反，會叫觀眾早點睡、歸還手指
+9. **2024年出演**：在貓又おかゆ的視覺小說遊戲《Okayunyumu!》（ENTERGRAM開發）中作為角色登場（2024年11月15日發售）
+10. **恐怖片愛好奇**：喜歡《Human Centipede》和《Saw》等恐怖電影
+11. **怕蟲**：害怕昆蟲，特別是蜈蚣和蚊子
+12. **戰鬥口號**：激動時會喊「Horayo!」（ホラヨ！）
 
 ---
 
@@ -143,5 +149,5 @@ Doggy god's street、Wonky Monkey、BITE! KAMU! BITE!、TROUBLE "WAN"DER!、SAIK
 
 ---
 
-*報告完成時間：2026-06-21*
-*資料來源：hololive官方網站、hololive Fan Wiki、Know Your Meme、X/Twitter*
+*報告完成時間：2026-06-21（更新：2026-07-25）*
+*資料來源：hololive官方網站、hololive Fan Wiki、hololivevtuber.fandom.com、Know Your Meme、X/Twitter*

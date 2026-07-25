@@ -5,12 +5,12 @@
 - **English**: Yukihana Lamy | Chinese: 雪花菈米
 - **Nicknames**: Wamy (ワミィ), Nyamy (cat form), Snow Mom (雪妈)
 - **Debuted**: August 12, 2020
-- **Birthday**: November 15
-- **Age**: 210 years old (lore)
+- **Birthday**: November 15 (1810-11-15)
+- **Age**: 210 years old (lore), 215 as of 2025
 - **Height**: 158 cm
 - **Unit**: hololive 5th Generation (NePoLaBo)
 - **Illustrator**: Rin☆Yuu (Twitter: @rin7914)
-- **Live2D Modeling**: 入江燈
+- **Live2D Modeling**: 入江燈 (initial), jenny (Ver.3.0)
 - **3D Modeling**: pfy
 - **Fan Name**: Yukimin (雪民) - "Snow People"
 - **Oshi Mark**: ☃️ (Snowman)
@@ -27,6 +27,18 @@ The daughter of a noble snow family living in the vast, white, icy lands far fro
 - Snow/ice motif
 - White, blue, and silver color scheme
 - Elegant noble snow family aesthetic
+- Brand colors: #48b5e3 (primary), #6bcdf8 (accent)
+- Oshi mark: ☃️ (snowman), also associated with ❄️ (snowflake) "Snow Halation" fan reference
+
+## Character Reputation
+- Often described as the **most "seiso" (pure/innocent)** member of hololive, fitting her noble snow elf background
+- Despite seiso appearance, has a heavy drinking side — creates an endearing gap moe
+
+## Costumes
+- **Default**: Elegant snow/ice themed dress with blue/silver accents
+- **2nd Outfit**: Casual white dress (released 2022)
+- **3rd Outfit**: New Year themed cat costume (revealed January 2024)
+- All costumes maintain the white/blue/snow aesthetic
 
 ## Official Hashtags
 - Stream Talk: #らみらいぶ
@@ -46,6 +58,18 @@ The daughter of a noble snow family living in the vast, white, icy lands far fro
 - Level 7 calligraphy master (wrote the calligraphy on her sake bottles)
 - Likes anime about time travel and anime that makes her cry
 
+## Anime Preferences
+- **Time travel / sci-fi**: Steins;Gate, Re:Zero, Charlotte, Erased
+- **Emotional / tear-jerking**: Angel Beats!, Anohana, Violet Evergarden, Madoka Magica
+- General favorites include a wide range from moe to psychological
+
+## Live2D / 3D Updates
+- Initial Live2D by 入江燈
+- Live2D Ver.3.0 by jenny
+- 3D model by pfy (debuted January 24, 2021)
+
 Sources:
 - https://hololive.hololivepro.com/en/talents/yukihana-lamy/
 - https://hololive.wiki/wiki/Yukihana_Lamy
+- https://hololivevtuber.fandom.com/wiki/Yukihana_Lamy
+- https://seesaawiki.jp/hololivetv/d/%C0%E3%B2%D6%A5%E9%A5%DF%A5%A3

@@ -51,11 +51,22 @@ Sources: Hololive Fan Wiki milestone timeline, official Twitter milestones.
 - Debuted her 3D idol outfit on stage.
 - Her vocal trainer later critiqued her performance, which Noel openly shared with fans — showing her humility and drive to improve.
 
+### 4. Neptunia Virtual Stars (Announced January 28, 2020)
+- Noel appeared as a guest VTuber character in the game **Neptunia Virtual Stars** alongside Tokino Sora, Roboco, Sakura Miko, Shirakami Fubuki, Minato Aqua, Yuzuki Choco, Inugami Korone, and Houshou Marine.
+
+### 5. #Gensokyo Holoism (July 10, 2020)
+- Noel voiced the Touhou character **Saigyouji Yuyuko** in this Hololive Touhou collaborative project, which featured a full audio drama and music album.
+
+### 6. Custom Platinum Rings with Flare (February 2021)
+- Noel and Shiranui Flare got **custom-made platinum rings together**, further symbolizing their exceptionally close bond.
+
 ## Notable "Oops" / Funny Failure Moments
 
-### 1. ASMR Content Purges (YouTube Policy)
+### 1. ASMR Content Purges & Demonetization (YouTube Policy)
 - Noel was one of Hololive's primary ASMR-focused members, known for her calming voice.
-- YouTube began harshly taking down her ASMR streams over a short period, forcing her to pivot away from it as a main content pillar. This led to her current varied content style.
+- On **January 1, 2020**, her YouTube channel was **demonetized** specifically due to her ASMR content. She confirmed this on Twitter, noting that all her videos had green "ad-friendly" marks, yet the demonetization happened without warning. She called YouTube's moderation "emotionally unstable."
+- On **January 31, 2020**, her channel was successfully remonetized after one month.
+- YouTube later continued harshly taking down her ASMR streams, forcing her to pivot away from it as a main content pillar.
 
 ### 2. The Messy Room Incident
 - In Noel's first marshmallow-reading collaboration with Shirayuki Mishiro (from Noriopro), multiple fan submissions brought up the topic of Noel's famously messy room.
@@ -159,6 +170,14 @@ Sources: Hololive Fan Wiki music section, official hololive website.
 - Her YouTube channel is verified.
 - She often does **yakiniku (grilled meat) eating streams** and **drinking chat streams** due to her high alcohol tolerance.
 - Her content is evenly spread across gaming, chatting, karaoke, and eating streams.
+- **Bust size claim:** Noel claims to have K-cup breasts, which fans jokingly call "Knight-cup" (a pun on her knight theme).
+- **School nickname:** During her school years, she was called "The Running T*ddy Cow" by classmates, a crude nickname referencing her pace and figure.
+- **Alcohol metabolism:** Despite having an ALDH2 deficiency (genetically predisposed to poor alcohol metabolism), Noel can drink heavily, surprising even herself.
+
+## Reader Reactions / Fan Commentary
+- **K-cup (Knight-cup):** Fans find this piece of trivia to be quintessentially "Noel" — blending her sexy image (K-cup) with her knight theme (Knight-cup pun) in a way that feels both self-aware and charmingly dorky.
+- **School nickname:** This detail paints a vivid picture of her early life and suggests she has been physically notable from a young age. It also explains in part her eventual "ara ara" onee-san persona. Fans at /vt/ found this amusing and fitting given her current reputation.
+- **ALDH2 deficiency + drinking:** Despite her genetic disadvantage, Noel's high alcohol tolerance is a point of pride among fans and frequently mentioned in drinking-stream discussions.
 
 ## Sources
 - Hololive Official Website: https://hololive.hololivepro.com/en/talents/shirogane-noel/

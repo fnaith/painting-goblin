@@ -106,7 +106,60 @@
 - **Anime NYC 2023** and **Anime Frontier 2023** — guest appearances.
   - Sources: https://www.animenewsnetwork.com/news/2023-09-24/... and https://www.crunchyroll.com/news/latest/2023/8/4/...
 
-- **July 17, 2026** (scheduled): *Mori Calliope 2nd Concert "Grimoire"* — Blu-ray to be released via EMI Records.
+- **July 21, 2022**: First solo concert *New Underworld Order* at Toyosu Pit, Tokyo. Blu-ray released May 3, 2023.
+  - Source: https://skream.jp/news/2023/02/mori_calliope_new_underworld_order_blu-ray.php
+
+- **June 2025**: *Mori Calliope 2nd Concert "GriMoire"* at **Hollywood Palladium**, Los Angeles — her first overseas solo concert.
+  - Source: hololive.wiki
+
+- **April 2025**: Performed at the **World Expo 2025 Opening Ceremony** in Osaka, Japan.
+  - Source: hololive.wiki
+
+- **September 2025**: Held a **5th Anniversary VRChat Live** event.
+  - Source: hololive.wiki
+
+- **2024**: "Seeing Stars" — collaborative project with **Lotus Juice** (Persona series rapper) and **Shoji Meguro** (Persona series composer).
+  - Source: hololive.wiki
+
+---
+
+## 10. Calli's Christmas Catastrophe (December 2024)
+
+A mini-series co-produced by **Hololive Production** and **Merryweather**. Calliope played a delivery driver who gets caught up in a heist and must complete a series of ridiculous tasks to save Christmas. Interactive movie style.
+
+- Source: hololive.wiki
+
+---
+
+## 11. TTRPG: Hunter Myth: Myth Breakers (2023)
+
+Calliope served as GM (Game Master) for a tabletop RPG series featuring the members of Hololive English -Myth-. The players portrayed members of a hunter's guild completing quests in a modern fantasy world designed by Calliope. Blends comedy with narrative storytelling.
+
+- Source: hololive.wiki
+
+---
+
+## 12. Debut Stream Delay (September 12, 2020)
+
+Calliope's debut stream experienced severe lag/delay issues. She ad-libbed that "the internet in the Underworld is bad" — an in-character explanation that became a memorable debut moment.
+
+- Source: hololivevtuber.fandom.com
+
+---
+
+## 13. First holoEN Member to Debut
+
+Mori Calliope was the first member of Hololive English to debut (September 12, 2020 at 6:00 PM PST), preceding Gura, Kiara, Ina'nis, and Watson.
+
+- Source: hololivevtuber.fandom.com
+
+---
+
+## 14. Subreddit Moderator
+
+Calliope was the first holoEN member and the **7th Hololive member overall** to join the official Hololive subreddit as a moderator.
+
+- Source: hololivevtuber.fandom.com
 
 ---
 

@@ -12,6 +12,7 @@
 | Role | "The Archiver" |
 | Illustrator | KAYAHARA |
 | Live2D | FELUCCA |
+| 3D Model | ほのぼ悠琴がけと (honoboyg) |
 | Fan Name | Novelites |
 | Oshi Mark | 👁️‍🗨️ (eye in speech bubble) |
 | Catchphrase | "Don't you think that's a wonderful story?" |
@@ -35,8 +36,12 @@ According to the hololive official website:
 - Fans: #Novelites
 - Fanart: #ShiorinSketch
 - Fanfiction: #ShiorinStories
+- Music: #ShiorinTunes
+- Stream Assets: #ShioAssets
+- Memes/Garbage: #dankvella
 
 ## Sources
 
 - https://hololive.hololivepro.com/en/talents/shiori-novella/
 - https://hololive.wiki/wiki/Shiori_Novella
+- https://seesaawiki.jp/hololivetv/d/%b7%ee%a4%ea%a4%cf%a5%ce%a5%f4%a5%a7%a5%e9

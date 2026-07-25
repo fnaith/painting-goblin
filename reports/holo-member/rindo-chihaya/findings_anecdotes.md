@@ -85,3 +85,4 @@ FLOW GLOW 自出道以來便以五人團體形式進行了大量合作活動：
 - FLOW GLOW 官方特設頁面: https://hololive.hololivepro.com/en/special/14030/
 - Rindo Chihaya YouTube 頻道: https://www.youtube.com/@RindoChihaya
 - Rindo Chihaya X（Twitter）: https://x.com/rindochihaya
+- Hololive Fan Wiki — Rindo Chihaya: https://hololive.wiki/wiki/Rindo_Chihaya

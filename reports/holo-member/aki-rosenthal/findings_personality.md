@@ -16,7 +16,11 @@
 - 來自異世界的半精靈半塞壬（母親是塞壬、父親是精靈）
 - 「Aki Rosenthal」並非本名，而是Yagoo為了讓地球人容易發音而取的名字
 - 標誌性的浮遊雙馬尾透過神祕力量連接到另一個次元
+- 官方設定雙馬尾為AI搭載型自由變形飾品「Aik」
+- 在 *Holo no Graffiti* 中雙馬尾顯示為可拆卸配件
 - 能夠從大腿之間產生各種物體和材料（這個「傳送門」的本質和她的雙馬尾一樣神祕）
+- *Holo no Graffiti* 中曾從大腿傳送門拉出大空昴，被粉絲稱為「生出大空昴」
+- Hololive JP 成員中少數使用西式姓名順序（名+姓）的成員
 
 ## 聲音／ASMR特質
 - 聲音沉穩、治癒，初期內容以ASMR為主
@@ -34,6 +38,7 @@
 
 ## 遊戲喜好
 - **ARK: Survival Evolved** — 最著名的遊戲之一，誕生了「ムキロゼ」（Mukiroze）肌肉男Avatar
+- **VCR 系列活動** — 多次參加 VCR ARK、VCR GTA 等跨箱大型活動，在 GTA 中成為幫派老大「NEO POLICE」
 - **Muse Dash** — 音遊，曾在15首最高難度歌曲挑戰90%+準確率
 - **Ring Fit Adventure** — 健身環直播
 - **Apex Legends** — 曾參加VTuber電競錦標賽
@@ -99,4 +104,5 @@
 
 ## 資料來源
 - Hololive Fan Wiki: https://hololive.wiki/wiki/Aki_Rosenthal
-- Virtual YouTuber Wiki: https://virtualyoutuber.fandom.com/wiki/Aki_Rosenthal
+- Fandom Wiki: https://hololivevtuber.fandom.com/wiki/Aki_Rosenthal
+- Seesaawiki: https://seesaawiki.jp/hololivetv/d/%a5%a2%a5%ad%a1%a6%a5%ed%a1%bc%a5%bc%a5%f3%a5%bf%a1%bc%a5%eb

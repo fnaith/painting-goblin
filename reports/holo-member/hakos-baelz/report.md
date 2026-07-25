@@ -34,11 +34,21 @@
 | **出道日** | 2021年8月23日 |
 | **生日** | 2月29日（閏日） |
 | **身高** | 149 cm |
-| **角色設計** | Mika Pikazo |
+| **角色設計（插畫）** | Mika Pikazo |
+| **Live2D 建模** | Jujube（與森美声 Mori Calliope 共享同一建模師） |
 | **粉絲名稱** | Brats / Baerats |
 | **推しマーク** | 🎲（骰子） |
 | **標語** | "WAZZUP!! It's your worldwide Rat Idol — Hakos Baelz!" |
 | **訂閱數** | 100萬+（2024年12月達成） |
+
+### 語言能力
+
+| 語言 | 程度 | 備註 |
+|------|------|------|
+| **英語** | 母語 | 澳洲英語 |
+| **日語** | 流利 | 使用 **"boku"（僕）** 自稱（與 Roboco、Okayu、Kanata 相同） |
+| **粵語** | 可對話 | |
+| **韓語** | 基礎了解 | |
 
 ### 社群頻道
 
@@ -55,6 +65,13 @@
 
 ## 二、角色概念與設定
 
+### 名字由來
+
+- **"Hakos"** = **"Khaos"**（希臘原始混沌女神）的字母重組，直接指向她的混沌概念
+- **"Baelz"** = 源自惡魔 **Bael / Baalzebul**；同時也是 **"Blaze"**（火焰，混沌的經典元素）的字母重組
+- 這段命名是對**愛因斯坦名言**「上帝不擲骰子」（God does not play dice）的戲謔回應——作為混沌化身，她偏要擲骰子
+- 粉絲暱稱 **"Bae"** 同時在英語俚語中意為 "before anyone else"
+
 ### 核心概念：混沌（Chaos）
 
 Hakos Baelz 是**混沌、混亂與熵**的化身，以可愛老鼠的形態呈現。官方描述為：
@@ -63,6 +80,22 @@ Hakos Baelz 是**混沌、混亂與熵**的化身，以可愛老鼠的形態呈�
 > （混沌、混亂、熵……全部濃縮在一隻可愛小老鼠的形態中。）
 
 她是 **hololive English -Council-** 的**議長**（Chairperson），被眾神任命掌管混沌。然而最大的反差是——**她實際上並不真正行使議長的權力**，採取「不干預」態度。
+
+### 物種澄清
+
+儘管她被稱為「混沌老鼠」（Chaos Rat），但**她的物種在設定上是「混沌」本身**，並非真正的老鼠。她的角色設計因此保留了**老鼠耳朵和人類耳朵並存**的混合特徵。
+
+### 頸飾（Choker）設定
+
+她佩戴的頸飾由**眾神賜予**，內部藏有解開它的鑰匙。這是她標誌性配件的官方設定解釋。
+
+### 身高（起司輪換算）
+
+她的 149 cm 身高相當於 **7.45 個起司輪**（cheesewheels）。傳說她為了獲得人形犧牲了 **8 個起司輪**。
+
+### 閏年與時間的玩笑
+
+她的生日 2 月 29 日只在閏年出現。**Kronii（時間的概念化身）據說創造了閏年**，目的就是為了容納 Baelz 這個「混沌」的存在——時間為了解決混沌而創造了額外的一天。
 
 ### 角色核心矛盾
 
@@ -118,6 +151,13 @@ Hakos Baelz 是**混沌、混亂與熵**的化身，以可愛老鼠的形態呈�
 | RPG、模擬類遊戲 | 蜘蛛（蜘蛛恐懼症） |
 | 任天堂、主機遊戲 | 恐怖遊戲（極度恐懼） |
 | 動漫歌、J-pop、K-pop、EDM、硬派舞曲 | 超自然恐怖元素 |
+
+### 動漫偏好
+
+Baelz 的**最喜歡的動畫**是《鋼之煉金術師 FULLMETAL ALCHEMIST》。她的**前三大動漫搭檔**是：
+1. **折原臨也 & 平和島靜雄**（《無頭騎士異聞錄 DuRaRaRa!!》）
+2. **愛德華 & 阿爾馮斯·艾力克**（《鋼之煉金術師》——她最愛的作品中的兄弟檔）
+3. **譚雅 & 存在Ｘ**（《幼女戰記》）
 
 ### 性格細節
 
@@ -180,7 +220,9 @@ Sana 畢業後，剩餘 Council 成員與 IRyS 合併形成新團體。重要活
 
 **Ouro Kronii**：為 Baelz 的《Happy Halloween》翻唱混音，兩人在團體互動中經常互相調侃。
 
-**Hololive JP**：常觀看宝鐘マリン、大空スバル；與星街すいせい有 Mika Pikazo 繪製的合作插圖；對赤井はあと在澳洲吃蜘蛛的習慣表示不適（Baelz 有蜘蛛恐懼症）。
+**Hololive JP**：常觀看宝鐘マリン、大空スバル、夕刻ロベル；與星街すいせい有 Mika Pikazo 繪製的合作插圖；對赤井はあと在澳洲吃蜘蛛的習慣表示不適（Baelz 有蜘蛛恐懼症）。
+
+**知名誤會 — Minecraft 用戶名事件**：Baelz 的 Minecraft 用戶名為 **"whatabae"**，導致大量 JP 成員（大空スバル、貓又おかゆ、湊あくあ、ときのそら、さくらみこ，甚至**角巻わため本人**）誤以為這是 Watame 的帳號，成為社內著名笑料。
 
 **Hololive ID**：Kureiji Ollie（相似的混沌能量）、Kaela Kovalskia（恐怖遊戲中的精神支援）。
 
@@ -232,6 +274,12 @@ Baelz 直播 Outlast 時因極度恐懼而哭泣，聲稱「感覺不到自己�
 ### 百萬訂閱達成（2024年12月12日）
 在馬拉松卡拉OK直播中達成百萬訂閱，通過唱歌與粉絲共同慶祝。
 
+### 出道一周年 24 小時馬拉松直播（2022年8月）
+為慶祝出道一周年，Baelz 進行了長達 **24 小時的馬拉松直播**，展現了她的驚人耐力與敬業精神。
+
+### ReCOLOR 3D Live（2026年2月28日）
+在生日之際舉辦了 **ReCOLOR 3D Live**，發布了專屬生日 3D 服裝，是 2026 年重要的個人里程碑。
+
 ### 出道首週超高混沌能量
 出道最初幾週表現得極度混亂，幾乎與 Kureiji Ollie 一樣瘋狂，隨後「暴露本性」變成最正常的成員。
 
@@ -269,17 +317,43 @@ Baelz 直播 Outlast 時因極度恐懼而哭泣，聲稱「感覺不到自己�
 | **名字發音** | 官方發音為 "bells hake-oss"，但多數成員讀作 "bay-lz" |
 | **共享畫師** | 與 Kaguya Luna、Pinky Pop Hepburn 共享畫師 Mika Pikazo |
 
-### 音樂作品（部分）
-
-**原創曲**：《PLAY DICE!》（2022）、《PSYCHO》（2023）、《Pandæmonium》EP（2023）、《SNAKE EYES》（2026）、《Freaky Deaky Love》（2026）
-
-**團體曲**：《Rise》（2022，Council）、《Connect the World》（2023，Promise）、《Our Promise》（2024，Promise）
-
 ### 語言能力
-可使用英語和日語直播，常混用澳式英語和日語。
+可使用英語（母語，澳洲英語）和日語（流利，使用「boku」自稱）直播，亦可對話粵語，了解基礎韓語。常混用澳式英語和日語。
 
 ### 目標與夢想
-在 3D 中跳舞、參加聲優現場活動、為動畫配音、創造自己的咖啡飲品。
+
+- 在 3D 中跳舞（已在 2023 年 hololive 4th fes. 實現）
+- 參加聲優現場活動
+- 進行更多聯動合作
+- 為動畫配音
+- 創造自己的咖啡飲品
+- 擁有自己的官方藝術家 YouTube 頻道
+
+### 音樂作品
+
+**專輯**：
+- 《ZODIAC》（2024年3月1日）—— 首張完整專輯
+
+**原創曲（個人）**：
+- 《PLAY DICE!》（2022年3月）—— 器樂由 **Camellia** 作曲；另有 **TeddyLoid Re-Arrangement** 合作版本
+- 《PSYCHO》（2023年5月）
+- 《Pandæmonium》EP（2023年7月）
+- 《Sweet Appetite》
+- 《SNAKE EYES》（2026年）
+- 《Freaky Deaky Love》（2026年）
+- 《BITE! カム! BITE!》
+- 《HIDE & SEEK》
+- 《Odyssey》
+- 《R x R x R》
+- 《EIEN》
+- 《狂宴 (Kyouen) -FEAST-》
+- 《La Roja Live Version》
+- 《Street FITE》
+
+**團體曲**：
+- 《Rise》（2022年8月，Council）
+- 《Connect the World》（2023年6月，Promise）
+- 《Our Promise》（2024年6月，Promise）
 
 ---
 
@@ -328,6 +402,7 @@ Baelz 直播 Outlast 時因極度恐懼而哭泣，聲稱「感覺不到自己�
 
 - https://hololive.hololivepro.com/en/talents/hakos-baelz/（官方資料頁）
 - https://hololive.wiki/wiki/Hakos_Baelz（Hololive Fan Wiki）
+- https://hololivevtuber.fandom.com/wiki/Hakos_Baelz（Fandom Wiki）
 - https://en.wikipedia.org/wiki/Hololive_Production（Wikipedia）
 - https://www.youtube.com/@HakosBaelz（YouTube 頻道）
 - https://twitter.com/hakosbaelz（X/Twitter）

@@ -15,7 +15,11 @@ Moona Hoshinova (ムーナ・ホシノヴァ) is a Virtual YouTuber under **Holo
 | Illustrator (Character Designer) | Nyori (nyorinyori) |
 | 3D Model Debut | December 2020 |
 | YouTube Channel | [Moona Hoshinova hololive-ID](https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg) |
+| Twitch | [moonahoshinova](https://www.twitch.tv/moonahoshinova) |
 | X (Twitter) | [@moonahoshinova](https://twitter.com/moonahoshinova) |
+| TikTok | [@moonahoshinova](https://www.tiktok.com/@moonahoshinova) |
+| Instagram | [@moonahoshinova](https://www.instagram.com/moonahoshinova/) |
+| Fan Support | [Sociabuzz](https://sociabuzz.com/moonahoshinova/tribe) |
 
 ## Official Lore / Background Story
 
@@ -111,6 +115,8 @@ This is her official greeting/tagline displayed on the Hololive website.
 - She is part of the well-known Hololive ID x JP collaboration group with Usada Pekora (the "PekoMoona" dynamic).
 - She gained significant international visibility through her interactions with Hololive JP members and participation in Hololive Minecraft server events.
 - She has released original songs including "High Tide," "Perisai Jitu," "Who's Toxic? It's You!," "Senandung Jiwa," and the album "ORBITURE."
+- Moona shares her character designer Nyori with several other VTubers: Tsukinami Nato, Uten Hiyori, Hoshifuri Iku, and Yukine Miiya.
+- Moona's English official profile originally did not mention the college student background — this detail was added in a later revision.
 
 ## Source URLs
 
@@ -119,3 +125,5 @@ This is her official greeting/tagline displayed on the Hololive website.
 - [YouTube Channel — Moona Hoshinova hololive-ID](https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg)
 - [Wikipedia — Hololive Production](https://en.wikipedia.org/wiki/Hololive_Production)
 - [X (Twitter) — @moonahoshinova](https://twitter.com/moonahoshinova)
+- [Hololive Fan Wiki — Moona Hoshinova](https://hololive.wiki/wiki/Moona_Hoshinova)
+- [Seesaawiki Japanese Wiki — Moona Hoshinova](https://seesaawiki.jp/hololivetv/d/Moona%20Hoshinova)

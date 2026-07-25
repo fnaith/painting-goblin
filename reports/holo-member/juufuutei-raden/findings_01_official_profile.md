@@ -170,13 +170,23 @@ Raden 的初始設計融合了**傳統日本文化**與**現代街頭元素**：
 | 2024-09-10 | YouTube 訂閱突破 70 萬（出道一周年） |
 | 2024-09-27 | YouTube 訂閱突破 80 萬 |
 | 2024-10-30 | YouTube 訂閱突破 90 萬（耐久直播達成） |
-| 2024-12-24 | YouTube 訂閱突破 **100 萬**（耐久歌回達成） |
+| 2024-12-24 | YouTube 訂閱突破 **100 萬**（耐久歌回達成），DEV_IS 首位金盾 |
 | 2025-01-10 | ReGLOSS 全員推出黑色運動服 3D 服裝 |
+| 2025-05-28 | YouTube 訂閱突破 110 萬 |
+| 2025-06-13 | 擔任京都大學媒體文化研究特別講座客座講師 |
+| 2025-09-10 | 出道 2 周年 |
+| 2025-09-29 | KONAMI BEMANI 跨界合作公開 |
+| 2025-12-16 | ReGLOSS 首場演唱會「Flashpoint」於有明 Arena |
+| 2026-01-02 | DEV_IS 新年特別服裝披露 |
+| 2026-05-17 | 100 萬訂閱紀念 + 第 5 套 3D 服裝披露 / 生日 3D Live |
 | 2026-05-18 | 與英國國家美術館（The National Gallery）展開聯名合作 |
+| 2026-06-08 | 因行程過密宣布休息至 6 月底 |
+| 2026-10-06 ~ 2027-03-14 | **「儒烏風亭らでん展 国宝級螺鈿 — 其は七色に輝く」** 巡迴展覽（東京·國立工藝館 / 京都·文化博物館） |
 
 **來源：**
 - https://hololive.wiki/wiki/Juufuutei_Raden
 - https://hololive.hololivepro.com/en/news/20260518-01-205/
+- https://seesaawiki.jp/hololivetv/d/%bc%f4%b1%a8%c9%f7%c4%e2%a4%e9%a4%c7%a4%f3
 
 ---
 
@@ -191,6 +201,9 @@ Raden 的初始設計融合了**傳統日本文化**與**現代街頭元素**：
 7. 2026年5月與**英國國家美術館**（The National Gallery）合作，為 hololive 史上首次與世界級美術館的跨界聯動
 8. 2025年9月推出個人原創曲《Otoshi Banashi》（落とし噺），主題直接呼應落語文化
 9. 官方 Picross 遊戲《Juufuutei Raden's Guide for Pixel Museum》以她為主角，玩家透過解謎了解各類文化藝術品
+10. 偏好菸牌為 **Winston (8mg CABIN RED)** 與 **Peace**，使用 Zippo 打火機；香水愛用 **Tom Ford**
+11. 在 seesaawiki 的正式分類為「hololive DEV_IS > ReGLOSS > 儒烏風亭らでん」，條目包含了從 2023 年出道至 2027 年預定活動的完整年表
+12. 擁有一套完整的**粉絲稱呼系統**（呼称），記錄了粉絲對她的多種暱稱以及她對其他 Hololive 成員的稱呼方式
 
 **來源：**
 - https://hololive.hololivepro.com/en/talents/juufuutei-raden/
@@ -202,10 +215,11 @@ Raden 的初始設計融合了**傳統日本文化**與**現代街頭元素**：
 ## 十、參考來源
 
 | # | 來源 | URL |
-|---|------|-----|
+|---|------|------|
 | 1 | Hololive 官方 — Raden 個人頁面 | https://hololive.hololivepro.com/en/talents/juufuutei-raden/ |
 | 2 | Hololive 官方 — ReGLOSS 一覽 | https://hololive.hololivepro.com/en/talents?gp=regloss |
 | 3 | Hololive Fan Wiki — Raden | https://hololive.wiki/wiki/Juufuutei_Raden |
 | 4 | Hololive 官方 — 國家美術館聯名公告 | https://hololive.hololivepro.com/en/news/20260518-01-205/ |
-| 5 | Raden 官方 YouTube 頻道 | https://www.youtube.com/@JuufuuteiRaden |
-| 6 | Raden 官方 X (Twitter) | https://twitter.com/juufuuteiraden |
+| 5 | Seesaawiki — Hololive Wiki (儒烏風亭らでん) | https://seesaawiki.jp/hololivetv/d/%bc%f4%b1%a8%c9%f7%c4%e2%a4%e9%a4%c7%a4%f3 |
+| 6 | Raden 官方 YouTube 頻道 | https://www.youtube.com/@JuufuuteiRaden |
+| 7 | Raden 官方 X (Twitter) | https://twitter.com/juufuuteiraden |

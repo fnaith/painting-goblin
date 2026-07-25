@@ -3,6 +3,8 @@
 **Sources:**
 - https://hololive.wiki/wiki/Shiranui_Flare (Hololive Fan Wiki)
 - https://hololive.hololivepro.com/en/talents/shiranui-flare/ (Official Hololive Site)
+- https://hololivevtuber.fandom.com/wiki/Shiranui_Flare (Hololive Fandom Wiki)
+- https://seesaawiki.jp/hololivetv/d/%c9%d4%c3%ce%b2%d0%a5%d5%a5%ec%a5%a2 (Seesaawiki — Japanese wiki)
 
 ---
 
@@ -28,7 +30,8 @@ Shiranui Flare is a half-elf (human x elf) and a member of **Hololive 3rd Genera
 | **Jun 15, 2023** | **1,000,000 YouTube subscribers** — achieved during a karaoke stream |
 | Nov 30, 2023 | Single **"Nakamaka"** |
 | Jun 7, 2024 | First solo album **"scrap & build!"** (6 tracks) |
-| 2024–2026 | Multiple original singles: "Like Marble," "Funfair," "Stay Blue," "angel's ladder," "kakū to hontō," "Vivid Stampede!!!!", "Silent Flame,Never Fade" |
+| 2024–2026 | Multiple original singles: "Like Marble," "Funfair," "Stay Blue," "angel's ladder," "kakū to hontō," "Vivid Stampede!!!!", "Silent Flame,Never Fade", "Zenryoku Jumping," "BAKATARATION," "Yggdrasil" |
+| 2025–2026 | Additional original songs: "elf-friend" (fan anthem), "Six Roses" |
 
 ---
 
@@ -48,6 +51,13 @@ A trio with **Shirakami Fubuki** and **Tsunomaki Watame** known for their silly,
 - **Suou Patra** (Honeystrap) — close friend outside Hololive
 - **Inuyama Tamaki** — multiple interview appearances
 - **Debidebi Debiru** (Nijisanji) — known to hang out together
+- **Tokino Sora** — Sora has expressed admiration for Flare's versatile voice and mature aura
+- **Yakumo Yukari** (voice role) — Flare voiced Yakumo Yukari in the #Gensokyo Holoism project
+
+### Special Milestones
+- **Custom platinum rings (Feb 2021)** — Flare and Shirogane Noel had custom-made platinum rings created, a significant symbol of their close bond (Noefure)
+- **Figma figure announcement (2021)** — Flare was selected for a figma action figure release alongside other Hololive members
+- **Family connection** — Flare is close with her younger sister, whom she helped introduce to Hololive; her sister discovered Hololive through Flare's involvement
 
 ### Fan Name & Community
 - **Fan name:** **Elfriend** (エルフレンド) — portmanteau of "Elf" + "Friend"
@@ -73,6 +83,12 @@ A trio with **Shirakami Fubuki** and **Tsunomaki Watame** known for their silly,
 
 6. **Superchat Ritual:** Flare bows in gratitude every time she reads a superchat and mentions the color if it is purple or red.
 
+7. **Drunk Streams:** Flare's preferred way to drink is to get drunk and start rambling freely — she becomes loose, unfiltered, and sometimes makes comments about other members' bodies, a side that contrasts sharply with her usual composure.
+
+8. **Horror Streams (Gap Moe):** Despite her cool exterior, Flare is easily frightened by horror games. Her genuine screams and fearful reactions are a favorite source of "gap moe" content for fans.
+
+9. **Helped Sister Discover Hololive:** Flare is close with her younger sister, whom she helped introduce to the Hololive world; her sister discovered the group through Flare.
+
 ---
 
 ## Personality & Mannerisms
@@ -83,6 +99,10 @@ A trio with **Shirakami Fubuki** and **Tsunomaki Watame** known for their silly,
 - **Greeting:** "Konnui!" (こんぬい～)
 - **Farewell:** "Otsunui!" (おつぬい～)
 - **Popular among women** — her charm is noted to extend to female fans.
+- **Hidden childish side** — becomes visibly girlish and excited during horror streams (genuine fear reactions) and drunk streams (loose, unfiltered rambling)
+- **"Harem" reputation** — other Hololive Fantasy members describe Flare as having a "harem" due to her kindness attracting many admirers
+- **Admired by Sora** — Tokino Sora has expressed admiration for Flare's versatile voice and mature aura
+- **Good architectural sense** — known for well-designed, aesthetic builds in Minecraft
 - **Not a dark elf** — repeatedly emphasizes she is a "normal half-elf with human and elf parents."
 
 ---

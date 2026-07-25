@@ -10,8 +10,12 @@
 | **生日** | 5月18日 |
 | **身高** | 148 cm |
 | **繪師** | パセリ (Parsley) |
-| **粉絲名稱** | Handlers（飼育員） |
+| **粉絲名稱** | Handlers / Zookeepers（飼育員さん） |
 | **粉絲記號** | 🎣 |
+| **社群名稱** | Orcart（オーカート） |
+| **Live2D 建模** | 入江燈 (jenny / IrisLight) |
+| **3D 建模** | ユウコテツ (Yukotetsu) |
+| **愛稱** | シャチけん (Shachiken) |
 | **官方標語** | "Chomp, chomp, chooomp!" |
 | **YouTube** | https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw |
 | **X (Twitter)** | https://twitter.com/sakamatachloe |
@@ -24,7 +28,7 @@
 - **虎鯨/殺人鯨 (Orca) 主題** — 黑白藍配色，頭髮後方有鰭狀突起，整體造型充滿海洋生物感
 - **祕密特務風格** — 帽子、手套、貼身戰術服裝、工具腰包
 - **不對稱腿飾** — 一腿過膝襪、一腿膝上襪
-- **顏色方案** — 黑、白、藍/青色
+- **顏色方案** — 黑、白、藍/青色（背景主色 #ab0e0c/#cf4c4a 紅色系，#921a1b）
 
 ### 核心主題
 - **海洋生物**：虎鯨（日語「サカマタ」即為虎鯨的一種方言稱呼）
@@ -60,6 +64,9 @@
 | **音樂狂熱** | 作曲作詞歌唱全部自己來 | 特殊能力/技能樹 |
 | **混沌/情緒化** | 直播中常展現反差激烈情緒 | 劇情高潮表現 |
 | **幽默感** | 突發怪聲、自嘲 | 日常互動笑點 |
+| **ぼんやり (PON)** | 容易走神、發呆 | 可愛失誤事件 |
+| **遊戲大師** | 擅長桌遊、黑白棋等策略遊戲 | 智力型角色定位 |
+| **勝負心強** | 討厭輸 | 對戰/競爭劇情 |
 
 ---
 
@@ -89,7 +96,7 @@
 | 配對名 | 對象 | 特點 |
 |--------|------|------|
 | **Kanaken (かなけん)** | 天音彼方 (Amane Kanata, 4期生) | 玩闹互補，合作翻唱《Rabbit Hole》 |
-| **Shioshachi (塩シャチ)** | 紫咲詩音 (Murasaki Shion, 2期生) | 性格對比組合：詩音鬧騰 vs Chloe冷靜 |
+| **Shioshachi (塩シャチ)** | 紫咲詩音 (Murasaki Shion, 2期生) | 性格對比組合；引退後仍合作翻唱〈チューリングラブ〉(2025/3/31) |
 
 ### 所屬團體
 - **UMISEA** — 海洋主題跨期生團體
@@ -106,8 +113,9 @@
 | 2022.06.13 | 3D模型披露 | 角色覺醒/進化事件 |
 | 2023.02.18 | 達成100萬訂閱（耐久歌回中達成） | 關鍵成就解鎖 |
 | 2022.10 | holoX MEETing 漫畫連載開始（Jump+） | 支線劇情 |
-| 2024.11.29 | 宣布 streaming 活動結束 | 終章/劇情轉折 |
+| 2024.11.29 | 宣布 streaming 活動結束（原因：健康問題與過勞） | 終章/劇情轉折 |
 | 2025.01.26 | 最終3D Live直播 | 結局 |
+| 2025.03.31 | 引退後首次回歸 — 與紫咲詩音合作翻唱〈チューリングラブ〉 | 特別回歸/番外篇 |
 
 ---
 
@@ -130,6 +138,12 @@
 - 《Rabbit Hole》(DECO*27) — 與天音彼方合唱
 - 《Monster》(YOASOBI) — 多人合作
 - 《Animal》(DECO*27) — 個人翻唱
+- 《チューリングラブ》 — 與紫咲詩音合唱（引退後回歸作，2025/3/31）
+
+### 音樂喜好（角色設定參考）
+- 海外アーティスト：Sia、Bruno Mars
+- 邦樂：ヨルシカ、ZUTOMAYO
+- 喜歡的音樂類型：J-Pop、Rock、電子搖滾
 
 ---
 
@@ -160,4 +174,6 @@ J-Pop / Rock，參考《Moodoku》《人生リセットボタンぽちーw》的
 3. holoX 出道公告: https://hololive.hololivepro.com/en/news/20211126-1-41/
 4. COVER Corp 官方說明（活動結束）: https://note.cover-corp.com/n/ne3a8b7a553c0
 5. Hololive Wiki: https://hololive.wiki/wiki/Sakamata_Chloe
-6. YouTube 頻道: https://www.youtube.com/@SakamataChloe
+6. ファンダム Wiki: https://hololivevtuber.fandom.com/wiki/Sakamata_Chloe
+7. 非公式wiki: https://seesaawiki.jp/hololivetv/d/%BA%BB%B2%D6%BA%B5%A5%AF%A5%ED%A5%F1
+8. YouTube 頻道: https://www.youtube.com/@SakamataChloe
