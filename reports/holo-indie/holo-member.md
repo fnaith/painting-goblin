@@ -49,7 +49,7 @@
 | ninomae-inanis | hololive English -Myth- | Ninomae Ina’nis |
 | watson-amelia | hololive English -Myth- | Watson Amelia |
 | gawr-gura | hololive English -Myth- | Gawr Gura |
-| irys | Project: HOPE | IRyS/hololive English -Promise- |
+| irys | Project: HOPE/hololive English -Promise- | IRyS |
 | tsukumo-sana | hololive English -Council- | Tsukumo Sana |
 | ouro-kronii | hololive English -Council-/hololive English -Promise- | Ouro Kronii |
 | hakos-baelz | hololive English -Council-/hololive English -Promise- | Hakos Baelz |
