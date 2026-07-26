@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Minna, Oru?",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Princess Wave",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Draw a card."
+    ],
+    "description": "參考她每次直播的開場白『みんな、おる？』（大家在嗎？），粉絲會回應『おるよ～』。此卡以極速進行試探攻擊並抽牌，象徵她與Lu-knights之間的互動默契。"
+  },
+  {
+    "name": "Nna-shoi!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Jump In",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 space and Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Push opponent 1 space. You may close the distance by 1 space."
+    ],
+    "description": "招牌叫聲『んなーしょい！』是她直播中的攻擊/跳躍音效，也被粉絲用作遮蓋敏感話題的代替詞。此卡靈活突進並控制距離，體現她嬌小卻充滿活力的戰鬥風格。"
+  },
+  {
+    "name": "Nanora?",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "5",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "Yare Yare Nanora",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Cancel the effect of the opponent's last boost card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard 1 card. If you do, negate the opponent's attack."
+    ],
+    "description": "『なんなのら？』（搞什麼啦？）和『やれやれなのら』（唉呀呀）是她在不滿或證明對方錯誤時的口頭禪。此防禦卡展現她嬌小身軀下的頑強，以困惑與吐槽化解對手攻勢。"
+  },
+  {
+    "name": "Candy Kingdom's Gift",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "8",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Sweet Treat",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 2 life."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 3 life."
+    ],
+    "description": "來自糖果王國的甜蜜禮物。參考她出身於異世界糖果王國的公主設定，以糖果和甜點來治癒自己與Lu-knights，象徵她溫柔關懷的一面。"
+  },
+  {
+    "name": "Moon Crest",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lunar Blessing",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Choose a card from your Gauge and add it to your hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: Return 1 card from your Gauge to your hand."
+    ],
+    "description": "參考她身上的月亮造型飾品——據說是異世界祖國的紋章。此卡象徵月光的神秘力量，能回收資源，體現她與月亮的特殊連結與血脈中的力量。"
+  },
+  {
+    "name": "Battle Princess",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dark Souls Veteran",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Ignore Armor. AFTER: Take 1 damage."
+      ]
+    },
+    "effect": [
+      "Ignore Guard."
+    ],
+    "description": "參考她在Dark Souls系列展現的驚人實力而被粉絲稱為『戦姫』（Battle Princess）。此卡展現可愛公主外表下的戰鬥本能——近距離高火力、無視防禦，體現極致反差萌。"
+  },
+  {
+    "name": "Luna no Kachii!",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Victory Declaration",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power. HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn regardless of who initiated the Strike)."
+    ],
+    "description": "勝利宣言『ルーナのかちい！』（Luna贏了！）。參考她極度好勝的性格，贏得遊戲時總會驕傲宣布勝利。此卡象徵她轉守為攻、奪取主導權的能力。"
+  },
+  {
+    "name": "Butler's Warning",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "1",
+    "guard": "1",
+    "boost": {
+      "name": "Pointed Glare",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at opponent's hand. Choose 1 card; they discard it unless they pay 1G."
+      ]
+    },
+    "effect": [
+      "BEFORE: Opponent reveals their hand. Choose 1 card; they discard it."
+    ],
+    "description": "參考她的執事ちゃん（管家），總在身邊並在她太囂張時管教她。此卡代表公主也有被約束的一面，以管家的威嚴干擾對手策略、破壞手牌。"
+  },
+  {
+    "name": "Escort Me! Luknight",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "8",
+    "speed": "7",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Knight Order Charge",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Add up to 2 cards from your hand to your Gauge. For each card added, gain 1 life."
+      ]
+    },
+    "effect": [
+      "BEFORE: +1 Power for each card in your Gauge (max +4).",
+      "HIT: Push opponent 2 spaces. You may close the distance by 1 space."
+    ],
+    "exceed_cost": "3G",
+    "description": "參考原創曲〈Escort me! Luknight〉，歌詞描述公主召喚Lu-knights護航。作為Ultra卡展現Lu-knights的忠誠與力量——蓄積的資源越多，攻擊越強大。"
+  },
+  {
+    "name": "Nnasshoi Passion",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "10",
+    "speed": "5",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "Full Moon",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Regain 4 life. Until the end of your next turn, you have Stun Immunity."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "BEFORE: You may discard any number of cards. +1 Power and +1 Speed per card discarded.",
+      "AFTER: If this attack hit, gain Advantage."
+    ],
+    "exceed_cost": "4G",
+    "description": "參考2025年原創曲〈Nnasshoi Passion〉，融合招牌口號『んなーしょい』與Passion。作為最終奧義Ultra卡，燃燒所有能量發動毀滅一擊——捨棄越多、力量越強，象徵她的熱情與成長。"
+  }
+]

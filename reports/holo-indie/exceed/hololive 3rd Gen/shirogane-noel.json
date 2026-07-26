@@ -1,0 +1,244 @@
+[
+  {
+    "name": "Konbanmassuru!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Muscle Greeting",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 1.",
+        "+1 Speed if you initiated this Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1. Gain Advantage."
+    ],
+    "description": "以Noel的招牌招呼語『こんばんマッスル！』為核心概念。高速輕擊配合抽牌搶回先手權，表現她活力十足的登場總能帶動氣氛。Boost進一步強化先手速度，體現她隨時充滿肌肉幹勁的招牌形象。"
+  },
+  {
+    "name": "Massuru Metronome",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rapid Vibrations",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed for this Strike only."
+      ]
+    },
+    "effect": [
+      "HIT: Deal damage again at -1 Power (second hit)."
+    ],
+    "description": "取自Noel的經典音效梗『マッスルメトロノーム』——高速肌肉震動的擬音。設計為二段攻擊，命中後追加第二次傷害，象徵她那不停歇的肌肉抖動，每一次震動都疊加傷害，愈抖愈強。"
+  },
+  {
+    "name": "Iron Stomach",
+    "type": "special",
+    "cost": null,
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "3",
+    "armor": "3",
+    "guard": "4",
+    "boost": {
+      "name": "Gyudon Time",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Gain 2 life.",
+        "AFTER: If this card was not used in a Strike, gain 2 life."
+      ]
+    },
+    "effect": [
+      "BEFORE: Gain 3 life.",
+      "HIT: You may discard any number of cards. Gain 1 life per card discarded."
+    ],
+    "description": "以Noel著名的『鉄の胃袋』（鐵胃）以及她對牛丼（Gyudon）的狂熱熱愛為設計。非攻擊性的回復支援卡，擁有高防禦與多段生命回復效果，表現她無論吃多少都能吸收的驚人消化力與大胃王體質。"
+  },
+  {
+    "name": "Knight's Oath",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "3",
+    "guard": "0",
+    "boost": {
+      "name": "Shield Wall",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor and +2 Guard this Strike.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Push 1. Gain Advantage."
+    ],
+    "description": "以Noel的騎士身份與粉絲群『白銀聖騎士團』為概念。高護甲的騎士踢擊，無視對手護甲並將其推開後搶回先手，表現她作為騎士團長兼具堅不可摧的防禦力與威嚴的推進氣勢。"
+  },
+  {
+    "name": "Getting Over It",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "X",
+    "speed": "2",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Never Give Up",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "X is also +1 for each card in your discard pile.",
+        "AFTER: Return this to your hand instead of your discard if it missed."
+      ]
+    },
+    "effect": [
+      "X equals the number of cards in your discard pile (max 6).",
+      "HIT: Gain Advantage and draw 1 card."
+    ],
+    "description": "致敬Noel的經典耐久直播《Getting Over It》——她花了數小時不斷失敗卻永不放棄。X值基於墓地牌數，越到後期越強，象徵她越挫越勇的耐久精神力。Boost讓此卡未命中時回收，體現她總會重新站起來繼續挑戰。"
+  },
+  {
+    "name": "ASMR Sweet Dreams",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Whisper Lullaby",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Opponent discards 1 random card.",
+        "AFTER: If this Strike hit, the opponent draws 1 less card next turn."
+      ]
+    },
+    "effect": [
+      "HIT: Opponent skips their next Draw Phase (draw 0 cards next turn). Gain Advantage."
+    ],
+    "description": "以Noel曾是Hololive主要ASMR直播主的身份為靈感。輕柔的高速攻擊，命中後讓對手陷入『安眠』狀態（跳過抽牌階段），表現她那令人放鬆的ASMR嗓音能讓觀眾（對手）失去作戰意識，沉浸在溫柔之中。"
+  },
+  {
+    "name": "Muscle Brain Charge",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Full Power Assault",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "HIT: You may take 1 damage to draw 2 cards."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Push 2. Opponent discards 1 card."
+    ],
+    "description": "呼應Noel官方認證的『蓬鬆筋肉脳』設定——她總是憑直覺用蠻力解決問題。近距離全力衝撞，無視防禦、高傷害，配合推開與削手效果，表現她不假思索、用肌肉硬幹一切的直球風格。"
+  },
+  {
+    "name": "Platinum Ring",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Eternal Promise",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power and Stun Immunity.",
+        "If you have 'Noefure Eternity' in your discard, +2 Speed."
+      ]
+    },
+    "effect": [
+      "Cannot be guarded.",
+      "HIT: Return up to 2 cards from your discard to your hand.",
+      "AFTER: Gain 2 life."
+    ],
+    "exceed_cost": "3G",
+    "description": "與Flare對戒的對應卡，從Noel視角出發的羈絆奧義。致敬2021年兩人訂製白金對戒的經典事件——作為騎士團長守護最重要之人的決心。不可防禦的攻擊，命中後回收資源並回復生命，表現戒指帶給她的溫暖與力量。"
+  },
+  {
+    "name": "Danchou's Final Stand",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-3",
+    "power": "9",
+    "speed": "4",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "Knight Order Charge",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw a card for each 'special' card in your discard (max 3).",
+        "+1 Power for each card drawn this way."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Opponent discards their hand and draws 3 cards.",
+      "AFTER: You may advance up to 2 spaces."
+    ],
+    "exceed_cost": "4G",
+    "description": "以Noel的騎士團長身份與粉絲群『白銀聖騎士團』為概念的最終決戰技。率領騎士團發動總攻擊，無視暈眩、強制對手重置手牌。Boost根據墓地特殊卡數量強化，表現團長集結全團之力、越戰越強的領袖氣質。"
+  },
+  {
+    "name": "Noefure Eternity",
+    "type": "ultra",
+    "cost": "5G",
+    "range": "1-4",
+    "power": "14",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bond of Platinum",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "If you have a 'Platinum Ring' card in your discard, you may play it without paying its Force cost.",
+        "AFTER: If this Strike hit, add this card to your hand instead of your discard."
+      ]
+    },
+    "effect": [
+      "Cannot be guarded.",
+      "Cannot be dodged by effects.",
+      "HIT: Opponent discards their hand and takes 3 additional damage."
+    ],
+    "exceed_cost": "5G",
+    "description": "ノエフレ的最終奧義——Noel與Flare羈絆的全力釋放。極慢但毀滅性的最強攻擊，無法被防禦或閃避。若墓地有『Platinum Ring』則可免費施放Boost，且命中後此卡回手形成無限循環，象徵兩人的羈絆永無終點。"
+  }
+]

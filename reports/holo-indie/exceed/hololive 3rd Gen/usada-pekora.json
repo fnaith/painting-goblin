@@ -1,0 +1,231 @@
+[
+  {
+    "name": "Hiya-peko!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Peko Peko",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw a card.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT: Close 1 space."
+    ],
+    "description": "以兔田佩可拉的招牌招呼語『Hiya-peko！』為概念的輕快起手技。極高速度但幾乎無傷害，命中後拉近距離，象徵她活力登場總是瞬間抓住所有目光。"
+  },
+  {
+    "name": "Carrot Bazooka",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Reinforced Carrot",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2."
+    ],
+    "description": "以佩可拉在Minecraft中代表性的胡蘿蔔火箭炮為靈感。中遠距離穩定輸出，命中後擊退對手，表現胡蘿蔔爆炸的衝擊力與她『戰爭罪犯』的暴力傾向。"
+  },
+  {
+    "name": "HORE SHIIT",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "6",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "Panic Mode",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed. NOW: Retreat 1."
+      ]
+    },
+    "effect": [
+      "HIT: Opponent discards a card at random."
+    ],
+    "description": "來自佩可拉經典的驚嚇反應『HORE SHIIT』。近距離防禦反擊技，高速度附帶護甲，命中時擾亂對手手牌，表現她受驚嚇時反而引發混亂的搞笑場面。"
+  },
+  {
+    "name": "Don-chan, Go!",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Living Scarf",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "AFTER: Draw a card if this hit."
+      ]
+    },
+    "effect": [
+      "HIT: Pull the opponent 1 space."
+    ],
+    "description": "以佩可拉的寵物夥伴咚醬（Don-chan）為概念。高速靈活的遠程干擾技，命中後將對手拉近，表現咚醬在戰場上四處穿梭的可愛模樣。"
+  },
+  {
+    "name": "Usada Construction",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "4",
+    "armor": "3",
+    "guard": "3",
+    "boost": {
+      "name": "Blueprint",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: You may move to any empty space."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard any number of cards. For each card discarded, +1 Armor until end of turn."
+    ],
+    "description": "以佩可拉的Minecraft建築企業『兔田建設』為靈感。高防禦的據點構築技，捨棄手牌換取護甲，Boost允許瞬間移動到任意位置，象徵她隨時隨地都能建造據點的恐怖建設能力。"
+  },
+  {
+    "name": "Pekoland Express",
+    "type": "special",
+    "cost": "1F",
+    "range": "3-6",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Royal Decree",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card and Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Gain Advantage."
+    ],
+    "description": "來自佩可拉的王國『佩可洛兰德』的遠程攻擊。無視對手防禦，命中後奪取先手權，表現『兔田公主』的威嚴——她的命令不容阻擋。"
+  },
+  {
+    "name": "PekoMiko Spark",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rival's Instigation",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you have less life than the opponent, +2 Power."
+    ],
+    "description": "以佩可拉與さくらみこの經典組合『ぺこみこ』為靈感。逆境時威力上升的戰鬥技，表現兩人既競爭又互助的複雜關係——越被壓制，反擊就越猛烈。"
+  },
+  {
+    "name": "Snack Usada",
+    "type": "special",
+    "cost": null,
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "3",
+    "armor": "2",
+    "guard": "2",
+    "boost": {
+      "name": "Mama's Advice",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of your turn, gain 1 life."
+      ]
+    },
+    "effect": [
+      "BEFORE: Draw 2 cards and gain 2 life."
+    ],
+    "description": "以佩可拉的人氣節目『スナックうさ田』（佩可拉媽媽酒館人生相談）為概念。純支援技，抽牌與回血表現她溫柔傾聽、給予建議的『媽媽』形象。Boost持續回血象徵她暖心的陪伴。"
+  },
+  {
+    "name": "TNT War Criminal",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Scorched Earth",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Destroy all cards in both players' gauge areas. +3 Power per card destroyed this way."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Opponent discards 2 cards at random."
+    ],
+    "exceed_cost": "2G",
+    "description": "紀念佩可拉最著名的稱號『戰爭罪犯』——她在Minecraft中大量使用TNT的爆破狂形象。無視護甲的大範圍爆破，命中時隨機破壞對手手牌，完美體現她『和平主義者（自稱）』的矛盾破壞慾。"
+  },
+  {
+    "name": "Super Pekora Time",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-3",
+    "power": "9",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Pekora 24",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Discard your hand, then draw cards equal to the number discarded.",
+        "AFTER: You may return up to 2 cards from your discard to your hand."
+      ]
+    },
+    "effect": [
+      "+2 Speed if opponent has more cards in hand.",
+      "HIT: Draw 3 cards and gain 3 life."
+    ],
+    "exceed_cost": "4G",
+    "description": "以佩可拉的招牌大型企劃『ぺこら24時間』為靈感。終極耐力戰術，手牌資源瞬間補充，命中後大量回復，象徵她連續24小時不間斷直播的驚人毅力與娛樂精神。"
+  }
+]

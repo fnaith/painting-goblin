@@ -1,0 +1,229 @@
+[
+  {
+    "name": "Shiori~n!",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Good Morning",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of your turns, draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Shiori的招牌招呼語「Shiori~n！」為概念的高速度輕攻擊。命中後搶回先手權，象徵她總能以活潑的登場吸引眾人目光，如同早晨的第一聲問候帶來全新的一天。"
+  },
+  {
+    "name": "Archiver's Bookmark",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Preserve Memory",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 2 cards of your deck. Add one to your hand and discard the other."
+      ]
+    },
+    "effect": [
+      "HIT: Draw a card."
+    ],
+    "description": "以Shiori的「Archiver」身份為概念，能將記憶化為書籤保存。中距離攻擊，Boost允許在出牌前從牌組頂挑選卡片，象徵她從浩如煙海的故事中揀選珍貴片段的能力。"
+  },
+  {
+    "name": "Forbidden Knowledge",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Taboo Tome",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Lose 1 life."
+    ],
+    "description": "以Shiori因獲得禁忌知識而被囚禁的背景為靈感。近距離高威力攻擊，無視護甲但命中後自損1點生命，反映禁忌知識的雙面刃特性——強大但需付出代價。"
+  },
+  {
+    "name": "Scissors Snip",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Snip Snip",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "+1 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: The opponent must discard a random card."
+    ],
+    "description": "以Shiori用剪刀吃東西的經典習慣為設計概念。近距離攻擊無視防禦，命中時隨機棄掉對手一張手牌，表現她出其不意、令人措手不及的獨特風格。"
+  },
+  {
+    "name": "Yorick's Embrace",
+    "type": "special",
+    "cost": null,
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "3",
+    "armor": "4",
+    "guard": "0",
+    "boost": {
+      "name": "Alas, Poor Yorick",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "BEFORE: Draw 2 cards."
+    ],
+    "description": "以Shiori的吉祥物Yorick（黑色哀傷小生物，名字出自《哈姆雷特》）為靈感。高護甲防禦技，抽牌效果反映Yorick靜靜陪伴的安心感，Boost的暈眩免疫象徵Yorick不離不棄的忠誠守護。"
+  },
+  {
+    "name": "Into the Tangents",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Wait, Where Was I?",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw a card, then discard a card at random."
+      ]
+    },
+    "effect": [
+      "BEFORE: Both players discard a card at random, then draw a card."
+    ],
+    "description": "以Shiori直播中突然離題（Tangents）的知名特色為概念。中遠距離攻擊，出牌時雙方隨機棄牌後補牌，造成牌局的混亂，如同她總能在閒聊中突然拋出令人意想不到的黑暗話題。"
+  },
+  {
+    "name": "Monsters and Men",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "5",
+    "speed": "5",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Serendipity",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage.",
+      "AFTER: Return this card to your hand."
+    ],
+    "description": "以Shiori首張個人原創曲《Monsters and Men》為概念。均衡的中距離攻擊，命中後搶回先手權並可回收再利用，象徵她在音樂中面對內心怪物、戰勝自我而成長的歷程。"
+  },
+  {
+    "name": "Eye of Truth",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Glowing Gaze",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the opponent's hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: Look at the opponent's hand.",
+      "HIT: The opponent must discard a card of your choice."
+    ],
+    "description": "以Shiori的眼睛可像手電筒般發光、能在黑暗中視物的設定為概念。高速牽制技，使用前可查看對手手牌，命中後指定棄牌，象徵她的真實之眼看穿一切偽裝與秘密。"
+  },
+  {
+    "name": "Prison Break",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "7",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "The Great Escape",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 2 cards. Gain Advantage."
+    ],
+    "exceed_cost": "3G",
+    "description": "以Shiori作為Advent全員越獄主謀的設定為概念。Exceed技，暈眩免疫且命中後抽牌並搶回先手，表現她縝密策劃與果斷行動的領袖魅力——從深埋地底的秘密監獄中解放了所有同伴。"
+  },
+  {
+    "name": "The Final Chapter",
+    "type": "ultra",
+    "cost": "5G",
+    "range": "1-2",
+    "power": "12",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "To Be Continued...",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "AFTER: If this attack hit, return this card to your hand."
+      ]
+    },
+    "effect": [
+      "Ignore Guard, Ignore Armor.",
+      "HIT: The opponent discards their hand."
+    ],
+    "exceed_cost": "5G",
+    "description": "Shiori的終極奧義——為故事寫下最終章。不可防守不可減傷的決定性一擊，命中時清空對手所有手牌。Boost允許回收再使用，象徵Archiver的故事永遠不會真正結束，總有續篇等待被發掘。"
+  }
+]

@@ -1,0 +1,247 @@
+{
+  "name": "Koganei Niko",
+  "cards": [
+    {
+      "id": 1,
+      "name": "虎舞",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "3",
+      "speed": "7",
+      "armor": "0",
+      "guard": "2",
+      "boost": {
+        "name": "虎の威",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Speed and +1 Power."
+        ]
+      },
+      "effect": [
+        "HIT: Gain Advantage."
+      ],
+      "description": "以Niko的老虎主題為核心設計。高速輕巧的攻擊展現猛虎出閘般的敏捷，命中後奪回節奏權象徵她掌控舞台的霸氣。Boost「虎の威」進一步疊加速度與威力，呼應她姓名中兩次出現的「虎」字——金色老虎的微笑，正是她最強大的武器。"
+    },
+    {
+      "id": 2,
+      "name": "笑えないなら名前を呼べ",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "4",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "スマイル・チャージ",
+        "cost": "1F",
+        "timing": "Instant",
+        "effect": [
+          "Gain 2 life. Draw a card."
+        ]
+      },
+      "effect": [
+        "BEFORE: If you are behind in life total, +2 Power.",
+        "HIT: Gain 2 life. Draw a card."
+      ],
+      "description": "以Niko的官方標語「笑えない時は、ニコたんの名を呼ぶがいいさ！」為靈感。劣勢時自動增傷的逆轉機制，象徵即使身處低谷，呼喚她的名字就能帶來轉機。命中後回血補牌，體現她用笑聲治癒人心、逆轉氣氛的本質。"
+    },
+    {
+      "id": 3,
+      "name": "ケツとタッパのでかい女",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "5",
+      "speed": "4",
+      "armor": "0",
+      "guard": "4",
+      "boost": {
+        "name": "自嘲の盾",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Guard and Stun Immunity."
+        ]
+      },
+      "effect": [
+        "Ignore Guard.",
+        "HIT: Push 1. Gain Advantage."
+      ],
+      "description": "以Niko最經典的自嘲梗——「ケツとタッパのでかい女」（屁股大個子高的女人）為設計。近距離高火力攻擊無視防禦，如同她的自嘲幽默般直擊要害不拐彎抹角。Boost「自嘲の盾」以自嘲作為防禦——越不在乎形象，反而越難以被擊倒。"
+    },
+    {
+      "id": 4,
+      "name": "ニコたんが来たァ！",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "2",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "登場！",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Move up to 3 spaces. Draw a card."
+        ]
+      },
+      "effect": [
+        "BEFORE: Advance up to 2 spaces.",
+        "HIT: Draw 2 cards."
+      ],
+      "description": "以Niko充滿元氣的登場台詞「ニコたんが来たァ！」為概念。極高速度確保先手，BEFORE衝刺拉近距離如同她活力四射的舞台登場。命中後大量補牌，象徵她的出現總能為觀眾帶來源源不絕的歡笑與驚喜。"
+    },
+    {
+      "id": 5,
+      "name": "耐久歌回",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "1",
+      "speed": "6",
+      "armor": "0",
+      "guard": "3",
+      "boost": {
+        "name": "限界突破",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Power per Force spent. HIT: Gain 1 life per Power gained."
+        ]
+      },
+      "effect": [
+        "BEFORE: Reveal the top 3 cards of your deck. This card gains +1 Power for each card revealed this way.",
+        "AFTER: Draw 1 card for each Power gained this way."
+      ],
+      "description": "以Niko著名的30萬訂閱達成耐久歌回為靈感。遠距離持續輸出型技能，Power取決於牌庫揭示——象徵她在一首接一首的耐力歌回中發揮超乎預期的實力。Boost「限界突破」消耗氣力換取爆發，如同她在疲憊邊緣仍能飆出驚人高音。"
+    },
+    {
+      "id": 6,
+      "name": "朝の貓飯",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "3",
+      "speed": "3",
+      "armor": "2",
+      "guard": "6",
+      "boost": {
+        "name": "早起きは三文の得",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "Gain 2 life. +1 Armor."
+        ]
+      },
+      "effect": [
+        "BEFORE: Gain 3 life.",
+        "HIT: The opponent discards a random card."
+      ],
+      "description": "以Niko人設中「每天早上迷迷糊糊起床給貓做早餐」的溫馨日常為設計。高防禦與回血效果象徵她即使不擅長早起、頭髮亂糟糟，仍堅持照顧愛貓的溫柔。Boost進一步強化續航力，體現早起照顧貓咪帶來的微小而確實的幸福回報。"
+    },
+    {
+      "id": 7,
+      "name": "マイイングリッシュ イズ ベリー赤ちゃん",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "4",
+      "speed": "5",
+      "armor": "0",
+      "guard": "2",
+      "boost": {
+        "name": "AKA-CHAN",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Look at the opponent's hand. Choose a card and they discard it."
+        ]
+      },
+      "effect": [
+        "BEFORE: Name a card type (special/ultra/normal). The opponent reveals their hand. Discard all cards of that type they reveal.",
+        "HIT: Draw a card. The opponent discards a random card."
+      ],
+      "description": "以Niko出道名言「My English is very AKA-CHAN」為設計。雖然詞不達意，反而成為獨特的擾亂戰術——BEFORE揭露對手手牌並選擇性削減，如同破英文帶來的意外混亂效果。Boost強制棄牌，完美詮釋聽不懂但有效（？）的コミュニケーション。"
+    },
+    {
+      "id": 8,
+      "name": "172cmの存在感",
+      "type": "special",
+      "cost": null,
+      "range": "2-5",
+      "power": "3",
+      "speed": "4",
+      "armor": "0",
+      "guard": "3",
+      "boost": {
+        "name": "見下ろす視線",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Range and +1 Guard."
+        ]
+      },
+      "effect": [
+        "HIT: Pull 1 or 2 spaces.",
+        "HIT: Gain Advantage."
+      ],
+      "description": "以Niko 172cm的hololive日本女性成員最高身高為主題。遠距離攻擊配合拉近效果，模擬她利用身高優勢將對手拉入自己節奏範圍的壓迫感。Boost「見下ろす視線」進一步延伸壓制距離與防禦，凸顯高人一等的存在感。"
+    },
+    {
+      "id": 9,
+      "name": "虎金妃笑虎 - 微笑の金色猛虎",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": "5",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "笑顔の力",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Gain 3 life. The opponent discards 2 cards."
+        ]
+      },
+      "effect": [
+        "Ignore Armor. Ignore Guard.",
+        "HIT: Gain 3 life. Draw 2 cards. Gain Advantage."
+      ],
+      "exceed_cost": "3G",
+      "description": "以Niko的全名「虎金妃笑虎」（微笑的金色老虎）命名。終極技無視一切防禦，如同她的笑容能穿透所有陰霾直達人心。命中後大量回復與補牌，象徵她奉獻生命換取他人笑容的覺悟。Boost「笑顔の力」在爆發前已開始治癒與削減對手，體現她先讓別人開心、自己才開心的真摯本質。"
+    },
+    {
+      "id": 10,
+      "name": "MAKE IT, BREAK IT",
+      "type": "ultra",
+      "cost": "4G",
+      "range": "1-2",
+      "power": "7",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "FG ROADSTER",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Play an additional card from your hand with a cost of 2G or less (ignore its cost)."
+        ]
+      },
+      "effect": [
+        "BEFORE: +2 Power if you have less life than your opponent.",
+        "HIT: The opponent discards their hand and draws 1 card.",
+        "HIT: Gain Advantage."
+      ],
+      "exceed_cost": "4G",
+      "description": "以FLOW GLOW的團體精神與專輯《MAKE IT, BREAK IT》為靈感。逆境中爆發的終極王牌——劣勢時威力倍增，如同FLOW GLOW越挫越勇的信念。命中後重置對手手牌，象徵打破一切阻礙重新出發。Boost「FG ROADSTER」追加攻勢，體現Niko作為FLOW GLOW一員與夥伴聯手作戰的團隊力量。"
+    }
+  ]
+}

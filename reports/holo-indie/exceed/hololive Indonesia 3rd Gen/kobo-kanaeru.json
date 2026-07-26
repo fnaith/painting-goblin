@@ -1,0 +1,235 @@
+{
+  "name": "Kobo Kanaeru",
+  "cards": [
+    {
+      "name": "Mantra Hujan",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "2",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Rain Dance",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Speed."
+        ]
+      },
+      "effect": [
+        "HIT: Gain 1 Gauge."
+      ],
+      "description": "以Kobo的原創出道曲〈Mantra Hujan〉（雨之咒語）為主題。雨水匯聚力量，命中後累積Gauge為後續攻勢做準備，象徵她作為雨巫師操控雨水與音樂天賦的結合。"
+    },
+    {
+      "name": "Water Gaki Splash",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "3",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Brat Mode",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Advance 1 space.",
+          "Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+        ]
+      },
+      "effect": [
+        "HIT: Push opponent 1 or 2 spaces."
+      ],
+      "description": "以Kobo與Gawr Gura的「Water Gakis」（水屁孩）組合為概念。高速的屁孩式攻擊，打完就跑不講武德——完美體現兩大藍色屁孩聯手時歡樂混亂的場面。"
+    },
+    {
+      "name": "ASMR Whisper",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "1",
+      "speed": "9",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Sensory Overload",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Speed.",
+          "Stun Immunity."
+        ]
+      },
+      "effect": [
+        "HIT: Opponent discards 1 random card."
+      ],
+      "description": "以Kobo被譽為天賦型ASMR直播主的才華為概念。極高速的細語攻擊讓對手防不勝防，命中後擾亂對手手牌——如同她用ASMR讓觀眾徹底沉浸、忘我投入的魔力。"
+    },
+    {
+      "name": "Lighthouse Keeper",
+      "type": "special",
+      "cost": null,
+      "range": "2-5",
+      "power": "2",
+      "speed": "4",
+      "armor": "3",
+      "guard": "2",
+      "boost": {
+        "name": "Guiding Light",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Range.",
+          "Draw 1 card at the start of your turn."
+        ]
+      },
+      "effect": [
+        "Ignore Armor."
+      ],
+      "description": "以Kobo居住在燈塔的角色背景為基礎。燈塔守望者擁有廣闊視野（長射程）與堅固防禦（高裝甲），從高處精準打擊對手弱點、無視防具，象徵她在孤獨燈塔中靜心磨練的雨巫師修為。"
+    },
+    {
+      "name": "Bokobokobo Strike",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "5",
+      "speed": "5",
+      "armor": "0",
+      "guard": "3",
+      "boost": {
+        "name": "At Your Service!",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent cannot gain Advantage this turn."
+      ],
+      "description": "以Kobo的招牌招呼語「Bokobokobo Kobo Kanaeru at your service!」命名。近距離自信出擊搶佔節奏，命中後封鎖對手反撲——如同她每次開場就用這句話瞬間掌控全場氣氛。"
+    },
+    {
+      "name": "Camera Drop",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "4",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Emergency Exit",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Retreat up to 2 spaces.",
+          "Gain 1 life."
+        ]
+      },
+      "effect": [
+        "BEFORE: +2 Power if you have less life than your opponent."
+      ],
+      "description": "以2023年2月壽司直播中攝影機意外鬆動的傳奇迷因為主題。劣勢時反而爆發出更強力量——如同Kobo在意外發生後幽默自嘲、將危機化為轉機的強大心理素質與節目效果。"
+    },
+    {
+      "name": "Spoon Snatcher",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "2",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Not Sorry",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Steal 1 Force from your opponent."
+        ]
+      },
+      "effect": [
+        "HIT: Add the top card of your opponent's discard to your Gauge."
+      ],
+      "description": "以Kobo在與Pavolia Reine聯動中「不小心」拿走Reine湯匙的經典迷因為靈感。高速偷取對手資源化為己用，完美還原她得手後毫無悔意的屁孩笑容——拿了就是我的，才不會還呢！"
+    },
+    {
+      "name": "Give Me a Horse!",
+      "type": "ultra",
+      "cost": "2G",
+      "range": "1-3",
+      "power": "6",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "YAGOO Negotiation",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Look at the top 3 cards of your deck. Add 1 to your hand, discard the rest."
+        ]
+      },
+      "effect": [
+        "BEFORE: Spend up to 2 Gauge. For each Gauge spent, +2 Power.",
+        "Stun Immunity."
+      ],
+      "exceed_cost": "2G",
+      "description": "以Kobo在100萬訂閱時向YAGOO要求送她一匹真馬的傳奇迷因為主題。投入越多Gauge威力越強——越大膽的要求越有機會實現。雖然馬最後沒拿到，但這天不怕地不怕的氣勢就是Kobo的招牌風格。"
+    },
+    {
+      "name": "Goose Trauma",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "4",
+      "speed": "3",
+      "armor": "0",
+      "guard": "4",
+      "boost": {
+        "name": "Flashback",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Guard.",
+          "Cannot be moved by opponent."
+        ]
+      },
+      "effect": [
+        "BEFORE: +2 Power if opponent is at range 2+.",
+        "HIT: Gain 2 life."
+      ],
+      "description": "以Kobo小時候被鵝追過的童年陰影為靈感。遠距離時因恐懼轉化為戰鬥力（保持安全距離才能發揮實力），高防禦來自於本能的自我保護。命中後恢復生命，象徵她克服恐懼後從創傷中成長的堅韌。"
+    },
+    {
+      "name": "Kobokerz Rally",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-4",
+      "power": "5",
+      "speed": "6",
+      "armor": "1",
+      "guard": "1",
+      "boost": {
+        "name": "Cebokerz Cheer",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Gain 2 life.",
+          "Draw 2 cards."
+        ]
+      },
+      "effect": [
+        "BEFORE: Gain 1 Force for each card in your hand (max 3)."
+      ],
+      "exceed_cost": "3G",
+      "description": "以Kobo的粉絲「Kobokerz」與「Cebokerz」為主題。手牌越多（粉絲越多）獲得的Force越多——Kobokerz們的熱情應援就是Kobo最強大的力量泉源，完美體現她寵粉也受粉絲寵愛的深厚羈絆。"
+    }
+  ]
+}

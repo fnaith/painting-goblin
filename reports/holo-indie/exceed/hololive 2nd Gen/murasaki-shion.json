@@ -1,0 +1,237 @@
+[
+  {
+    "name": "\"Hellshio!\"",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Midnight Entrance",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 2 spaces.",
+        "Draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Shion官方設定招呼語「Hellshio!」為主題——雖然她本人幾乎從未說過這句話。最高速度的突襲問候，命中後奪取先手權，象徵這句官方設定台詞應有的衝擊力與存在感，彷彿她終於說出這句話時帶給眾人的震撼。"
+  },
+  {
+    "name": "\"NEEEE!\"",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tantrum",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat 1 space.",
+        "Your opponent discards a card at random."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent skips their next Boost phase."
+    ],
+    "description": "以Shion最著名的經典惱怒叫聲「NEEEE!」為主題——這是hololive中極具代表性的反應之一。當事情不如意時她會發出這聲吶喊，卡牌效果模擬她的崩潰抱怨干擾對手節奏，讓對方無法好好準備下一輪攻勢。"
+  },
+  {
+    "name": "Kusogaki Smirk",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "\"Heh, Dummy!\"",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: Look at the opponent's hand. Choose 1 card — your opponent discards it unless they pay 1 Force."
+    ],
+    "description": "以Shion最著名的「クソガキ（臭小鬼）」標籤為主題，呈現她得意洋洋捉弄人的模樣。得意的笑聲「Heh, dummy!」是她的經典台詞，效果讓她窺視對手手牌並強迫對方選擇：要嘛白白被棄牌、要嘛消耗珍貴的Force來保留，完美體現她那欠扁又讓人無可奈何的態度。"
+  },
+  {
+    "name": "Mage of Violet",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Black Magic Chant",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "AFTER: Gain 1 life."
+    ],
+    "description": "以Shion的個人原創曲「メイジ・オブ・ヴァイオレット」為主題。她自稱是出身名門的天才黑魔術師，這張牌體現她的魔法攻擊風格——中遠距離的紫色魔力貫穿對手防禦，並在命中後汲取生命力，呼應歌名中「紫之法師」的形象與她官方設定的黑魔術師身份。"
+  },
+  {
+    "name": "\"Come ooooooooonnn!\"",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Smug Challenge",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 3 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 1 space.",
+      "AFTER: If you are at range 1 from the opponent, gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Shion直播中的經典挑釁台詞「Come ooooooooonnn!」為主題。她總是得意地向對手叫囂，卡牌效果讓她高速逼近並在近距離壓制對手，命中後緊貼對方不退縮，象徵她越挑釁越來勁的臭小鬼性格。"
+  },
+  {
+    "name": "KonShio~🌙",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Moonlit Gathering",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add the top card of your deck to your Gauge."
+      ]
+    },
+    "effect": [
+      "AFTER: Draw a card.",
+      "AFTER: Gain 1 life."
+    ],
+    "description": "以Shion的直播開場招呼「こんしおー🌙」為主題。新月（🌙）是她的代表符號，這張牌象徵她直播開始時的溫馨時刻——月光下與鹽っ子們的相聚。高速低傷、專注於資源累積與續航，就像她每次開台時帶給粉絲的期待與活力。"
+  },
+  {
+    "name": "Garlic",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Pungent Aroma",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: The opponent discards 1 card from their hand at random."
+      ]
+    },
+    "effect": [
+      "HIT: You may return this card to your hand instead of discarding it."
+    ],
+    "description": "以海外粉絲稱Shion為「Garlic（大蒜）」的知名迷因為主題——與湊Aqua的「洋蔥（Onion）」相對應。沖鼻的蒜味(效果)在攻擊前就干擾對手，而她還能回收此牌反覆使用，就像大蒜的氣味久久不散、令人難以忽視。"
+  },
+  {
+    "name": "145cm Overlord",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Compensating Aura",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Close any distance.",
+        "This Strike cannot be disrupted by effects that move you."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Draw 2 cards.",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "3G",
+    "description": "以Shion 145cm的嬌小身材與黑魔術師設定的強烈反差為主題。雖然個頭小，但她體內的魔力（和脾氣）可不容小覷。壓倒性的速度與威力、無視防禦、強制接近、命中後搶佔節奏，完美詮釋她「人小氣燄大」的臭小鬼本色——用實力證明身高不代表一切。"
+  },
+  {
+    "name": "卍組·纏魂結陣 (Manjigumi Soul Binding)",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Trio's Mischief",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Both players draw 1 card.",
+        "Your opponent discards 1 card at random."
+      ]
+    },
+    "effect": [
+      "HIT: Choose one — your opponent discards their hand, or you may move the opponent any number of spaces."
+    ],
+    "exceed_cost": "2G",
+    "description": "以Shion與湊Aqua、百鬼Ayame組成的親密三人小團體「卍組」為主題。佛教符號「卍」代表著三人深厚的羈絆，卡牌效果模擬三人聯手惡作劇的場景：讓對手陷入混亂，然後Shion可以選擇讓對手失去一切或者徹底玩弄位置，就像卍組三人在Minecraft伺服器中聯手整人時的歡樂場面。"
+  },
+  {
+    "name": "Overlord of the Nether Academy",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-4",
+    "power": "10",
+    "speed": "3",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "True Name Awakening",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "+3 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "Ignore Armor.",
+      "HIT: Your opponent discards their entire hand. For each card discarded this way, they lose 1 life."
+    ],
+    "exceed_cost": "4G",
+    "description": "以Shion的官方背景設定「冥府學園（Nether Academy）」為主題的最終奧義。她自稱是出身名門的天才黑魔術師，在冥府學園周邊出沒。這張牌展現她隱藏的真正實力——喚醒名門血脈中的禁忌黑魔術，無視一切防禦並以靈魂為代價重創對手，呼應「冥府」的死亡意象與她不容小覷的潛在力量。"
+  }
+]

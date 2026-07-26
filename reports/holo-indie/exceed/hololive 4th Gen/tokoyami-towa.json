@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Konyappi",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Morning Devil",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage."
+    ],
+    "description": "以常闇トワ的招牌開場招呼語「こんやっぴー」命名的起手技。高速輕擊為整套牌定下節奏基調，如同她每次直播都以精神飽滿的可愛招呼展開序幕，迅速奪取先機。"
+  },
+  {
+    "name": "TMT",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "4",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "Angelic Protection",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 1 life."
+      ]
+    },
+    "effect": [
+      "Stun Immunity."
+    ],
+    "description": "「Towa Maji Tenshi（トワまじ天使）」——粉絲們公認トワ的天使面。柔和的笑容與治癒的聲線讓她被稱為天使，高防禦與Guard值象徵天使光環護體，加上生命回復效果，體現她溫柔體貼、總是關心觀眾的暖心性格。"
+  },
+  {
+    "name": "TMD",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Devil's Contract",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 2 spaces.",
+        "+2 Power this turn."
+      ]
+    },
+    "effect": [
+      "Ignore Guard."
+    ],
+    "description": "「Towa Maji Devil（トワまじデビル）」——トワ本人再三強調請大家使用的稱呼。捨棄所有防禦的近距離高威力突襲，無視對手防禦直搗要害，完美展現她在FPS遊戲中化身為毫不留情惡魔的兇猛戰鬥風格。"
+  },
+  {
+    "name": "Suppies!",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Worldwide Devil",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Retreat 1 space."
+    ],
+    "description": "トワ在英文直播中的開場招呼「Suppies!」。中遠程攻擊象徵她跨越語言障礙與海外粉絲交流的國際化形象，發動前先拉開距離確保安全，打完還能抽牌補充資源，如同她遊刃有餘地切換日英雙語的從容姿態。"
+  },
+  {
+    "name": "Bibi Assault",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "1",
+    "guard": "1",
+    "boost": {
+      "name": "Cap Transformation",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1 space.",
+      "HIT: Pull 1 space."
+    ],
+    "description": "トワ的使魔Bibi平時偽裝成帽子靜靜守護著她，戰鬥時則展現真實型態協助攻擊。兼具推進與拉近的雙向位移控制，體現Bibi神出鬼沒的特性，讓對手完全無法掌握攻擊節奏。"
+  },
+  {
+    "name": "YAB",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "YABAI!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards. Discard 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card."
+    ],
+    "description": "源自トワ想打「YABAI（やばい）卻打成「YAB」的經典迷因。全遊戲最高速度但近乎零威力的慌亂一擊，象徵那份「啊打錯了！」的瞬間——但トワ就是有本事在失誤中創造機會，大量抽牌效果體現她化糗事為笑料的獨特魅力。"
+  },
+  {
+    "name": "Mental & Take it easy",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "2",
+    "armor": "2",
+    "guard": "6",
+    "boost": {
+      "name": "Deep Breath",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor.",
+        "NOW: Gain 1 life."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Gain 2 life."
+    ],
+    "description": "トワ讓自己冷靜的口頭禪「メンタル＆ゆっくり（Mental & Take it easy）」。極致的純防禦卡片，最高Guard值與大量生命回復象徵她在面對逆境時調整心態、穩住陣腳的能力——正如她經歷直播爭議後短暫休息、堅強回歸的成熟態度。"
+  },
+  {
+    "name": "Apex Predator",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "One Tap",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "+1 Power.",
+        "Ignore Guard."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards 1 card."
+    ],
+    "description": "トワ是hololive公認的Apex Legends頂尖玩家，在CR Cup等大賽中多次打出精彩操作。超遠距離的精準射擊如同她的招牌狙擊槍法，命中後破壞對手手牌資源，消耗1F啟用爆頭效果的設計體現她在FPS領域的壓倒性實力。"
+  },
+  {
+    "name": "Otsuyappi",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-4",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Toodlies!",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2 spaces.",
+      "Ignore Guard.",
+      "HIT: Gain Advantage.",
+      "HIT: Gain 2 life."
+    ],
+    "description": "トワ的直播結尾招呼「おつやっぴー」以及英文版「Toodlies!」的終結組合。急速拉近距離後發動無視防禦的強力一擊，命中後回復生命並奪回節奏主導權，如同她每次直播尾聲那句溫暖的「明天見」——乾脆俐落，令人意猶未盡。",
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Devil's Solo Live",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-5",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Aster",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance or Retreat up to 2 spaces.",
+      "Ignore Guard.",
+      "HIT: Push 3 spaces.",
+      "HIT: The opponent discards 1 card and loses 1 life.",
+      "Stun Immunity."
+    ],
+    "description": "トワ最大的夢想——舉辦個人演唱會。她的首張專輯《Aster》與多次重要演出證明了她不僅是頂尖遊戲玩家，更是一名實力派歌姬。此終極奧義壓倒一切，自由位移後發動無視防禦的全力一擊，將對手震退並摧毀其資源，如同演唱會最後的安可曲般震撼全場、令人永難忘懷。",
+    "exceed_cost": "4G"
+  }
+]

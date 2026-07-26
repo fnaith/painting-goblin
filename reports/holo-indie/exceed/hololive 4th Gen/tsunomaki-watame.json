@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Konban Dododo!",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dododo Hello",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw a card.",
+        "AFTER: You may return this card to your hand."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Watame的招牌招呼語『Konban dododo!』為概念的速度牽制技。低傷害但搶回先手權，就像她活力十足的招呼總能帶動氣氛。Boost延續她反覆打招呼的親切形象。"
+  },
+  {
+    "name": "Watame Did Nothing Wrong",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Innocent Plea",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Gain Advantage."
+    ],
+    "description": "來自Watame最著名的迷因『わためは悪くないよね』。無視防禦的反擊技並搶回先手權，表現她無論如何都堅持自己沒錯的可愛固執與無辜。"
+  },
+  {
+    "name": "Horn Drill",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "7",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Gangimari Mode",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "+3 Power this Strike."
+      ]
+    },
+    "effect": [
+      "Cannot be guarded."
+    ],
+    "description": "官方技能之一的『角鑽』（寶可夢梗）結合Watame的ガンギマリ表情。近距離不可防禦的強力一擊，Boost強化殺傷力，展現她搞笑外表下的爆發力。"
+  },
+  {
+    "name": "8-Second Respawn",
+    "type": "special",
+    "cost": null,
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "3",
+    "armor": "3",
+    "guard": "0",
+    "boost": {
+      "name": "Sheep Nap",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of your turns, recover 1 HP."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard your hand, then draw that many cards."
+    ],
+    "description": "以Watame直播中打瞌睡後立刻醒來的『8秒重生』梗為概念。高護甲休息技，重置手牌象徵她睡醒後滿血復活，Boost持續回復體力表現綿羊的頑強生命力。"
+  },
+  {
+    "name": "Everlasting Soul",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Healing Voice",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "NOW: Draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Recover 2 HP."
+    ],
+    "description": "取自Watame最知名的原創曲之一《Everlasting Soul》。中距離的療癒之聲，命中時回復生命，表現她歌聲撫慰人心的永恆力量。"
+  },
+  {
+    "name": "Sheep Bard's Harp",
+    "type": "special",
+    "cost": null,
+    "range": "1-5",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Autoplay Melody",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Play this card's effect again."
+      ]
+    },
+    "effect": [
+      "HIT: Look at the top 2 cards of your deck; put one in hand and one on bottom."
+    ],
+    "description": "以Watame隨身攜帶的自動演奏豎琴（吟遊詩人身份象徵）為概念。超遠程高速偵察技，Boost可重複觸發效果，表現豎琴自動演奏的連續音符。"
+  },
+  {
+    "name": "Dreamy Sheep",
+    "type": "special",
+    "cost": null,
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "1",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "Lullaby",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Opponent's attacks have -2 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Recover 3 HP."
+    ],
+    "description": "以Watame的專輯《夢見る羊》及深夜療癒直播形象為概念。大幅回復生命並以搖籃曲降低對手攻勢，表現她『睡前最適合觀看』的放鬆魔力。"
+  },
+  {
+    "name": "Bakatare Connection",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fubuki & Flare",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw a card.",
+        "AFTER: Draw a card if this hit."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage."
+    ],
+    "description": "以Watame所屬的『バカタレ』（白上フブキ、不知火フレア）為概念。中距離連攜攻擊，透過夥伴支援不斷抽牌並搶回優勢，展現三人組的搞笑默契。"
+  },
+  {
+    "name": "Watame Night Fever!!",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2",
+    "power": "8",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Encore!",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "AFTER: Add this card to your hand instead of your discard."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards 2 random cards."
+    ],
+    "exceed_cost": "3G",
+    "description": "以Watame每週末的歌唱直播『Watame Night Fever!!』為主題的超級技。高速高傷害並擾亂對手手牌，Boost Encore讓安可曲一再返場，表現她用歌聲嗨翻全場的壓倒性魅力。"
+  },
+  {
+    "name": "Hop Step Sheep",
+    "type": "ultra",
+    "cost": "5G",
+    "range": "1-4",
+    "power": "14",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Watame No. 1",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "This card cannot be guarded this Strike."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: The opponent discards their hand and draws 3 cards."
+    ],
+    "exceed_cost": "5G",
+    "description": "以Watame的專輯《Hop Step Sheep》及招牌口號『Watame No. 1』為名的終極奧義。全力一擊重置對手手牌，象徵她一步步邁向武道館頂點的決心與成長。"
+  }
+]

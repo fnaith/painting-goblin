@@ -1,0 +1,245 @@
+[
+  {
+    "name": "KonAqua",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Aqua Crew Support",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "湊あくあ的招牌問候語「こんあくあ～！」，高速輕擊為整套牌定下節奏基調，如同她的開場白一樣迅速拉開戰鬥序幕。"
+  },
+  {
+    "name": "Baqua Onion",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tears of an Onion",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat up to 2 spaces.",
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1 space.",
+      "HIT: Push the opponent 1 space."
+    ],
+    "description": "融合「Baqua（笨蛋あくあ）」與「洋蔥（紫色頭髮像洋蔥）」兩個迷因。又笨又愛哭的設定轉化為狡猾的進退技能，先拉近再推開，讓人哭笑不得。"
+  },
+  {
+    "name": "Dogeza",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "2",
+    "armor": "3",
+    "guard": "6",
+    "boost": {
+      "name": "Forgive Me",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor.",
+        "NOW: Gain 1 life."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Gain 2 life."
+    ],
+    "description": "あくあ經典的土下座（下跪道歉）姿勢，每當犯錯時立刻跪地求饒。極高的防禦與Guard值代表低頭認錯的姿態，附帶生命回復，完美展現她可憐兮兮的賠罪模樣。"
+  },
+  {
+    "name": "Naruhaya Taiki",
+    "type": "special",
+    "cost": "1F",
+    "range": "2-5",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Standby Mode",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Look at the top 2 cards of your deck. Add 1 to your hand."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card.",
+      "Gain Advantage."
+    ],
+    "description": "源自あくあ誤將「待機」讀成「ナルハヤタイキ」的經典迷因，之後反而成為粉絲間的流行語。消耗1F蓄力射擊，命中後回收資源，象徵她將失誤化為機會的獨特本領。"
+  },
+  {
+    "name": "Red Bull Boost",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Caffeine Rush",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 2 spaces.",
+        "+3 Speed this turn."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard 1 card. If you do, +2 Power."
+    ],
+    "description": "あくあ一天最多喝5罐Red Bull的傳說——以代價（丟牌）換取爆發力，完美詮釋她靠能量飲料撐起長時間直播的耐力與韌性。"
+  },
+  {
+    "name": "44.5",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lightweight",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "HIT: Advance or Retreat up to 1 space."
+    ],
+    "description": "あくあ體重44.5kg的經典梗。極輕體重讓她擁有全遊戲最高速的敏捷度，雖然力量薄弱但難以被擊暈，宛如一片輕盈的紫色羽毛在戰場上翩翩起舞。"
+  },
+  {
+    "name": "Sololive",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lone Wolf",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 3 spaces.",
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 2 spaces.",
+      "Gain Advantage."
+    ],
+    "description": "あくあ被戲稱為「ソロリブ（單人Live）」——因為她總是一個人玩遊戲。遠程狙擊後瞬間拉近距離再推開，展現孤狼突襲的戰鬥風格。"
+  },
+  {
+    "name": "Mad Dog",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Berserker",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "NOW: Exceed."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Draw 2 cards.",
+      "Gain Advantage."
+    ],
+    "description": "源自あくあ在VSaikyou Apex錦標賽中展現的「マッドドッグ（瘋狗）」打法——平時溫順害羞，一旦進入戰鬥就化身為不顧一切的狂暴戰士。無視防禦的連續猛攻壓制對手。",
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "AQUA IRO SUPER DREAM",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-4",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Super Dream",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor.",
+        "BEFORE: Add 1 card from your Gauge to your hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance or Retreat up to 2 spaces.",
+      "Stun Immunity.",
+      "HIT: Gain 3 life. The opponent discards 1 card."
+    ],
+    "description": "あくあ的1st Solo Live「AQUA IRO SUPER DREAM」（2020年），是她演藝生涯的重要里程碑。此卡象徵她追逐夢想的決心，兼具移動、回復與干擾能力，如同那場夢幻演唱會般耀眼。",
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Graduation Stream",
+    "type": "ultra",
+    "cost": "5G",
+    "range": "1-3",
+    "power": "12",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Record Breaker",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "Stun Immunity.",
+        "NOW: Exceed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2 spaces.",
+      "Ignore Guard.",
+      "Ignore Armor.",
+      "HIT: The opponent discards their entire hand and loses 2 life."
+    ],
+    "description": "湊あくあ的畢業配信——創下VTuber歷史紀錄（74.9萬同接、逾2.3億日圓SC）的終章。此最終奧義無視一切防禦，強制破壞對手所有資源並造成生命損失，象徵她最後也是最輝煌的舞台。",
+    "exceed_cost": "5G"
+  }
+]

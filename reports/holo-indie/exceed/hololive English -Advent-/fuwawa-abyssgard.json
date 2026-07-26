@@ -1,0 +1,245 @@
+{
+  "name": "Fuwawa Abyssgard",
+  "cards": [
+    {
+      "name": "Bau Bau Wave",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "4",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Fluffy Dash",
+        "cost": "-",
+        "timing": "Cancel 1\nInstant",
+        "effect": [
+          "Advance up to 2 spaces. If you close the distance, +1 Power this turn."
+        ]
+      },
+      "effect": [
+        "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+        "AFTER: Draw 1."
+      ],
+      "description": "以 Fuwawa 的招牌叫聲「Bau Bau」為主題設計的招牌技能。她將 fluffy 能量化為衝擊波發射，擊中後奪回節奏優勢。Boost 的衝刺展現了她活潑好動的一面，如同她在直播中總是充滿活力地跳來跳去。"
+    },
+    {
+      "name": "Fluffy Guard",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "2",
+      "speed": "3",
+      "armor": "3",
+      "guard": "4",
+      "boost": {
+        "name": "Protect the Smile",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Armor.",
+          "NOW: Gain 1 life."
+        ]
+      },
+      "effect": [
+        "Stun Immunity.",
+        "AFTER: Gain 2 life."
+      ],
+      "description": "呼應她的使命「保護 Ruffians 的笑容」。Fuwawa 作為守護者型的戰士，用 fluffy 的力量形成護盾。高防禦與回復能力展現了她溫柔呵護的一面，即使受到攻擊也能迅速恢復，繼續守護身邊的人。"
+    },
+    {
+      "name": "Good Ruffian!",
+      "type": "special",
+      "cost": "1F",
+      "range": "1-3",
+      "power": "3",
+      "speed": "4",
+      "armor": "0",
+      "guard": "2",
+      "boost": {
+        "name": "Bau-tiful Praise",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Look at the top 3 cards of your deck. Add 1 to your hand and return the rest in any order."
+        ]
+      },
+      "effect": [
+        "HIT: Add 1 Force to your Gauge.",
+        "Draw 1."
+      ],
+      "description": "以她稱讚粉絲的用語「Good Ruffian」為靈感。消耗 Force 發動攻擊，命中後積蓄更多力量並補充手牌，模擬她與 Ruffians 之間正向循環的互動關係——越多的支持與鼓勵，就越能激發出她的潛力。"
+    },
+    {
+      "name": "Prisoner Breakout",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "5",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Unchained Step",
+        "cost": "-",
+        "timing": "Cancel 1\nInstant",
+        "effect": [
+          "Retreat up to 3 spaces and draw 1."
+        ]
+      },
+      "effect": [
+        "BEFORE: Advance up to 2 spaces.",
+        "HIT: Push the opponent 1 space. Close 1."
+      ],
+      "description": "源自 FUWAMOCO 的背景故事——她們是從「The Cell」中逃脫的看守犬。高速突進象徵越獄時的爆發力，命中後的推拉組合展現了她們逃脫過程中的靈活身手，Boost 的後撤抽牌則代表逃出生天後的從容。"
+    },
+    {
+      "name": "Twin Sync",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "1",
+      "boost": {
+        "name": "FUWAMOCO!",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Speed for each card in your hand (max 3).",
+          "HIT: Your opponent discards 1 card at random."
+        ]
+      },
+      "effect": [
+        "After you declare this Strike, reveal your hand. If your opponent's hand size is different from yours, +2 Power.",
+        "HIT: Gain Advantage."
+      ],
+      "description": "體現 Fuwawa 與雙胞胎妹妹 Mococo 之間的羈絆。手牌數量代表姐妹之間的同步率——當兩人的狀態一致時（手牌數相同），威力大幅提升。Boost 的「FUWAMOCO!」更進一步強化這種心靈相通的力量。"
+    },
+    {
+      "name": "Demonic Howl",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "5",
+      "speed": "3",
+      "armor": "0",
+      "guard": "4",
+      "boost": {
+        "name": "Underworld's Bark",
+        "cost": "-",
+        "timing": "Cancel 1\nContinuous",
+        "effect": [
+          "+2 Power.",
+          "HIT: Add this card to your Gauge."
+        ]
+      },
+      "effect": [
+        "Ignore Armor.",
+        "BEFORE: If the opponent is at Range 1, +1 Power."
+      ],
+      "description": "展現 Fuwawa 身為「魔界看守犬」的暗黑面。低沉有力的嚎叫蘊含魔界之力，無視裝甲的特性象徵她的惡魔本性不受凡間防具所阻。近距離時額外增傷，如同她作為守門犬在近身戰中的威壓感。"
+    },
+    {
+      "name": "I'm Not a Chihuahua!",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "4",
+      "speed": "2",
+      "armor": "1",
+      "guard": "6",
+      "boost": {
+        "name": "Fluffy Denial",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Cancel any active Continuous Boost from your opponent."
+        ]
+      },
+      "effect": [
+        "Ignore Guard.",
+        "When you are hit, you may play this card to counter: Push the opponent 2 spaces and gain 1 life.",
+        "HIT: Pull the opponent 1 space."
+      ],
+      "description": "來自 Fuwawa 著名的自我介紹台詞「我不是吉娃娃，我是 Fuwawa！」。此牌是一張反擊陷阱卡，能在被攻擊時反制對手——如同她每次被誤認成吉娃娃時都會可愛但認真地糾正對方。拉近對手的設定則表示她要把對方拉到面前好好「說清楚」。"
+    },
+    {
+      "name": "Pero Watch",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "3",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Pero's Nose",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Look at the opponent's hand. Discard 1 card of your choice from it."
+        ]
+      },
+      "effect": [
+        "HIT: Name a card. The opponent must discard a copy of that card if able.",
+        "Draw 1."
+      ],
+      "description": "以 Fuwawa 的寵物 Pero 為主題。Pero 是一隻神秘的小狗，擅長偵查和探索。遠距離與極高速度模擬 Pero 的靈敏嗅覺和迅捷動作，Boost 窺視對手手牌、效果強制棄牌的能力展現了 Pero 那雙能看穿一切的眼睛。"
+    },
+    {
+      "name": "Janken Champion",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-2",
+      "power": "6",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Rock-Paper-Scissors!",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "BEFORE: Secretly pick Rock, Paper, or Scissors. Reveal simultaneously with the opponent's Strike declaration.",
+          "If you win (Rock > Scissors > Paper > Rock), +3 Power and draw 1.",
+          "If you lose, the opponent gains Advantage."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent discards their entire hand. Draw 2.",
+        "Gain Advantage."
+      ],
+      "exceed_cost": "3G",
+      "description": "以 Fuwawa 在 2025 年 Hololive 內部猜拳錦標賽中奪冠的傳奇事蹟為主題。終極技融合了猜拳博弈機制——Boost 的猜拳小遊戲重現了她的制勝秘訣，命中後強制對手棄光手牌並大量補充自己的資源，象徵她在錦標賽中一路過關斬將、贏得 100 萬日圓獎金的輝煌時刻。"
+    },
+    {
+      "name": "Unchained",
+      "type": "ultra",
+      "cost": "2G",
+      "range": "1-3",
+      "power": "5",
+      "speed": "5",
+      "armor": "0",
+      "guard": "2",
+      "boost": {
+        "name": "Break Free",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Remove all negative effects from yourself.",
+          "Gain 3 life.",
+          "Draw 1."
+        ]
+      },
+      "effect": [
+        "HIT: You may spend any number of cards from your hand. For each card spent this way, +1 Power and the opponent discards 1 card at random.",
+        "AFTER: Add up to 2 cards from your discard to your Gauge."
+      ],
+      "exceed_cost": "2G",
+      "description": "以 FUWAMOCO 的原創歌曲〈Unchained〉為主題，象徵她們徹底打破枷鎖、獲得真正自由的狀態。Boost 的淨化與回復代表解放的瞬間，命中的效果則展現了無拘無束的力量——燃燒手牌轉化為傷害並瓦解對手，如同歌詞中展現的決心與覺醒。"
+    }
+  ]
+}

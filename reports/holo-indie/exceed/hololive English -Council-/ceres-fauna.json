@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Konfauna~",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Faunwell",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat 1 space, then draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Fauna的招牌問候語'Konfauna~'為名，代表她溫柔打招呼的風格。高速低傷，擊中後獲得優勢，體現了她用親切問候掌握對話主導權的特色。Boost'Faunwell'是道別用語，讓她退後一步並抽牌，象徵她直播結束時優雅的告別。"
+  },
+  {
+    "name": "Uuuuuu~",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "4",
+    "armor": "4",
+    "guard": "6",
+    "boost": {
+      "name": "Blushing Embarrassment",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor and +2 Guard this Strike."
+      ]
+    },
+    "effect": [
+      "AFTER: Retreat 1 space. If this card blocked a Strike, draw a card."
+    ],
+    "description": "以Fauna害羞時的招牌聲音'Uuuuuu~'為名，代表她容易害羞的一面。高裝甲和高防守值象徵她害羞時把自己武裝起來的反應。Boost強化防禦，擊中後退縮並抽牌，模擬她害羞時退縮的可愛反應。"
+  },
+  {
+    "name": "Return to Nature",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Photosynthesis",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Regain 3 life."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards 1 card from their hand at random. If they cannot, push them 2 spaces."
+    ],
+    "description": "以Fauna的核心設定'回歸自然'為名，代表她把人變成樹木的能力。中距離攻擊，擊中時對手隨機棄牌（象徵被變成樹木失去行動能力），若無法棄牌則被推開。Boost'光合作用'消耗1力恢復生命，體現自然的治癒力。"
+  },
+  {
+    "name": "Nature's Embrace",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Forest's Blessing",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Regain 2 life and draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: You may move the opponent 1 space toward you."
+    ],
+    "description": "以Fauna作為自然守護者的溫暖擁抱為概念。範圍靈活，擊中時能將對手拉近，象徵她讓人進入森林後就不想離開的設定。Boost'森林的祝福'在擊中前恢復生命並抽牌，代表自然給予的溫暖與保護。"
+  },
+  {
+    "name": "Golden Apple",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Eternal Harvest",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Add up to 2 cards from your discard pile to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Regain 2 life. You may add this card to your Gauge instead of discarding it."
+    ],
+    "description": "以Fauna持有的'黃金蘋果'（能治癒所有疾病的傳說之物）為名。低傷害遠程攻擊，擊中時恢復生命並可將此卡加入儀表而非棄置，象徵黃金蘋果的再生與治癒力量。Boost'永恆豐收'消耗2力將棄牌堆的卡加入儀表，代表自然的循環與豐饒。"
+  },
+  {
+    "name": "Sapling's Growth",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sprouting Roots",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power for each card in your Gauge (max +4)."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may spend 1 Gauge to gain +1 Range for this Strike."
+    ],
+    "description": "以Fauna的粉絲名'Saplings（樹苗）'為概念，代表成長與潛力。初始弱小的近戰攻擊，但隨著儀表累積逐漸變強，象徵樹苗逐漸茁壯。Boost'發芽的根'根據儀表數量增加傷害，BEFORE效果可消耗儀表延伸範圍，代表自然不斷擴展的力量。"
+  },
+  {
+    "name": "Kirin's Grace",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Druidic Chant",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards. Discard 1 card from your hand."
+      ]
+    },
+    "effect": [
+      "HIT: Move up to 2 spaces. You may swap this card with a card in your Gauge."
+    ],
+    "description": "以Fauna的種族'麒麟'為名，代表她神聖優雅的本質。靈活的中距離攻擊，擊中後可移動並交換儀表中的卡片，象徵麒麟的靈動與自然界的流動性。Boost'德魯伊之詠'過濾手牌，體現德魯伊與自然溝通的智慧。"
+  },
+  {
+    "name": "Mama's Wrath",
+    "type": "special",
+    "cost": null,
+    "range": "2",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Nature's Fury",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+4 Power. BEFORE: Push the opponent 2 spaces."
+      ]
+    },
+    "effect": [
+      "Ignore Armor. HIT: The opponent discards 1 Gauge."
+    ],
+    "description": "以Fauna被稱為'Mama Fauna'但生氣時展現的'大自然的憤怒'為概念。高傷害但速度慢，無視裝甲，擊中時對手損失儀表，象徵Fauna認真生氣時令人畏懼的威壓感。Boost'大自然的憤怒'大幅提升傷害並在擊中前推開對手，模擬她尖銳刻薄語氣轉變的瞬間。"
+  },
+  {
+    "name": "World Tree's Awakening",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-6",
+    "power": "8",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Planetary Restoration",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Regain 5 life. Draw 3 cards. Add one to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Regain life equal to the damage dealt. Move any number of spaces."
+    ],
+    "exceed_cost": "4G",
+    "description": "以Fauna在Sana毀滅地球後復原行星的力量為概念。擁有全距離覆蓋的強大終極技，擊中後恢復等同傷害的生命並可任意移動，象徵她讓星球重生的能力。Boost'行星復原'大幅恢復生命、抽牌並增加儀表，代表自然的再生與循環。卡名'世界樹的覺醒'呼應畢業企劃中的世界樹。"
+  },
+  {
+    "name": "It's Not a Phase",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-4",
+    "power": "5",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Emo Comeback",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard your entire hand. Draw that many cards plus 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: +2 Power for each card discarded from your hand this turn. HIT: Draw 2 cards."
+    ],
+    "exceed_cost": "3G",
+    "description": "以Fauna與Mumei的合作單曲'It's Not a Phase'為名，紀念她的Emo時期。高速中距離終極技，根據本回合棄牌數提升傷害，代表她對Emo身份的全然擁抱。Boost'Emo回歸'全棄手牌並抽更多牌，象徵她徹底拋開自我懷疑、重新出發的心路歷程。"
+  }
+]

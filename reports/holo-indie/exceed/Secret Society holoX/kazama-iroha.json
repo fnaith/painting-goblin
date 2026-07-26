@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Yes! JakinJakin!!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Not! NinNin!!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "+1 Speed and Strike."
+      ]
+    },
+    "effect": [
+      "HIT: +1 Power if you initiated this Strike.",
+      "AFTER: Retreat 1 space."
+    ],
+    "description": "取材自風真いろは的招牌口號「Yes! JakinJakin!! Not! NinNin!! DeGozaru.」。極速攻擊體現「JakinJakin」（じゃきじゃき）的輕快節奏感，命中後拉開距離則代表她反覆強調自己「不是忍者」的趣味堅持。Boost「Not! NinNin!!」追加速度發動追擊，體現她否認後的積極行動。"
+  },
+  {
+    "name": "Chakimaru: First Cut",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Blade's Whisper",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "HIT: Draw a card."
+      ]
+    },
+    "effect": [
+      "Ignore Guard."
+    ],
+    "description": "風真いろは的愛刀「チャキ丸」（Chakimaru）的拔刀術。近距離無視防禦的精準一擊，代表武士刀「刀即生命」的信念。Boost「刀の囁き」體持有者與刀之間的默契——チャキ丸據說會說話，命中抽牌象徵刀的靈性指引，在戰鬥中給予持有者啟示。"
+  },
+  {
+    "name": "FPS Snipe",
+    "type": "special",
+    "cost": null,
+    "range": "4-7",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Apex Predator",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Range.",
+        "Your attacks cannot be stopped by Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may discard a card. If you do, +2 Power."
+    ],
+    "description": "展現風真いろは作為Hololive頂尖FPS玩家的精湛射擊技術。超長射程代表Apex Legends等射擊遊戲中的遠距離狙擊，Boost消耗Force強化解鎖無視防禦效果，象徵FPS中的穿甲彈。捨棄手牌換取傷害體現精準射擊需要集中資源——如同FPS中換取高傷害的代價。"
+  },
+  {
+    "name": "I Dare Say",
+    "type": "special",
+    "cost": null,
+    "range": "2",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Samurai Poise",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ]
+    },
+    "effect": [
+      "HIT: Look at the opponent's hand.",
+      "AFTER: Move 1 or 2 spaces."
+    ],
+    "description": "取自風真いろは的瀟灑口頭禪「I daresay」。高速攻擊配合從容的戰後移動，體現她說出這句話時的自信與武士的從容。Boost「武士の落ち著き」強制奪取先手權，代表「我敢說」的強勢態度，命中窺視手牌則象徵武士敏銳的洞察力——先觀察，再行動。"
+  },
+  {
+    "name": "Lost in Action",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Where Am I?",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1-3 spaces in a random direction, then draw a card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Move 1 space in a random direction.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "風真いろは的經典萌屬性——方向音痴（超級路痴）。隨機移動效果體現她總是迷路、購物範圍僅限3公里的設定。雖然出發方向完全不可預測（反映她認真的武士氣質與實際路痴行徑的反差），但命中後仍能奪回主導權，代表她最終總能以意外的方式到達目的地，過程雖曲折但結果不倒。"
+  },
+  {
+    "name": "Pokobee's Cheer",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Pokope Power",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Regain 2 life.",
+        "Draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: +1 Power for each of your Continuous Boosts in play."
+    ],
+    "description": "風真いろは的吉祥物ポコビー(Pokobee)與粉絲群ぽこぺ的力量凝聚。極速攻擊體現小鳥的敏捷與活力，Boost回血抽牌代表Pokobee帶給Iroha和粉絲的雙重治癒，命中後根據場上持續效果數量增傷，象徵粉絲群ぽこぺ的應援力量——人越多，聲勢越壯大。"
+  },
+  {
+    "name": "Muscle Overdrive",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Training Montage",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "+1 Armor."
+      ]
+    },
+    "effect": [
+      "Ignore Armor."
+    ],
+    "description": "描寫風真いろは被粉絲稱為「筋トレ脳」（筋肉腦）的獨特設定。近距離高傷害附帶裝甲，代表她擅長運動、體能出眾的一面（Hololive運動會常勝軍）。無視裝甲效果體現筋肉腦的單純直接——用純粹的力量碾壓一切花俏技巧，Boost消耗Force進行特訓進一步強化攻防。"
+  },
+  {
+    "name": "AZIro BESTIE DAYS",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sisterly Support",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw a card.",
+        "You may give this card to an ally. If you do, they gain 1 Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: You may seal this card. If you do, gain 1 Gauge."
+    ],
+    "description": "紀念風真いろは與AZKi組成的組合「あずいろ」與合作曲「あずいろ BESTIE DAYS」。Boost體現姊妹之間互相支援的情誼——可以將卡片交給隊友並讓隊友獲得能量，命中後封印卡片換取Gauge象徵兩人合作累積的力量，如真實姊妹般的羈絆是彼此最堅實的後盾。"
+  },
+  {
+    "name": "Jouya Repaint",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "New Year's Dawn",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "+1 Speed.",
+        "AFTER: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT: Retreat 2 spaces and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "取自風真いろは的首張原創曲「Jouya Repaint」（正月リペイント）。作為紀念意義重大的初solo曲，Ultra卡需要2格Gauge體現其特殊地位。和風風格的攻擊代表歌曲的和風元素，命中後拉開距離重獲先手，象徵「重新描繪」（Repaint）的意境——每一次出擊都是嶄新的開始。"
+  },
+  {
+    "name": "Secret Society Bodyguard",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "4",
+    "armor": "2",
+    "guard": "2",
+    "boost": {
+      "name": "HoloX Unity",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Other allied characters gain +1 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1 space.",
+      "HIT: Push the opponent 2 spaces."
+    ],
+    "description": "紀念風真いろは作為秘密結社holoX的用心棒（保鏢）的核心身份。高裝甲與防禦值代表保鏢的職責是保護與抵擋傷害，Boost強化隊友防禦體現holoX成員之間的羈絆與團隊協作，戰前推進+命中擊退的組合效果象徵她作為護衛的職責——將威脅阻擋在夥伴之外，捍衛組織的安全。"
+  }
+]

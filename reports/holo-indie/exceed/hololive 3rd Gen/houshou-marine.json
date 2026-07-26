@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Ahoy!!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Yo-Ho-Ho",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 1.",
+        "+1 Speed if you initiated this Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1. Gain Advantage."
+    ],
+    "description": "以Marine的招牌招呼語'Ahoy!!'為核心，代表海盜船長的登場宣言。高速輕擊配合抽牌效果，展現她快速說話、帶動氣氛的招牌形象，是整套牌的節奏起點。"
+  },
+  {
+    "name": "I'm Your Treasure Box",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Shine Bright",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add the top card of your deck to your Gauge. Take another action."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may add 1 card from your hand to your Gauge. If you do, +2 Power.",
+      "HIT: Add the top 2 cards of your deck to your Gauge."
+    ],
+    "description": "取自Marine的代表歌曲'I'm Your Treasure Box'（作曲：Camellia）。圍繞「寶箱」意象設計，擅長積蓄資源（Gauge），展現她作為寶藏獵人收集財寶的形象，也是牌組的資源引擎。"
+  },
+  {
+    "name": "I'm Horny",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Seduction",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: The opponent discards 1 random card.",
+        "AFTER: If this Strike hit, gain 1 life."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Pull 1. The opponent discards 1 card of their choice."
+    ],
+    "description": "由桐生可可教Marine的英文名句，現已成為她的招牌台詞之一。設計上強調「魅惑」與「剝奪」，體現Marine色氣大姊姊（エロ船長）的誘惑力，讓對手失去資源。"
+  },
+  {
+    "name": "Yosoro!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Full Sail",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Advance or Retreat up to 2.",
+        "+1 Power if you moved this turn."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1.",
+      "AFTER: Retreat up to 2. Draw 1 if you retreated."
+    ],
+    "description": "Marine的告別用語'ヨーソロー！'（Yosoro!），源自海盜用語。設計上聚焦於航海般的自由移動能力，能夠靈活推進或後撤，配合抽牌效果體現她操控距離的戰鬥風格。"
+  },
+  {
+    "name": "DON!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "3",
+    "armor": "1",
+    "guard": "6",
+    "boost": {
+      "name": "Headpat Rejection",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor.",
+        "NOW: If your opponent is at Range 1, Strike."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +3 Power.",
+      "HIT: The opponent cannot Advance or Retreat until the end of their next turn (Stun 1). Gain Advantage."
+    ],
+    "description": "粉絲討拍時Marine回應的'DON!'（咚！）聲音效。設計為強力反擊卡，高Guard與Armor讓她能在防守後反擊並暈眩對手，就像她對想討拍的人當頭一喝。"
+  },
+  {
+    "name": "95/100",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "X",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Self-Rating",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Look at the top 3 cards of your deck. You may add 1 to your hand."
+      ]
+    },
+    "effect": [
+      "X is 9 minus the opponent's Speed (minimum 1, maximum 6).",
+      "HIT: Gain Advantage."
+    ],
+    "description": "Marine常掛在嘴邊的自我評分'95/100'，代表她對自己充滿自信卻又留餘地的態度。X的計算方式（9-對手速度）象徵她總是給自己打95分的幽默設定，可長可短的射程增加了靈活性。"
+  },
+  {
+    "name": "Dokuro-kun",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "2",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Skull Toast",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Spend up to 2 life. Draw that many cards.",
+        "+1 Guard for each life spent this way."
+      ]
+    },
+    "effect": [
+      "BEFORE: Gain 2 life.",
+      "HIT: The opponent loses 2 life (life drain). Add this card to your Gauge."
+    ],
+    "description": "ドクロ君——Marine代表性的骷髏造型酒杯，是粉絲間的知名象徵物。設計為生命操控卡，可以燃燒生命換取資源或吸取對手生命，呼應酒杯的飲酒意象與Marine在粉絲間的icon地位。"
+  },
+  {
+    "name": "Jack",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-2",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Host Club Mode",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +1 Speed.",
+        "HIT: Add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "BEFORE: Close 2.",
+      "HIT: Push 2. Gain Advantage."
+    ],
+    "description": "三期生Host Club企劃中性轉版的Jack，是Marine另一個人格的體現。此卡代表她帥氣冷靜的一面，消耗1F資源換取強力的破防攻擊，關門壓迫對手後再推開，完美展現Jack瀟灑的風格。"
+  },
+  {
+    "name": "Dead Ma'am's Chest",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Toby's Gift",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Add up to 2 cards from your discard pile to your Gauge.",
+        "HIT: +1 Power for each card in your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may discard any number of cards from your hand. Draw that many +1.",
+      "HIT: Gain 3 life. Add the top 3 cards of your deck to your Gauge."
+    ],
+    "description": "由Undertale的Toby Fox為Marine作曲的原創歌曲。作為Ultra卡，此牌象徵她職業生涯的重大成就——首位登上FNS歌謡祭的VTuber以及與國際知名創作者的合作。效果圍繞寶藏（Gauge）與生命力展開，是牌組的核心旗艦卡。",
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Marine Set Sail!!",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "8",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ahoy!! You're All Pirates",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Exceed. +2 Power.",
+        "If you are in Exceed Mode, +2 Speed and Stun Immunity."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3. Draw 2.",
+      "CRITICAL: +3 Power and Push 3.",
+      "HIT: Your opponent discards their hand and draws 3 cards."
+    ],
+    "description": "由田中公平（航海王等動畫作曲家）為Marine創作的出航主題曲，也是她1st Solo Live 'Ahoy!! You're All Pirates' 的名稱來源。作為最終Ultra卡，代表Marine夢想的起點——買海盜船、出航冒險。强大的壓制效果與強制對手重置手牌，象徵船長出航的威壓感。",
+    "exceed_cost": "4G"
+  }
+]

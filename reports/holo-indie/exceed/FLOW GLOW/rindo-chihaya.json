@@ -1,0 +1,259 @@
+{
+  "name": "Rindo Chihaya",
+  "cards": [
+    {
+      "id": 1,
+      "name": "300 Horsepower",
+      "type": "special",
+      "cost": null,
+      "range": "1-4",
+      "power": "2",
+      "speed": "9",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "No Brakes",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Advance up to 3 spaces.",
+          "Stun Immunity until end of turn."
+        ]
+      },
+      "effect": [
+        "BEFORE: Close 1 or 2 spaces.",
+        "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "description": "以千速自稱的「300馬力」與官方評語「ブレーキ知らず」（不知剎車為何物）為核心。極致的Speed 9象徵她全力疾走、從不停歇的說話與歌唱風格——一旦啟動就無法阻止。命中後奪取節奏優勢，如同她高速的談話節奏總能完全主導直播氣氛。Boost進一步加速衝刺並免疫眩暈，體現「煞車？那是什麼？」的暴走美學。"
+    },
+    {
+      "id": 2,
+      "name": "Midnight Trombone",
+      "type": "special",
+      "cost": null,
+      "range": "2-5",
+      "power": "4",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Horn Warm-up",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Draw 1 card.",
+          "Gain 1 life."
+        ]
+      },
+      "effect": [
+        "BEFORE: Spend any amount of Force. For each Force spent, +1 Power.",
+        "HIT: Retreat 1 or 2 spaces."
+      ],
+      "description": "以千速在深夜直播中展現的傳說級長號演奏為主題。她投入大量時間練習樂器（將累積的Force轉化為破壞力），一曲震撼全場後優雅退場（命中後拉開距離）。Boost模擬演出前的暖身準備——整理呼吸、做好萬全準備，如同她每次演奏前仔細確認樂器的認真姿態。"
+    },
+    {
+      "id": 3,
+      "name": "Ecchihaya Mode",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "4",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Bold Advance",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Power.",
+          "Stun Immunity."
+        ]
+      },
+      "effect": [
+        "HIT: Name a card. If the opponent's next Strike uses that card, discard it.",
+        "AFTER: Draw a card."
+      ],
+      "description": "以千速被稱為「えっちはや」的大膽模式為主題——在小金井こころ等特定成員面前會突然變得色氣又大膽。高速先制出手，命中後預測對手行動如同她總能被突然點燃開關、說出令全場沸騰的大膽發言。Boost追加持續攻擊力與免疫，象徵她在這個模式下無所畏懼的態度。"
+    },
+    {
+      "id": 4,
+      "name": "FG ROADSTER",
+      "type": "special",
+      "cost": null,
+      "range": "1-4",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Starlight Cruise",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Look at the top 2 cards of your deck. Draw 1 and discard 1."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent discards a card at random.",
+        "Gain 1 Gauge."
+      ],
+      "description": "以千速的出道曲〈FG ROADSTER〉為主題——靈感來自被發射到太空繞太陽運行的Tesla Roadster。中距離巡航作戰，命中後消耗對手資源（如同太空旅程中無法掌控的變數）並累積能量。Boost模擬行前檢查與準備（過濾牌庫），呼應歌詞中「準備好就出發」的意象。"
+    },
+    {
+      "id": 5,
+      "name": "24K GOLD",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "5",
+      "speed": "6",
+      "armor": "0",
+      "guard": "2",
+      "boost": {
+        "name": "Shine Bright",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Guard.",
+          "+1 Speed."
+        ]
+      },
+      "effect": [
+        "BEFORE: Pull 1.",
+        "Ignore Guard.",
+        "HIT: Gain 2 life."
+      ],
+      "description": "以千速的原創曲〈24K GOLD〉為主題——歌詞中閃耀的金色光芒象徵她無可取代的純粹價值。近距離強制拉近（Pull）後無視防禦的正面直擊，命中後回復生命，如同歌曲中「即使傷痕累累也要繼續閃耀」的堅韌信念。Boost強化防禦與速度，象徵金色般耀眼且不可動搖的自信。"
+    },
+    {
+      "id": 6,
+      "name": "LOAD",
+      "type": "special",
+      "cost": null,
+      "range": "2-3",
+      "power": "0",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Charge Phase",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Gain 3 Gauge."
+        ]
+      },
+      "effect": [
+        "BEFORE: Gain 1 Gauge for each card in your hand.",
+        "HIT: Draw 2 cards.",
+        "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "description": "以千速的原創曲〈LOAD〉為主題——「裝載」概念轉化為累積資源的戰術牌。本身威力為0（裝載階段不具攻擊力），但能將手牌數量轉化為Gauge。命中後大量補牌並奪回節奏，如同歌曲結構中蓄力與爆發的循環。Boost一次性注入大量Gauge，體現「一口氣裝載完畢」的概念。"
+    },
+    {
+      "id": 7,
+      "name": "ChihaVivi Sync",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "3",
+      "speed": "7",
+      "armor": "0",
+      "guard": "1",
+      "boost": {
+        "name": "FLOW GLOW Link",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Draw 1 card."
+        ]
+      },
+      "effect": [
+        "HIT: Discard 1 card, then your opponent discards 1 card at random.",
+        "Gain 1 life."
+      ],
+      "description": "以千速與綺々羅々ヴィヴィ的「ちはヴィヴィ」組合為主題。兩人年齡相近、同期加入FLOW GLOW，默契十足堪稱團體的雙核心。高速同步攻擊，以資源交換（棄牌）打亂對手節奏後回復——如同兩人無需言語的默契配合，總能在關鍵時刻互相掩護。"
+    },
+    {
+      "id": 8,
+      "name": "Morning Growl",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "2",
+      "speed": "4",
+      "armor": "1",
+      "guard": "3",
+      "boost": {
+        "name": "Warm Wake-up",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Guard.",
+          "+1 Armor."
+        ]
+      },
+      "effect": [
+        "BEFORE: Gain 3 life.",
+        "AFTER: Move 1 space."
+      ],
+      "description": "以千速傳說級的清晨低沉嗓音為主題——522K觀看的精華讓全世界都知道她早上剛醒時的超低音「寶物」。低速度但極高的防禦與回復能力，象徵她清晨時沉穩慵懶、令人安心的氛圍。Boost強化守備如同被窩般溫暖可靠，是她在FLOW GLOW中被成員信賴的年長者氣質的體現。"
+    },
+    {
+      "id": 9,
+      "name": "Brakes? What Brakes?",
+      "type": "ultra",
+      "cost": "2G",
+      "range": "1-5",
+      "power": "6",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Full Throttle",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Advance up to 4 spaces.",
+          "Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+        ]
+      },
+      "effect": [
+        "BEFORE: Close up to 3 spaces.",
+        "HIT: Push the opponent up to 4 spaces.",
+        "Gain 2 Gauge."
+      ],
+      "exceed_cost": "2G",
+      "description": "千速的終極暴走形態——一旦啟動就完全無法阻擋。極端的高速（Speed 8）、全距離對應（1-5）、靈活的推拉站場控制，象徵她從不知煞車為何物的全力疾走性格。命中後回收資源，如同她即使暴走也會在無意間創造出精彩內容的天然才能。低Exceed Cost讓她可以頻繁啟動，正符合「300馬力・不斷前進」的核心概念。"
+    },
+    {
+      "id": 10,
+      "name": "Beyond the Scenery",
+      "type": "ultra",
+      "cost": "4G",
+      "range": "1-3",
+      "power": "9",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Together",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Power.",
+          "Stun Immunity."
+        ]
+      },
+      "effect": [
+        "Stun Immunity.",
+        "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+        "Add this card to your Gauge.",
+        "AFTER: Draw 2 cards."
+      ],
+      "exceed_cost": "4G",
+      "description": "以千速的官方標語「一緒に向こう側の景色を見に行かない？」為究極奧義。邀請對手與她一起見證從未見過的風景——壓倒性的威力與完美的節奏掌控力。命中後將此牌回收至Gauge象徵這份邀請永遠有效、隨時可以再次出發，如同她每次直播尾聲那句溫柔而堅定的詢問。Boost提供免疫與追加威力，體現她作為FLOW GLOW最年長成員、帶領大家前往更高處的領導力與包容力。"
+    }
+  ]
+}

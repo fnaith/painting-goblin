@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Bunbun Bancho",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Vroom Vroom!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 3 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以はじめ的招牌登場台詞「ブンブンバンチョー！」為主題。她自稱宇宙第一番長，總是用這句話以極高氣勢登場，如同她坐不住的性格一樣高速搶先行動。Boost讓她能一口氣拉近距離，體現她精力充沛、行動力滿點的特色。"
+  },
+  {
+    "name": "Hajime-go",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Siri Can't Understand",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the opponent's hand. Choose 1 card — the opponent discards it."
+      ]
+    },
+    "effect": [
+      "HIT: Name a card. The opponent reveals their hand and discards all copies of that card."
+    ],
+    "description": "以はじめ最著名的語言特徵「はじめ語（ばんちょー語）」為主題。她的發音獨特到連日本人都聽不懂，甚至Siri都無法辨識她的語音。極高速度的先制攻擊命中後，對手被迫暴露手牌並丟棄指定卡牌，象徵對手被她高速又難以理解的發言搞得一頭霧水、無法應對。Boost「Siri無法辨識」進一步干擾對手手牌。"
+  },
+  {
+    "name": "Sacabambaspis",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ancient Fish Fossil",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Gain 2 life."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards 1 Gauge."
+    ],
+    "description": "以はじめ無法正確說出「Sacabambaspis」（一種古代魚）這個詞的經典迷因為主題。粉絲們認為這條長相獨特的古代魚長得像她，而她每次嘗試說這個詞都會失敗，成為はじめ語的代表性範例。此牌如同這條頑固的古代魚一樣穩扎穩打，擊中後破壞對手的儀表（Gauge），象徵她努力想唸對卻總是失敗的無奈感。Boost提供回復力，呼應這條魚在她粉絲間獲得的喜愛與生命力。"
+  },
+  {
+    "name": "Babu",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Baby Mode",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Guard."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Gain 3 life."
+    ],
+    "description": "以はじめ不自觉地發出「バブ〜」這句嬰兒語的可愛迷因為主題。她明明是自稱番長，卻總是在放鬆或開心時發出嬰兒般的聲音，這極大的反差正是她的核心魅力。此牌不會被暈眩打斷，擊中時回復生命，象徵她發出「バブ」時那讓全場心靈得到療癒、讓人無法對她出手的可愛力量。Boost「嬰兒模式」進一步強化防護，呼應她被前輩們當作「holoBaby」對待的日常。"
+  },
+  {
+    "name": "Chupacabra",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Can't Pronounce It",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card.",
+        "Discard 1 card at random."
+      ]
+    },
+    "effect": [
+      "HIT: Look at the top 3 cards of your deck. Add 1 to your hand, shuffle the rest into your deck."
+    ],
+    "description": "以はじめ說「チュパカブラ（Chupacabra）」這個詞時越說越不標準的經典迷因為主題。她嘗試說這個西班牙語詞彙時，發音逐漸崩壞的過程在粉絲間廣為流傳。此牌的效果帶有隨機性——Boost隨機棄牌、命中後從牌組頂檢索，象徵她努力想說對卻總是會歪掉的過程，但最終還是能從混亂中找到自己要的牌。"
+  },
+  {
+    "name": "Purple Baby",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Baboo Support",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Return a card from your discard to your hand."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 2 spaces.",
+      "AFTER: Gain 1 Gauge."
+    ],
+    "description": "以はじめ與EN成員Koseki Bijou（Biboo）組成的「紫色寶寶（Purple Baby）」組合為主題。兩人都以紫色系為代表色、都被當作嬰兒角色對待，Biboo雖然完全聽不懂はじめ在說什麼，但兩人間的互動依然可愛無比。遠距離攻擊象徵跨團連繫，命中後可操控位置並獲得儀表，體現兩人互相支援、共同成長的羈絆。Boost「Baboo支援」可回收棄牌，代表Biboo總是用她的方式幫助はじめ。"
+  },
+  {
+    "name": "Kanahaji Link",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dance Together",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Draw 1 card. If this card was Boosted, draw 2 cards instead."
+    ],
+    "description": "以はじめ與ReGLOSS成員音乃瀬奏（Otonose Kanade）的經典組合「かなはじ」為主題。奏對はじめ的喜愛眾所皆知，兩人之間的默契與親密互動是粉絲最喜歡看的内容之一。近距離強力攻擊無視防衛，體現奏對はじめ毫無保留的主動攻勢。消耗1力發動Boost時進一步提升力量並免疫暈眩，代表兩人一起跳舞時的完美同步。命中後根據是否Boost決定抽牌數，暗喻奏在はじめ身邊時總是能發揮120%的力量。"
+  },
+  {
+    "name": "Choco Pomeranian",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mysterious Song",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: Choose one — gain +2 Power, or gain 3 life.",
+      "HIT: The opponent discards 1 card at random."
+    ],
+    "description": "以はじめ自創的謎之歌「チョコポメラニアンのうた」（巧克力博美犬之歌）為主題。這首不知所云的歌曲在粉絲間成為經典，多次被做成手繪動畫和 parody。此牌節奏較慢但用途靈活，BEFORE效果讓はじめ選擇要增強攻擊還是回復，如同她的歌曲一樣難以預測。命中時對手隨機棄牌，象徵聽到這首洗腦歌曲後腦中只剩下巧克力博美犬的旋律，忘記了自己原本的策略。"
+  },
+  {
+    "name": "In the Name of Hajime!",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bancho's Resolve",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card for each Force in your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 2 Gauge. Gain Advantage.",
+      "AFTER: You may add this card to your Gauge instead of discarding it."
+    ],
+    "exceed_cost": "3G",
+    "description": "以はじめ下定決心時的口頭禪「はじめの名にかけて！」（以はじめ之名起誓！）為主題。她雖然平時是個天然的赤ちゃん，但在關鍵時刻會展現番長的決心與氣勢。此牌命中後獲得儀表並奪取節奏優勢，且可將此牌加入儀表積蓄力量，象徵她每一次的決心都不是曇花一現，而是持續積累、最終成為真正的番長。Boost根據儀表中的力抽牌，體現她累積的決心轉化為實際行動力。"
+  },
+  {
+    "name": "Resident Badass",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "10",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Universe's #1 Bancho",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "Ignore Guard.",
+        "Ignore Armor."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "BEFORE: Advance up to 4 spaces. For each space moved, +2 Power.",
+      "HIT: Push the opponent any number of spaces. Discard the top 3 cards of their deck."
+    ],
+    "exceed_cost": "4G",
+    "description": "以はじめ的自我介紹稱號「Resident Badass」為主題——她自稱hololive DEV_IS ReGLOSS的 resident badass，宇宙第一番長。這是她的最終奧義，展現她理想中最帥氣的番長姿態。雖然速度較慢，但蓄力後可衝刺最多4格，每格都累積力量，命中時將對手擊飛並破壞牌組。Boost「宇宙第一番長」需消耗2力，賦予她夢寐以求的威壓感——暈眩免疫、無視所有防禦，實現她「真正badass」的終極夢想。然而這一切都源自她純真可愛的內心，正如她本人——說是badass，其實只是個想變帥的可愛寶寶。"
+  }
+]

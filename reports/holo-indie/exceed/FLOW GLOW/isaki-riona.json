@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Ring my Name",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Birthday Celebration",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 2 life."
+      ]
+    },
+    "effect": [
+      "HIT: Return a card from your discard to your hand."
+    ],
+    "description": "以リオナ的生日原創曲〈Ring my Name〉為主題。這首歌是她在2026年5月29日送給粉絲的禮物，歌詞充滿了對響咲連合的感謝。此牌象徵她與粉絲之間的羈絆，如同歌聲迴響般回收資源、延續戰鬥。"
+  },
+  {
+    "name": "Life is Work",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hard Work Pays",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: Spend up to 2 Force. For each Force spent, draw 1 card."
+    ],
+    "description": "以リオナ2025年11月24日發行的饒舌原創曲〈Life is Work〉為主題。歌曲展現她拼命三郎的性格——工作即生活，生活即工作。此牌體現她不服輸的努力精神，將累積的Force轉化為更多戰術資源。"
+  },
+  {
+    "name": "Make it or Break it",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Triple Threat",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power and +2 Speed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1 or 2 spaces.",
+      "HIT: Push 2."
+    ],
+    "description": "以リオナ2025年11月23日3D披露的主題「Make it or Break it」為主題。她以爵士、芭蕾、踢踏舞三種舞蹈震撼全場，La+更喊出「ママァ」成為傳說。此牌象徵她賭上一切的覺悟——不做則已，要做就要做到最好。"
+  },
+  {
+    "name": "Jump King 42H",
+    "type": "special",
+    "cost": null,
+    "range": "X",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Never Give Up",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +1 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance up to 4 spaces. This attack hits if you switched sides with the opponent.",
+      "HIT: Gain 1 life."
+    ],
+    "description": "以リオナ耗時約42小時（橫跨多次配信）通關Jump King的傳說級毅力為主題。通關瞬間她大哭並大喊「おっぱいがでけぇ！！」，成為社群傳說。無論摔倒多少次都會重新站起，此牌展現她極致的堅持與韌性。"
+  },
+  {
+    "name": "Pachinko Fever",
+    "type": "special",
+    "cost": null,
+    "range": "1-5",
+    "power": "2",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "One More Spin",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard up to 2 cards, then draw that many cards."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend any amount of Force. For each Force spent, +1 Power.",
+      "HIT: Gain 1 Gauge."
+    ],
+    "description": "以リオナ自稱「パチンカス」（柏青哥廢人）的狂熱愛好為主題。與偶像形象形成強烈反差的隱藏設定——投入越多Force回報越大，如同拉霸機的賭博快感，完美體現她對機率遊戲的著迷。"
+  },
+  {
+    "name": "Luna Knight's Oath",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Devoted Fan",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Name a card. If the opponent's Strike uses that card, +3 Power.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以リオナ是狐姫める的超級粉絲「ルーナイト」為主題。她全家都是ルーナイト，對偶像的狂熱讓她如同熟悉所有應援口號般預判對手行動。高速行動後以精準預測奪取節奏優勢。"
+  },
+  {
+    "name": "Gomoku Revenge",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Emergency Training",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 space.",
+        "Take another action."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Pull 1. The opponent discards a card at random."
+    ],
+    "description": "以リオナ挑戰さくらみこ五子棋以驚人速度慘敗後、立刻開緊急練習配信的軼事為主題。失敗後馬上閉關修練的反應展現了她不服輸的骨氣，此牌象徵從失敗中學習、以智取勝的反擊戰術。"
+  },
+  {
+    "name": "Explosive Sneeze",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Gesundheit",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "CRITICAL: +2 Power.",
+      "HIT: Push 3."
+    ],
+    "description": "以リオナ獲得大神ミオ主辦「ヘキシブオブザイヤー2025」（年度噴嚏大獎）的傳說級噴嚏為主題。爆發力驚人的噴嚏能震退對手，被形容為「能讓世界變得更美好」的獨特武器，如同她毫不保留的真性情。"
+  },
+  {
+    "name": "Pervert Gentleman Trio",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Three Musketeers",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Choose one — Close 2, or draw 2 cards.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "2G",
+    "description": "以リオナ與小金井こころ、龍膽ちはや組成的「變態紳士三劍客」為主題。三人以無厘頭、下流梗與暴走發言聞名，聯手時化學效應無人能擋。此牌象徵三人亂七八糟卻默契十足的搞事力量，節奏與資源一手掌握。"
+  },
+  {
+    "name": "Back Pain Sisters",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Solidarity",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Armor."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Gain 3 life.",
+      "AFTER: Draw 2 cards."
+    ],
+    "exceed_cost": "3G",
+    "description": "以リオナ與鷹嶺ルイ因慢性腰痛結成的「ぎっくり姉妹」（閃到腰姐妹）為主題。兩人同病相憐、互相扶持的深厚情誼轉化為驚人的續戰力。腰痛無法阻止她們前進——如同リオナ總是笑著面對逆境的人生態度。"
+  }
+]

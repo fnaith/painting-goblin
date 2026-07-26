@@ -1,0 +1,232 @@
+[
+  {
+    "name": "I Forgor 💀",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "What Was I Saying?",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Look at the opponent's hand. Choose 1 card at random — the opponent discards it."
+    ],
+    "description": "以Mumei最知名的迷因「I forgor 💀」（我忘了）為概念。極高速的攻擊讓她能在對手反應前搶先行動，擊中時對手隨機棄牌，象徵Mumei的健忘屬性感染了對手，讓對手也「忘記」自己有什麼牌。Boost「我剛才說到哪？」立即抽牌，體現她說話說到一半忘記主題後重新開始的樣子。"
+  },
+  {
+    "name": "War Crimes",
+    "type": "special",
+    "cost": null,
+    "range": "2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Collecting Fleas",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card. Search the opponent's deck for all copies of it and discard them. Shuffle their deck."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: The opponent discards 1 Gauge."
+    ],
+    "description": "以Mumei最經典的黑暗面發言「I'm going to commit a war crime」為概念。她曾在繪圖直播中用溫柔的聲線若無其事地說出這句話，反差之大成為代表作。無視裝甲且擊中後破壞對手儀表，象徵她見證千年文明毀滅所累積的破壞力。Boost「收集跳蚤」映射她自稱在1346年收集跳蚤（暗示黑死病），直接從牌組破壞關鍵牌。"
+  },
+  {
+    "name": "Oh Hi! Hoo's This?",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fluffy Greeting",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat 1 space.",
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Mumei的招牌開場白「Oh hi! Hoo's this? Nanashi Mumei!」為概念。高速的打招呼式攻擊，擊中後奪取節奏優勢，象徵她用溫暖親切的問候掌握對話主導權。Boost「 fluffy問候」讓她在問候後優雅後退一步並補充資訊，模擬她輕鬆的開場風格。"
+  },
+  {
+    "name": "Friend",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Free Elf",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move up to 2 spaces.",
+        "Discard 1 card at random. If you do, draw 2 cards."
+      ]
+    },
+    "effect": [
+      "BEFORE: Choose one — +1 Power, +1 Range, or gain +2 Guard.",
+      "HIT: Push or Pull 2."
+    ],
+    "description": "以Mumei的紙袋吉祥物Friend為主題。Friend設定上不可信任、會騙人、會偷能力，但偶爾也會幫忙。此牌具有不確定的多種選擇，象徵Friend的捉摸不定。Boost「自由精靈」讓Friend被釋放出來四處亂跑（移動），但會隨機搞事（隨機棄牌）後帶來更多混亂（多抽牌）。"
+  },
+  {
+    "name": "Guardian of Civilization",
+    "type": "special",
+    "cost": null,
+    "range": "1-5",
+    "power": "3",
+    "speed": "3",
+    "armor": "2",
+    "guard": "4",
+    "boost": {
+      "name": "Ancient Wisdom",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor and +2 Guard."
+      ]
+    },
+    "effect": [
+      "HIT: Look at the top 3 cards of your deck. Add 1 to your hand, discard the rest."
+    ],
+    "description": "以Mumei的官方稱號「文明の守護者」為核心概念。作為見證無數文明興衰的古老存在，她擁有深厚的知識與防禦力。寬廣的攻擊範圍象徵文明的廣闊視野，擊中後可檢索牌組，體現她累積千年的智慧。Boost「古老智慧」進一步強化防禦，代表她在歷史長河中磨練出的堅韌。"
+  },
+  {
+    "name": "It's Mooming Time!",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Are You Ready to Moom?",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: +1 Power for each card in your Gauge (max +3)."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 1 Gauge.",
+      "AFTER: You may add this card to your Gauge instead of discarding it."
+    ],
+    "description": "以Mumei的開場定番台詞「It's moomin' time!」及變化形「Are you ready to moom?」為主題。這張牌的傷害會隨著儀表累積而提升，象徵Mumei從慵懶模式逐漸進入狀態的過程。擊中後獲得儀表且可將此牌加入儀表，代表每一場直播都是從「moomin' time」開始、不斷積累能量的循環。"
+  },
+  {
+    "name": "Fluffy Judgment",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dark Side Emerges",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Discard up to 3 cards from your hand. For each card discarded, +1 Power this Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Choose one — gain Stun Immunity for this Strike, or this Strike gains +2 Power.",
+      "HIT: The opponent discards 1 card at random."
+    ],
+    "description": "以Mumei最具魅力的雙面性——溫柔 fluffy 模式與黑暗古老存在的切換為主題。BEFORE效果讓玩家選擇防禦（Stun Immunity）或進攻（+2 Power），象徵她在可愛與恐怖之間的切換。Boost「黑暗面浮現」消耗1力並棄牌轉化為傷害，模擬她聲線驟降、語氣變冷的經典黑暗面瞬間。"
+  },
+  {
+    "name": "Hoomans United",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Owl Pals Support",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 2 cards of your deck. Add 1 to your hand, put the other on the bottom."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card for each 2 damage dealt (rounded up)."
+    ],
+    "description": "以Mumei的粉絲名Hoomans（貓頭鷹叫聲Hoo+Humans的組合）及頻道會員名Owl Pals為概念。低傷害但擊中後根據傷害量抽牌，象徵粉絲的支持隨著Mumei的努力而成長。Boost「貓頭鷹夥伴支援」讓她在粉絲的應援下檢索牌組，體現Mumei與Hoomans之間深厚的羈絆。"
+  },
+  {
+    "name": "Our Promise",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-4",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Promise Reborn",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Return up to 2 cards from your discard to your hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: For each card in your hand that is a copy of this card, +2 Power.",
+      "HIT: Regain 3 life. Gain Advantage."
+    ],
+    "exceed_cost": "3G",
+    "description": "以Mumei的原創曲〈Our Promise〉以及Hololive English -Promise-的重組為主題。這張牌象徵Mumei對Hoomans的承諾——即使歷經變遷（畢業），約定永遠存在。效果圍繞手牌中的同名卡疊加力量，代表承諾的力量隨著每一次重申而增強。Boost「Promise重生」回收棄牌，體現Promise重組後的新生。"
+  },
+  {
+    "name": "See Mu-meiter!",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-3",
+    "power": "10",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Civilization's Farewell",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Advance or Retreat up to 3 spaces. +2 Power for each space moved."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Push the opponent any number of spaces. Move any number of spaces. Draw 3 cards."
+    ],
+    "exceed_cost": "4G",
+    "description": "以Mumei的經典結尾台詞「See Mu-meiter!」（由Ouro Kronii發明）為最終奧義。緩慢但毀滅性的全力一擊，Stun Immunity確保她不會被打斷，如同她在直播最後從不遺漏的道別。擊中後可自由操控雙方位置並大量抽牌，象徵她說出這句話後直播的完美收尾。Boost「文明的告別」讓她能在擊出前大幅移動累積力量，代表文明守護者在告別之際展現的千年積累。卡名致敬這段由同期Kronii創造的經典迷因，紀念兩人之間的深厚友情。"
+  }
+]

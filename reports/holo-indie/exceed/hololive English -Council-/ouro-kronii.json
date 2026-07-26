@@ -1,0 +1,229 @@
+[
+  {
+    "name": "Kroniichiwa!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Perfection Greeting",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Kronii的招牌招呼語「Kroniichiwa!」（Kronii + konnichiwa）為名，代表她自稱完美的自信亮相。極高速度的低傷害攻擊，擊中後奪取回合優勢，象徵她用充滿魅力的開場白瞬間掌握對話主導權。Boost「完美的招呼」抽一張牌，代表她一登場就抓住所有人的注意力。"
+  },
+  {
+    "name": "It's Me, Perfection",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Just Be Better",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power and +1 Speed this Strike."
+      ]
+    },
+    "effect": [
+      "HIT: +1 Power for each card in your hand (max +3)."
+    ],
+    "description": "以Kronii最著名的自我介紹台詞「It's me, perfection.」為概念。傷害根據手牌數提升，象徵她越是自認完美、自信滿滿時攻擊力越強。Boost「Just Be Better」是她的經典高傲建議，消耗1力提升攻速，體現她那種「你應該像我一樣完美」的居高臨下態度。"
+  },
+  {
+    "name": "Gwak!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "5",
+    "armor": "2",
+    "guard": "4",
+    "boost": {
+      "name": "That's On Me",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat 1 space. Regain 2 life."
+      ]
+    },
+    "effect": [
+      "+2 Armor if the opponent initiated this Strike.",
+      "BEFORE: You may discard 1 card to gain Stun Immunity for this Strike."
+    ],
+    "description": "以Kronii在遊戲中受傷或死亡時發出的經典尖叫「Gwak!」為名。這張防禦反擊卡在她被對手攻擊時額外強化裝甲，象徵她雖然表面完美但其實經常遭遇意外。Boost「That's On Me」是她的反省口頭禪，退後一步恢復生命，呼應她失誤後自我檢討的誠實態度。"
+  },
+  {
+    "name": "Twin Blades",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ouroboros Strike",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Strike again with +1 Power at range 1-2."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1 or 2.",
+      "HIT: Push 1."
+    ],
+    "description": "以Kronii在官方設定中「反射性地拿起雙刃」的武器為主題。近距離全力攻擊，BEFORE效果拉近距離、命中後推開對手，模擬她揮舞雙刀的戰鬥風格。Boost「銜尾蛇打擊」消耗1力允許連續攻擊，呼應她的名字Ouro（象徵循環的銜尾蛇）以及時間的循環特質。"
+  },
+  {
+    "name": "Bad Luck Kronii",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Existential Crisis",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard 1 card at random. If you do, draw 2 cards."
+      ]
+    },
+    "effect": [
+      "BEFORE: Roll a die (1-6). If 4+, +3 Power. If 1-3, -1 Power and the opponent draws 1 card."
+    ],
+    "description": "以Kronii最著名的標籤「Bad Luck Kronii（壞運氣Kronii）」為概念——她自稱完美卻總是遭遇荒謬的壞運氣。攻擊附帶擲骰機制，可能大幅強化也可能反噬自己，模擬她直播中屢屢發生預料之外的悲劇。Boost「存在主義危機」強制她隨機犧牲一張牌後才能獲得回報，呼應她自稱興趣是存在主義的黑色幽默。"
+  },
+  {
+    "name": "Time Warden's Gaze",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Temporal Foresight",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 3 cards of your deck. Put them back in any order."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent's next Strike has -2 Power and -1 Speed.",
+      "AFTER: Move 1 space."
+    ],
+    "description": "以Kronii做為時間看守者的預知能力為概念。遠程低速攻擊但帶有擾亂效果，命中後削弱對手的下一次攻擊，象徵她看穿時間的流動、預知對手的行動。Boost「時間預視」讓她檢視並排列牌庫頂牌，體現時間操縱者掌控未來的能力。"
+  },
+  {
+    "name": "Kroyasumi!",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Perfect Exit",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat up to 3 spaces. Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 1 space. Retreat 1 space. You may add this card to your Gauge instead of discarding it."
+    ],
+    "description": "以Kronii的道別語「Kroyasumi!」（Kronii + oyasumi）為核心概念。命中後拉開距離並可將此牌存入儀表，象徵她華麗退場後隨時準備再次登場。Boost「完美退場」讓她大幅後退並抽牌，呼應她結束直播時從不拖泥帶水的簡潔告別風格。"
+  },
+  {
+    "name": "Tsundere Granny",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "KronFaun Chaos",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move up to 2 spaces. If you end adjacent to the opponent, +2 Power this Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Pull the opponent 1 space. Gain 1 Gauge."
+    ],
+    "description": "以Baelz給Kronii取的綽號「tsundere granny（傲嬌奶奶）」為概念，同時致敬她與Fauna的經典Minecraft傳奇直播。命中後將對手拉近並獲得儀表，象徵她傲嬌外表下渴望互動的真實心情。Boost「KronFaun混沌」致敬她與Fauna那場從合作到背叛的傳奇直播——移動後靠近對手則強化攻擊，重現她追殺Fauna時的狂暴狀態。"
+  },
+  {
+    "name": "Time Prison",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-4",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chrono Lock",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "The opponent discards 1 card at random. Gain 1 Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: The opponent cannot play cards from their hand this Strike.",
+      "HIT: Gain 2 Gauge. Gain Advantage."
+    ],
+    "exceed_cost": "3G",
+    "description": "以Kronii作為時間看守者最強大的能力——暫停時間囚禁對手——為概念。BEFORE效果封鎖對手出牌，象徵她凍結時間讓對手無法動彈。命中後獲得大量儀表並奪取優勢，代表被囚禁的時間化為她的力量。Boost「時間上鎖」進一步破壞對手資源並充能，體現她掌握時間節奏的絕對控制力。"
+  },
+  {
+    "name": "Warden of Time",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-4",
+    "power": "10",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Perfection Unleashed",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Advance or Retreat up to 2 spaces. +3 Power if you moved."
+      ]
+    },
+    "effect": [
+      "Stun Immunity. Ignore Armor.",
+      "HIT: Opponent skips their next turn (draw step only)."
+    ],
+    "exceed_cost": "4G",
+    "description": "以Kronii的正式稱號「時間看守者（Warden of Time）」為最終奧義。極高威力的全力一擊，自帶暈眩免疫和無視裝甲，象覺她釋放全部力量時無人能擋的絕對壓制。擊中後對手跳過回合，完美體現時間看守者停止時間流動的概念。Boost「完美解放」讓她在攻擊前自由移動蓄力，代表她終於展露與「完美」名號相符的真正實力。"
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "name": "ぬんぬん",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Nun Nun Wave",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw a card.",
+        "AFTER: You may return this card to your hand."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以そら的招牌語『ぬんぬん』為概念，速度最快的牽制技。命中後奪取先手，如同她的招牌語氣總能搶佔聊天室焦點。"
+  },
+  {
+    "name": "こんそめー",
+    "type": "special",
+    "cost": null,
+    "range": "3-4",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Konsome Hello",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "NOW: Look at the top 3 cards of your deck. Add 1 to your hand and discard the rest.",
+        "HIT: Gain 1 Force."
+      ]
+    },
+    "effect": [
+      "HIT: Advance 1.",
+      "AFTER: Draw a card."
+    ],
+    "description": "そら的招牌招呼語『こんそめー』，混合了『こんにちは』與『コンソメ』。中距離的問候式攻擊，透過牌庫操控展現她的開朗與親和力。"
+  },
+  {
+    "name": "13騎士",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "3",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "Knight's Oath",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Guard.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may discard a card; if you do, draw 1.",
+      "HIT: Gain Advantage."
+    ],
+    "description": "紀念そら出道直播時僅有的13位陌生觀眾——「13騎士」。高防禦的守護型卡片，象徵最初的13位支持者守護著她的偶像之路。"
+  },
+  {
+    "name": "Ankimo埋蔵事件",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "2",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Buried Surprise",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move the opponent 2 spaces in any direction.",
+        "Draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: Place this card face-down under your character card. You may later add it to your Gauge.",
+      "Ignore Armor."
+    ],
+    "description": "以そら的熊布偶Ankimo穿模卡進地面的經典事件為靈感。不可預測的移動與埋藏效果，模仿Ankimo神秘消失又出現的搞笑特性。"
+  },
+  {
+    "name": "そらとも応援",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "Tomo Power",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Power and +1 Speed.",
+        "NOW: Draw 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: Draw 1. Gain Advantage."
+    ],
+    "description": "そら與粉絲『そらとも』之間的羈絆。接近對手並透過粉絲力量強化自身，命中後抽牌象徵來自そらとも的支持源源不絕。"
+  },
+  {
+    "name": "Dreaming!",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Yokohama Dream",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Gain 1 Force."
+    ],
+    "description": "そら的首張專輯與她的夢想——在橫濱Arena舉辦演唱會。堅定向前、無視防禦的攻擊，累積Force象徵一步步實現夢想。"
+  },
+  {
+    "name": "Soda-chan Sparkle",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Pepsi Shine",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed.",
+        "NOW: Retreat 2."
+      ]
+    },
+    "effect": [
+      "HIT: Retreat 2.",
+      "AFTER: Draw 1."
+    ],
+    "description": "以そら藍白配色被粉絲暱稱為『Soda-chan』的可樂罐梗。高速的閃電戰風格，打帶跑戰術如同碳酸氣泡般輕快活潑。"
+  },
+  {
+    "name": "そらママの抱擁",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "2",
+    "guard": "6",
+    "boost": {
+      "name": "Mama's Warmth",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Increase your Armor by 3 until your next turn.",
+        "Gain 1 Force."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard your hand; draw 3.",
+      "HIT: Push 2. Gain Advantage."
+    ],
+    "description": "そら被粉絲稱為『Sora Mama』的溫柔母性形象。近距離的高防禦重擊，犧牲當前手牌換取全新戰術機會，母性般的守護與包容。"
+  },
+  {
+    "name": "SorAZ - Futurity Step",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Twinkle Harmony",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "BEFORE: Advance 2; if you do, draw 1.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Push 2. Gain Advantage.",
+      "AFTER: Place this card into your Gauge."
+    ],
+    "exceed_cost": "3G",
+    "description": "そら與AZKi的夢幻組合『SorAZ』的主流出道歌曲。展現兩人默契的和諧攻擊，回收至Gauge象徵她們永不停歇的音樂旅程。"
+  },
+  {
+    "name": "横浜Arenaの夢",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "8",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dream Stage",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Close 3. You may spend 1 Force; if you do, Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor, Ignore Guard.",
+      "HIT: Draw 3.",
+      "AFTER: Gain 2 Force."
+    ],
+    "exceed_cost": "4G",
+    "description": "そら最大的夢想——在橫濱Arena舉辦個人演唱會。作為最強終極技，無視一切防禦的壓倒性攻擊，象徵她從50人前的初次直播到踏上夢想舞台的偉大旅程。"
+  }
+]

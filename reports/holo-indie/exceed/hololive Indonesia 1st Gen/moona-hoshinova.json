@@ -1,0 +1,234 @@
+[
+  {
+    "name": "\"Moon Moon~ Moona Dayo!\"",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Crystal Sparkle",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 1 space and draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: You may retreat 1 space."
+    ],
+    "description": "Moona的招牌自我介紹「Moon Moon~ Moona Dayo!」——將名字以可愛疊字呈現的專屬開場白。速度8的高速先攻，命中後獲得Advantage象徵她一開口就抓住全場注意力。Boost水晶閃爍代表Oshi Mark水晶球的魔法光輝，前進並抽牌如她自信登場時帶來驚喜。"
+  },
+  {
+    "name": "Hoshinova's Moonlit Gaze",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Goddess's Command",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Choose a card at random from the opponent's hand and look at it."
+      ]
+    },
+    "effect": [
+      "BEFORE: Pull the opponent up to 2 spaces.",
+      "HIT: The opponent discards a card of their choice."
+    ],
+    "description": "代表Moona的另一人格——低沉性感、Sadistic的月之女神「Hoshinova」。中遠程攻擊可將對手拉近，如同Hoshinova以低沉嗓音誘惑對方。Boost窺視手牌反映她敏銳的洞察力。命中迫使對手棄牌，象徵在月之女神的威壓下不得不交出什麼。"
+  },
+  {
+    "name": "Dolphin Laughter",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Squeal of Delight",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 space, then push the opponent 1 space."
+      ]
+    },
+    "effect": [
+      "HIT: Close up to 2 spaces or open up to 2 spaces (your choice).",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "Moona最具代表性的海豚音笑聲——高亢尖銳又充滿感染力的招牌笑聲。速度9的全場最高速，代表她突如其來的海豚笑讓人措手不及。命中可自由拉近或拉開距離，模擬笑聲像海豚般靈活跳躍。Boost讓她與對手同時位移，象徵笑聲的感染力帶動周圍所有人。"
+  },
+  {
+    "name": "PekoMoon: Lunar Fortress",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "4",
+    "armor": "3",
+    "guard": "3",
+    "boost": {
+      "name": "Moon Base Construction",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "AFTER: Regain 2 life."
+      ]
+    },
+    "effect": [
+      "HIT: Regain 3 life.",
+      "AFTER: Draw a card."
+    ],
+    "description": "致敬Moona與兎田ぺこら的經典合作——在Minecraft共同建造月球基地的傳說組合PekoMoon。高裝甲與Guard值象徵他們一磚一瓦建造的堅固堡壘。Boost持續回復代表兩人努力不懈的建設。命中回復生命並抽牌，如同PekoMoon互相扶持、共同成長的羈絆。"
+  },
+  {
+    "name": "Perisai Jitu -Sharp Shield-",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "5",
+    "speed": "7",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Unbreakable Resolve",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity and +2 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may move up to 2 spaces. If you cross the center line, +2 Power.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "CRITICAL: +1 Speed."
+    ],
+    "description": "取自Moona 2021年首張原創曲「Perisai Jitu」（印尼語「銳利的盾牌」）。Ultra卡代表她的音樂處女作，盾牌既是防禦也是武器。跨越中線（全力以赴）獲得額外威力，展現舞台上的閃耀表現。Boost不壞決心提供暈眩免疫與裝甲，呼應「不會被摧毀的盾牌」之名。"
+  },
+  {
+    "name": "Otsumoona",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "3",
+    "armor": "2",
+    "guard": "4",
+    "boost": {
+      "name": "Starlight Slumber",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "AFTER: Regain 2 life."
+      ]
+    },
+    "effect": [
+      "HIT: Regain 3 life.",
+      "AFTER: Draw a card."
+    ],
+    "description": "Moona的簽名告別語「Otsumoona」——將お疲れ様與自己名字結合的暖心道別。最高Guard值（4）代表她溫柔的道別讓人不忍繼續攻擊。命中回復大量生命，Boost持續治療，象徵她每一次告別都為Moonafic補充精神能量，讓大家帶著笑容結束一天。"
+  },
+  {
+    "name": "Starving Moon's Feast",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Moonafic Meal Time",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and AFTER: Add 1 card from your hand to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may spend any amount of Gauge. For each Gauge spent, +1 Power.",
+      "HIT: Add the top card of your deck to your Gauge."
+    ],
+    "description": "Moona出了名的大胃口——對起司漢堡、起司蛋糕、義大利麵的熱愛廣為人知。Before消耗Gauge（從儲備糧食中拿出食物）轉化為攻擊力，代表她越吃越有幹勁。命中將牌加入Gauge象徵吃飽喝足以後更有力氣儲備下一餐，永無止境的食慾循環。"
+  },
+  {
+    "name": "Area 15: Moonlight Symphony",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "5",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Sisterly Bonds",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity and +2 Armor."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: Regain 3 life."
+    ],
+    "description": "代表hololive Indonesia 1期生AREA 15的羈絆——Moona與Risu（松鼠）、Iofi（外星公主）之間如同姊妹般的情感。終極大招凝聚了三人共同奮鬥的歷程。無視裝甲展現團結時的無堅不摧，命中後Advantage與回復生命象徵只要姊妹們在就沒有過不去的難關。"
+  },
+  {
+    "name": "Moona's Knee-Slapper",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dad Joke Setup",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card. The opponent must reveal their hand and discard all copies of it."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 2 spaces.",
+      "AFTER: The opponent discards a card at random."
+    ],
+    "description": "Moona著名的冷笑話（Dad Jokes）——她總是在直播中出其不意講出讓人哭笑不得的雙關笑話。Boost強制對手揭露手牌並棄掉指定牌，如同冷笑話鋪墊讓人無法防備。命中推開代表笑話的爆擊效果讓對手笑得倒退。之後隨機棄牌則是眾人回味笑話時她已若無其事繼續下一句。"
+  },
+  {
+    "name": "🔮 Crystal Ball Prophecy",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Moon Reading",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 3 cards of your deck. You may rearrange them in any order."
+      ]
+    },
+    "effect": [
+      "BEFORE: Name a card. If the opponent has it in their hand, +2 Power and +1 Speed.",
+      "HIT: The opponent cannot play boosts on their next turn."
+    ],
+    "description": "水晶球是Moona的Oshi Mark（🔮），象徵她神秘優雅的月之女神形象。中遠程魔法攻擊，Before預測對手手牌——如同水晶球占卜對手行動，猜中獲得額外威力。Boost調整牌組順序，代表水晶球揭示未來軌跡的能力。命中封鎖Boost，象徵占卜結果干擾了對手的計畫。"
+  }
+]

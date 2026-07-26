@@ -1,0 +1,250 @@
+{
+  "name": "Ichijou Ririka",
+  "cards": [
+    {
+      "id": 1,
+      "name": "社長命令",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "3",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "指揮命令",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+0-1 Range. Draw a card."
+        ]
+      },
+      "effect": [
+        "HIT: Look at the opponent's hand. Choose one card and the opponent discards it.",
+        "AFTER: Gain Advantage."
+      ],
+      "description": "以莉々華的社長身份為靈感，她擅長指揮與命令。高速度確保先手，命中後強制對手棄牌展現她毫不留情的商業手腕。Boost「指揮命令」延伸其交涉距離並補牌，模擬她在國際談判中的從容。奪回節奏權的能力呼應她作為領導者的存在感。"
+    },
+    {
+      "id": 2,
+      "name": "自称ジーニアス",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "5",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "ポジティブ！",
+        "cost": "1F",
+        "timing": "Instant",
+        "effect": [
+          "+2 Power. If this Strike misses, the opponent gains Advantage."
+        ]
+      },
+      "effect": [
+        "BEFORE: If you have fewer cards than the opponent, +2 Power.",
+        "BEFORE: If you have more cards than the opponent, +2 Speed."
+      ],
+      "description": "以莉々華自稱「天才」的招牌台詞為主題。BEFORE效果根據手牌數量動態強化——落後時靠力量反擊（+Power），領先時保持速度壓制（+Speed），體現她隨機應變的「天才」直覺。Boost「ポジティブ！」大幅增加威力但有miss後懲罰，呼應她自信滿滿但偶爾翻車的可愛反差。"
+    },
+    {
+      "id": 3,
+      "name": "お嫁さん宣言",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "2",
+      "speed": "4",
+      "armor": "0",
+      "guard": "6",
+      "boost": {
+        "name": "ドキドキ",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Guard. HIT: Gain 2 life."
+        ]
+      },
+      "effect": [
+        "BEFORE: If the opponent Strikes you this turn, +4 Guard.",
+        "HIT: Gain 3 life."
+      ],
+      "description": "以莉々華的經典名言「お嫁さんにどうですか？」為設計核心。高防禦值象徵她撒嬌時的可愛防護罩，讓對手難以狠下心攻擊。Boost「ドキドキ」命中後回血，模擬被她告白後的心動治癒效果。BEFORE追加Guard代表她楚楚可憐的眼神攻勢讓對手攻勢軟化。"
+    },
+    {
+      "id": 4,
+      "name": "ゴロかつ革命",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "4",
+      "speed": "3",
+      "armor": "3",
+      "guard": "0",
+      "boost": {
+        "name": "かつを食う",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Gain 2 life. Discard a card."
+        ]
+      },
+      "effect": [
+        "BEFORE: Gain 2 life.",
+        "HIT: Gain 2 life and +2 Power on your next Strike this combat."
+      ],
+      "description": "以莉々華獨創的「ゴロかつ」（躺著吃炸豬排）配信文化為靈感。慢速但高續航力，BEFORE直接回血體現吃炸豬排補血的意象。Boost「かつを食う」犧牲手牌換取即時回復，呼應她從SOS飯進化為美食家的成長歷程。命中後疊加Power象徵吃飽後更有力氣戰鬥。"
+    },
+    {
+      "id": 5,
+      "name": "SOS飯",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "X",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "炭化料理",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Discard the top 2 cards of your deck. Gain Force equal to the number of cards discarded this way."
+        ]
+      },
+      "effect": [
+        "BEFORE: Discard any number of cards from your hand. This card's Power equals the number of cards discarded."
+      ],
+      "description": "以莉々華傳說級的料理失敗（炭化料理、カロリー誤算超1000kcal）為主題。Power數值由玩家決定棄牌數量來換取威力——如同她做菜時的火候全憑感覺，結果難以預測。Boost「炭化料理」隨機棄牌充能，完美體現她災難級廚房事故的不可預測性。"
+    },
+    {
+      "id": 6,
+      "name": "ILのメッセージ",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "2",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "ラッキー！",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Look at the top 3 cards of your deck. Add one to your hand and discard the rest."
+        ]
+      },
+      "effect": [
+        "BEFORE: Choose one: gain 2 life, draw a card, or gain Advantage.",
+        "HIT: Repeat BEFORE effect."
+      ],
+      "description": "以莉々華的人生哲學「IL（Love・Lucky・Laugh）」為核心。極高速度體現她正向積極的處世態度。BEFORE時可選擇三種效果——Love（回血）、Lucky（抽牌）、Laugh（奪節奏）——對應IL的三大價值觀。命中後可重複選擇，展現她的正向循環：好心態帶來好結果。Boost「ラッキー！」精準檢索牌庫，呼應她自稱的幸運體質。"
+    },
+    {
+      "id": 7,
+      "name": "夜景散策",
+      "type": "special",
+      "cost": null,
+      "range": "2-5",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "星空の下で",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "HIT: Move 1 space. Draw a card."
+        ]
+      },
+      "effect": [
+        "BEFORE: Move up to 2 spaces.",
+        "AFTER: If you are at range 3 or more, draw a card."
+      ],
+      "description": "以莉々華的主題意象「夜景・星空🌃」為設計元素。遠距離遊擊型卡片，BEFORE自由移動體現她在夜色中穿梭的靈活身手。Boost「星空の下で」命中後拉開距離並補牌，模擬她在夜景中漫步的從容步調。AFTER效果獎勵保持距離的戰術，鼓勵玩家像欣賞夜景般拉開作戰距離。"
+    },
+    {
+      "id": 8,
+      "name": "5000冊の秘密",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "4",
+      "speed": "4",
+      "armor": "0",
+      "guard": "4",
+      "boost": {
+        "name": "沼への誘い",
+        "cost": "1F",
+        "timing": "Instant",
+        "effect": [
+          "Look at the opponent's hand. Choose a non-Ultra card and add it to your hand.",
+          "The opponent draws a card."
+        ]
+      },
+      "effect": [
+        "BEFORE: Name a card type (Special or Ultra). Look at the top 5 cards of your deck. Add one of the named type to your hand. Discard the rest.",
+        "HIT: The opponent can't play Ultra cards next turn."
+      ],
+      "description": "以莉々華收藏5000冊以上BL漫畫的深厚底蘊為主題。近距離攻防兼備，BEFORE展示她從龐大收藏中精準找到目標的能力。Boost「沼への誘い」竊取對手非Ultra卡，模擬她推坑BL給朋友的熱情——借走一本，還回一本（笑）。命中後封鎖對手Ultra卡，象徵她對「好物」的獨佔慾。"
+    },
+    {
+      "id": 9,
+      "name": "ホロインディの誇り",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": "5",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "インディースピリット",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Return up to 2 cards from your discard pile to your deck. Shuffle.",
+          "Draw 1."
+        ]
+      },
+      "effect": [
+        "BEFORE: Search your deck for any card and add it to your hand. Shuffle.",
+        "HIT: You may play an additional card this turn."
+      ],
+      "exceed_cost": "3G",
+      "description": "以莉々華被任命為holo Indie官方支援大使、以及她自身也在開發遊戲的背景為設計。作為Ultra卡，能夠從牌庫精準檢索任意卡片，象徵她身為獨立遊戲推廣大使的企劃整合能力。Boost「インディースピリット」回收棄牌區資源，體現獨立遊戲開發者循環利用資源的創作精神。命中後額外行動呼應她同時推進多項企劃的高效執行力。"
+    },
+    {
+      "id": 10,
+      "name": "大天才っ！",
+      "type": "ultra",
+      "cost": "5G",
+      "range": "1-2",
+      "power": "7",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "ポジティブ！ジーニアス！",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "+2 Power for each card named '大天才っ！' in your discard pile.",
+          "Gain Advantage."
+        ]
+      },
+      "effect": [
+        "BEFORE: +1 Power for each card in your Gauge.",
+        "Ignore Armor. Ignore Guard.",
+        "HIT: The opponent discards all cards in their Gauge."
+      ],
+      "exceed_cost": "5G",
+      "description": "以莉々華的原創歌曲《今日も大天才っ！》以及招牌台詞「かわいい！ポジティブ！ジーニアス！」為設計。終極必殺技，Gauge越多威力越強——累積越多能量就越接近真正的天才。無視一切防禦，命中後清空對手Gauge資源，完美體現她「天才」壓倒性的氣勢。Boost同名卡累積效果讓這招越打越強，如同她的口號不斷自我強化。"
+    }
+  ]
+}

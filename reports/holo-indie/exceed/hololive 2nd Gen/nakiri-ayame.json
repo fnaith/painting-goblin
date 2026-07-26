@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Yo dayo!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "'Tis I",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "「Yo dayo!（余だよ！）」是百鬼あやめ最經典的登場台詞——以古風第一人稱「余」自稱，每次出現在直播或會限時都會以此句開場。高速輕擊後奪取先手權，象徵她用一句話就抓住所有人的注意力，瞬間掌握局面主導權。"
+  },
+  {
+    "name": "Konbanayame~",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Echoing Response",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "AFTER: Draw 1 card.",
+      "AFTER: Gain 1 life."
+    ],
+    "description": "あやめ的招呼「こんばなやめ〜」與聊天室回以同樣話語的儀式是每次直播的固定開場。超高速、低傷害但專注於資源循環與回復，象徵她與百鬼組之間溫暖的問候與情感連結，如同夜空中迴盪的呼應聲。"
+  },
+  {
+    "name": "Shimakeshi",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Oni Rage",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard 1 card from your Gauge.",
+      "HIT: Push the opponent 3 spaces."
+    ],
+    "description": "あやめ在Minecraft中因迷路而暴怒、一怒之下將整座島嶼破壞殆盡的傳說事件「島消し」。犧牲資源換取壓倒性破壞力，如同那場讓她用TNT與岩漿徹底淨化整座島嶼的壯舉——展現鬼之一族真正的怒氣爆發。"
+  },
+  {
+    "name": "Docchi Docchi",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lost Direction",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat up to 1 space.",
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Look at the top 3 cards of your deck. Reorder them in any order.",
+      "HIT: Gain Advantage."
+    ],
+    "description": "「どっちどっち（哪邊哪邊）」出自あやめ在Minecraft中迷路時的口頭禪，後成為她的個人原創歌曲。重整牌庫頂端後發動遠程奇襲，命中後奪回主導權——呼應她從迷茫中找到自己道路的成長故事。"
+  },
+  {
+    "name": "Konnakiri!",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Demon Blade Flourish",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Guard."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent discards 1 card at random."
+    ],
+    "description": "「こんなきり！」是あやめ自創的混合招呼語，融合問候與她的名字「なきり」。此牌展現她拔刀（雙刀「羅剎」與「阿修羅」）的優雅架式——中速中距、附帶防禦，命中後隨機削減對手手牌，如同她標誌性的雙刀亂舞一般讓對手防不勝防。"
+  },
+  {
+    "name": "Kawayo",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "Nakiri Gang Cheers",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you have fewer cards in hand than your opponent, +2 Power.",
+      "HIT: Gain 2 life."
+    ],
+    "description": "每當あやめ展現可愛一面時，聊天室就會刷滿「かわよ（可愛+よ）」。象徵百鬼組應援的防守反擊牌——當她處於劣勢時粉絲的聲援讓她越戰越強，兼具防禦與續航，體現あやめ與粉絲之間深厚的情感羈絆。"
+  },
+  {
+    "name": "Blue Will-o'-Wisp",
+    "type": "special",
+    "cost": "1F",
+    "range": "3-6",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Flickering Flame",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move up to 2 spaces any direction.",
+        "Your opponent discards 1 card at random."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Return this card to your hand instead of discarding it."
+    ],
+    "description": "あやめ身邊漂浮的青色鬼火（青行燈）是她最具代表性的視覺元素。遠程操縱鬼火進行不可預測的攻擊——無視防禦、消耗1F發動、命中後還能回收重複使用，如同青鬼火般飄忽不定難以捉摸，且永遠不會真正熄滅。"
+  },
+  {
+    "name": "Yoi no Yo, Yoi!",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Night Carnival",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "NOW: Exceed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close up to 2 spaces.",
+      "HIT: Draw 2 cards and gain Advantage.",
+      "AFTER: Gain 1 life."
+    ],
+    "exceed_cost": "2G",
+    "description": "あやめ的1st原創曲「宵の宵、宵っ！」以夜晚祭典為主題，輕快活潑的曲風與她元氣的一面完美契合。此超絕技讓她高速突進、連續打擊、補充資源並回復——如同祭典的熱鬧氣氛一般節奏明快一氣呵成，展現あやめ在舞台上閃閃發光的偶像風采。"
+  },
+  {
+    "name": "Onigashima Combi",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "6",
+    "speed": "5",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Double Oni Assault",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Close any distance.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "HIT: Move the opponent any number of spaces.",
+      "AFTER: Search your deck for an Ultra card and add it to your hand."
+    ],
+    "exceed_cost": "3G",
+    "description": "あやめ與戌神ころね組成的經典搭檔「鬼ヶ島コンビ」。兩位鬼系VTuber的聯手攻擊勢不可擋——強制接近、任意移動對手、並能從牌庫中檢索終結技，完美詮釋這對歡樂組合隨心所欲、讓人招架不住的雙鬼拍門攻勢。"
+  },
+  {
+    "name": "Phantom VTuber",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-5",
+    "power": "8",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Now You See Me...",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "Ignore Armor.",
+      "HIT: Your opponent discards their entire hand. For each card discarded this way, they lose 1 life."
+    ],
+    "exceed_cost": "4G",
+    "description": "「幻之VTuber（幽靈VTuber）」——あやめ因極低的直播頻率獲此稱號，每次突然開台都像幽靈現身般引起轟動。此最終奧義正是她神出鬼沒的具現化：在最意想不到的時機以最高火力降臨，無視一切防禦以靈魂為代價重創對手，如同她每次不預警開台時帶給粉絲的震撼與驚喜。"
+  }
+]

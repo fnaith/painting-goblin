@@ -1,0 +1,237 @@
+[
+  {
+    "name": "SPIN TO WIN!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Spin Cycle",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: You may move the opponent 1 space in any direction.",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Cecilia的代表口號「Spin to Win!」命名。極高速的旋轉攻擊，命中後可操控對手位置並取得先機，象徵她總是能靠速度與技巧扭轉局勢。"
+  },
+  {
+    "name": "ImmerScreen",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "System Override",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 3 cards of your deck. Put any of them on the top of your deck, and the rest on the bottom."
+      ]
+    },
+    "effect": [
+      "BEFORE: Choose a Boost in play. It now affects you instead of its controller.",
+      "AFTER: Draw a card."
+    ],
+    "description": "來自她獨特的「Immersions」系列直播——透過技術能力改變遊戲畫面與規則。這張牌展現她作為程式高手的操控力，能奪取對手的增益效果並建立手牌優勢。"
+  },
+  {
+    "name": "Ancient Automaton",
+    "type": "special",
+    "cost": null,
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "4",
+    "armor": "3",
+    "guard": "3",
+    "boost": {
+      "name": "Eternal Mechanism",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor.",
+        "+1 Guard."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "AFTER: Add this card to your Gauge at the end of the Strike."
+    ],
+    "description": "呼應她「古代自動人偶」的設定。遠古製作的機械身軀賦予她超凡的耐久力，此牌兼具防禦與資源回收功能，如同她永不停歇的機械核心。"
+  },
+  {
+    "name": "Tea Time",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "1",
+    "speed": "5",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Fresh Brew",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 2 life."
+      ]
+    },
+    "effect": [
+      "HIT: Discard any number of cards from your hand, then draw that many cards."
+    ],
+    "description": "以她最喜愛的紅茶（🍵）為主題。茶杯是她的代表emoji，此牌代表她在戰鬥中小憩品茶、重整旗鼓的能力，透過捨棄與抽牌來靈活調度戰術。"
+  },
+  {
+    "name": "Wind-Up",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Loading...",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of your turns, +1 Power (max of +3)."
+      ]
+    },
+    "effect": [
+      "HIT: Add the top card of your deck to your Gauge."
+    ],
+    "description": "靈感來自她3D披露直播同名主題曲。上發條的意象完美契合自動人設，此牌象徵她逐漸加速、累積力量，隨著戰鬥進行越戰越強的成長曲線。"
+  },
+  {
+    "name": "Immergination",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Creative Spark",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Search your deck for a card and add it to your hand. Shuffle your deck afterwards."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent discards a card from their hand at random."
+    ],
+    "description": "以粉絲創作標籤 #Immergination 命名。Cecilia以創造力著稱——從程式設計到音樂創作無一不精。此牌搜尋牌庫展現她的巧思，同時干擾對手以維持創造者的優勢。"
+  },
+  {
+    "name": "Cello Suite No.1",
+    "type": "special",
+    "cost": null,
+    "range": "1-5",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Presto",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Strike.",
+        "If you win the Strike, draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: You may spend any amount of Force. For each Force spent, push the opponent 1 space."
+    ],
+    "description": "取材自她出道自我介紹的背景音樂——巴哈《無伴奏大提琴組曲第一號》。她擅長小提琴，音樂攻擊優雅而致命，能在極遠距離壓制並逐退對手。"
+  },
+  {
+    "name": "ABOVE BELOW",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-5",
+    "power": "4",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dichotomy",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Gain 2 life.",
+        "Draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: You may move the opponent to any space.",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "3G",
+    "description": "以她的出道原創單曲命名。歌名象徵上下、陰陽的二元對立，此牌賦予她完全掌控戰場位置的能力，展現她作為古老存在的絕對支配力。"
+  },
+  {
+    "name": "CCGG MADNESS",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Brainrot Duo",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Strike.",
+        "You may add a copy of a card from your discard to your hand."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards cards from the top of their deck equal to the damage dealt.",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "2G",
+    "description": "與Gigi Murin的雙人原創曲暨3D LIVE。與Gigi卡組中的同名卡對應，從Cecilia的視角強調牌組破壞與節奏壓制，呼應她作為理性吐槽役的控場風格。"
+  },
+  {
+    "name": "RENEGADE",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "10",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Against the World",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "Ignore Armor.",
+      "HIT: Your opponent discards their entire hand."
+    ],
+    "exceed_cost": "4G",
+    "description": "以她出道一周年原創曲命名。RENEGADE代表叛逆者——呼應她從永恆服務中解放、選擇追隨自我意志的角色弧線。作為最強終結技，無視一切防禦並清空對手手牌。"
+  }
+]

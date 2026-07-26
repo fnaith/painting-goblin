@@ -1,0 +1,238 @@
+[
+  {
+    "name": "雪夜月",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "一杯目",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card. +1 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 1 space. Gain 1 life."
+    ],
+    "description": "以Lamy的得獎清酒品牌「雪夜月」為設計。飲下醇酒後恢復精力，同時散發的香氣能將對手推開，體現她優雅中帶有力量的雪國貴族氣質。"
+  },
+  {
+    "name": "大福の加護",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "4",
+    "armor": "3",
+    "guard": "4",
+    "boost": {
+      "name": "雪之妖精",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of your turn, gain 1 life."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may move 1 space.",
+      "HIT: Gain 2 life."
+    ],
+    "description": "以Lamy的夥伴「大福」為設計。這個被稱為雪之妖精的白色生物能為Lamy帶來治癒與守護之力，讓她能在戰場上持續作戰。"
+  },
+  {
+    "name": "華道・雪華",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "四季之花",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Range.",
+        "Draw 1 card after Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Move the opponent 1 or 2 spaces.",
+      "AFTER: Gain Advantage."
+    ],
+    "description": "以Lamy的華道（花藝）技能為設計。優雅的花藝技巧化為戰鬥中的精準控場，透過花的香氣牽引對手移動，掌握戰鬥節奏。"
+  },
+  {
+    "name": "書道七段",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "筆勢",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Ignore Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: Name a card. If the opponent Strikes with that card, +3 Power."
+    ],
+    "description": "以Lamy的書道七段實力為設計。源自書法的精準與力道，透過讀取對手的筆跡來預測行動，在對峙中佔得先機。"
+  },
+  {
+    "name": "ASMRこんらみ",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "KU100",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "The opponent discards 1 random card.",
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent must discard a card at random.",
+      "AFTER: Retreat 2 spaces."
+    ],
+    "description": "以Lamy招牌的ASMR直播為設計。輕柔耳語能擾亂對手心神，使其無法集中精神戰鬥，是最具Lamy風格的干擾戰術。"
+  },
+  {
+    "name": "酒豪の底力",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "6",
+    "speed": "3",
+    "armor": "2",
+    "guard": "2",
+    "boost": {
+      "name": "まだまだいける",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Spend up to 3 Force for +1 Power per Force spent."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1 or 2 spaces.",
+      "HIT: Gain 1 life."
+    ],
+    "description": "以Lamy「外表清純實則酒豪」的反差魅力為設計。看似柔弱卻隱藏著驚人實力，越戰越勇的續航力讓對手措手不及。"
+  },
+  {
+    "name": "恐怖ゲームデート",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "ししらみ",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed when Striking at Range 1-2."
+      ]
+    },
+    "effect": [
+      "HIT: Pull the opponent 2 spaces.",
+      "AFTER: The opponent cannot use Boosts during their next Strike."
+    ],
+    "description": "以Lamy與獅白牡丹的經典組合「ししラミ」為設計。還原Botan帶Lamy玩恐怖遊戲時被嚇得亂竄的場面，但同時又能巧妙地將對手拉入自己的節奏。"
+  },
+  {
+    "name": "朝活らみらいぶ",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "おはよう雪民",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards.",
+        "Discard 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card.",
+      "AFTER: Move 1 space."
+    ],
+    "description": "以Lamy每早9點的晨間直播為設計。充滿朝氣的問候為她帶來滿滿的能量，擅長快速出擊並補充資源，與粉絲（雪民）的互動化為手牌優勢。"
+  },
+  {
+    "name": "雪国貴族の誇り",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "凍てつく魔力",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card.",
+        "Gain Advantage."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 3 spaces.",
+      "AFTER: Gain Advantage."
+    ],
+    "exceed_cost": "2G",
+    "description": "以Lamy身為雪國貴族半精靈的出身為設計。解放雪精靈的血統之力，以冰霜般的壓倒性氣勢震懾對手，展現貴族的威嚴。"
+  },
+  {
+    "name": "超・雪夜月開宴",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "2-5",
+    "power": "11",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "乾杯！",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "Ignore Armor."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 3 life.",
+      "HIT: Your opponent discards their hand and draws 2 cards.",
+      "AFTER: Gain Advantage."
+    ],
+    "exceed_cost": "4G",
+    "description": "以Lamy的夢想——與雪民共享最高榮耀的宴會為設計。在雪夜月下舉杯的終極一擊，既是治癒也是壓制，完美體現Lamy作為雪之貴族兼酒豪的雙重身份。"
+  }
+]

@@ -1,0 +1,230 @@
+{
+  "name": "Amane Kanata",
+  "cards": [
+    {
+      "name": "PowerPoint Presentation",
+      "type": "special",
+      "cost": null,
+      "range": "2-5",
+      "power": "3",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Slide Transition",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Move 1. If you do, draw a card."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent must discard a card at random. Gain Advantage."
+      ],
+      "description": "致敬Kanata最著名的「PP天使」梗——她在出道直播中使用PowerPoint進行自我介紹，從此被粉絲稱為PPT天使。此卡片模擬她在天界學園做簡報的場景，以投影般的遠程攻擊擾亂對手的手牌並奪取節奏優勢。"
+    },
+    {
+      "name": "Sōran Bushi",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "4",
+      "speed": "4",
+      "armor": "0",
+      "guard": "2",
+      "boost": {
+        "name": "Dokkoisho!",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Speed and +1 Armor."
+        ]
+      },
+      "effect": [
+        "BEFORE: Close 1.",
+        "HIT: +1 Power for each Force in your Gauge (max 3)."
+      ],
+      "description": "靈感來自Kanata出道時清唱的日本傳統民謠《ソーラン節》，這首歌已成為她的主題曲。粉絲們會在直播中配合歌曲喊出「ドッコイショー！ソーラン！」。卡牌設計體現了民謠的節奏感——逐步逼近對手並根據積蓄的Force增加威力，就像歌聲中不斷高漲的氣勢。"
+    },
+    {
+      "name": "Angel's Agape",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "3",
+      "speed": "3",
+      "armor": "0",
+      "guard": "4",
+      "boost": {
+        "name": "Heaven's Love",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Guard."
+        ]
+      },
+      "effect": [
+        "HIT: Regain 2 life. Draw a card."
+      ],
+      "description": "取自Kanata的原創單曲《天使のagape》（天使的無私之愛），體現她作為天界學園治癒系天使的設定。卡牌以防禦性的低速度高護衛為特點，命中後能回復生命並抽牌，展現天使的治癒與關懷本質。"
+    },
+    {
+      "name": "Gorilla Grip",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "6",
+      "speed": "3",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Crushing Force",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Close up to 3."
+        ]
+      },
+      "effect": [
+        "Ignore Guard.",
+        "HIT: Push 2. The opponent must discard a card at random."
+      ],
+      "description": "源自Kanata的著名反差萌稱號「Kana-Gorilla」——她身高僅149cm，握力卻高達50公斤，曾捏碎罐頭、弄壞手柄和鍵盤。此卡片是純粹的近距離高威力攻擊，無視護衛並強推對手，同時強制對手棄牌，體現她那無法用科學解釋的怪力。"
+    },
+    {
+      "name": "Heavenly Chorus",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "2",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Perfect Pitch",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Speed and +1 Power."
+        ]
+      },
+      "effect": [
+        "HIT: Draw 2 cards. Gain Advantage."
+      ],
+      "description": "展現Kanata作為Hololive頂級歌姬的驚人唱功和寬廣音域。粉絲稱她唱歌時為「Perfect Pitch Tenshi」。卡片設計為高速遠程攻擊，命中後抽牌並獲得優勢，象徵她的歌聲能穿透心靈，為自己創造更多機會。"
+    },
+    {
+      "name": "Kabaya Confusion",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "4",
+      "speed": "5",
+      "armor": "0",
+      "guard": 2,
+      "boost": {
+        "name": "Typo!",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Name a card. The opponent must discard a copy of that card or reveal a hand without it."
+        ]
+      },
+      "effect": [
+        "HIT: +2 Power."
+      ],
+      "description": "來自赤井はあと在打字時將Kanata的名字誤拼為「Kabaya」的經典事件，聊天室從此多了一個暱稱。Boost效果模擬拼錯名字造成的混亂——指定一張牌迫使對手棄牌，而命中後的威力提升則體現了這個誤會帶來的意外效果。"
+    },
+    {
+      "name": "Halo Flare",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "3",
+      "speed": "4",
+      "armor": 2,
+      "guard": "0",
+      "boost": {
+        "name": "Dizzy",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Move 2. Draw a card."
+        ]
+      },
+      "effect": [
+        "HIT: Push 1. The opponent cannot gain Advantage during this Strike."
+      ],
+      "description": "Kanata的代表標誌是💫（暈眩表情），因為它象徵天使的光環。她的光環是四角星形的金屬光環。此卡片以光環閃光為概念，命中後推動對手並阻止對方獲得優勢，同時Boost效果模擬天使的靈活移動。"
+    },
+    {
+      "name": "Celestial Studies",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "2",
+      "speed": "2",
+      "armor": "0",
+      "guard": 5,
+      "boost": {
+        "name": "Big Brain",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Look at the top 3 cards of your deck. Add 1 to your hand and discard the rest."
+        ]
+      },
+      "effect": [
+        "Stun Immunity.",
+        "AFTER: Draw a card."
+      ],
+      "description": "Kanata在癒月ちょこ的通識測驗中獲得滿分20分，被英文圈粉絲稱為「BB Tenshi（Big-Brained Angel）」。此卡片以她在天界學園的學霸形象為基礎，擁有高護衛和暈眩免疫，並通過檢視牌組展現她的聰明才智。"
+    },
+    {
+      "name": "Over Time",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": 7,
+      "speed": 5,
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Like a Phoenix",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Retreat up to 2. Draw 2 cards."
+        ]
+      },
+      "effect": [
+        "HIT: Regain 3 life. Gain Advantage. Close up to 3."
+      ],
+      "exceed_cost": "3G",
+      "description": "取自Kanata的EP《Over Time》及其收錄曲《Like a Phoenix》。作為Ultra卡牌，它體現了天使在逆境中重生的意象——命中後回復大量生命、獲得優勢並拉近距離，象徵Kanata即使在單耳近乎失聰的困難中仍保持積極向上的精神。"
+    },
+    {
+      "name": "ORIO - Starfall Duet",
+      "type": "ultra",
+      "cost": "4G",
+      "range": "1-4",
+      "power": 9,
+      "speed": 3,
+      "armor": 2,
+      "guard": 2,
+      "boost": {
+        "name": "Kiseki Knot",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Power and +2 Guard."
+        ]
+      },
+      "effect": [
+        "HIT: Push 3. The opponent must discard 2 cards at random."
+      ],
+      "exceed_cost": "4G",
+      "description": "Kanata與常闇トワ於2022年結成的音樂組合「ORIO」。此Ultra卡牌是她們的雙人合作絕技——高費用、高威力、廣範圍的全面性攻擊，命中後強力推送對手並剝奪其手牌。Boost名稱取自4期生合作曲《Kiseki knot》（奇蹟之結），象徵她們之間的羈絆。"
+    }
+  ]
+}

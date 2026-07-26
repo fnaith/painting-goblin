@@ -1,0 +1,248 @@
+{
+  "name": "Mococo Abyssgard",
+  "cards": [
+    {
+      "name": "BAU BAU Barrage",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Bau Bau!",
+        "cost": "-",
+        "timing": "Cancel 1\nInstant",
+        "effect": [
+          "Advance up to 2 spaces.",
+          "+1 Power this turn."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent discards 1 random card.",
+        "Gain Advantage."
+      ],
+      "description": "Mococo 最核心的招牌叫聲化為攻擊。與 Fuwawa 的版本相比，Mococo 的 BAU BAU 更加狂野且帶有破壞性——命中後讓對手隨機棄牌，體現她不受控制、想到什麼做什麼的隨性性格。Boost 的推進展現她作為搗蛋鬼總是不按牌理出牌的風格。"
+    },
+    {
+      "name": "Ehehe, Play Time!",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "2",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Just for Fun",
+        "cost": "-",
+        "timing": "Cancel 1\nInstant",
+        "effect": [
+          "Retreat up to 2 spaces.",
+          "Draw 1."
+        ]
+      },
+      "effect": [
+        "BEFORE: You may move to any other space at the same range.",
+        "HIT: Push 1 or Pull 1."
+      ],
+      "description": "源自她的官方標語「Ehehe, it's play time, whether you're ready or not!」。極高的速度展現她迫不及待開始玩樂的心情，命中後的推拉效果如同她捉弄姐姐時的淘氣行為。BEFORE 效果讓她在近距離隨意切換位置，像個靈活的搗蛋鬼一樣讓對手抓不住。"
+    },
+    {
+      "name": "Boss's Orders",
+      "type": "special",
+      "cost": "1F",
+      "range": "1-3",
+      "power": "4",
+      "speed": "4",
+      "armor": "0",
+      "guard": "2",
+      "boost": {
+        "name": "Bow Wow!",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Power.",
+          "+1 Guard."
+        ]
+      },
+      "effect": [
+        "HIT: Look at the opponent's hand. Choose 1 card; the opponent discards it.",
+        "Draw 1."
+      ],
+      "description": "Mococo 有時自稱「Boss」，展現她自信、隨性的一面。消耗 Force 發動指令，命中後窺視對手手牌並指定棄牌——如同 Boss 在下達命令，對手不得不遵從。Boost 的全面強化效果表現了「Boss」在戰場上的威壓感。"
+    },
+    {
+      "name": "Fuzzy Dodge",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "3",
+      "speed": "3",
+      "armor": "2",
+      "guard": "5",
+      "boost": {
+        "name": "Mofu Mofu",
+        "cost": "-",
+        "timing": "Cancel 1\nContinuous",
+        "effect": [
+          "+2 Armor.",
+          "HIT: Add this to your Gauge."
+        ]
+      },
+      "effect": [
+        "Stun Immunity.",
+        "BEFORE: You may Retreat 1. If you do, +1 Power."
+      ],
+      "description": "呼應 Mococo 的稱號「The Fuzzy One」（毛茸茸的那位）。她那 fluffy 的外表不僅可愛，還能像絨毛一樣吸收衝擊。高 Guard 與 Stun Immunity 展現了毛茸茸的緩衝效果，BEFORE 的後撤則像是小狗靈活地閃開攻擊後趁機反擊。"
+    },
+    {
+      "name": "Mococoeh!",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "2",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Eh~?",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Look at the top 2 cards of your deck. Add 1 to your hand, discard 1."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent's next attack has -2 Power.",
+        "Draw 1."
+      ],
+      "description": "以 Mococo 招牌的語尾「え」(eh) 為主題。極致的速度（Speed 8）代表她語尾的輕快與俏皮感，命中後削弱對手下一擊的效果如同她那帶有困惑語氣的「eh~?」讓對手一時反應不過來。Boost 的濾牌效果則展現她說話時隨興跳躍的思維方式。"
+    },
+    {
+      "name": "Pero, Sic 'Em!",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "4",
+      "speed": "3",
+      "armor": "0",
+      "guard": "4",
+      "boost": {
+        "name": "Good Boy",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Range.",
+          "BEFORE: Draw 1."
+        ]
+      },
+      "effect": [
+        "HIT: Name a card. The opponent must discard a copy of it or reveal a hand without it.",
+        "You cannot be Pushed or Pulled this turn."
+      ],
+      "description": "Mococo 的寵物 Pero 是一隻忠誠的小狗，聽從她的每一個命令。Mococo 指定目標（指名棄牌），Pero 精準執行攻擊。Boost 讓 Pero 延長攻擊距離，而「不可被推動」則展現了 Pero 守在主人身邊寸步不離的忠誠形象。"
+    },
+    {
+      "name": "No Regrets",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "6",
+      "speed": "2",
+      "armor": "0",
+      "guard": "6",
+      "boost": {
+        "name": "Full Send",
+        "cost": "-",
+        "timing": "Cancel 1\nInstant",
+        "effect": [
+          "Advance up to 4 spaces.",
+          "Draw 1."
+        ]
+      },
+      "effect": [
+        "BEFORE: If you initiated, +2 Power.",
+        "Ignore Armor.",
+        "HIT: Gain Advantage."
+      ],
+      "description": "來自 Mococo 的人生座右銘「Have fun, make mistakes, no regrets」。這是一張全力以赴、不留退路的攻擊牌——高傷害但低速度，象徵她即使知道可能失敗也義無反顧地向前衝。Boost 全力衝刺體現了「不留遺憾」的精神，命中後奪回優勢則代表敢衝敢拼的人最終會獲得回報。"
+    },
+    {
+      "name": "Twin Telepathy",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "1",
+      "boost": {
+        "name": "Together We're FUWAMOCO!",
+        "cost": "-",
+        "timing": "Cancel 1\nContinuous",
+        "effect": [
+          "+1 Speed for each card in your hand (max 3).",
+          "HIT: +1 Power."
+        ]
+      },
+      "effect": [
+        "Reveal your hand. If the number of cards in your hand is even, +1 Power and draw 1.",
+        "HIT: Gain Advantage."
+      ],
+      "description": "呼應 Mococo 與 Fuwawa 之間的心電感應（Twin Telepathy）。不同於 Fuwawa 版本的手牌數量比對，Mococo 版的條件是偶數——象徵她與 Fuwawa 各佔一半的完美平衡。Boost 的「Together We're FUWAMOCO!」展現雙子同步時疊加的力量，手牌越多速度越快。"
+    },
+    {
+      "name": "Born to be BAUDOL",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": "8",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "BAU BAU BAU!",
+        "cost": "-",
+        "timing": "Cancel 1\nContinuous",
+        "effect": [
+          "+2 Power.",
+          "HIT: Move 1 space and gain Advantage."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent discards 2 random cards.",
+        "Push the opponent 2 spaces.",
+        "Draw 2."
+      ],
+      "exceed_cost": "3G",
+      "description": "以 Mococo 的原創歌曲〈Born to be \"BAU\"DOL☆★〉為主題，代表她作為偶像（BAUDOL）的巔峰狀態。強力三連擊——棄牌、推離、補牌——象徵她在舞台上全面爆發的魅力。Boost 名稱以三個「BAU BAU BAU!」對應她與 Ruffians 的 call & response 互動文化，命中後立刻奪回節奏如同她在演唱會中掌控全場。"
+    },
+    {
+      "name": "Ruffian Rebellion",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": "6",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Ruffians, Assemble!",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "BEFORE: Draw 1 for each card in your discard (max 3).",
+          "HIT: +2 Power."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent discards cards equal to the number of cards in your hand.",
+        "Gain Advantage."
+      ],
+      "exceed_cost": "3G",
+      "description": "以 Mococo 與粉絲 Ruffians 之間深厚的羈絆為主題。Mococo 認為自己的使命是「保護 Ruffians 的笑容」，而 Ruffians 也是她最強大的後盾——當她呼喚時，Ruffians 會從四面八方集結支援。Boost 從棄牌區抽牌象徵粉絲們從各處趕來，命中後根據手牌數強制棄牌則代表了群眾力量的壓倒性聲勢。"
+    }
+  ]
+}

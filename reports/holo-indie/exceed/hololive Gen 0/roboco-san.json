@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Hellobo~",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "High-Performance Startup",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn regardless of who initiated the Strike)."
+    ],
+    "description": "Roboco的招牌招呼語「はろーぼ〜」——高性能機器人啟動，以極速開場取得先手，體現她總是充滿活力地向觀眾打招呼的直播風格。"
+  },
+  {
+    "name": "Precision Shot",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Reload",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Draw 1 card."
+    ],
+    "description": "Roboco擅長FPS射擊的體現——機器人精密瞄準系統無視防禦，精準命中後還能補充彈藥，如她在Apex中的槍法一樣可靠。"
+  },
+  {
+    "name": "Charging...🔌",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "4",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "Battery Full",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Add the top card of your discard pile to your Gauge.",
+        "Gain Advantage."
+      ]
+    },
+    "effect": [
+      "BEFORE: Gain +1 Armor for each card in your Gauge (max +3)."
+    ],
+    "description": "粉絲電池梗的具現化——充電越多防禦越強，體現粉絲（Robosa電池怪獸）源源不絕的支持是Roboco最堅實的後盾。"
+  },
+  {
+    "name": "Broken Unit",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Oh, My Arm Fell Off...",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard 1 card from your hand. Your opponent discards 2 cards at random."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: The opponent discards a card at random."
+    ],
+    "description": "自嘲「故障品」迷因——嘴上說手臂掉了，實際上是以自身破綻誘敵深入，對手反而要付出更大代價，完美體現高性能與故障的反差。"
+  },
+  {
+    "name": "Emotional Voice",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Karaoke Time",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the end of each Strike, if you hit, draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Choose one: Gain Advantage, or add the top card of your discard pile to your Gauge."
+    ],
+    "description": "機器人外表 x 充滿感情的歌聲——看似威力不大但持續累積優勢，如同她的歌回一樣療癒人心，體現反差萌的核心魅力。"
+  },
+  {
+    "name": "Horror Marathon",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "2",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "Excitement Overflowing",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "AFTER: Retreat 2 spaces."
+    ],
+    "description": "Roboco怕玩恐怖遊戲但超愛看恐怖片的矛盾——防禦姿態展開後雖然會害怕後退，但獲得了強大的防禦加成與暈眩免疫。"
+  },
+  {
+    "name": "PON!",
+    "type": "special",
+    "cost": null,
+    "range": "0-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Airhead Mode",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat up to 2 spaces.",
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Retreat 2 or Close 2."
+    ],
+    "description": "Roboco標誌性的PON（天然呆）屬性——看似冒失的移動實則靈活多變，進可攻退可守，帽子上的PON字樣就是最好的證明。"
+  },
+  {
+    "name": "Killer Instinct",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "6",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Competitive Mode",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 3 spaces. If you switch sides, +2 Power and draw 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: Gain Advantage."
+    ],
+    "exceed_cost": "2G",
+    "description": "Roboco在FPS競技中展現的殺手本能——與平時溫柔形象完全相反的高速強襲，如VSaikyou賽場上那樣瞬間壓制對手。"
+  },
+  {
+    "name": "Roboco Beam",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "3-6",
+    "power": "8",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Full Power Output",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Range.",
+        "HIT: Push the opponent 2 spaces."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Push the opponent 2 spaces."
+    ],
+    "exceed_cost": "3G",
+    "description": "自稱高性能機器人的最終兵器——全力輸出的光束砲，遠距離壓制兼具擊退效果，體現她設定上真正的殺手級戰力。"
+  },
+  {
+    "name": "with∅",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-3",
+    "power": "10",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bonds of Generation Zero",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "If you have 7 or more cards in your Gauge, +3 Power and Stun Immunity."
+      ]
+    },
+    "effect": [
+      "HIT: Add up to 2 cards from your discard pile to your Gauge."
+    ],
+    "exceed_cost": "4G",
+    "description": "以Roboco原創曲〈with∅〉命名——作為Hololive零期生元老，集結所有羈絆的最終奧義，蓄力越久威力越強，象徵她走過的軌跡。"
+  }
+]

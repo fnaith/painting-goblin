@@ -1,0 +1,238 @@
+[
+  {
+    "name": "Yubi Yubi!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Finger Collection",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Opponent discards a random card.",
+      "BEFORE: If you have fewer cards than your opponent, +1 Power."
+    ],
+    "description": "以犬神ころね的招牌台詞「Yubi Yubi!」為主題。她會在戰鬥開始時「收取」對手的手指（手牌），搭配手牌比對手少時增壓的效果，象徵她知名開場白中的黑暗幽默以及劣勢中的爆發力。"
+  },
+  {
+    "name": "Bakery Guard Dog",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "5",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Fresh Croissant",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "AFTER: Gain 2 life."
+    ],
+    "description": "以ころね在麵包店工作的設定為主題。身為城市麵包店的忠實看門犬，這張牌象徵她溫暖守護的一面——穩定的防禦和恢復能力，如同新鮮出爐的可頌麵包治癒人心。"
+  },
+  {
+    "name": "Eekum Bokum",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mumbo Magic",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: Stun the opponent."
+    ],
+    "description": "以ころね模仿《Banjo-Kazooie》收集Mumbo Token時的經典聲音「Eekum Bokum」為主題。這道可愛的音波攻擊能暈眩對手，如同這個迷因在粉絲之間造成的強大感染力。"
+  },
+  {
+    "name": "DOOG Slayer",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rip and Tear",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Push the opponent 2 spaces.",
+      "AFTER: Gain Advantage."
+    ],
+    "description": "以ころね與DOOM結合的粉絲創作形象「DOOG」為主題。近距離高威力攻擊無視護衛，展現她遊玩DOOM時勢不可擋的通關氣勢，擊退對手後奪回節奏主導權。"
+  },
+  {
+    "name": "Sonic Boost",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Gotta Go Fast",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 3 spaces.",
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: Retreat up to 3 spaces."
+    ],
+    "description": "以ころね被Sega官方任命為Sonic大使的經歷為主題。極致的速度讓她能從遠距離發動先制攻擊，命中後瀟灑撤退，完美體現Sonic系列「快速進擊、靈巧脫離」的核心精神。"
+  },
+  {
+    "name": "Retro Gamer",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "TAS-kun",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed."
+      ]
+    },
+    "effect": [
+      "AFTER: Return a card from your discard to your hand."
+    ],
+    "description": "以ころね的復古遊戲愛好和經典迷因「TAS-kun」為主題。她從舊遊戲中挖掘隱藏技巧，如同從棄牌堆回收卡片，展現她擅長在冷門遊戲中找到驚喜的特殊才能。"
+  },
+  {
+    "name": "OkaKoro Link",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Onigiri Time",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard 1 card, then draw 2 cards."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card.",
+      "If you have more cards than the opponent, +2 Power."
+    ],
+    "description": "以ころね與摯友貓又おかゆ的經典組合「OkaKoro」為主題。兩人從加入hololive前就相識的深厚羈絆化為連攜效果——如同她們互相分享飯糰般交換資源，在牌面優勢時發揮更強的威力。"
+  },
+  {
+    "name": "Horayo! Charge",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Fighting Spirit",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "+2 Power this strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close up to 2 spaces.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以ころね激動時喊出的戰鬥口號「Horayo!」為主題。這聲戰吼驅使她向前衝鋒，命中後奪回戰鬥節奏，完美體現她在耐久直播中永不放棄的鬥志與毅力。"
+  },
+  {
+    "name": "enoroK's Wrath",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dark Reversal",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Retreat up to 2 spaces.",
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Your opponent discards their hand, then draws 2 cards."
+    ],
+    "exceed_cost": "2G",
+    "description": "以ころね的黑暗人格「裏Korone（enoroK）」為主題。當擷取卡故障時登場的裏人格，顏色反轉、性格相反。這張牌奪走對手所有手牌後只歸還少許，如同enoroK叫觀眾早點睡、歸還手指——但只還一部分。"
+  },
+  {
+    "name": "Maka Maka 28 Hours",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "9",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "One More Hour",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+3 Armor.",
+        "At the start of each of your turns, gain 1 life."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "Ignore Guard.",
+      "HIT: Gain Advantage.",
+      "AFTER: Gain 4 life."
+    ],
+    "exceed_cost": "4G",
+    "description": "以ころね最著名的28小時Maka Maka耐久直播為終極奧義。緩慢但不可阻擋的耐力頂點，持續恢復的同時累積力量，最終以滿血狀態一擊逆轉——完美詮釋她突破極限的耐久精神與壓倒性的生命力。"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Comet",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "1",
+    "boost": {
+      "name": "Shooting Star",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 2."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1. Close 2."
+    ],
+    "description": "以星街すいせい的核心意象「彗星」為概念的高速突進技，劃破天際的流星般一擊脫離，符合她輕盈靈活的形象。"
+  },
+  {
+    "name": "Stellar Stellar",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "4",
+    "speed": "8",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Still Still Stellar",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you have 3 or more Gauge, +2 Power.",
+      "HIT: Gain Advantage. Recover 2 Gauge."
+    ],
+    "exceed_cost": "3G",
+    "description": "以代表曲〈Stellar Stellar〉命名的終極技，展現她從原石磨練為恆星的成長歷程——燃燒力量後仍能重生。"
+  },
+  {
+    "name": "Suicopath",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Innocent Smile",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "HIT: The opponent discards 1 random card."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you have fewer cards in hand than the opponent, +2 Power.",
+      "HIT: Pull 1."
+    ],
+    "description": "體現すいせい在Among Us等合作遊戲中的經典反差——天使笑容下冷酷無情的背叛者本色，手牌劣勢時反而更危險。"
+  },
+  {
+    "name": "Tetris Clear",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "T-Spin",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card, then discard 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: You may play another Special card from your hand (if able).",
+      "That card gains BEFORE: Close 1."
+    ],
+    "description": "致敬すいせい的「Tetris Queen」稱號，以俄羅斯方塊連鎖消除(Tetris Clear)為概念的連續攻擊技，命中後可追加連段。"
+  },
+  {
+    "name": "Suichan wa～Kyou mo Kawaii～!!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "1",
+    "boost": {
+      "name": "Cute Pose",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard 1 card from your hand, then the opponent discards 1 random card."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards 1 card (their choice)."
+    ],
+    "description": "將すいせい的招牌台詞「すいちゃんは～今日もかわいい～!!」化為魅惑技——用可愛讓對手失去判斷力，捨棄關鍵卡牌。"
+  },
+  {
+    "name": "Bibbidiba",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dance",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "BEFORE: Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "HIT: Return 1 Special card from your discard pile to your hand."
+    ],
+    "description": "以破億播放量的洗腦歌曲〈Bibbidiba〉為概念的中距離干擾技，洗腦旋律般的效果能從墓地回收卡片。"
+  },
+  {
+    "name": "Comet Blue",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "2",
+    "guard": "2",
+    "boost": {
+      "name": "Starlight Armor",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: Gain +1 Armor for each Gauge you have (max +3).",
+      "HIT: Gain Advantage."
+    ],
+    "description": "以すいせい的代表色「彗星藍」為名的防禦反擊技，體現她偶像華麗外表下的堅韌——累積的實力(量表)越多，防禦越堅固。"
+  },
+  {
+    "name": "Hoshiyomi's Grace",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "7",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "Stargazer",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "NOW: Draw 2, then discard 1."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1. You may move 1 card from your hand to your Gauge."
+    ],
+    "description": "粉絲「星詠み」的力量具現化。すいせい與星詠み之間的羈絆轉化為應援支援，抽牌與充能效果體現粉絲的支持。"
+  },
+  {
+    "name": "War Criminal",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Geneva Suggestion",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+1 Power.",
+        "BEFORE: Close 1."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Push 2. The opponent cannot Boost on their next turn."
+    ],
+    "exceed_cost": "4G",
+    "description": "粉絲戲稱的「戰爭罪犯」化為終極破壞技——代價高昂(4點量表)但威力驚人，無視防禦且封鎖對手下一回合的Boost，完美體現Suicopath的冷酷。"
+  },
+  {
+    "name": "SuperNova",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-4",
+    "power": "5",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Budokan",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "BEFORE: +1 Power for each Gauge you have (max +3)."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1.",
+      "HIT: Push 2. Recover 1 Gauge for each card in your discard pile."
+    ],
+    "exceed_cost": "3G",
+    "description": "以武道館個人演唱會「SuperNova」為原型的最終技——最高速度(9)加上全距離覆蓋，命中後根據過往戰績(棄牌堆)回復量表，象徵すいせい從個人勢到武道館的傳奇旅程。"
+  }
+]

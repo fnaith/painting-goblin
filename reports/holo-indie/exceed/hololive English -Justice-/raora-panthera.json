@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Ciaora!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ciao Bella",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: Draw a card.",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "Raora的招牌招呼語「Ciaora!」（Ciao + Raora的合成詞）。這張牌代表她熱情開朗的義大利性格，極高速的輕擊後抽牌並搶佔先機，如同她總是以充滿活力的問候抓住觀眾的心。"
+  },
+  {
+    "name": "God Eyes",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Insight",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Ignore Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: Look at your opponent's hand.",
+      "HIT: +2 Power if the opponent has any Boost cards in play."
+    ],
+    "description": "Raora的核心能力「神之眼」（God Eyes）賦予她超凡的觀察力。這張牌讓她能預先窺視對手手牌並無視防禦，就像她能看穿一切偽裝與謊言，直達事物的本質，洞察對手的一切戰術。"
+  },
+  {
+    "name": "Panthera's Prowl",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Cat's Agility",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move up to 3 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: Move 1 space.",
+      "HIT: If you are at range 1, gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "身為黑豹（Panthera）獸娘，Raora擁有貓科動物的敏捷身手。這張牌代表她在戰場上靈活移動的能力，如同黑豹悄無聲息地接近獵物，在極近距離發動攻擊後奪取先機。"
+  },
+  {
+    "name": "Pizza Margherita",
+    "type": "special",
+    "cost": null,
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Extra Cheese",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Gain 2 life at the start of your turn."
+      ]
+    },
+    "effect": [
+      "Gain 2 life.",
+      "AFTER: Add this card to your Gauge at the end of the Strike."
+    ],
+    "description": "Raora對瑪格麗特披薩有著義大利人式的堅持——絕對不能加鳳梨！這張牌代表她在戰鬥中小憩享用美食來回復體力，並可回收至計量條，完美體現她慵懶悠閒又對美食充滿熱情的貓系生活態度。"
+  },
+  {
+    "name": "Artistic Rendering",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Sketchbook",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 3 cards of your deck. Put one into your hand and the rest on the bottom of your deck."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent discards a card at random."
+    ],
+    "description": "作為「神之眼的藝術家」，Raora能極度準確地繪製容貌拼圖。這張牌結合她的繪畫才能與情報收集能力：透過描繪對手的樣貌來干擾對方（隨機棄牌），同時整理自己的思緒（濾牌），展現藝術家的從容。"
+  },
+  {
+    "name": "Detective's Instinct",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Case File",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Name a card. Your opponent must reveal their hand and discards all copies of it."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent reveals their hand. Choose a card and return it to their deck."
+    ],
+    "description": "Raora作為偵探的情報收集能力——從社交技巧到社群媒體，再到各種「獨特的方法」，無所不包。此牌模擬她深入調查的過程：先鎖定目標（指定卡片名稱迫使對手棄掉），命中後再從對手手牌中移除關鍵證據。"
+  },
+  {
+    "name": "God Eyes - Awakened",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-4",
+    "power": "4",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Truth Seeker",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Strike.",
+        "If you win the Strike, look at the top 3 cards of your opponent's deck and rearrange them in any order."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "Ignore Guard.",
+      "HIT: Your opponent reveals their hand. You may choose a card and add it to your hand."
+    ],
+    "exceed_cost": "2G",
+    "description": "Raora解放「神之眼」的真正力量，雙眼發出紫色光芒。在這種狀態下她能看穿一切防禦，洞察對手的所有秘密，甚至奪取對方的關鍵卡片納為己用，展現神之眼持有者的絕對壓制力與情報支配。"
+  },
+  {
+    "name": "La Dolce Vita",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "4",
+    "armor": "1",
+    "guard": "1",
+    "boost": {
+      "name": "Espresso Shot",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 3 life.",
+      "HIT: You may move the opponent up to 2 spaces.",
+      "AFTER: Draw 2 cards."
+    ],
+    "exceed_cost": "3G",
+    "description": "義大利文「甜蜜的生活」——代表Raora的義大利享樂主義哲學。這張牌不僅是攻擊，更是一場生活方式的展現：在戰鬥中享受咖啡、美食與藝術，透過回復生命、控場與抽牌來展現義大利式的從容與愜意，甜蜜而又致命。"
+  },
+  {
+    "name": "Panthera's Hunt",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "10",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ambush",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "If you are at range 1, +2 additional Power."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Push the opponent 2 spaces.",
+      "HIT: If this Strike was initiated at range 1, your opponent discards their entire hand."
+    ],
+    "exceed_cost": "4G",
+    "description": "黑豹（Panthera）的狩獵本能完全釋放。作為頂級捕食者，Raora在近距離發動最致命的終結一擊——先清空對手所有資源（手牌），再將獵物推開，完成一次完美的狩獵。代價高昂但威力無與倫比。"
+  },
+  {
+    "name": "Masterpiece of Truth",
+    "type": "ultra",
+    "cost": "1G",
+    "range": "2-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Final Brushstroke",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Search your deck for 2 cards and add them to your hand. Shuffle your deck afterwards."
+      ]
+    },
+    "effect": [
+      "HIT: Name 2 cards. Your opponent reveals their hand and discards all copies of those cards.",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "1G",
+    "description": "結合Raora的藝術家與偵探身份的終極傑作。她運用神之眼繪製出對手的完整畫像，徹底看穿對方的戰術佈局。這幅「真相的傑作」不僅讓她補充大量資源，還能精準摧毀對手的關鍵卡片，取得完全的資訊與節奏主導權。"
+  }
+]

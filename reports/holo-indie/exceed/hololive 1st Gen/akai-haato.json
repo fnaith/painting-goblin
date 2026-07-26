@@ -1,0 +1,231 @@
+[
+  {
+    "name": "Haato's Blessing",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sonic Scream",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Push the opponent 1 space."
+    ],
+    "description": "以Haato標誌性的高分貝尖叫「Haato的祝福」為攻擊，高速無法防禦，體現她無論是否玩恐怖遊戲都會突然尖叫的迷因。"
+  },
+  {
+    "name": "Haachama Cuisine",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Experimental Recipe",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card, then discard 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent must discard a card at random."
+    ],
+    "description": "以哈洽馬黑暗料理為靈感——使用不可預測的食材組合，效果如同她的料理一樣讓對手難以招架，隨機破壞對手手牌。"
+  },
+  {
+    "name": "Personality Switch",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Who Am I?",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 or 2 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close or Retreat 1 space."
+    ],
+    "description": "體現Haato與Haachama雙重人格的切換能力，戰鬥中靈活變換位置，如人格切換般難以預測下一步。"
+  },
+  {
+    "name": "Red Heart",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Burning Soul",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Armor."
+    ],
+    "description": "以原創曲〈RED HEART〉為主題，燃燒的紅心象徵她從❤️到❤️‍🔥的粉絲應援符號演變，穿透性高火力攻擊。"
+  },
+  {
+    "name": "Haaton Rush",
+    "type": "special",
+    "cost": null,
+    "range": "0-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Piggy Charge",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent up to 2 spaces.",
+      "Gain Advantage."
+    ],
+    "description": "以粉絲豬Haaton（はあとん）為主題，召喚黃色小豬衝撞對手並奪取節奏優勢，體現粉絲作為她力量的來源。"
+  },
+  {
+    "name": "COEXIST",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "2",
+    "speed": "4",
+    "armor": "1",
+    "guard": "1",
+    "boost": {
+      "name": "Peaceful Coexistence",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor and +1 Guard."
+      ]
+    },
+    "effect": [
+      "Stun Immunity."
+    ],
+    "description": "以#COEXIST精神為核心——不選擇立場、和平共存，兩個人格共同提供防禦加成與暈眩免疫，防守型卡片。"
+  },
+  {
+    "name": "Haachama-chama~!",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chaos Entrance",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move up to 3 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: Move 1 space.",
+      "Gain Advantage."
+    ],
+    "description": "以Haachama招牌登場台詞「はあちゃまっちゃま～！」為攻擊，從遠處突然逼近對手，體現其不可預測的混沌風格。"
+  },
+  {
+    "name": "Press Conference",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1",
+    "power": "7",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Foot Sniffing Scandal",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Push the opponent 2 spaces."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: The opponent must discard a random card."
+    ],
+    "exceed_cost": "2G",
+    "description": "以經典迷因「腳臭記者會」為靈感——Haato用腳玩遊戲後舉辦記者會宣布腳臭，近距離強力攻擊附帶手牌破壞。"
+  },
+  {
+    "name": "Meme Review",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-4",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Shitposting",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "At the start of the opponent's turn, they discard 1 card at random."
+      ]
+    },
+    "effect": [
+      "HIT: Look at the opponent's hand. The opponent discards a card of your choice."
+    ],
+    "exceed_cost": "3G",
+    "description": "繼承自桐生可可的Reddit迷因審查環節，揭露對手手牌並精準破壞，體現她身為Reddit版主的審查權力。"
+  },
+  {
+    "name": "Haachama Sunday",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "2-5",
+    "power": "9",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Weekly Special",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Range."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close up to 3 spaces.",
+      "Stun Immunity."
+    ],
+    "exceed_cost": "4G",
+    "description": "以每週日固定節目「Haachama Sunday」為主題的終結技——集遠程壓制、強制接近與暈眩免疫於一體，代表她每週不間斷的狂歡。"
+  }
+]

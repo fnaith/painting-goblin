@@ -1,0 +1,234 @@
+[
+  {
+    "name": "\"Hewwrroo Everyone~!!\"",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Squirrel Hop",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 1 or 2 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: You may retreat 1 space."
+    ],
+    "description": "Risu的招牌問候語「Hewwrroo everyone~!!」——將Hello故意誇張發音的可愛開場白。速度8的高速先攻，命中後獲得Advantage象徵她一開口就抓住全場注意力並掌握對話主導權。Boost松鼠跳躍代表她活潑蹦跳的松鼠天性，命中後可後退則是呼應她害羞時會稍微退縮的個性。"
+  },
+  {
+    "name": "Non-stop Nut November",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Premium Cashew",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of your turns, regain 1 life."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may spend any amount of Gauge. For each Gauge spent, +1 Power.",
+      "HIT: Add the top card of your deck to your Gauge."
+    ],
+    "description": "源自Risu從2020年開始的年度經典系列NNN（Non-stop Nut November）——不是戒堅果，而是推廣堅果的營養與美味。Before效果可消耗Gauge（從存糧中拿出堅果）轉化為攻擊力，Boost腰果提供持續生命回復，代表不同堅果的營養價值。命中將牌加入Gauge象徵豐收後儲存更多堅果。"
+  },
+  {
+    "name": "BONK! Warden's Judgment",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Prisuner Roll Call",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card. Your opponent must reveal their hand and discard all copies of it."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 2 spaces.",
+      "AFTER: The opponent cannot play boosts on their next turn."
+    ],
+    "description": "紀念Risu的「Bonk」梗與「Warden（典獄長）」稱號。她對聊天室秩序極度嚴格，經常Bonk違規觀眾。命中推開效果象徵踢出聊天室，對手下一回合無法使用Boost代表被禁言。Boost「囚犯點名」強制對手揭露手牌並棄掉指定牌，呼應她嚴格管理聊天室、不允許任何違規行為的風格。"
+  },
+  {
+    "name": "BRRR~ Squirrel Panic",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chattering Trill",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 space, then push the opponent 1 space."
+      ]
+    },
+    "effect": [
+      "HIT: Close up to 2 spaces or open up to 2 spaces (your choice).",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "靈感來自Risu慌張時的經典顫音「BRRR~」（松鼠般的嘰嘰喳喳聲）。速度9的極致高速，代表她在慌亂中如松鼠般快速反應。命中可自由選擇拉近或拉開距離，模擬她不知所措時四處亂竄的樣子。Boost顫音讓她與對手同時位移，代表她那極具感染力的聲音讓周圍的人也被帶動。命中後獲得Advantage——即使慌亂也能意外掌握主導權。"
+  },
+  {
+    "name": "Voice DLC: Ayunda Mode",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Witch's Incantation",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw a card. If the opponent has more cards in hand than you, draw another card."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards a card at random.",
+      "Ignore Guard."
+    ],
+    "description": "Risu四種聲線之一的「Ayunda魔女模式」——低沉成熟的聲線，在10萬訂閱紀念直播首次公開。中遠程魔法型攻擊，無視防禦，象徵魔女聲線的神秘威壓感。Boost在劣勢時補牌，代表她在需要說服力時會切換到這副沉穩聲線來扭轉局面。命中迫使對手隨機棄牌，如同魔女的詛咒讓對方失去重要事物。"
+  },
+  {
+    "name": "Piggy Bank Payday",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Moona's Revenge",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and AFTER: Add 1 card from your hand to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Take 1 Gauge from the opponent's Gauge and add it to your Gauge.",
+      "If you steal Gauge this way, gain Advantage."
+    ],
+    "description": "致敬2020年7月的豬豬撲滿事件——Risu直播數硬幣時Moona亂入，開玩笑說那些錢是從她的撲滿偷走的。命中效果直接從對手Gauge偷取資源，模擬那場經典的撲滿糾紛。Boost「Moona的報復」提供威力並將手牌轉為Gauge，代表Moona追討撲滿的氣勢反而讓Risu趁機把更多「硬幣」藏起來。"
+  },
+  {
+    "name": "Cactus Shield",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "4",
+    "armor": "2",
+    "guard": "2",
+    "boost": {
+      "name": "This Cactus...!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard up to 2 cards from your hand. Your opponent discards the same number at random."
+      ]
+    },
+    "effect": [
+      "BEFORE: Retreat 1 space. If you do, +1 Power and ignore the opponent's Guard this Strike.",
+      "Stun Immunity."
+    ],
+    "description": "Risu用「Cactus」代替髒話的搞笑梗——既保持清純（seiso）形象又能抒發情緒。外觀是防禦型卡（高裝甲、有Guard、暈眩免疫），象徵她想維持的乖巧形象。但Boost「This Cactus...!」讓雙方同時棄牌——她只說cactus，卻逼對手付出更大代價。Before向後退一步再攻擊，代表她嘴上說不要身體卻很誠實的反差萌。"
+  },
+  {
+    "name": "Voice DLC: Wisu Mode",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "4",
+    "armor": "2",
+    "guard": "4",
+    "boost": {
+      "name": "Childish Plea",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "AFTER: Regain 2 life."
+      ]
+    },
+    "effect": [
+      "HIT: Regain 3 life.",
+      "AFTER: Draw a card."
+    ],
+    "description": "Risu聲線切換中的「Wisu孩童模式」——更高音、更加稚嫩可愛的聲音。純防禦輔助型卡片，最高的Guard值（4）象徵Wisu的可愛讓人不忍心攻擊。命中回復生命，Boost提供持續治療，代表Wisu聲線如同孩子的撒嬌，讓聽者不自覺地心軟並想照顧她。命中後抽牌則是孩子氣的言行總能帶來意外驚喜。"
+  },
+  {
+    "name": "ALiCE&u -穿越世界的歌聲-",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Wonderland Gate",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Search your deck for a special card, reveal it, and add it to your hand. Shuffle your deck."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may move up to 2 spaces. If you cross the center line, +2 Power.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "CRITICAL: +1 Speed."
+    ],
+    "description": "取自Risu 2022年首張原創曲「ALiCE&u」——歌名暗藏她原本想為自己取名Alice的彩蛋。象徵她從魔法森林穿越到人類世界的異世界冒險旅程。Boost「仙境之門」從牌組搜索特招，代表她透過歌唱找到自己的聲音與歸屬。跨越中線（穿越世界）可獲得額外威力，Critical加成則展現她在舞台上的爆發力。"
+  },
+  {
+    "name": "Dramatic XViltration - Area 15 羈絆-",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "5",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Family Ties",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity and +2 Armor."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: Regain 3 life."
+    ],
+    "description": "取自AREA 15（hololive Indonesia 1期生）的原創曲「Dramatic XViltration」。終極大招凝聚了Risu與Moona（媽媽）、Iofi（爸爸）之間如同家人般的羈絆。高防禦與暈眩免疫展現三人互相扶持的堅韌——不管遇到什麼困境都不會倒下。命中後Advantage與回復生命象徵Area 15團結的力量：只要三人在，就沒有跨不過的難關。"
+  }
+]

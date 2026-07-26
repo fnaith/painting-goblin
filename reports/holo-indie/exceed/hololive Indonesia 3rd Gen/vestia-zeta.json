@@ -1,0 +1,238 @@
+{
+  "name": "Vestia Zeta",
+  "cards": [
+    {
+      "name": "Mission Sutaato",
+      "type": "special",
+      "cost": null,
+      "range": "1-4",
+      "power": "2",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Radio Check",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Advance 1 or 2 spaces.",
+          "Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+        ]
+      },
+      "effect": [
+        "HIT: Draw 1 card."
+      ],
+      "description": "以Zeta的招牌開場白「A-a-a Mission Sutaato!」為主題。極速的全範圍偵查攻擊，命中後補牌象徵任務開始蒐集情報。Boost的無線電測試體現她每次直播開場的儀式感——先測試通訊再展開行動。"
+    },
+    {
+      "name": "V.7 Classified",
+      "type": "special",
+      "cost": null,
+      "range": "2-3",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Data Extraction",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Range.",
+          "NOW: Look at opponent's hand."
+        ]
+      },
+      "effect": [
+        "HIT: Opponent discards 1 random card."
+      ],
+      "description": "以Zeta的代號V.7和秘密檔案局的資料收集任務為概念。滲透對手陣營竊取機密（窺視手牌），命中後銷毀對方檔案（隨機棄牌），完美還原特工潛入敵營竊取並銷毀機密的核心任務。"
+    },
+    {
+      "name": "Zeta-nyan Scratch",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "4",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Nyan~",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Advance 1 space.",
+          "Gain 1 Gauge."
+        ]
+      },
+      "effect": [
+        "Ignore Armor."
+      ],
+      "description": "以Zeta自稱Zeta-nyan的貓系特質為靈感。近距離貓爪攻擊無視防具——又快又痛，如同她可愛外表下隱藏的犀利本色。Boost反映她撒嬌時順手偷點資源的小貓心機。"
+    },
+    {
+      "name": "Pon! Moment",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "5",
+      "speed": "3",
+      "armor": "2",
+      "guard": "2",
+      "boost": {
+        "name": "Recovery Protocol",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Armor.",
+          "NOW: Gain 1 Life."
+        ]
+      },
+      "effect": [
+        "BEFORE: If you have 2 or fewer cards in hand, +3 Power."
+      ],
+      "description": "以Zeta著名的「Pon」失誤迷因為主題。看似笨拙遲緩的攻擊，但手牌不足陷入劣勢時反而爆發出驚人力量。Boost反映特工的應急恢復能力——即使出錯也能立刻重整態勢。"
+    },
+    {
+      "name": "Bazo Dash",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "3",
+      "speed": "5",
+      "armor": "1",
+      "guard": "0",
+      "boost": {
+        "name": "Buddy System",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Speed.",
+          "Stun Immunity."
+        ]
+      },
+      "effect": [
+        "HIT: Gain 1 Force or 1 Gauge."
+      ],
+      "description": "以Zeta創作的鹿夥伴Bazo為主題。Bazo既是心靈寄託也是戰術搭檔，命中後可選擇獲得Force或Gauge——反映Zeta雖是孤獨執行任務的特工，但在虛擬世界找到了夥伴與歸屬。"
+    },
+    {
+      "name": "ZecretDialogue",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "2",
+      "speed": "4",
+      "armor": "0",
+      "guard": "3",
+      "boost": {
+        "name": "Would You Rather?",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Name a card.",
+          "Opponent reveals hand and discards all copies of the named card."
+        ]
+      },
+      "effect": [
+        "HIT: Opponent discards 1 card. You draw 1 card."
+      ],
+      "description": "以Zeta的招牌環節ZecretDialogue（審訊系列）為靈感。遠程心理戰——用「你寧願」問題逼迫對手暴露底牌並棄牌，命中後一換一體現審訊中的攻防心理博弈。"
+    },
+    {
+      "name": "o7 Reposition",
+      "type": "special",
+      "cost": null,
+      "range": "2-5",
+      "power": "1",
+      "speed": "9",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Evasive Maneuvers",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Retreat up to 3 spaces.",
+          "Draw 1 card."
+        ]
+      },
+      "effect": [
+        "HIT: You may swap places with the opponent."
+      ],
+      "description": "以聊天室經典的o7敬禮表情與Zeta的代號V.7為概念。極速的戰術迴避——以敬禮轉移對手注意後高速撤離。命中後交換位置體現特工聲東擊西的游擊戰術。"
+    },
+    {
+      "name": "Silent Scent",
+      "type": "special",
+      "cost": null,
+      "range": "1-4",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Nose for Trouble",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Range.",
+          "NOW: Look at the top 2 cards of your deck. Add 1 to your hand."
+        ]
+      },
+      "effect": [
+        "HIT: Name a card. Opponent reveals hand and discards all copies."
+      ],
+      "description": "以Zeta自稱嗅覺異常敏銳的獨特梗為靈感。如追蹤氣味般鎖定獵物——先讀取牌庫頂資訊（嗅覺偵查），命中後精準找出對手手牌中的目標卡片並銷毀（嗅出並鎖定目標）。"
+    },
+    {
+      "name": "Key of V.7",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": "6",
+      "speed": "6",
+      "armor": "1",
+      "guard": "1",
+      "boost": {
+        "name": "Unlock Potential",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Gain 2 Force.",
+          "Draw 2 cards."
+        ]
+      },
+      "effect": [
+        "BEFORE: Spend any amount of Force. +1 Power per Force spent.",
+        "Stun Immunity."
+      ],
+      "exceed_cost": "3G",
+      "description": "以Zeta脖子上的鎖與鑰匙設定為主題。解鎖V.7的真正潛力——投入越多Force（信念）威力越強。Boost象徵找到對的鑰匙後解放的被封印力量，對應粉絲文化中「Hakos Baelz的鑰匙能解開Zeta的心鎖」的傳說。"
+    },
+    {
+      "name": "Archive Assault: Full Authorization",
+      "type": "ultra",
+      "cost": "4G",
+      "range": "1-5",
+      "power": "8",
+      "speed": "7",
+      "armor": "2",
+      "guard": "2",
+      "boost": {
+        "name": "Override Code",
+        "cost": "-",
+        "timing": "Overload",
+        "effect": [
+          "Return up to 2 cards from your discard to your hand."
+        ]
+      },
+      "effect": [
+        "BEFORE: +1 Power for each card in your Gauge (max 4).",
+        "HIT: Gain 3 Life."
+      ],
+      "exceed_cost": "4G",
+      "description": "以Zeta持有完全授權（Full License）的秘密檔案局特工身份為終極展現。全距離覆蓋的總攻——Gauge中儲存的每一份機密資料都化為攻擊力，命中後恢復生命象徵任務完成後的全身而退。Overload的Override Code反映她超越權限的最高級別授權。"
+    }
+  ]
+}

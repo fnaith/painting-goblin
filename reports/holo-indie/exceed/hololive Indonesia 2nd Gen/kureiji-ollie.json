@@ -1,0 +1,236 @@
+[
+  {
+    "name": "ZOMBANWA!!",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "OHAYOLLIE",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card. Add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Scream. Your opponent discards 1 random card.",
+      "HIT: Gain Advantage."
+    ],
+    "description": "Ollie的招牌招呼語「ZOMBANWA!!」（Zombie + Konbanwa），以突如其來的尖叫聲嚇阻對手，搶奪節奏。代表她吵鬧、精力充沛的個性。"
+  },
+  {
+    "name": "Shat Up!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Otsucrazy!",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power. AFTER: Retreat 1."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Your opponent cannot use Boost effects until the end of their next turn."
+    ],
+    "description": "Ollie經典發音錯誤「Shat up!」（Shut up的變體），成為粉絲間廣為流傳的迷因。此卡代表她以混亂打斷對手節奏的能力。"
+  },
+  {
+    "name": "Doko? Koko",
+    "type": "special",
+    "cost": null,
+    "range": "X",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Zombie Moan",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Move up to 3 spaces. Draw 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance or Retreat up to 3 spaces. This attack hits if you switched sides with the opponent."
+    ],
+    "description": "來自Minecraft聯動經典片段「Doko?（在哪裡？）／Koko（這裡）」，展現Ollie混沌難捉摸的移動方式，讓對手摸不清她的位置。"
+  },
+  {
+    "name": "Eka Prasetya Pancakarsa",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Path of Sincerity",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power. Ignore Armor."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "CRITICAL: +2 Power.",
+      "HIT: Push 2."
+    ],
+    "description": "以Ollie頭上貫穿的黑銀劍「Eka Prasetya Pancakarsa（真誠之路／一個承諾，五個決心）」命名。近距離強力一擊，儘管劍穿頭部對殭屍來說毫髮無傷。"
+  },
+  {
+    "name": "Udin Toss",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Udin Fetch",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Return this card to your hand. Discard 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Pull the opponent 1 space.",
+      "AFTER: Gain 1 life."
+    ],
+    "description": "Ollie擲出掛在劍上的縫合小熊Udin進行遠距攻擊。Udin是Ollie的標誌性隨行角色，這張卡代表她與粉絲（Zomrade）之間的情感連結與治癒效果。"
+  },
+  {
+    "name": "Annyeonghasseyo Ollie imnida",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "0",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Language Switch",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Your opponent discards 1 card at random. Draw 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Name a Range value (1-6). This attack's Range becomes that value.",
+      "HIT: +2 Power for each language switch effect used this game."
+    ],
+    "description": "Ollie雖是印尼VTuber卻經常以韓語自我介紹，體現她多語混雜的風格。此卡代表她讓人眼花撩亂的語種切換，讓對手難以預測下一步。"
+  },
+  {
+    "name": "Mismatched Shoes",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Couldn't Decide",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Speed. HIT: Draw 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Choose two: Advance 1, Retreat 1, or +1 Power.",
+      "Stun Immunity."
+    ],
+    "description": "Ollie官方設定中穿著不對稱的鞋子（左腳紅色厚底鞋、右腳黑色踝靴），原因是「無法決定穿哪雙所以都穿」。此卡展現她出奇不意的步伐與難以預測的攻勢。"
+  },
+  {
+    "name": "Zombie Revival",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "boost": {
+      "name": "Restore Hope",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 3 life. Draw up to 2 cards."
+      ]
+    },
+    "effect": [
+      "BEFORE: Gain 2 life for each card in your Gauge.",
+      "HIT: Return 1 card from your Discard to your hand."
+    ],
+    "description": "Ollie擁有重生之力，主要用於「恢復希望與夢想」。此卡代表她身為殭屍的復活能力——即使陷入劣勢也能重新站起來繼續奮戰。"
+  },
+  {
+    "name": "JOLLIE JOLLIE",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-4",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dance Break",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards. You may add 1 card from your hand to your Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: +1 Power for each card in your hand.",
+      "HIT: Gain Advantage. Draw 1 card.",
+      "AFTER: Move up to 2 spaces."
+    ],
+    "exceed_cost": "2G",
+    "description": "Ollie的首張原創單曲（2022年4月發行），充滿活力與歡樂的偶像歌曲。作為Ultra卡，代表她站上舞台展現偶像魅力的高光時刻——以歌聲和舞蹈席捲全場。"
+  },
+  {
+    "name": "HISTORY",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "2",
+    "power": "8",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Zombie Idol",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power. Stun Immunity. NOW: Close 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Your opponent discards cards equal to the number of Zomrade cards in your Discard.",
+      "HIT: Draw 3 cards. Gain 3 life.",
+      "This attack cannot be stopped by Guard or Armor."
+    ],
+    "exceed_cost": "4G",
+    "description": "Ollie的第三張原創單曲（2024年10月發行），回顧她從出道以來的成長歷程。作為最強Ultra卡，代表她作為頂級殭屍偶像的巔峰實力——回顧過去、立足當下、開創未來。"
+  }
+]

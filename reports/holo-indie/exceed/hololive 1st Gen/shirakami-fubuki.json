@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Good Foxy Day!",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Kon Kon",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以フブキ的招牌招呼「Good foxy day!」為主題。極高速度搶先行動後奪取節奏，象徵她用開朗的問候瞬間抓住觀眾注意力的魅力。Boost呼應狐狸叫聲「kon kon」，順便補充手牌。"
+  },
+  {
+    "name": "Neko Janai! Kitsune Jai!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "5",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "Fox Spirit",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor and +1 Guard."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Draw 1 card."
+    ],
+    "description": "以フブキ最著名的反駁「貓じゃない！狐じゃい！」為靈感。當她被誤認為貓時會強力反擊，這張卡化為堅定的防禦姿態——高護甲與暈眩免疫讓她穩如泰山，擊中後抽牌象徵她每次澄清後依然保持愉快心情繼續互動。"
+  },
+  {
+    "name": "Scatman Beat",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "4",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ski Ba Bop",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 or 2 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards 1 random card."
+    ],
+    "description": "以フブキ爆紅的Scatman John翻唱為主題。Scat即興節奏化作難以預測的攻擊，讓對手在節奏中迷失方向而隨機棄牌。Boost的自由移動體現Scat即興演奏的自由奔放，如同那首席捲網路的傳奇翻唱。"
+  },
+  {
+    "name": "Friends!",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Waifriend Zone",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Push the opponent 1 space."
+      ]
+    },
+    "effect": [
+      "BEFORE: Retreat 1 space.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以フブキ的經典發言「Friends！（我們是朋友）」為主題——每當觀眾告白時她都用這句話溫柔拒絕。遠距離輕擊後拉開距離並奪回主動權，體現她用「Friends！」保持適當距離感的獨特風格，既親切又不可越界。"
+  },
+  {
+    "name": "It's Red~",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Keep Fishing",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card, then discard 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Draw 1 card.",
+      "HIT: If you have more cards in hand than your opponent, +2 Power."
+    ],
+    "description": "以フブキ長達27天的色違コイキング狩り傳說為靈感。每天重複釣魚（抽牌篩選），終於在上萬次挑戰後獲得成果。效果展現她的毅力與耐心——累積手牌優勢後打出更強的一擊，就像那句無奈的「赤いなぁ～」終於迎來金色光芒的瞬間。"
+  },
+  {
+    "name": "FubukiTEK Mode",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Twintail System",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Gain 1 Gauge."
+    ],
+    "description": "以フブキ的FubukiTEK（サイバーパンク／テックウエア）服裝為主題。高科技雙馬尾系統賦予她高速機動與戰術彈性，無視對手防禦並回收能量，體現科技強化後兼具敏捷與效率的全新戰鬥風格。"
+  },
+  {
+    "name": "Catherine Mama's Care",
+    "type": "special",
+    "cost": null,
+    "range": "0-2",
+    "power": "2",
+    "speed": "5",
+    "armor": "2",
+    "guard": "4",
+    "boost": {
+      "name": "Supply Drop",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Guard."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Gain 3 life."
+    ],
+    "description": "以フブキ在ARK中被稱為「Catherine Mama」的照顧者形象為設計。她在ARK伺服器中無償為所有人提供物資、支援建設，如同這張牌的極高防禦與生命恢復——不管戰況多激烈，Catherine Mama總能穩住陣腳守護大家。"
+  },
+  {
+    "name": "Kuro-chan's Wrath",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Slave Orders",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 3 spaces.",
+        "+2 Power this strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Push the opponent 1 or 2 spaces."
+    ],
+    "description": "以フブキ的黑髮別人格「黒神フブキ（Kuro-chan）」為主題。性格變得攻擊性且毫不留情，近距離全力打擊無視護甲並擊退對手。Boost重現她命令「奴隸們」的強勢姿態，全力拉近距離後賦予此擊更大破壞力。"
+  },
+  {
+    "name": "Friend Meat Incident",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-2",
+    "power": "8",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "It's Okay, We're Friends",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Steal 1 Gauge from your opponent."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Your opponent discards 1 random card. Gain life equal to that card's Gauge cost."
+    ],
+    "exceed_cost": "3G",
+    "description": "以フブキ在Minecraft中的傳說級事件「Friend肉事件」為主題。她擅自吃了別人的肉並以「Friends！（我們是朋友嘛！）」回應。此卡強奪對手Gauge與手牌，並將奪取之物化為自己的生命力——完美再現「既然是朋友就沒關係」的強盜邏輯與那無法反駁的Friend理論。"
+  },
+  {
+    "name": "Say! Fanfare!",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "2-5",
+    "power": "9",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "FBKINGDOM Anthem",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "+1 Speed."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Draw 2 cards and gain 2 Gauge."
+    ],
+    "exceed_cost": "4G",
+    "description": "以フブキ的首張原創曲「Say! Fanfare！」及1st專輯「FBKINGDOM」為靈感的最終奧義。響徹全場的號角化作不可防禦的強力攻擊，命中後補充資源與能量，如同她在FBKINGDOM ANTHEM個人演唱會上壓倒性的舞台魅力——宣告狐之王國的輝煌降臨。"
+  }
+]

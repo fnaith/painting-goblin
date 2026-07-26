@@ -1,0 +1,231 @@
+[
+  {
+    "name": "OH- HOHOHOHO~!",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Dramatic Entrance",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: Name a card. Your opponent must reveal their hand and discard all copies of it."
+    ],
+    "description": "以Elizabeth的經典開場笑聲命名。這是全遊戲最高速的攻擊之一，體現她華麗登場、震懾全場的戲劇性氣場。附加的命名棄牌效果，象徵她的存在感讓對手不得不正視。"
+  },
+  {
+    "name": "Ello Ello Ello~!",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Cockney Shibboleth",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-2 Range."
+      ]
+    },
+    "effect": [
+      "HIT: Draw a card.",
+      "AFTER: Move up to 2 spaces."
+    ],
+    "description": "致敬Elizabeth著名的Cockney腔問候（省略h音的'Ello'）。低攻高速的機動牌，命中後抽牌並可移動，猶如她切換RP與Cockney腔的語言切換能力一樣靈活自如。"
+  },
+  {
+    "name": "The Queen's Speech",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "2",
+    "speed": "4",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "Royal Decree",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Guard for each card in your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 2 life and draw a card."
+    ],
+    "description": "靈感來自Elizabeth的聖誕傳統「Queen's Speech」。這張防禦型牌象徵她的女王氣場，命中後回復生命並抽牌，如同她在聖誕致詞中為子民帶來希望與力量。"
+  },
+  {
+    "name": "Voice Mimicry",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Perfect Impression",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at your opponent's hand and name a card. They discard a copy of it if able."
+      ]
+    },
+    "effect": [
+      "HIT: Choose 1 card from your opponent's discard and add it to your hand."
+    ],
+    "description": "代表Elizabeth引以為傲的聲音模仿天賦。這張干擾牌能窺探對手手牌並強制棄牌，命中後更能複製對手棄牌區的卡片，體現她能完美模仿任何人的聲音，連身份都能偽裝。"
+  },
+  {
+    "name": "Thorn of Justice",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Harbinger of Order",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1 space.",
+      "HIT: Push the opponent 2 spaces and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Elizabeth的武器「Thorn（荊棘）」命名，這把刻有天秤鱗片的黑紅大劍象徵正義。強力近戰攻擊，推進壓制後取得先手權，展現她作為Justice領導者不可動搖的決心。"
+  },
+  {
+    "name": "Blue Flame Waltz",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Crimson Afterglow",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of the opponent's turns, +0-1 Range (max of +2)."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Retreat up to 2 spaces."
+    ],
+    "description": "代表Elizabeth胸前的藍色火焰標誌。遠程火焰攻擊無視防禦，命中後拉開距離，如同她優雅而致命的身法——藍色火焰在戰場上舞動，無人能擋。"
+  },
+  {
+    "name": "Let My Voice Be Your Strength",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "5",
+    "armor": "2",
+    "guard": "2",
+    "boost": {
+      "name": "Encouraging Aria",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power for each card in hand you have more than the opponent."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 2 cards.",
+      "AFTER: You may give 1 card from your hand to a teammate (if playing solo, gain 1 life instead)."
+    ],
+    "description": "以Elizabeth的官方標語命名。此輔助牌體現她的歌聲能賦予他人力量的主題，手牌優勢轉化為攻擊力，抽牌效果象徵她的歌聲帶給人們勇氣與希望。"
+  },
+  {
+    "name": "Royal Nap",
+    "type": "special",
+    "cost": null,
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "3",
+    "armor": "4",
+    "guard": "4",
+    "boost": {
+      "name": "Comfy Bed",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of your turns, gain 1 life."
+      ]
+    },
+    "effect": [
+      "BEFORE: Gain 3 life.",
+      "AFTER: Shuffle this card into your deck instead of discarding it."
+    ],
+    "description": "改編自官方設定中Elizabeth靠午睡恢復壓力的描述。純防禦牌，提供高額護甲與生命恢復，且會回到牌組繼續使用，如同她所說的「沒有什麼是一張舒適床上的午睡解決不了的」。"
+  },
+  {
+    "name": "RENEGADE",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rebel Heart",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Discard any number of cards from your hand. For each card discarded, +1 Power this Strike."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: You may add 1 card from your discard to your Gauge."
+    ],
+    "exceed_cost": "2G",
+    "description": "以Elizabeth的原創歌曲命名。高攻擊力的超絕技，可透過棄牌來提升威力，命中後回收資源，完美呼應歌曲中反抗束縛、追求自由的精神。"
+  },
+  {
+    "name": "Scarlet Serendipity",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-4",
+    "power": "8",
+    "speed": "5",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "SUPERNOVA SUPER GIRL",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "This card gains +0-2 Range and +1 Power for each card in your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Armor and Guard.",
+      "HIT: Your opponent discards cards from the top of their deck equal to the damage dealt."
+    ],
+    "exceed_cost": "4G",
+    "description": "結合Elizabeth的兩首2026年原創曲「Serendipity」與「SUPERNOVA SUPER GIRL」作為終極大招。最高消費的最強攻擊，無視所有防禦，造成傷害同時破壞對手牌組，如同她站在舞台上以歌聲震撼全場的壓倒性存在感。"
+  }
+]

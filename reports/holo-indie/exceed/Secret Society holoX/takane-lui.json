@@ -1,0 +1,232 @@
+[
+  {
+    "name": "HoloX Directive",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Orders from HQ",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Look at the top 2 cards of your deck. Add 1 to your hand, put the other on the bottom."
+    ],
+    "description": "以祕密結社holoX女幹部的指揮權限為概念。命中後可檢視牌組頂端並調整戰術，表現Lui作為實質領導者的情報管理能力與戰略規劃。"
+  },
+  {
+    "name": "PON Surprise",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Wait, What?",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard a card. If you do, draw 2 cards."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you have fewer cards in hand than your opponent, +3 Power.",
+      "HIT: Your opponent discards a random card."
+    ],
+    "description": "以Lui的天然呆(PON)特質為靈感。看似失誤的意外高速攻擊，手牌劣勢時反而威力更強，表現她「關鍵時刻搞砸卻意外製造機會」的反差萌。Boost象徵她搞錯事情後慌忙補救的樣子。"
+  },
+  {
+    "name": "K Time",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Klarity Mode",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power and Ignore Armor.",
+        "BEFORE: Close 2."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Gain Advantage."
+    ],
+    "description": "來自Lui偶爾進入的極度專注狀態「K Time（清晰模式）」。精準無比的近距離打擊，無視對手防禦，展現她在混亂中瞬間冷靜下來、展現真正實力的瞬間。"
+  },
+  {
+    "name": "Wilted Rose",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "1",
+    "speed": "4",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "Bloom Someday",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor and Stun Immunity."
+      ]
+    },
+    "effect": [
+      "AFTER: Gain 1 Force.",
+      "If this card is in your discard at the end of your turn, you may add it to your hand."
+    ],
+    "description": "以Lui的粉絲標誌——枯萎的玫瑰🥀為概念。她自認「還不是綻放的花朵」，此卡表現她在逆境中累積力量、等待綻放的姿態。高防禦、可在回合結束從墓地回收，象徵永不放棄的堅持。"
+  },
+  {
+    "name": "Don't Drop Your Water",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Spill the Tea",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard up to 2 cards. Your opponent discards the same number."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you have a 'PON' card in your discard, +2 Power.",
+      "HIT: Push 1."
+    ],
+    "description": "以Lui的知名哏——打翻水在鍵盤上——為設計基礎。防禦型的近距離反擊，Boost讓她可以「潑水」迫使對手也棄牌，呼應她「Don't drop your water.」的自嘲台詞。與PON Surprise有連攜效果。"
+  },
+  {
+    "name": "Cold Joke",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "So Cold...",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Your opponent discards a card if they have 4 or more cards in hand."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent cannot use Boost effects until the end of their next turn."
+    ],
+    "description": "以Lui喜歡講冷笑話後全場結凍的經典場面為靈感。命中後封鎖對手Boost能力，如同她的笑話讓氣氛瞬間凍結。Boost反應聽眾聽了冷笑話後想丟東西的反應。"
+  },
+  {
+    "name": "Hype Luivels Rising",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Did I Luive You Waiting!?",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card.",
+        "AFTER: If you have Advantage, draw 1 more card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage."
+    ],
+    "description": "來自Lui的口頭禪「Hype Luivels rising!」和「Did I Luive you waiting!?」。高速靈活的牽制技，命中後搶回先手權，配合她的諧音哏(Luive = Lui + Live)，表現她炒熱氣氛的活力。"
+  },
+  {
+    "name": "Executive Secretary",
+    "type": "special",
+    "cost": null,
+    "range": "0-2",
+    "power": "1",
+    "speed": "5",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Reorganize",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Return any number of cards from your hand to your deck. Shuffle. Draw that many cards."
+      ]
+    },
+    "effect": [
+      "BEFORE: Search your deck for a card with 'Lui' or 'holoX' in its name, reveal it, and add it to your hand. Shuffle."
+    ],
+    "description": "以Lui作為holoX女幹部處理日常營運的秘書長形象為設計。以組織與重整手牌為核心，能檢索牌組中的關鍵卡牌，表現她擅長策略規劃與資源調度的能力。"
+  },
+  {
+    "name": "I Take Your Luive",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "7",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Luive & Laugh",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power for each card in your hand.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "Cannot be guarded if you have 5 or more cards in hand.",
+      "HIT: Your opponent discards down to 3 cards in hand."
+    ],
+    "exceed_cost": "3G",
+    "description": "以Lui的收尾台詞「I take your Luive.」(おつるいるい)為靈感的超級攻擊。手牌充足時不可防禦，表現她「在大家沒注意到的時候已經收工了」的瀟灑感，命中後強制對手縮減手牌，如同她的公關手腕乾淨俐落。"
+  },
+  {
+    "name": "Secret Society's True Leader",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "2-4",
+    "power": "10",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "The XO's Orders",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: You may play a card from your discard with 'holoX' or 'Lui' in its name without paying its Force cost."
+      ]
+    },
+    "effect": [
+      "HIT: Return all cards from your discard to your deck. Shuffle. Draw 3 cards."
+    ],
+    "exceed_cost": "4G",
+    "description": "呼應Lui作為祕密結社holoX真正營運核心的地位。壓倒性的全局重置效果——命中後將墓地所有牌回收並抽牌，象徵她以女幹部的權限重整組織。Boost可免費從墓地施展holoX卡片，表現她號令全社的力量。"
+  }
+]

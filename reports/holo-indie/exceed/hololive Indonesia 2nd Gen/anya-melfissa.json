@@ -1,0 +1,231 @@
+﻿[
+  {
+    "name": "Sleepy Grasp",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "type": "normal",
+    "description": "以Anya愛睡覺的性格為主題。速度較慢代表她慵懶伸手抓人的感覺。Boost「Otsukurisu」取自招牌道別語（お疲れ様+Keris），命中後抽牌並補充Gauge，象徵她即使要睡了仍不忘打招呼的習慣。",
+    "boost": {
+      "name": "Otsukurisu",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Draw 1.",
+        "HIT: +1 Power. Add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Push or Pull 1 or 2."
+    ]
+  },
+  {
+    "name": "Wavy Slash",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "type": "normal",
+    "description": "以Keris波浪刃的形狀命名，斬擊帶有波浪軌跡難以預測。Boost「Pointed Wit」反映她犀利的幽默感與嗆人機智，突然的發言打亂對手節奏。命中後取得先手權，代表她用機智掌控對話主導權。",
+    "boost": {
+      "name": "Pointed Wit",
+      "cost": "-",
+      "timing": "Cancel 1Instant",
+      "effect": [
+        "Advance 3."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated)."
+    ]
+  },
+  {
+    "name": "Autumn Drift",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "type": "normal",
+    "description": "以Anya的象徵🍂（落葉）為主題，秋天是最適合睡覺的季節。Before效果讓她穿越對手，如落葉被風吹動般飄忽不定。Boost「Leaf Fall」破壞對方連續型Boost，如秋風掃落葉般清除對手持續效果。",
+    "boost": {
+      "name": "Leaf Fall",
+      "cost": "-",
+      "timing": "Cancel 1Instant",
+      "effect": [
+        "Discard a Continuous Boost from play."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 3; if you Advanced past the opponent, their attacks do not hit you."
+    ]
+  },
+  {
+    "name": "Melfriend's Gaze",
+    "cost": null,
+    "range": "2-3",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "type": "normal",
+    "description": "以粉絲名「Melfriends」命名。Anya冷靜旁觀的視線已看穿一切，無視裝甲與防禦的效果代表她得意而敏銳的洞察力。Boost「Friendly Support」來自粉絲的支持，提供額外防禦且每回合補充Gauge，象徵Melfriends永遠在背後支持她。",
+    "boost": {
+      "name": "Friendly Support",
+      "cost": "-",
+      "timing": "Cancel 1Continuous",
+      "effect": [
+        "+4 Guard. At the start of your turn, add this to your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Armor. Ignore Guard."
+    ]
+  },
+  {
+    "name": "Otsukurisu!",
+    "cost": null,
+    "range": "1-3",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "6",
+    "type": "normal",
+    "description": "以Anya招牌口號「Otsukurisu!」命名，高威力搭配長射程代表她與粉絲告別時的能量爆發。命中使對手隨機棄牌，如同她出其不意的告別令人措手不及。Boost「Keris Spirit」喚醒克力士劍本質，強化整張卡數值。",
+    "boost": {
+      "name": "Keris Spirit",
+      "cost": "-",
+      "timing": "Cancel 1Continuous",
+      "effect": [
+        "Your attack is EX (EX Attacks have +1 Power, +1 Speed, +1 Armor and +1 Guard)."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent must discard a random card."
+    ]
+  },
+  {
+    "name": "Yandere Focus",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "1",
+    "armor": "2",
+    "guard": "5",
+    "type": "normal",
+    "description": "呼應Anya「冷靜的病嬌短刀」稱號。速度最快（1）的先制攻擊，代表她病嬌人格的突然爆發。無法被推拉展現她一旦鎖定目標就不放開的執著。Boost「Smug Stare」再現「朋友，認清你的位置」的得意表情，強迫對手做出Wild Swing。",
+    "boost": {
+      "name": "Smug Stare",
+      "cost": "-",
+      "timing": "Cancel 1Continuous",
+      "effect": [
+        "When you initiate a Strike, the opponent must respond with a Wild Swing."
+      ]
+    },
+    "effect": [
+      "You cannot be Pushed or Pulled.",
+      "AFTER: Draw 1."
+    ]
+  },
+  {
+    "name": "Keris Strike",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "description": "Anya的本體——克力士劍的直接攻擊。特殊卡代表她解放部分劍靈力量。無視裝甲對應克力士劍的鋒利傳說，命中取得先手權體現短劍的快速連擊。Boost「Dagger Dance」反映武器精靈的優雅戰鬥姿態，前進後抽牌如舞蹈般連續動作。",
+    "boost": {
+      "name": "Dagger Dance",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Advance up to 2. Draw 1."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Gain Advantage."
+    ]
+  },
+  {
+    "name": "Otsukurisu",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "description": "「Otsukurisu」作為特殊卡的完整形態。速度較快代表她輕鬆說再見的氛圍，命中隨機棄牌呼應此詞的語意模糊性——對手聽不懂卻只能接受。Boost「Sleepy Time」提升速度並抽牌，代表她在睡前說Otsukurisu後安心入睡。",
+    "boost": {
+      "name": "Sleepy Time",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "NOW: Draw 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: The opponent must discard a random card."
+    ]
+  },
+  {
+    "name": "Baleful Whisper",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "description": "取自Anya的稱號「不祥低語」和粉絲名言「直播中最恐怖的部分就是Anya本人」。超遠射程代表她使用神秘力量從遠處影響對手。命中揭示手牌並選擇棄牌，體現她在恐怖遊戲中完全不被嚇到、反而成為恐怖來源的反差魅力。Boost提供裝甲和抽牌，代表她面對恐怖時的從容。",
+    "boost": {
+      "name": "Scariest Part",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+2 Armor.",
+        "NOW: Draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent reveals their hand, then discards a card of your choice."
+    ]
+  },
+  {
+    "name": "Malfriends' Blessing",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "5",
+    "armor": "1",
+    "guard": "3",
+    "description": "以粉絲「Melfriends」的祝福為主題。手牌少於3張時獲得額外威力，代表她疲憊時粉絲的愛讓她變得更強。After效果拉近距離，象徵粉絲的愛將她拉回身邊。Boost「Autumn Wind」提供暈眩免疫和抽牌，如秋風般帶給她持續的支持。",
+    "boost": {
+      "name": "Autumn Wind",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "NOW: Draw 1."
+      ]
+    },
+    "effect": [
+      "If you have 3 or fewer cards in hand, +2 Power.",
+      "AFTER: Close 2."
+    ]
+  }
+]

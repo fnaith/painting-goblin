@@ -1,0 +1,243 @@
+{
+  "name": "Otonose Kanade",
+  "cards": [
+    {
+      "id": 1,
+      "name": "かなでスタンバイ",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "1",
+      "speed": "9",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "ドロー！",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "NOW: Draw a card.",
+          "AFTER: You may return this card to your hand."
+        ]
+      },
+      "effect": [
+        "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "description": "以奏的待機畫面台詞「かなでスタンバイ」為概念，致敬遊戲王的Standby階段。最高速度（9速）確保先手，命中後奪回節奏權，如同遊戲王玩家在準備階段布局。Boost「ドロー！」可重複回收使用，象徵每一回合開始的抽牌階段。"
+    },
+    {
+      "id": 2,
+      "name": "Otonose Monday",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "2",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "月曜日ちゃん",
+        "cost": "1F",
+        "timing": "Instant",
+        "effect": [
+          "Your opponent skips their next Boost step."
+        ]
+      },
+      "effect": [
+        "HIT: Your opponent discards a card at random."
+      ],
+      "description": "以奏最著名的迷因「Otonose Monday」為靈感——她總是在週日提醒大家明天是星期一。遠程騷擾技，命中後隨機棄牌讓對手節奏被打亂，如同Blue Monday降臨般令人沮喪。Boost「月曜日ちゃん」進一步讓對手失去Boost階段，完美體現星期一帶來的絕望感。"
+    },
+    {
+      "id": 3,
+      "name": "1.5倍速",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "4",
+      "speed": "4",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "成長の軌跡",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "BEFORE: Switch this card's Power and Speed until end of Strike."
+        ]
+      },
+      "effect": [
+        "HIT: Draw a card."
+      ],
+      "description": "以出道時語速過慢被粉絲戲稱需開1.5倍速的迷因為主題。基礎狀態下低速高傷，Boost「成長の軌跡」可將Power與Speed互換——象徵奏從出道初期的慢速進步到現在的流暢表現，對手難以預測她會以哪種型態出擊。"
+    },
+    {
+      "id": 4,
+      "name": "ガハ！",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "5",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "爆笑衝擊波",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "Ignore Guard."
+        ]
+      },
+      "effect": [
+        "BEFORE: Close 2 spaces.",
+        "HIT: Push the opponent 2 spaces."
+      ],
+      "description": "以奏極具辨識度的招牌大笑聲「ガハ！」為概念。強制拉近距離後以笑聲震波攻擊，命中後將對手推開——如同她那突然爆發的洪亮笑聲總能震撼全場。Boost「爆笑衝擊波」使攻擊無視防禦，象徵她的笑聲具有穿透一切的真實感染力。"
+    },
+    {
+      "id": 5,
+      "name": "耐久歌枠",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "2",
+      "speed": "5",
+      "armor": "2",
+      "guard": "4",
+      "boost": {
+        "name": "まだ歌うよ！",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "AFTER: Regain 3 life."
+        ]
+      },
+      "effect": [
+        "BEFORE: Draw a card.",
+        "HIT: Regain 2 life."
+      ],
+      "description": "以奏最標誌性的耐久歌枠（連續數小時唱歌）為主題。高防禦與Guard讓她能站穩馬步持續戰鬥，命中後回血和Boost「まだ歌うよ！」的持續恢復體現她在耐久歌枠中越唱越久、永不放棄的努力家精神。"
+    },
+    {
+      "id": 6,
+      "name": "こんのせ！おつのせ！",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "3",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "またね～～～～ガハ！",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Move up to 2 spaces. Draw a card."
+        ]
+      },
+      "effect": [
+        "HIT: Retreat 1 space and gain Advantage."
+      ],
+      "description": "以奏的招牌打招呼「こんのせ」和道別「おつのせ」為雙重概念。高速靈活的hit-and-run戰術，衝入戰局命中後瀟灑撤退並奪回節奏權。Boost「またね～～～～ガハ！」提供位移和補牌，如同她充滿元氣登場又伴隨著大笑離場的招牌風格。"
+    },
+    {
+      "id": 7,
+      "name": "Shunkan Heartbeat",
+      "type": "ultra",
+      "cost": "2G",
+      "range": "2",
+      "power": "6",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "デビューの鼓動",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Draw 2 cards. Add one to your Gauge."
+        ]
+      },
+      "effect": [
+        "HIT: Gain Advantage. Draw a card."
+      ],
+      "exceed_cost": "2G",
+      "description": "以奏的出道曲《Shunkan Heartbeat》命名。高速中傷害的Ultra，命中後奪回節奏並補牌，如同出道曲帶給觀眾的心跳加速瞬間。Boost「デビューの鼓動」補牌充能，象徵出道那一刻充滿希望與活力的起點。"
+    },
+    {
+      "id": 8,
+      "name": "Symmetry",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": "6",
+      "speed": "6",
+      "armor": "0",
+      "guard": "6",
+      "boost": {
+        "name": "対称の旋律",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "Stun Immunity."
+        ]
+      },
+      "effect": [
+        "HIT: You may swap a card from your hand with a card from your Gauge.",
+        "AFTER: Draw a card."
+      ],
+      "exceed_cost": "3G",
+      "description": "以奏的原創曲《Symmetry》為主題。所有數值（Power 6、Speed 6、Cost 3G）和Range（1-3）皆強調對稱美學。高達6的Guard提供出色防禦，Boost「対称の旋律」賦予暈眩免疫，命中後能交換手牌與Gauge資源，體現歌曲中追求平衡與和諧的核心精神。"
+    },
+    {
+      "id": 9,
+      "name": "おまえら！",
+      "type": "special",
+      "cost": null,
+      "range": "1-4",
+      "power": "2",
+      "speed": "3",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "音の勢",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "At the start of each of your turns, draw a card if the opponent has more cards in hand than you."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent discards a card. If they do, draw a card."
+      ],
+      "description": "以奏稱呼粉絲的口癖「おまえら」（你們這幫傢伙）為靈感。遠程聲援型攻擊——她不刻意討好觀眾，而是像朋友互嗆般直率互動。命中後迫使對手棄牌並補牌，象徵她與粉絲之間獨特的雙向交流。Boost「音の勢」在手牌劣勢時持續補牌，體現粉絲群對她的支持。"
+    },
+    {
+      "id": 10,
+      "name": "GREATEST",
+      "type": "ultra",
+      "cost": "4G",
+      "range": "1-2",
+      "power": "9",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "夢の舞台",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Spend up to 3 Gauge for +2 Power per Gauge spent."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent discards their hand and draws 3 cards.",
+        "Ignore Armor. Ignore Guard."
+      ],
+      "exceed_cost": "4G",
+      "description": "以奏的首張個人原創曲《GREATEST》命名——也是她首次生日3D Live的代表曲。無視一切防禦的終極王牌，命中後重置對手手牌，象徵她在個人演唱會上以最強歌聲震撼全場、讓一切重新開始的決心。Boost「夢の舞台」可投入額外Gauge來進一步提升威力，如同她對夢想的無限投入與追求。"
+    }
+  ]
+}

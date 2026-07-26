@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Mogu Mogu Okayu!",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "1",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Nom Nom",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Okayu招牌開場白『もぐもぐおかゆ！』為概念的全遊戲最快速度牽制技。低傷害但命中即奪回先手權，表現她在直播一開始就用慵懶嗓音瞬間抓住觀眾注意力的魅力。Boost『Nom Nom』延伸咀嚼聲意象，邊吃邊抽牌保持節奏。"
+  },
+  {
+    "name": "Onigiri Toss",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Grandma's Recipe",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+0-2 Range."
+      ]
+    },
+    "effect": [
+      "HIT: Pull the opponent up to 2 spaces."
+    ],
+    "description": "以被奶奶飯糰店養大的背景為靈感。丟擲飯糰牽引對手到有利位置，象徵她看似隨意但精於算計的戰鬥風格。Boost『奶奶的配方』讓飯糰丟得更遠，體現奶奶手藝的傳承。"
+  },
+  {
+    "name": "All-Affirming Purr",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "6",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "It's Okay~",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 2 life."
+    ],
+    "description": "來自粉絲給予的稱號『全肯定貓』——對一切都包容接納的態度。近距離防禦反擊技，高護甲搭配回血，表現Okayu治癒系嗓音帶給觀眾的安心感。Boost『沒關係～』讓她在任何情況下都不會被中斷節奏。"
+  },
+  {
+    "name": "Flirtatious Jab",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Gross... I Love It",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "If the opponent discarded a card this turn, draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards 1 random card."
+    ],
+    "description": "呼應Okayu在官方profile中將『激烈的調情』列為興趣，以及她名言『『噁心』這兩個字是我的生命養分』。高速擾亂攻擊，命中讓對手棄牌，表現她突如其來的調戲讓對手措手不及。"
+  },
+  {
+    "name": "Cat Nap",
+    "type": "special",
+    "cost": null,
+    "range": "N/A",
+    "power": "N/A",
+    "speed": "3",
+    "armor": "4",
+    "guard": "2",
+    "boost": {
+      "name": "Lazy Afternoon",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: Draw 2 cards."
+    ],
+    "description": "以Okayu慵懶放鬆的招牌性格為設計。不攻擊、純防守的姿態，用高護甲和抽牌累積資源，表現她『步調緩慢舒適、不會強迫自己做不喜歡的事』的生活哲學。Boost進一步鞏固防線，像午後打盹的貓一樣無人能打擾。"
+  },
+  {
+    "name": "OkaKoro Combo",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Koro-san Assist!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add 1 card from your discard to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: If you have a Continuous boost in play, +3 Power."
+    ],
+    "description": "以OkaKoro（Okayu x Korone）這對hololive GAMERS最強搭檔為概念。與場上的Boost連攜打出更高傷害，表現兩人無需言語的默契。Boost將墓地資源轉為Gauge，象徵沁音總是在背後支援著她。"
+  },
+  {
+    "name": "Onigiryaa Prison",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Life Sentence",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Push the opponent 1 space for each card in your hand."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards the top 2 cards of their deck."
+    ],
+    "description": "以粉絲梗『Onigiryaa監獄』為靈感——粉絲們自稱穿著囚服關在監獄裡。遠程壓制技，命中時破壞對手牌庫頂牌，象徵被關進Okayu監獄的粉絲們。Boost利用手牌量進行推擠，越多手牌越有壓迫感。"
+  },
+  {
+    "name": "Temari & Kojirou",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Cat's Reflex",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Draw 1 card."
+    ],
+    "description": "以Okayu養的兩隻貓——傲嬌的Temari和永遠在贏的笨貓Kojirou——為設計。近距離快速抓擊，無視護甲並補充手牌，表現貓咪靈活矯健又狡黠的本性。Boost加速讓攻擊更快命中。"
+  },
+  {
+    "name": "POISONYA SYNDROME",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Syndrome Beat",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 3 life and return 1 card from your discard to your hand."
+    ],
+    "exceed_cost": "2G",
+    "description": "以Okayu首張個人專輯《POISONYA SYNDROME》為名的超絕技。兼具攻擊、回血和資源回收的全面型招式，表現她在2022年首次個人演唱會上展現的壓倒性舞台魅力與多才多藝。"
+  },
+  {
+    "name": "Mogu Mogu YUMMY!",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "2-4",
+    "power": "12",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bon Appétit",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "BEFORE: Move up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "Cannot be guarded.",
+      "HIT: Regain all spent Force."
+    ],
+    "exceed_cost": "4G",
+    "description": "以Okayu首張原創單曲《Mogu Mogu YUMMY!》為靈感的最終奧義。不可防禦的全力吞食，命中後回收所有消耗的Force，象徵她一口吃掉對手的全部資源。Boost允許戰前調整位置，像貓咪撲食前先悄悄靠近獵物。"
+  }
+]

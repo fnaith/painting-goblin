@@ -1,0 +1,234 @@
+[
+  {
+    "name": "IOFORIA! OBISA!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Alien Greeting",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance 1 space and draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: You may retreat 1 space."
+    ],
+    "description": "Iofi的招牌開場口號。高速近距離攻擊，代表她在出道直播中驚喜成功眨眼的名場面——連她自己都沒想到能成功。設計為速度8的先制攻擊，命中後獲得Advantage便於後續壓制，象徵她用「IOFORIA! OBISA!」抓住全場注意力並掌握對話主導權。"
+  },
+  {
+    "name": "Alien Princess",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Martian Tech",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-2 Range."
+      ]
+    },
+    "effect": [
+      "HIT: Pull the opponent up to 3 spaces.",
+      "AFTER: Move 1 space."
+    ],
+    "description": "代表Iofi從M.A.R.S.星球離家出走來到地球的外星公主設定。中遠程攻擊搭配拉近效果，象徵她的外星科技能控制空間並將對手拉近——如同她受到地球文化吸引而來。Boost進一步延展射程，代表她跨越世界的影響力。"
+  },
+  {
+    "name": "Erofi's Tease",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Flirtatious Glance",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Choose a card at random from the opponent's hand and look at it."
+      ]
+    },
+    "effect": [
+      "BEFORE: Name a card. If the opponent has it in their hand, +2 Power and +1 Speed.",
+      "HIT: The opponent discards a card of their choice."
+    ],
+    "description": "Iofi調皮好色的「Erofi」人格。Before效果猜對手手牌名稱，如同她 teasing 地揭露對方秘密，猜中則獲得威力提升。Boost可窺視對手手牌，反映她撩人卻敏銳的觀察力。命中迫使對手棄牌，象徵她被撩得手足無措的樣子。"
+  },
+  {
+    "name": "Iomama's Care",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "4",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "Comforting Words",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "AFTER: Regain 2 life."
+      ]
+    },
+    "effect": [
+      "HIT: Regain 3 life.",
+      "AFTER: Draw a card."
+    ],
+    "description": "Iofi溫柔母性的「Iomama」面向。防禦型特殊卡，擁有高裝甲與防禦值，命中可回復生命，Boost提供持續恢復。反映Iofi在直播中切換為媽媽模式，在她們最需要的時候給予觀眾（IOFORIA）鼓勵與安慰。"
+  },
+  {
+    "name": "NO GACHA NO LIFE",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "One More Pull",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Discard your hand, then draw until you have 5 cards in hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may spend up to 3 Gauge. For each Gauge spent, +1 Power.",
+      "HIT: Add the top card of your discard pile to your Gauge."
+    ],
+    "description": "Iofi臭名昭著的抽卡成癮——「NO GACHA NO LIFE！」。Boost「再抽一單」代表她 compulsive reroll 的行為，棄掉所有手牌重新來過。Before效果讓她消耗Gauge（課金）來提升威力，模擬為了抽到想要的角色而大力課金。命中可將牌加入Gauge，模擬抽到目標時的多巴胺爆發。"
+  },
+  {
+    "name": "Salonpas Relief",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "3",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Salonpas Patch",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor and regain 1 life at the start of each of your turns."
+      ]
+    },
+    "effect": [
+      "HIT: Regain life equal to the damage dealt.",
+      "Stun Immunity."
+    ],
+    "description": "基於Iofi著名的Salonpas（撒隆巴斯）梗和她的告別語「Otsulonpas」。速度慢但韌性高的卡片，提供續戰與暈眩免疫——如同Salonpas貼布提供長效鎮痛。Continuous Boost代表貼上貼布後隨著時間逐漸治癒。"
+  },
+  {
+    "name": "Polyglot Confusion",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "\"Guten Tag!\"",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card and a language. The opponent must discard a copy of that card, or show their hand does not contain it."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 2 spaces or open 2 spaces.",
+      "HIT: The opponent cannot play boosts on their next turn."
+    ],
+    "description": "Iofi的多語言能力——她精通印尼語、日語、英語、德語、韓語和「外星語」。Boost讓她用「語言」命名一張卡，迫使對手回應或展示手牌，模擬她在對話中切換語言讓人困惑的效果。命中後對手無法使用Boost，代表多語言轟炸讓對手暈頭轉向無法規劃。"
+  },
+  {
+    "name": "Artistic Expression",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "5",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Sketch Pad",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Search your deck for a card with 'Iofi' or 'Alien' in its name, reveal it, and add it to your hand. Shuffle your deck."
+      ]
+    },
+    "effect": [
+      "HIT: You may put a copy of any of your specials from your discard into your Gauge.",
+      "AFTER: Draw a card."
+    ],
+    "description": "Iofi身為專業數位繪師與視覺傳達設計系學生的身份。Boost「草稿本」讓她從牌組搜索主題卡片，代表她在動筆前先構思草稿。命中效果將一張特殊卡保存到Gauge，如同完成作品後妥善收藏，後續抽牌則代表源源不絕的創作靈感。"
+  },
+  {
+    "name": "Galaxy Ticket",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-4",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Starlight Voyage",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of your turns, if you have 3 or fewer cards in hand, draw until you have 4 cards."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may move up to 3 spaces. If you cross the center line, +2 Power.",
+      "HIT: Push the opponent up to 4 spaces.",
+      "CRITICAL: +2 Speed."
+    ],
+    "description": "取自Iofi 2024年生日3D Live「Galaxy Ticket」。Ultra卡代表她從外星故鄉前往地球的旅程（跨越中線獲得額外威力）。Boost「星海航行」提供持續的牌組優勢，象徵探索未知的旅程。Critical速度加成代表演唱會現場的特殊能量爆發。"
+  },
+  {
+    "name": "HI-15",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "7",
+    "speed": "4",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Ioforia Euphoria",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Draw cards until you have 6 in hand, then Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike).",
+      "AFTER: Regain 3 life."
+    ],
+    "description": "取自Iofi 2022年原創歌曲「HI-15」。她的終極大招——高消耗（4 Gauge）、高威力（7），無視裝甲並獲得Advantage。代表Iofi力量的巔峰，將粉絲們的能量（Ioforia Euphoria）凝聚為一記毀滅性打擊。命中後回復生命象徵Iofi與IOFORIA之間的雙向喜悅。"
+  }
+]

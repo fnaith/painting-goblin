@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Dead Beats",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Beat Drop",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 1 Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card."
+    ],
+    "description": "以她的出道EP《Dead Beats》與粉絲名稱命名。高速的節奏攻擊，擊中後抽取卡片象徵Dead Beats為她注入能量，體現她與粉絲之間互相支持的情感。"
+  },
+  {
+    "name": "Guillotine",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ricky's Swing",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+2 Power when Striking."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Push 1."
+    ],
+    "description": "以她的愛用死神鐮刀「Guillotine」（粉絲暱稱Ricky）命名。近距離高火力斬擊，無視防禦並將對手擊退，還原死神一擊必殺的威壓感。"
+  },
+  {
+    "name": "Shinigami Note",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Soul Scribble",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 3 cards of your deck. Put any of them on top and the rest on the bottom."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent discards 1 random card."
+    ],
+    "description": "以她的主流出道EP《Shinigami Note》命名。透過死神的筆記操控命運（牌庫頂），並讓對手隨機損失手牌，呼應「寫上名字就會死」的死神筆記本梗。"
+  },
+  {
+    "name": "Da Bones",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bone Rattler",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Your opponent discards the top card of their deck."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 1 Gauge for each card in your opponent's discard pile (max 3)."
+    ],
+    "description": "以她的萬聖節原創曲《Da Bones》命名。透過骨頭（牌庫破壞）累積力量，呼應歌曲中「骷髏跳舞」的歡樂詭譎氛圍以及死神操縱亡者的能力。"
+  },
+  {
+    "name": "Tsundereaper",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "3",
+    "armor": "3",
+    "guard": "3",
+    "boost": {
+      "name": "Not Because I Like You",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+4 Speed when Striking."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "AFTER: Gain 1 life."
+    ],
+    "description": "以粉絲對她的愛稱「Tsundereaper（傲嬌死神）」命名。表面冷酷但內心溫柔，高防禦力與回復能力展現她外冷內熱的反差萌本質。"
+  },
+  {
+    "name": "Go-Getters",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Perseverance",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以她演唱的《Gachiakuta》OP〈Go-Getters〉命名，代表她不懈努力的性格。持續強化自身並奪取先機，體現Calliope身為努力家永不放棄的精神。"
+  },
+  {
+    "name": "Atlus Please",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Begging Session",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of each of your turns, +1 Power (max of +3)."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend any amount of Gauge. +1 Power per Gauge spent.",
+      "HIT: Draw 1 card."
+    ],
+    "description": "以2020年她在直播中花費90分鐘懇求Atlus讓她在頻道遊玩《Persona 3》的經典場景命名。越拖越強的蓄力攻擊，還原那段「不放棄的請願」故事。"
+  },
+  {
+    "name": "Sinderella",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-3",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Seven Sins",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards.",
+        "Discard 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Choose one: +2 Power, Advance 2 spaces, or your opponent discards 1 random card.",
+      "HIT: Push 2."
+    ],
+    "exceed_cost": "2G",
+    "description": "以她的七宗罪主題專輯《Sinderella》命名。代表七種罪惡的多樣化選擇，給予她應對不同戰況的靈活性，展現她作為音樂人的戰術多變性。"
+  },
+  {
+    "name": "Phantomime",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "2-5",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Shadow Play",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Range.",
+        "Ignore Armor."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent discards 2 random cards.",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "3G",
+    "description": "以她登上Billboard世界專輯榜的《Phantomime》命名。極遠距離的致命攻勢，無視裝甲並破壞對手手牌，如同幽靈般無法防禦的終極演出。"
+  },
+  {
+    "name": "Disasterpiece",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-3",
+    "power": "10",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Magnum Opus",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power.",
+        "Ignore Guard."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent discards their entire hand.",
+      "AFTER: Draw 2 cards."
+    ],
+    "exceed_cost": "4G",
+    "description": "以2026年最新專輯《Disasterpiece》命名。Calliope的最強終結技，釋放全部力量的災難級演出，無視一切防禦並清空對手手牌，象徵死神降臨的終極姿態。"
+  }
+]

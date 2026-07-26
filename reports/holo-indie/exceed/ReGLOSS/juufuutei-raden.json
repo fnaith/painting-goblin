@@ -1,0 +1,242 @@
+{
+  "name": "Juufuutei Raden",
+  "cards": [
+    {
+      "id": 1,
+      "name": "Sayōnaraden",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "3",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Irasshairaden",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Advance up to 3 spaces."
+        ]
+      },
+      "effect": [
+        "HIT: Retreat 1 space and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "description": "以Raden的招牌告別台詞「さようならでん」命名。打完就跑的hit-and-run戰術，命中後立刻後退並奪回節奏權，體現她優雅又狡猾的性格——就像她在直播中突然說再見然後光速下播一樣。"
+    },
+    {
+      "id": 2,
+      "name": "Rakugo Vortex",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "2",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Storytelling",
+        "cost": "1F",
+        "timing": "Instant",
+        "effect": [
+          "Name a card type (Normal, Special, or Ultra). The opponent must discard one card of that type or reveal a hand without any."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent must discard a card at random."
+      ],
+      "description": "以她的落語家身份為靈感。透過精彩段子混淆對手心神，強制對手棄牌來破壞戰術佈局。Boost「講談」讓Raden能指定卡牌類型進行精準干擾，展現落語家掌控節奏的功力。"
+    },
+    {
+      "id": 3,
+      "name": "Curator's Gaze",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "1",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Art Appraisal",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+0-1 Range and draw a card."
+        ]
+      },
+      "effect": [
+        "BEFORE: Look at the top 3 cards of your deck. Add one to your hand and discard the rest."
+      ],
+      "description": "以她曾任學藝員（博物館策展人）的背景設計。透過專業眼光快速鑑定並篩選卡牌，調整手牌品質。高速度低威力，體現策展人觀察入微但不直接動手的特質。"
+    },
+    {
+      "id": 4,
+      "name": "Maitake Fever",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "2",
+      "speed": "9",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Fungal Dance",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Speed."
+        ]
+      },
+      "effect": [
+        "HIT: Push or Pull 1 or 2.",
+        "AFTER: The opponent must discard a card at random."
+      ],
+      "description": "以她引爆話題的迷因歌曲《Maitake Dance》為核心。極高速度（9速）搭配棄牌效果，模擬那首洗腦歌讓人手忙腳亂的感覺。Boost「菌菇之舞」進一步提升速度，讓Raden像病毒般快速擴散攻勢。"
+    },
+    {
+      "id": 5,
+      "name": "Sake Rush",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "5",
+      "speed": "4",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Bottomless Cup",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Power and draw a card."
+        ]
+      },
+      "effect": [
+        "BEFORE: Close 2 spaces.",
+        "HIT: +2 Power if the opponent has more cards in hand than you."
+      ],
+      "description": "以她的酒豪人設為靈感。近距離爆發型攻擊，強制拉近距離並在劣勢手牌時打出更高傷害。Boost「無底酒盃」越喝越勇，體現她豪爽飲酒後戰鬥力暴漲的形象。"
+    },
+    {
+      "id": 6,
+      "name": "Contrast Elegance",
+      "type": "special",
+      "cost": null,
+      "range": "2-3",
+      "power": "3",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Culture Shock",
+        "cost": "2F",
+        "timing": "Continuous",
+        "effect": [
+          "Stun Immunity and +3 Armor."
+        ]
+      },
+      "effect": [
+        "HIT: Push the opponent 3 spaces."
+      ],
+      "description": "展現Raden高雅文化人與搞笑角的巨大反差。平常以防守為主強化裝甲，命中後將對手狠狠推開——就像她上一秒在聊博物館藏品，下一秒開始搞笑耍笨的巨大落差。"
+    },
+    {
+      "id": 7,
+      "name": "Yatagarasu Dive",
+      "type": "special",
+      "cost": null,
+      "range": "3-5",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Feather Step",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Move 1 or 2 spaces, then draw a card."
+        ]
+      },
+      "effect": [
+        "HIT: Pull the opponent up to 3 spaces and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "description": "以她的家紋「八咫烏」為意象。遠距離牽制技，從遠處發動攻擊並將對手拉近到自己的節奏中。Boost「鴉羽步」提供靈活移動和補牌，像烏鴉般敏捷而難以捉摸。"
+    },
+    {
+      "id": 8,
+      "name": "Grandma's Wisdom",
+      "type": "ultra",
+      "cost": "2G",
+      "range": "1-2",
+      "power": "5",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Traditional Roots",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+3 Armor and opponents cannot Push or Pull you."
+        ]
+      },
+      "effect": [
+        "HIT: Regain 3 life.",
+        "AFTER: Draw a card."
+      ],
+      "exceed_cost": "2G",
+      "description": "以她由祖母帶大的成長背景為靈感。體現傳統教養賦予她的堅韌意志——不易被動搖（防推拉）、能自我恢復（回血），展現祖母傳承給她的生命力與智慧。"
+    },
+    {
+      "id": 9,
+      "name": "Grand Exhibition",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "2-4",
+      "power": "8",
+      "speed": "3",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Museum Tour",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Draw 3 cards. Add one to your Gauge."
+        ]
+      },
+      "effect": [
+        "BEFORE: Spend up to 6 Force for +1 Power per Force spent."
+      ],
+      "exceed_cost": "3G",
+      "description": "以她策劃展覽的經歷為概念。蓄力越久威力越強，可以投入最多6點Force來大幅強化傷害，體現策展人精密規劃、層層堆疊的策展哲學。Boost「博物館導覽」快速補牌並充能。"
+    },
+    {
+      "id": 10,
+      "name": "国宝級螺鈿 - Raden's Masterpiece",
+      "type": "ultra",
+      "cost": "4G",
+      "range": "1",
+      "power": "10",
+      "speed": "4",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Shell Inlay Art",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Spend up to 3 Gauge for +2 Power per Gauge spent."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent discards cards at random until they have 3 cards in hand.",
+        "Ignore Armor. Ignore Guard."
+      ],
+      "exceed_cost": "4G",
+      "description": "終極王牌——以她的名字來源「螺鈿工藝」命名。無視一切防禦（穿甲穿盾），命中後大幅削減對手手牌。Boost「螺鈿細工」能追加投入Gauge來提升威力，如同真正的國寶級螺鈿工藝——華麗、精緻、一擊必殺。"
+    }
+  ]
+}

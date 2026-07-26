@@ -1,0 +1,231 @@
+[
+  {
+    "name": "Polka Oru ka?",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Polkappoi Greeting",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage."
+    ],
+    "description": "以Polka的招牌招呼語『ポルカいるか？いるよ！』命名的開場技。高速精準，象徵她總是熱情洋溢地向觀眾打招呼，命中後奪取節奏主導權，配合Boost抽牌進一步搶佔先機。"
+  },
+  {
+    "name": "Polkappoi!",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "What a Show!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat 1."
+      ]
+    },
+    "effect": [
+      "AFTER: Draw 1 if you have fewer cards than opponent."
+    ],
+    "description": "源自Polka的自信口頭禪『ポルカッポイ！』（不愧是我！）。靈活的突擊技，體現她做任何事都充滿自信的態度，手牌劣勢時還能補充資源，展現逆境中依然從容的表演者風範。"
+  },
+  {
+    "name": "Ringmaster's Command",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Center Stage",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Pull 1."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2.",
+      "Gain Advantage."
+    ],
+    "description": "作為『虛擬馬戲團團長』，Polka擅長掌控全場。中距離指揮型攻擊，先將對手拉入射程再推開，完美體現團長對舞台的絕對控制力。"
+  },
+  {
+    "name": "Trumpet of Chaos",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "1",
+    "boost": {
+      "name": "Off-key Blast",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Push 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard 1 card at random.",
+      "HIT: Opponent discards 1 card at random."
+    ],
+    "description": "Polka的小號以音痴聞名，但正是這份『混沌』成為她的標誌。吹響號角的同時自己也會陷入混亂（隨機棄牌），但對手也無法逃脫這刺耳噪音的影響—混亂是公平的。"
+  },
+  {
+    "name": "Fennec Dash",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Quick Feet",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2.",
+      "If you switched sides, +2 Power."
+    ],
+    "description": "繼承四分之一的耳廓狐血統，Polka擁有出色的敏捷性。高速衝刺穿越對手，繞背時威力提升，反映她靈活多變、不按牌理出牌的戰鬥風格。"
+  },
+  {
+    "name": "Zain Stampede",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "1",
+    "guard": "1",
+    "boost": {
+      "name": "ZA-IN Power",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1.",
+      "AFTER: Gain 1 Gauge if you hit."
+    ],
+    "description": "座員（粉絲名）化身為Polka的吉祥物ざいん大軍，以數量壓制對手。命中後補充手牌和能量，象徵粉絲的支持是Polka源源不斷的力量來源。"
+  },
+  {
+    "name": "Mystery Box",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "What's Inside?",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at top 2 cards of your deck. Put 1 in hand and 1 on bottom."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard 1 card.",
+      "Armor becomes X (X = discarded card's Power)."
+    ],
+    "description": "馬戲團經典道具驚奇箱—永遠不知道會跳出什麼。使用前需要犧牲手牌，但能根據棄牌的威力臨時獲得裝甲，充滿驚喜與不確定性，完美體現Polka的混沌本色。"
+  },
+  {
+    "name": "Polka Waltz",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "5",
+    "speed": "3",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "Dance Partner",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Pull 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance or Retreat 2.",
+      "Cannot be stopped."
+    ],
+    "description": "以Polka的名字來源「波爾卡舞曲」為主題的迴旋攻擊。在舞台上旋轉跳躍，無法被干擾的舞步象徵她無論遇到什麼困難都能堅持自己的節奏。高裝甲與高防禦讓她成為難以撼動的存在。"
+  },
+  {
+    "name": "NePoLaBo Special",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-5",
+    "power": "7",
+    "speed": "6",
+    "armor": "1",
+    "guard": "1",
+    "boost": {
+      "name": "Generation Unity",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2.",
+        "Gain 1 Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Push 3.",
+      "HIT: Opponent discards their hand, then draws 2."
+    ],
+    "description": "集結5期生（Nene、Botan、Lamy、Polka）力量的合作終極技。全範圍壓制，命中後重置對手手牌，體現這四人同心協力時無人能擋的氣勢—果然是最強的ねぽらぼ！"
+  },
+  {
+    "name": "Polka Overture",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-5",
+    "power": "6",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Never-ending Show",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "BEFORE: Draw 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Draw 1.",
+      "HIT: Play 1 card from your discard pile (cost reduced by 1G)."
+    ],
+    "description": "『Polka的表演永不結束！』—以華麗的序曲拉開終章的帷幕。極速先制攻擊，命中後從墓地回收卡片，象徵她總能東山再起、將氣氛推向最高潮的不屈偶像魂。"
+  }
+]

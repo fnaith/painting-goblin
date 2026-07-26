@@ -1,0 +1,239 @@
+[
+  {
+    "name": "WAH",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "WAhnderful Day",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Ina的招牌招呼語「WAH」命名。極高速度的先制攻擊，擊中後奪取先機，就像她的WAH能夠瞬間抓住觀眾的注意力並掌控全場節奏。"
+  },
+  {
+    "name": "Tentacle Swipe",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Multi-limb",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power for each card in your hand (max +3)."
+      ]
+    },
+    "effect": [
+      "HIT: Pull the opponent 1 space.",
+      "HIT: Move 1 space."
+    ],
+    "description": "以Ina的觸手能力為主題。利用多條觸手從中距離發動攻擊，手牌越多代表觸手越多、威力越強，還能將對手拉近或調整站位，展現觸手靈活多變的特性。"
+  },
+  {
+    "name": "AO-chan's Wisdom",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Ancient Knowledge",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 4 cards of your deck. Put any number on top and the rest on the bottom."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card."
+    ],
+    "description": "以Ina的夥伴「AO-chan（Ancient Ones的縮寫）」命名。這本漂浮的古書蘊含古老知識，消耗1點Force能以古書洞察牌庫，擊中後抽牌則象徵AO-chan提供的智慧啟示。"
+  },
+  {
+    "name": "Inkantation",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Forbidden Verse",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+0-1 Range.",
+        "Ignore Armor."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent discards 1 random card.",
+      "AFTER: Gain 1 Gauge."
+    ],
+    "description": "以Ina在《Idol Showdown》中的終極技「Forbidden INKantation」命名。揮灑禁忌墨水的遠程攻擊，無視裝甲並使對手混亂（隨機棄牌），累積計量條為更強招式做準備。"
+  },
+  {
+    "name": "Priestess's Blessing",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "3",
+    "armor": "3",
+    "guard": "3",
+    "boost": {
+      "name": "Gentle Touch",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+2 Guard."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "AFTER: Gain 2 life."
+    ],
+    "description": "以Ina溫柔體貼的「Mama」氣質為主題。高防禦力與回復能力體現她治癒系的一面，暈眩免疫象徵她沉穩冷靜的性格，即使身處混亂也能安撫眾人。"
+  },
+  {
+    "name": "Takotime",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tentacult Power",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed for each Force in your Gauge (max +3)."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 1 Force.",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Ina的固定直播時段「Takotime」命名。儲存在計量條中的Force代表Takodachi們的能量，越多粉絲在線力量越強，擊中後獲得節奏掌控權，如同準時開台的她總能掌握觀眾的注意力。"
+  },
+  {
+    "name": "Bonk",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Crowbar Ready",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 3 spaces."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Push 2.",
+      "HIT: Stun the opponent."
+    ],
+    "description": "以Ina威脅要用AO-chan或鐵撬（crowbar）「Bonk」違規觀眾的經典迷因為主題。近距離強力打擊，無視防禦並擊暈對手，粉絲們反而樂於被懲罰的歡樂互動展現了她的獨特魅力。"
+  },
+  {
+    "name": "Ancient Ones' Revelation",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-4",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Eldritch Whispers",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "HIT: Your opponent reveals their hand and discards 1 card of your choice."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Gain 1 Gauge for each card in your opponent's discard pile (max 2)."
+    ],
+    "exceed_cost": "2G",
+    "description": "以Ina從「Ancient Ones（古老存在）」獲得的神秘啟示為主題。解放古老存在的力量，無視裝甲並窺視對手思維（手牌），從對手的廢牌堆中汲取力量，象徵深不可測的虛空知識。"
+  },
+  {
+    "name": "Re:Vision",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Violet Echo",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards.",
+        "Discard 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Choose one: +2 Power, Advance 2 spaces, or gain 2 life.",
+      "HIT: Push 1."
+    ],
+    "exceed_cost": "3G",
+    "description": "以Ina的首張EP《Re:Vision》（2026年2月發行，收錄〈Violet〉、〈Meconopsis〉、〈Temari〉等曲）命名。代表她的藝術轉型與成長，可靈活選擇強化方向，如同EP中多元的音樂風格展現她的多才多藝。"
+  },
+  {
+    "name": "Tako∞TAKOVER",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "10",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Takodachi Swarm",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "+2 Power.",
+        "Ignore Guard."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 1 life for each card in your hand.",
+      "AFTER: Draw 2 cards."
+    ],
+    "exceed_cost": "4G",
+    "description": "以2026年1月發行的原創曲〈Tako∞TAKOVER〉命名，由Mori Calliope作詞。Ina的最強終結技，率領所有Takodachi發動全面總攻——無視一切防禦、手牌越多回復越多生命，體現她與粉絲之間無限的羈絆力量。"
+  }
+]

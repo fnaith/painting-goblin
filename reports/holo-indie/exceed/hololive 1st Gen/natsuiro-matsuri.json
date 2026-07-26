@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Konbanwasshoi!",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Festival Spirit",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage."
+    ],
+    "description": "以祭典招牌招呼「こんばんわっしょーい！」為主題。極高速度搶先行動後奪取節奏，如同她的出場總能炒熱整個直播間。"
+  },
+  {
+    "name": "Seiso Tantou",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "4",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Pure Declaration",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Guard."
+      ]
+    },
+    "effect": [
+      "Stun Immunity."
+    ],
+    "description": "以まつり自稱hololive「清楚擔當」的招牌人設為靈感。雖然嘴上說自己很純潔、實際上行為完全相反，這張防禦卡用她掛在嘴邊的「清楚」來抵擋對手的攻勢。"
+  },
+  {
+    "name": "Cheerleader Spirit",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Let's Go!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "AFTER: Draw 1 card."
+    ],
+    "description": "以まつり的啦啦隊新成員設定為主題。充滿活力的應援為自己補充力量，象徵她無論何時都能鼓舞士氣、調動氣氛的才能。"
+  },
+  {
+    "name": "Ebifrion Attack",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Kansai Old Man",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Push the opponent 1 space."
+    ],
+    "description": "以まつり的吉祥物えびふりおん（炸蝦獅子）為主題。這隻操著關西腔老爺爺口音的吉祥物突然逼近攻擊，無視防禦並推開對手，體現えびふりおん那種既可愛又莫名其妙的存在感。"
+  },
+  {
+    "name": "Sunagimo Pounce",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Cat Reflexes",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 or 2 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: Move 1 space.",
+      "HIT: Gain Advantage."
+    ],
+    "description": "以まつり緞帶上的貓咪裝飾砂肝（Sunagimo）為主題。如同貓咪般敏捷的動作讓她能在戰鬥中靈活移動，擊中後奪回先機，體現她充滿野性的反應速度。"
+  },
+  {
+    "name": "Matsurisu Gathering",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Squirrel Power",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent must discard a card at random."
+    ],
+    "description": "以まつり的粉絲群まつりす（Matsurisu，まつり＋リス/松鼠）為主題。大量的松鼠粉絲一擁而上擾亂對手，隨機破壞對手的策略，體現まつりす們在聊天室中活躍的應援景象。"
+  },
+  {
+    "name": "Donut Time",
+    "type": "special",
+    "cost": null,
+    "range": "0-2",
+    "power": "2",
+    "speed": "3",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Young Donuts",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Guard.",
+        "+1 Armor."
+      ]
+    },
+    "effect": [
+      "Gain 2 life."
+    ],
+    "description": "以まつり最愛的甜甜圈（尤其是ヤングドーナツ）為主題。吃甜甜圈回復元氣，提供額外的防禦力和生命恢復，象徵她對甜甜圈的熱愛以及甜食帶來的治癒效果。"
+  },
+  {
+    "name": "Natsu Matsuri",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-4",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Summer Fireworks",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "+1 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Push the opponent up to 2 spaces.",
+      "Gain Advantage."
+    ],
+    "exceed_cost": "2G",
+    "description": "以まつり的名字直譯「夏色祭」為主題的夏日祭典終結技。絢爛如煙花的連續攻擊無視防禦、壓制對手並奪回節奏，體現祭典的熱鬧與まつり名字中蘊含的夏日活力。"
+  },
+  {
+    "name": "NatsuFubu Bond",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "7",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Best Friend Power",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card.",
+        "Close up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: Look at the opponent's hand and discard 1 card of your choice."
+    ],
+    "exceed_cost": "3G",
+    "description": "以まつり與白上フブキ的經典組合夏フブ（NatsuFubu）為靈感。兩人深厚的羈絆化為攜手攻擊，精準破壞對手手牌並強勢推進，體現她們之間互相信賴、互相扶持的關係。"
+  },
+  {
+    "name": "God Matsuri",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-5",
+    "power": "9",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Divine Seiso",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "Ignore Armor.",
+      "HIT: The opponent discards their entire hand."
+    ],
+    "exceed_cost": "4G",
+    "description": "まつり的最終奧義——自稱「清楚の神（God Matsuri）」。解放全部力量的她無視一切防禦，清空對手所有手牌，如同她明明號稱清純卻做出最驚人行為的反差感，充滿了不可阻擋的混沌神力。"
+  }
+]

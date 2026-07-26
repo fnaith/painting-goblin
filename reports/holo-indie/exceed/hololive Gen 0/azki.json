@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Fake Fake Fake",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Debut Song",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "NOW: Reveal your hand. Draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage.",
+      "AFTER: You may discard a card; if you do, draw 1."
+    ],
+    "description": "以AZKi的出道曲命名，象徵她作為虛擬歌姬的起點。速度快、打帶跑的風格，配合手牌干擾來模仿歌曲中真假交錯的主題。"
+  },
+  {
+    "name": "Route α: The Performer",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Center Stage",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power and +1 Speed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2.",
+      "HIT: Push 1. Gain Advantage."
+    ],
+    "description": "代表AZKi的Route α路線——站在舞台中央的表演者。近距離強攻型卡片，利用前壓與推擠掌控節奏，如同她在舞台上吸引全場目光。"
+  },
+  {
+    "name": "Route β: The Introspective",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "3",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "Inner Voice",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+2 Guard.",
+        "NOW: Draw 1."
+      ]
+    },
+    "effect": [
+      "AFTER: Look at the top 2 cards of your deck. Place 1 in your hand and 1 in your discard pile."
+    ],
+    "description": "代表AZKi的Route β路線——內省的藝術家。中距離防守型卡片，透過抽牌與牌庫操控體現她細膩、情感豐富的音樂創作面向。"
+  },
+  {
+    "name": "Route γ: The Virtual Frontier",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Glitch Core",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add the top card of your deck to your Gauge. Close 2."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: The opponent must discard a random card."
+    ],
+    "description": "代表AZKi的Route γ路線——虛擬邊境。賽博風格、不可預測的技術型卡片，無視裝甲並強制對手棄牌，呼應數位科技與實驗性音樂風格。"
+  },
+  {
+    "name": "Creating Wonder",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "2",
+    "guard": "2",
+    "boost": {
+      "name": "Wonder Stage",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "NOW: Draw 2.",
+        "HIT: Gain 1 Force."
+      ]
+    },
+    "effect": [
+      "AFTER: You may place a card from your discard pile on top of your deck."
+    ],
+    "description": "以AZKi的歌曲命名，代表她為粉絲創造驚喜與感動的能力。透過抽牌與回收棄牌堆來展現持續創作的活力。"
+  },
+  {
+    "name": "Don't Stop the Floor!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "5",
+    "boost": {
+      "name": "Floor Rally",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "NOW: Close 1."
+      ]
+    },
+    "effect": [
+      "You cannot be Pushed or Pulled.",
+      "HIT: Draw 1. Gain Advantage."
+    ],
+    "description": "AZKi與粉絲之間的應援口號，象徵她與「Floor」們的緊密連結。難以被拉開距離，持續壓迫對手，體現演唱會上不間斷的熱情。"
+  },
+  {
+    "name": "Ishukan Communication",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "3",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "Heartfelt Link",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Advance or Retreat 2."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard your hand; draw 3.",
+      "HIT: The opponent discards their hand and draws 2."
+    ],
+    "description": "以AZKi的歌曲〈Ishukan Communication〉命名，表現她與粉絲之間的心靈溝通。雙方手牌重置的效果象徵真誠交流中的重新開始。"
+  },
+  {
+    "name": "Virtual Diva",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Diva's Presence",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "Stun Immunity.",
+        "NOW: Gain 1 Force."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: Gain Advantage. Close 1."
+    ],
+    "description": "AZKi的核心身份——虛擬歌姬。全能型卡片，兼具推進與連續追擊能力，展現她作為虛擬偶像的多面才華與舞台統治力。"
+  },
+  {
+    "name": "Route α Concert",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Solo Live",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "BEFORE: Advance 2; if you Advanced 2, draw 1.",
+        "HIT: Gain Advantage."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Push 2. Gain Advantage.",
+      "AFTER: Place this card into your Gauge."
+    ],
+    "description": "致敬AZKi於2019年舉辦的首場個人演唱会「Route α」。作為終極技(Ultra)，需要3點Gauge發動，命中後回收至Gauge象徵演唱會的能量循環與永續表演。"
+  },
+  {
+    "name": "SorAZ Harmony",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "6",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Twinkle of Diva",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Close 3. You may spend 1 Force; if you do, Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Armor, Ignore Guard.",
+      "HIT: Draw 3.",
+      "AFTER: Gain 2 Force."
+    ],
+    "description": "AZKi與ときのそら(Tokino Sora)的夢幻合作組合「SorAZ」。作為最強終極技需要4點Gauge，無視防禦的高傷害攻擊，命中後大量抽牌與獲得Force，展現兩代虛擬歌姬聯手的壓倒性力量。"
+  }
+]

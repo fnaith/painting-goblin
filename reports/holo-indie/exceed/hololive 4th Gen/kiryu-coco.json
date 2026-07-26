@@ -1,0 +1,231 @@
+[
+  {
+    "name": "Good Morning Motherf*ckers",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "AsaCoco Wake-Up",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw a card, then you may discard a card to gain Advantage (you take the next turn regardless of who initiated the Strike)."
+      ]
+    },
+    "effect": [
+      "HIT: Move 1 space and your opponent discards a card at random."
+    ],
+    "description": "招牌台詞『Good morning motherf*ckers！』作為高速先制攻擊，象徵她每天早上6點的AsaCoco晨間新聞，以迅雷不及掩耳的速度喚醒對手並造成混亂。"
+  },
+  {
+    "name": "Dragon Tail Sweep",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tail Buttplug",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Move 1 space and Strike. If you switched sides, opponent discards a card at random."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 2 spaces. You may close the distance by 1 space."
+    ],
+    "description": "龍尾橫掃攻擊，參考她的招牌尾巴（被粉絲戲稱為buttplug）以及她身高180cm的優勢，以長距離尾部攻擊將對手推開，體現她的龍族本質。"
+  },
+  {
+    "name": "Kaichou's Command",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tatsunoko Assembly",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Add up to 2 cards from your hand to your Gauge, then draw until you have 4 cards in hand."
+      ]
+    },
+    "effect": [
+      "BEFORE: Your opponent reveals their hand. Choose one card; they must discard it or discard 2 at random."
+    ],
+    "description": "桐生會會長的號令，展現她的領導力與組織能力。參考她身為桐生會會長的身份以及粉絲名Tatsunoko（小龍），能夠調度資源並指揮作戰。"
+  },
+  {
+    "name": "AsaCoco Overdose",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Prescription Strength",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power and Ignore Armor, but at the end of this Strike take 2 damage."
+      ]
+    },
+    "effect": [
+      "BEFORE: You may spend up to 3 life for +1 Power per life spent.",
+      "HIT: Gain Advantage (you take the next turn regardless of who initiated the Strike)."
+    ],
+    "description": "參考AsaCoco藥物迷因系列，使用後獲得強大強化但伴隨副作用。體現她直播中大膽挑戰邊界的精神——高風險高回報，過量使用會出現各種誇張症狀。"
+  },
+  {
+    "name": "Reddit Shitpost",
+    "type": "special",
+    "cost": null,
+    "range": "3-5",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Meme Review",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 3 cards of your opponent's deck. Discard one and rearrange the rest. Draw a card."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Your opponent discards a card at random and you gain 1 life."
+    ],
+    "description": "參考她的招牌Reddit迷因回顧節目，以海外網路迷因作為心理攻擊。能夠繞過對手的防禦並擾亂其牌組，象徵她作為JP與EN粉絲橋樑的獨特地位。"
+  },
+  {
+    "name": "Coco Kaine",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Identity Crisis",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card. Your opponent reveals their hand. If they have it, add this card to your Gauge and draw 2 cards. If not, draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Copy the effect text of the top card of your opponent's discard pile until end of turn."
+    ],
+    "description": "參考Coco Kaine分身設定——如果在美國發展的分身會是中年大叔形象。這張卡片以極速和模仿能力為特色，象徵她的雙語能力和在海外市場的影響力，能夠複製對手的招式。"
+  },
+  {
+    "name": "Dragon Breath",
+    "type": "special",
+    "cost": null,
+    "range": "4-6",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Incinerate",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power and attacks at range 4-6 cannot be guarded."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "BEFORE: You may discard a card to make this attack unblockable."
+    ],
+    "description": "西方龍的招牌能力——龍息火焰遠程攻擊。參考她設定中是真正的西方龍（7公尺龍型態），以超高溫火焰從遠處焚燒對手，無視裝甲。"
+  },
+  {
+    "name": "KanaCoco Combo",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Bickering Couple",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor and AFTER: Gain Advantage (you take the next turn regardless of who initiated the Strike). Discard this boost at end of turn."
+      ]
+    },
+    "effect": [
+      "HIT: You may add a card from your discard to your Gauge.",
+      "AFTER: Move 1 space."
+    ],
+    "description": "參考她與天音かなた的KanaCoco夫妻檔組合。兩人被形容為吵鬧的夫妻檔（夫婦喧嘩），這張卡片體現她們之間的默契與互補，通過合作獲得額外優勢。"
+  },
+  {
+    "name": "Blue Super Chat Flush",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-4",
+    "power": "7",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Tatsunoko Donation Drive",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Add up to 3 cards from your hand to your Gauge. For each card added, gain 2 life."
+      ]
+    },
+    "effect": [
+      "BEFORE: +1 Power for each card in your Gauge (max +5).",
+      "HIT: Draw a card for each point of damage dealt."
+    ],
+    "exceed_cost": "2G",
+    "description": "參考Tatsunoko（小龍們）的藍色Super Chat刷屏傳統。藍色Super Chat大量湧入聊天室的畫面成為Coco台的招牌景觀，展現粉絲的忠誠與財力。作為Ultra卡，能夠利用蓄積的資源（Gauge）發動毀滅性打擊。"
+  },
+  {
+    "name": "Kiseki Musubi",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "2",
+    "power": "12",
+    "speed": "5",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "Thank You, Tatsunoko",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Regain 5 life. Until the end of your next turn, you have Stun Immunity."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "BEFORE: You may discard any number of cards. +1 Power and +1 Speed per card discarded.",
+      "AFTER: If this attack hit, gain Advantage."
+    ],
+    "exceed_cost": "4G",
+    "description": "參考她的畢業原創曲〈Kiseki Musubi〉（奇跡結び）。這張卡片代表她作為Hololive成員的巔峰與告別——凝聚所有力量發動最後一擊。高成本但效果強大，象徵她畢業時491,000人同時觀看的傳奇場面以及與粉絲的羈絆。"
+  }
+]

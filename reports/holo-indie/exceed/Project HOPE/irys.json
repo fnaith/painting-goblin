@@ -1,0 +1,233 @@
+﻿[
+  {
+    "name": "HiRyS, it's IRyS!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hopium Start",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以IRyS的招牌招呼「HiRyS, it's IRyS!」為主題。她以此獨特的押韻方式自我介紹，最高速度讓她比任何人都更快打響名號。擊中後奪回主動權，如同她在直播開場瞬間吸引所有目光的魅力。Boost「Hopium開場」補充手牌，象徵她用希望填滿世界的承諾。"
+  },
+  {
+    "name": "Seiso Nephilim",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "1",
+    "guard": "1",
+    "boost": {
+      "name": "Angelic Aura",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "AFTER: Gain 2 life."
+    ],
+    "description": "以IRyS自稱的「seiso nephilim（清純的半神）」身份為主題。半天使的純潔光環提供穩固防禦和回復能力，代表她天使一面帶來的治癒感。Boost「天使光環」持續強化防禦，象徵她即使在混亂中仍保持的純真本質與堅定意志。"
+  },
+  {
+    "name": "Yabai!",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Demon's Whisper",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "The opponent must discard a card at random."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: The opponent must discard a card at random."
+    ],
+    "description": "以IRyS的招牌感嘆「Yabai！（やばい）」和她不時流露的惡魔本性為主題。無視防守強行突破，命中與Boost雙重棄牌效果擾亂對手節奏，體現她那令人措手不及的混沌時刻。正如官方描述所言——半惡魔的不穩定本質偶爾會以最出人意料的「yabai」瞬間展現。"
+  },
+  {
+    "name": "Hopium",
+    "type": "special",
+    "cost": null,
+    "range": "1-1",
+    "power": "1",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Hope Soda",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 3 life."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card for each Force in your Gauge (max 2)."
+    ],
+    "description": "以IRyS的代表性概念「Hopium」（Hope + Opium）為主題。近距離低傷害但命中後可根據累積的Force抽取最多2張牌，象徵她注入世界的希望隨粉絲支持而成長。Boost「Hope汽水」回覆生命，致敬她與Vite Ramen聯名推出的Hopium汽水——真正的希望飲料。"
+  },
+  {
+    "name": "Caesura of Despair",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "5",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "VSinger",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Draw 1 card."
+    ],
+    "description": "以IRyS的出道原創單曲「Caesura of Despair（絕望的休止符）」為主題。她是首位以原創曲出道的Hololive EN成員，此牌代表她用歌聲在絕望中劃下休止符、帶來希望的VSinger使命。長射程高傷害，無視裝甲並補充資源，如同她的歌聲穿透一切阻礙直達人心。"
+  },
+  {
+    "name": "Bloom & Gloom",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "One-Winged Flight",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: Move 1 space.",
+      "HIT: Push the opponent 2 spaces."
+    ],
+    "description": "以IRyS與Tsukumo Sana共同設計的官方吉祥物「Bloom（白）& Gloom（黑）」為主題。這對單翼黑白色貓咪需要彼此合作才能飛翔，完美呼應IRyS天使與惡魔的雙重本性。Boost「單翼飛行」代表二者合力時的機動性，命中推開對手體現她們可愛外表下的可靠守護。"
+  },
+  {
+    "name": "BaeRyS Marriage",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Divorce Papers",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card. The opponent must discard a copy of that card, or reveal a hand without any."
+      ]
+    },
+    "effect": [
+      "AFTER: Add 1 card from your hand to your Gauge. If you do, the opponent discards 1 Gauge."
+    ],
+    "description": "以IRyS與Hakos Baelz的經典搭檔「BaeRyS」為主題。兩人從2021年開始的「結婚/離婚」循環已成為Hololive EN最具代表性的組合梗之一。命中後互相制衡的效果象徵這段充滿火花又互相拉扯的關係。Boost「離婚協議書」精準破壞對手關鍵卡牌，呼應這對歡喜冤家永無止境的鬥嘴循環。"
+  },
+  {
+    "name": "Yoisho~",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Effort Sound",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1 space.",
+      "HIT: Retreat up to 1 space."
+    ],
+    "description": "以IRyS坐下或用力時發出的招牌聲音「Yoisho~」為主題。高速度靈活位移，攻擊前拉近距離、命中後拉開身位，一招一式中展現她動作的可愛節奏感。Boost「發力音效」持續強化速度，象徵她那句口頭禪總是伴隨著元氣滿滿的行動力。"
+  },
+  {
+    "name": "DANGERyS",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Beyond the Stars",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 2 cards.",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "3G",
+    "description": "以IRyS預定於2026年10月6日舉辦的首場個人演唱會「HOPE 𝄆 Beyond the Stars」以及首張專輯「DANGERyS」為主題。均衡強力的全能終極技，命中後補充資源並奪回主動權，象徵她作為VSinger的巔峰時刻——當她在舞台上超越星辰之時，全世界都為之屏息。"
+  },
+  {
+    "name": "YaBAI!",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-2",
+    "power": "10",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Nephilim Awakening",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "+3 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "Ignore Armor.",
+      "HIT: Your opponent must discard their entire hand."
+    ],
+    "exceed_cost": "4G",
+    "description": "以IRyS的第四張EP名稱「YaBAI」為主題——這個名字是她招牌口頭禪「やばい」的變體，完美概括了她從清純到混沌、從天使到惡魔的雙重反差。終極奧義釋放半神真身，無視一切防禦並清空對手手牌，象徵她在音樂中展現的壓倒性感染力——當IRyS火力全開時，這個世界只能大喊一聲「YaBAI！」。"
+  }
+]

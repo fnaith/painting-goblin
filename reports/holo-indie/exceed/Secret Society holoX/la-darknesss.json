@@ -1,0 +1,230 @@
+[
+  {
+    "name": "刮目せよ！！",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "来る時に備えよ！",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ]
+    },
+    "effect": [
+      "HIT: +2 Power if you initiated this Strike."
+    ],
+    "description": "取材自La+ Darknesss的招牌開場台詞「刮目せよ！！」。高速的先制攻擊，體現她自信滿滿的總帥風範和「看好啦！」的宣告氣勢。Boost「来る時に備えよ！」則是她的離場台詞，呼應她來去自如的領袖形象。"
+  },
+  {
+    "name": "山田ストライク",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "YMD",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed.",
+        "When this attack hits, the opponent must discard a card at random."
+      ]
+    },
+    "effect": [
+      "AFTER: Retreat 1 or 2 spaces."
+    ],
+    "description": "源自粉絲口號「Yes My Dark」被誤讀為「山田(YMD)」的經典迷因。這張卡代表她與粉絲之間獨特的互動文化——意想不到的範圍和擾亂對手手牌的效果，象徵「山田」這個綽號在粉絲間意外傳播的趣味性。"
+  },
+  {
+    "name": "Dark Breath",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "暗黒の息吹",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "HIT: Gain 1 life."
+      ]
+    },
+    "effect": [
+      "Ignore Guard."
+    ],
+    "description": "取自La+ Darknesss出道一週年原創曲《Dark Breath》。中距離暗屬性攻擊，無視防禦的效果代表黑暗力量的侵蝕性，Boost附帶吸血效果象徵她的歌曲帶給聽眾的力量與治癒。"
+  },
+  {
+    "name": "封印解放・壱ノ型",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "力の解放",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power for the rest of the round."
+      ]
+    },
+    "effect": [
+      "BEFORE: Move 1 space.",
+      "HIT: You may seal one of your Continuous Boosts. If you do, +2 Power."
+    ],
+    "description": "參考La+ Darknesss的角色設定：原本擁有巨大力量但大部分被封印。這張卡代表她逐步解開封印的過程，近距離高傷害且自帶裝甲，Boost需要消耗Force來解放更強力量，體現封印解除的代價與回報。"
+  },
+  {
+    "name": "ラプラトンの使者",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "偵察命令",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 2 cards of your deck. You may put them back in any order."
+      ]
+    },
+    "effect": [
+      "HIT: Move the opponent 1 space.",
+      "AFTER: Close 2 spaces."
+    ],
+    "description": "靈感來自她頭上的烏鴉夥伴（粉絲常戲稱烏鴉才是本體）。超長射程代表烏鴉從遠處偵察攻擊，Boost的牌庫操控體現烏鴉的「情報收集」能力，命中後拉近距離則象徵烏鴉完成偵察後回報主人。"
+  },
+  {
+    "name": "Yes My Dark！",
+    "type": "special",
+    "cost": null,
+    "range": "2",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Plusmateの応援",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw a card.",
+        "Seal this card."
+      ]
+    },
+    "effect": [
+      "BEFORE: If you have fewer cards in hand than the opponent, +2 Power."
+    ],
+    "description": "代表粉絲回應她「刮目せよ！！」的經典口號。高速且自帶Guard的效果象徵粉絲的聲援形成一道防護，Boost抽牌後封印自己則體現「Yes My Dark」是一呼一應的即時互動——用完即止，呼應La+短時間集中型的直播風格。"
+  },
+  {
+    "name": "総帥の号令",
+    "type": "special",
+    "cost": "1F",
+    "range": "1-3",
+    "power": "4",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "秘密結社の結束",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor for each of your Continuous Boosts in play."
+      ]
+    },
+    "effect": [
+      "HIT: You may add one of your sealed cards to your hand."
+    ],
+    "description": "取材自她作為秘密結社holoX總帥的身份。需要消耗Force展現領袖威嚴，高Guard值代表總帥的威壓感，Boost隨著場上持續效果增加裝甲象徵holoX成員的羈絆支援，命中回收封印牌暗示總帥能調動所有資源。"
+  },
+  {
+    "name": "WakuWaku DARK NIGHTMARE",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "7",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "悪夢の幕開け",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Spend any amount of Force. For each Force spent, +1 Power."
+      ]
+    },
+    "effect": [
+      "Ignore Guard, Ignore Armor.",
+      "HIT: Push 2."
+    ],
+    "description": "取自La+ Darknesss首次個人演唱會名稱（與日清U.F.O.合作）。作為Ultra卡需要消耗3格Gauge施放，無視一切防禦的效果象徵演唱會的壓倒性舞台魅力，Boost可自由消耗Force增傷反映演唱會中不斷升級的演出規模。"
+  },
+  {
+    "name": "真・ラプラス・ダークネス",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "12",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "全知全能",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Name a Normal Attack. The opponent cannot Strike with that card this turn."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2 spaces.",
+      "If this attack hits, +2 Power for each of your sealed cards."
+    ],
+    "description": "代表La+ Darknesss解除所有封印後的真正型態，名稱源自角色名的完整版（ラプラス・ディア・ハイエスト…）。極近距離的毀滅性打擊（Power 12），Boost「全知全能」呼應她名字的靈感來源「拉普拉斯妖」（Laplace's Demon）——理论上能預知一切的存在。"
+  },
+  {
+    "name": "ラプラス妖の覚醒",
+    "type": "astral",
+    "cost": "6G",
+    "range": "1-4",
+    "power": "8",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "因果の予測",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Choose and discard a card from the opponent's hand at random."
+      ]
+    },
+    "effect": [
+      "HIT: You may choose any number of cards from your discard pile. Seal them.",
+      "This card cannot be stopped by Guard or Armor."
+    ],
+    "description": "終極必殺卡，命名自拉普拉斯妖（Laplace's Demon）——一個知道宇宙中所有粒子位置與動量的理論存在。需要6格Gauge的超高代價，但效果極為霸道：隨機棄對手手牌、封印自己棄牌堆的任意卡片，且完全無法被防禦。體現拉普拉斯妖「全知全能、無可抵擋」的概念。"
+  }
+]

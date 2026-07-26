@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Boat Goes Binted",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Binted Navigation",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 2 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent discards a card at random.",
+      "AFTER: Draw a card."
+    ],
+    "description": "「Boat Goes Binted」是Gigi在Minecraft直播中帶動的經典迷因，這張牌體現了她擅長復活老迷因、製造混亂的特質。高速低攻、附帶干擾效果，象徵迷因的快速傳播與不可預測性。"
+  },
+  {
+    "name": "GG Fister",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "GG Energy",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Push the opponent 1 space and gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "靈感來自Gigi的經典名言「GG stands for GIGI!」和出道介紹詞「The Fister」。近距離強力打擊，命中後取得先手權，展現她直接了當、充滿自信的個性。"
+  },
+  {
+    "name": "Chaser Instinct",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Relentless Pursuit",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 3 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1 space.",
+      "HIT: Draw a card."
+    ],
+    "description": "呼應她官方設定的「追獵者（Chaser）」身份。這張牌強調追擊與壓制，透過接近對手並抽牌來建立節奏優勢，體現她憑直覺追蹤目標的天賦。"
+  },
+  {
+    "name": "Gremlin Trick",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Gremlin Shenanigans",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Both players discard a card at random."
+      ]
+    },
+    "effect": [
+      "HIT: You may return this card to your hand instead of discarding it."
+    ],
+    "description": "忠實呈現Gigi的「Gremlin（搗蛋鬼）」性格。這張干擾牌讓雙方隨機棄牌，但她能回收此牌繼續騷擾，就像她總是想到新點子來捉弄周圍的人。"
+  },
+  {
+    "name": "Brainrot Wave",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Synaptic Overload",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Guard."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent discards cards from the top of their deck equal to the damage dealt."
+    ],
+    "description": "源自她與Cecilia Immergreen被稱為「腦腐二人組（Brainrot Duo）」的粉絲愛稱。此牌透過牌組破壞來模擬「腦腐」的擴散效果，代表這對組合的招牌混亂能量。"
+  },
+  {
+    "name": "Gi Murin!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Morning Star",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Add the top card of your deck to your Gauge."
+      ]
+    },
+    "effect": [
+      "AFTER: Move up to 2 spaces.",
+      "AFTER: If you are at range 1 from the opponent, gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Gigi自創的打招呼方式命名。全遊戲最高速的攻擊，雖然威力極低，但能快速建立資源與位置優勢，象徵她活力充沛、總能以驚人速度展開行動的風格。"
+  },
+  {
+    "name": "CCGG MADNESS",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "4",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Brainrot Duo",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Strike.",
+        "You may add a copy of a card from your discard to your hand."
+      ]
+    },
+    "effect": [
+      "HIT: You may return 1 card from your Gauge to your hand.",
+      "AFTER: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "exceed_cost": "2G",
+    "description": "致敬Gigi與Cecilia的聯合3D LIVE及原創歌曲。作為雙人組合技，此牌兼具速度與靈活性，命中後可回收資源並搶佔先機，重現舞台上兩人的絕妙默契。"
+  },
+  {
+    "name": "CHAOS THEORY",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "4",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Chaos Emergence",
+      "cost": "2F",
+      "timing": "Instant",
+      "effect": [
+        "Both players shuffle their hands into their decks and draw 4 cards."
+      ]
+    },
+    "effect": [
+      "When you would discard cards from your hand during this Strike, your opponent discards that many cards at random instead."
+    ],
+    "exceed_cost": "3G",
+    "description": "將Gigi獲獎無數的「混沌」特質發揮到極致的大招。發動時雙方重洗牌庫，徹底打亂局勢，完美詮釋她不可預測、隨時能顛覆戰局的混沌能量。"
+  },
+  {
+    "name": "ABOVE BELOW",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-5",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Melody of Freedom",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 2 life.",
+        "Draw a card."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: You may spend any amount of Gauge for +1 Power per Gauge spent this way."
+    ],
+    "exceed_cost": "2G",
+    "description": "以Gigi的出道單曲命名。這張牌代表她自由奔放的靈魂，無視防禦並可消耗計量條增傷，如同她的歌聲一樣穿透力十足且充滿變化。"
+  },
+  {
+    "name": "The Fister",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "9",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "One Punch",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Your opponent discards their entire hand."
+    ],
+    "exceed_cost": "4G",
+    "description": "來自Gigi出道自我介紹中的傳奇台詞。這是最強的近距離終結技，雖然消耗巨大，但命中能清空對手手牌，正如這句台詞帶給觀眾的衝擊力一樣震撼。"
+  }
+]

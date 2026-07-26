@@ -1,0 +1,240 @@
+{
+  "name": "Hiodoshi Ao",
+  "cards": [
+    {
+      "id": 1,
+      "name": "青ペン",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "2",
+      "speed": "9",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "即興連載",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Speed and draw a card."
+        ]
+      },
+      "effect": [
+        "BEFORE: Draw a card."
+      ],
+      "description": "以青驚人的繪畫速度與直播繪圖（青ペン画伯）為靈感。極高速度讓她能搶先行動，命中前補牌象徵她創作靈感源源不絕。Boost「即興連載」進一步疊加速度和抽牌，體現她能在短時間內畫出高品質作品的實力。"
+    },
+    {
+      "id": 2,
+      "name": "〆切修羅",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "6",
+      "speed": "3",
+      "armor": "0",
+      "guard": "4",
+      "boost": {
+        "name": "深夜の追い込み",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Power. HIT: Gain 2 life."
+        ]
+      },
+      "effect": [
+        "BEFORE: You may spend up to 3 life. +1 Power per life spent."
+      ],
+      "description": "以青頻繁陷入的截稿地獄「〆切修羅」為主題。犧牲生命來換取毀滅性近距離傷害，體現她在死線前燃燒自己趕稿的慘烈狀態。Boost「深夜の追い込み」延續修羅場氛圍——越拼越猛，命中後回血象徵交稿後的短暫解脫。"
+    },
+    {
+      "id": 3,
+      "name": "青君の流儀",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "4",
+      "boost": {
+        "name": "男前",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Power and Stun Immunity."
+        ]
+      },
+      "effect": [
+        "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "description": "以青自稱「青君」的男前帥氣風格為概念。穩健的中速攻擊搭配Guard防守，命中後奪回節奏權，展現她表面上遊刃有餘的酷勁——就像她自我介紹時那句「殘念！青君でした！」的從容自信。"
+    },
+    {
+      "id": 4,
+      "name": "ギャップ萌え",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "4",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "素の青",
+        "cost": "1F",
+        "timing": "Instant",
+        "effect": [
+          "The opponent discards a random card. Draw a card."
+        ]
+      },
+      "effect": [
+        "BEFORE: Switch this card's Power and Speed until end of Strike."
+      ],
+      "description": "以青最大的魅力——反差萌為核心設計。BEFORE效果將Power與Speed互換，使對手難以預測攻勢，如同她冷酷帥哥外表下藏著害羞宅女的巨大反差。Boost「素の青」揭露真實面貌——強制棄牌並補牌，讓對手措手不及。"
+    },
+    {
+      "id": 5,
+      "name": "眼鏡越しの観察",
+      "type": "special",
+      "cost": null,
+      "range": "2-5",
+      "power": "1",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "作家の目",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+0-1 Range and look at the top card of your deck."
+        ]
+      },
+      "effect": [
+        "BEFORE: Look at the opponent's hand. Choose a card and the opponent discards it."
+      ],
+      "description": "以青的招牌眼鏡為意象。身為漫畫家，她擁有敏銳的觀察力——能看穿對手手牌並進行精準干擾。遠距離低威力，但高速確保先手，體現她透過鏡片冷靜分析戰局、一擊中的的偵察型戰鬥風格。"
+    },
+    {
+      "id": 6,
+      "name": "171cmのリーチ",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "3",
+      "speed": "4",
+      "armor": "0",
+      "guard": "3",
+      "boost": {
+        "name": "天高く",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Range and +1 Armor."
+        ]
+      },
+      "effect": [
+        "HIT: Push 1 or 2 spaces."
+      ],
+      "description": "以青171cm的ReGLOSS最高身高為特色。利用長臂優勢獲得優秀的攻擊範圍，命中後將對手推開維持安全距離。Boost「天高く」進一步延伸範圍並強化防禦，凸顯她在ReGLOSS中高人一等的存在感（尤其是對比153cm的奏）。"
+    },
+    {
+      "id": 7,
+      "name": "夜景散歩",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "2",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "シャッターチャンス",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Move up to 2 spaces. Draw a card."
+        ]
+      },
+      "effect": [
+        "HIT: Move 1 or 2 spaces.",
+        "AFTER: If you moved this turn, draw a card."
+      ],
+      "description": "以青喜愛夜景攝影和散步的興趣為靈感。高機動性搭配移動後補牌，模擬她帶著相機在城市中穿梭、尋找完美拍攝角度的悠哉節奏。Boost「快門機會」提供靈活位移並補牌，像捕捉瞬間美景般把握戰機。"
+    },
+    {
+      "id": 8,
+      "name": "パンドラの部屋",
+      "type": "special",
+      "cost": null,
+      "range": "2",
+      "power": "X",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "何か出てきた",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Discard the top 3 cards of your deck. Add one to your Gauge. Draw one."
+        ]
+      },
+      "effect": [
+        "BEFORE: Reveal the top 3 cards of your deck. This card's Power equals the number of Special cards revealed."
+      ],
+      "description": "以青傳說級髒亂的房間「パンドラの箱」為主題。Power數值完全隨機——取決於牌庫頂揭示的特技卡數量，如同她房間裡總有不為人知的東西跑出來。Boost「何か出てきた」同樣充滿不確定性，完美體現那扇不該打開的房門後的混沌。"
+    },
+    {
+      "id": 9,
+      "name": "シンメトリー",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": "6",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "均衡の旋律",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Draw until you have as many cards as the opponent. Gain Advantage."
+        ]
+      },
+      "effect": [
+        "HIT: Add the top card of your discard pile to your Gauge. Draw a card."
+      ],
+      "exceed_cost": "3G",
+      "description": "以青的原創單曲《Symmetry》命名。所有數值均為6的完美對稱——Power、Speed、Range（1-3）和Cost（3G）皆象徵平衡之道。命中後充能補牌維持資源循環，如同歌曲所傳達的和諧與均衡。Boost「均衡の旋律」將手牌調整至與對手相同數量並奪回節奏，體現音樂與戰鬥的雙重韻律感。"
+    },
+    {
+      "id": 10,
+      "name": "最終話 - Final Chapter",
+      "type": "ultra",
+      "cost": "4G",
+      "range": "1-2",
+      "power": "8",
+      "speed": "4",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "読者への感謝",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Discard any number of cards from your hand. +2 Power per card discarded this way."
+        ]
+      },
+      "effect": [
+        "BEFORE: If the opponent is at half life or less, +3 Power.",
+        "HIT: The opponent discards their hand and draws 2 cards.",
+        "Ignore Armor. Ignore Guard."
+      ],
+      "exceed_cost": "4G",
+      "description": "以青在2025年10月的突然畢業為意象——漫畫的最終章總是令人措手不及。終極王牌無視一切防禦，對低生命對手造成毀滅性打擊。Boost「読者への感謝」可犧牲手牌來追加傷害，象徵她燃燒自己畫出最終回。命中後強制重置對手手牌，如同完結篇帶給讀者的震撼——一切歸零，重新開始。"
+    }
+  ]
+}

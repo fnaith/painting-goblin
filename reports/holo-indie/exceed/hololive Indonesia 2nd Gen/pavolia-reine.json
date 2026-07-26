@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Peacock Fan Dance",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Royal Elegance",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card.",
+        "Add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Advance or Retreat 1.",
+      "AFTER: Gain 1 life."
+    ],
+    "description": "以Reine的招牌孔雀羽毛扇為主題。優雅的扇舞兼具攻擊與回復效果，代表她表面端莊高貴的淑女形象，擅長控制戰鬥距離與節奏。"
+  },
+  {
+    "name": "Turkey Flap",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "3",
+    "boost": {
+      "name": "Kalkun!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Your opponent discards 1 random card."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: Your opponent cannot play Boost effects until the end of their next turn."
+    ],
+    "description": "出道直播中Reine誤稱自己為火雞（Kalkun）的經典迷因。混亂的攻擊讓對手也搞不清狀況，無視裝甲代表「我到底是孔雀還是火雞？」的身分錯亂效果。"
+  },
+  {
+    "name": "Tatang Tambourine",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rhythm Section",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Speed.",
+        "HIT: Draw 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1.",
+      "HIT: Push 1.",
+      "AFTER: Gain Advantage."
+    ],
+    "description": "Reine的愛用鈴鼓Tatang Tambourine化為戰鬥道具。輕快的節奏打亂對手步伐，命中後取得先手權，如同她在SC朗讀環節中用鈴鼓節奏掌控全場氛圍。"
+  },
+  {
+    "name": "Watermelon Room",
+    "type": "special",
+    "cost": null,
+    "range": "2-5",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "Solitary Confinement",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "The opponent Retreats 2 spaces."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "BEFORE: Name a card type (special or ultra). The opponent cannot play cards of that type until the end of their next turn."
+    ],
+    "description": "來自《House Flipper》中誕生的西瓜反省室。遠程施法將對手強制關入反省室，限制其特定類型的行動——「你已經被盯上了，乖乖進去反省吧」。"
+  },
+  {
+    "name": "KUSALAND Mayhem",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "No Safety Guarantee",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power.",
+        "BEFORE: The opponent discards 1 card."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "CRITICAL: +2 Power.",
+      "HIT: Push 2."
+    ],
+    "description": "KUSALAND——那座讓人尖叫的恐怖遊樂園。高威力但極慢的攻擊如同故障的遊樂設施，難以躲避但破壞力驚人，命中後將對手遠遠推開。"
+  },
+  {
+    "name": "It's Fine",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "7",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Stay Calm",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Stun Immunity.",
+        "NOW: Draw 1."
+      ]
+    },
+    "effect": [
+      "BEFORE: If your life is lower than your opponent's, +2 Power and +2 Guard.",
+      "HIT: Gain 2 life."
+    ],
+    "description": "Reine的口頭禪「It's fine」。每當出錯時用來安慰自己，越劣勢越能發揮效果——嘴上說沒關係實際上拚命挽回局面，代表她永不放棄的樂觀精神。"
+  },
+  {
+    "name": "GWS",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "0",
+    "speed": "8",
+    "armor": "3",
+    "guard": "5",
+    "boost": {
+      "name": "Medical Advice",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Cancel an opponent's Boost effect."
+      ]
+    },
+    "effect": [
+      "BEFORE: Name a card. The opponent must discard it from their hand (if able).",
+      "AFTER: Gain 3 life."
+    ],
+    "description": "SC朗讀環節中Reine對尷尬撩人台詞的標準回應「Get Well Soon」。以冷漠不失禮貌的態度打發對手，剝奪其關鍵卡片並恢復自身狀態，如同把撩人攻勢當成疾病來治療。"
+  },
+  {
+    "name": "Engine Rev",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "3",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Vroom Vroom",
+      "cost": "-",
+      "timing": "Cancel 1\nInstant",
+      "effect": [
+        "Advance up to 3 spaces.",
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 2.",
+      "HIT: The opponent discards 1 card at random.",
+      "AFTER: Gain Advantage."
+    ],
+    "description": "Reine獨特的汽車引擎笑聲化為衝刺攻擊。發動時如引擎轟鳴般直衝對手，命中後讓對手混亂棄牌，自己則趁機搶回節奏主導權。"
+  },
+  {
+    "name": "Sip Some Tea",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Afternoon Tea",
+      "cost": "-",
+      "timing": "Cancel 1\nContinuous",
+      "effect": [
+        "+2 Guard.",
+        "NOW: Draw 1.",
+        "AFTER: Gain 1 life."
+      ]
+    },
+    "effect": [
+      "BEFORE: Draw up to 2 cards.",
+      "HIT: Gain 3 life. The opponent discards 1 card.",
+      "AFTER: Close 1."
+    ],
+    "exceed_cost": "2G",
+    "description": "Reine的原創單曲《Sip Some Tea》化為Ultra卡。品茶的優雅意象轉為從容的戰鬥姿態——邊喝茶邊作戰，抽牌回復的同時不失優雅地逼迫對手後退。"
+  },
+  {
+    "name": "Salam MERAKyats!",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1",
+    "power": "7",
+    "speed": "4",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "United We Stand",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "BEFORE: +1 Power for each card in your Gauge.",
+      "HIT: Draw 2 cards. Gain 2 life.",
+      "This attack cannot be stopped by Guard or Armor."
+    ],
+    "exceed_cost": "3G",
+    "description": "Reine的直播結束告別語「Salam MERAKyats!」，代表她與MERAKyats（粉絲）之間的深厚羈絆。集結所有支持力量發動的最終終結技，Gauge越充實威力越強大。"
+  }
+]

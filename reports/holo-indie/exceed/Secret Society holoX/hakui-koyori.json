@@ -1,0 +1,227 @@
+[
+  {
+    "name": "こんこよ！",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "9",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "ごきげんよう！",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw a card."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "こより的招牌招呼「こんこよ！」——由「こんにちは/こんばんは」和「こより」組合而成的獨特問候。全卡組最高速度（Speed 9）的先制攻擊，象徵她元氣滿滿地拉開直播序幕。Boost可以抽牌補充資源，命中後搶奪先機，體現她總是在登場時就抓住觀眾注意力的魅力。"
+  },
+  {
+    "name": "こよりニウム照射",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "栄養補給！",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "HIT: Gain 2 life."
+      ]
+    },
+    "effect": [
+      "Ignore Guard."
+    ],
+    "description": "源自こより虛構的營養素「こよりニウム」——她聲稱觀看直播會產生這種神奇能量。中距離能量射線無視防禦，代表こよりニウム穿透一切直達觀眾心靈。Boost的吸血效果象徵粉絲從こより直播中獲得能量與治癒，而她的活力也來自粉絲的支持。"
+  },
+  {
+    "name": "あさこよ！",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "情報整理",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 2 cards of your deck. You may put them back in any order."
+      ]
+    },
+    "effect": [
+      "AFTER: Draw a card."
+    ],
+    "description": "來自こより每週二五早上7點的定番資訊節目「あさこよ！」。穩定的中速攻防一體卡，Guard 2代表節目中分享的歡樂早晨時光。Boost的牌庫頂部檢索象徵こより整理hololive情報的過程，命中後抽牌如同節目結束時她說的「おつこよ！」——美好的一天從這開始。"
+  },
+  {
+    "name": "実験開始！",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "5",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "成功？失敗？",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Name a card. The opponent must reveal their hand and discard all copies of it, then Strike."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 1 space.",
+      "HIT: The opponent must discard a card at random."
+    ],
+    "description": "代表こより永不停歇的實驗精神！自稱天才的她總是在進行各種發明與測試。Boost「成功？失敗？」的看手牌與強制棄牌效果象徵實驗結果的隨機性，命中後的隨機棄牌反映實驗的不可預測副作用。近距離搭配裝甲，體現她在實驗室中埋頭研究的專注姿態。"
+  },
+  {
+    "name": "ココロ、行くよ！",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "偵察完了",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Retreat up to 3 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: You may move 1 space."
+    ],
+    "description": "呼喚こより的機器郊狼夥伴「ココロ」（Kokoro）出擊！ココロ是こより親手製作的第一台機器人，平時塞在白袍口袋裡。高速中距離攻擊代表ココロ的敏捷身手，Boost的長距離撤退象徵ココロ完成偵察後回報主人，命中後的追加位移表現這對人機搭檔的絕妙配合。"
+  },
+  {
+    "name": "助手くん、集まれ！",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "5",
+    "speed": "3",
+    "armor": "2",
+    "guard": "3",
+    "boost": {
+      "name": "応援よろしく！",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Guard."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 2 life."
+    ],
+    "description": "こより的粉絲「助手くん」（助手君）們的力量聚集！高裝甲高Guard的防禦型攻擊，象徵粉絲的聲援形成堅固的防護網。Boost進一步提升Guard值體現應援聲浪的疊加，命中回血代表來自助手君的支持讓こより始終保持元氣滿滿，正是她持續高強度直播的能量來源。"
+  },
+  {
+    "name": "冷こよモード",
+    "type": "special",
+    "cost": "1F",
+    "range": "2-3",
+    "power": "5",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "冷静分析",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "At the start of your next turn, draw a card and add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "Ignore Armor."
+    ],
+    "description": "切換到冷酷模式「冷こよ（Reikoyo/Cold Koyo）」的こより。需要消耗1 Force進入分析狀態，與平時的元気形象形成鮮明反差。無視裝甲的效果代表冷靜模式下的穿透性判斷力，Boost持續增傷並在回合結束後回收資源，象徵她在冷靜模式下效率最大化——不愧是自稱的「holoX大腦」。"
+  },
+  {
+    "name": "天才のひらめき！",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "新発明チャンス！",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Spend up to 3 Force for +1 Power per Force spent."
+      ]
+    },
+    "effect": [
+      "HIT: Draw a card."
+    ],
+    "description": "「讓本博士來幫你吧！」——自稱天才的こより在關鍵時刻靈光乍現！高速全距離對應的萬能型攻擊。Boost可消耗最多3點Force臨時提升威力，反映她「發明創造」的爆發潛力——雖然基礎值不高，但靠著「天才的靈感」可以瞬間強化。命中抽牌象徵腦中不斷湧現的新點子。"
+  },
+  {
+    "name": "こよりニウム・フルチャージ",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-4",
+    "power": "8",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "限界突破！",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ]
+    },
+    "effect": [
+      "HIT: Regain 4 life."
+    ],
+    "description": "こより將こよりニウム能量充能至極限的Ultra技！消耗3格Gauge發動，全距離覆蓋的高火力攻擊。命中後回復4點生命並搶奪先機，體現こより所說的「讓所有夢想成真！」——こよりニウム的力量不僅是攻擊手段，更是治癒自己與他人、扭轉局勢的終極能源。",
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "真・博衣こより",
+    "type": "astral",
+    "cost": "6G",
+    "range": "1-4",
+    "power": "7",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "こよりの全力",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Choose and discard a card from the opponent's hand at random."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance up to 3 spaces.",
+      "This card cannot be stopped by Guard or Armor.",
+      "HIT: You may choose any number of cards from your discard pile. Seal them."
+    ],
+    "description": "こより解放全部力量的真實型態——真正的「holoX大腦」全力運轉！Astral級終極必殺卡，需要6格Gauge的極高代價。極速（Speed 8）的全距離攻擊，無法被任何防禦阻擋，代表真實的こより無人能擋。Boost丟棄對手手牌象徵她以敏銳洞察力看穿對方策略，命中後封印棄牌堆卡片則是她將所有實驗成果轉化為己用的天才能力。"
+  }
+]

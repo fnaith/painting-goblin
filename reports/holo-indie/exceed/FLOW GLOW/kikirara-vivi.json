@@ -1,0 +1,244 @@
+{
+  "name": "Kikirara Vivi",
+  "cards": [
+    {
+      "id": 1,
+      "name": "ヴィヴィメイク",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "1",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "ビューティータッチ",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Power.",
+          "HIT: Gain 1 life."
+        ]
+      },
+      "effect": [
+        "BEFORE: You may spend 1 life. If you do, draw a card."
+      ],
+      "description": "以Vivi的化妝師身份為核心設計。化妝需要付出心力（消耗生命），完成後煥然一新（補牌）。Boost持續疊加攻擊力並回血，象徵精心妝容帶來的自信與魅力在戰鬥中持續綻放。"
+    },
+    {
+      "id": 2,
+      "name": "耐久カラオケ",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "4",
+      "speed": "4",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "折れない声",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Guard."
+        ]
+      },
+      "effect": [
+        "AFTER: Gain 2 life. If you have less life than your opponent, gain 3 life instead."
+      ],
+      "description": "以Vivi招牌的耐久歌回為主題。中距離穩健輸出，強大的回復能力模擬她長時間不間斷歌唱的驚人體力——越是劣勢越能靠毅力逆轉，正如她在耐久直播中一次又一次突破訂閱里程碑。"
+    },
+    {
+      "id": 3,
+      "name": "関西弁の宣告",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "2",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "ズバッと言う",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Name a card. Your opponent reveals their hand and discards all copies of it."
+        ]
+      },
+      "effect": [
+        "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "description": "以Vivi直率的關西腔說話方式為靈感。高速先制宣言，強迫對手棄掉指定卡牌——如同她毫不修飾的關西腔直球發言，讓對手措手不及。命中後奪回節奏，就像她用一句話就帶走整場直播的主導權。"
+    },
+    {
+      "id": 4,
+      "name": "インドア派",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "X",
+      "speed": "3",
+      "armor": "0",
+      "guard": "4",
+      "boost": {
+        "name": "日焼け対策",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Armor."
+        ]
+      },
+      "effect": [
+        "BEFORE: This card's Power equals your current hand size."
+      ],
+      "description": "以Vivi自稱室內派的設定為概念。龜縮近距離防守（高Guard），Power由手牌數量決定——待在舒適圈（手牌資源多）時威力越強，象徵她長期在室內呵護肌膚、默默累積實力的生活方式。Boost進一步強化裝甲，如同她層層防護抵擋紫外線。"
+    },
+    {
+      "id": 5,
+      "name": "サングラスオン",
+      "type": "special",
+      "cost": null,
+      "range": "1-4",
+      "power": "1",
+      "speed": "9",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "クールに決める",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Move up to 2 spaces.",
+          "Stun Immunity until end of turn."
+        ]
+      },
+      "effect": [
+        "BEFORE: Look at the top 2 cards of your deck. You may put one on top and one on bottom."
+      ],
+      "description": "以Vivi的標誌性墨鏡為主題。最高速度象徵她瀟灑戴上墨鏡的俐落瞬間——還能順便操控牌庫頂（透過墨鏡過濾視野）。Boost提供靈活走位與短暫眩暈免疫，展現戴上墨鏡後的從容自信：就算被陽光直射也無所畏懼。"
+    },
+    {
+      "id": 6,
+      "name": "キラキラビューティー",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "3",
+      "speed": "5",
+      "armor": "0",
+      "guard": "2",
+      "boost": {
+        "name": "永遠の輝き",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "Stun Immunity.",
+          "+1 Speed."
+        ]
+      },
+      "effect": [
+        "AFTER: Gain 1 life."
+      ],
+      "description": "以Vivi的自我介紹「いつも、キラキラな、綺々羅々ヴィヴィです！」為靈感。均衡穩定的性能體現她「永遠閃閃發亮」的人設——不受眩暈影響、持續回復生命，如同一刻也不黯淡的完美妝容。Boost疊加速度讓她的光芒更加耀眼奪目。"
+    },
+    {
+      "id": 7,
+      "name": "んーーー...ヴィヴィ！",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "5",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "注目の一撃",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Close up to 2 spaces.",
+          "Draw a card."
+        ]
+      },
+      "effect": [
+        "HIT: Push the opponent 1 or 2 spaces."
+      ],
+      "description": "以Vivi招牌的拖長音喊聲「んーーー...ヴィヴィ！」為主題。近距離強力攻擊，命中後將對手推開——如同她元氣十足的登場總是在觀眾心中留下難以忘懷的衝擊。Boost拉近距離並補牌，像她用那聲拖長音抓住所有人的注意力。"
+    },
+    {
+      "id": 8,
+      "name": "ヴィヴィを彩る",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "2",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "みんなの応援",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Gain 2 life.",
+          "Draw a card."
+        ]
+      },
+      "effect": [
+        "BEFORE: You may discard a card. If you do, draw 2 cards."
+      ],
+      "description": "以粉絲hashtag「#ヴィヴィを彩る」（妝點Vivi）為靈感。粉絲分享美妝資訊來「妝點」Vivi——這張牌模擬這種互動：犧牲一張卡（粉絲的貢獻）獲得兩張回報（分享的成果）。Boost象徵粉絲的應援為Vivi補充元氣與靈感。"
+    },
+    {
+      "id": 9,
+      "name": "FLOW GLOWステージ",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": "6",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "五人揃って",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Draw cards until you have 5 in hand."
+        ]
+      },
+      "effect": [
+        "HIT: Add up to 3 Force from your discard pile to your Gauge."
+      ],
+      "exceed_cost": "3G",
+      "description": "以Vivi所屬的FLOW GLOW團體為主題。全數值6象徵團體五位成員的完美和諧。命中後從墓地回收Force，體現FLOW GLOW成員互相扶持、共享力量的深厚羈絆。Boost將手牌補至5張，呼應團體演出中每位成員各司其職、完美配合的默契。"
+    },
+    {
+      "id": 10,
+      "name": "真の美を求めて",
+      "type": "ultra",
+      "cost": "5G",
+      "range": "2",
+      "power": "12",
+      "speed": "1",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "美の探求",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+3 Power.",
+          "Stun Immunity."
+        ]
+      },
+      "effect": [
+        "Ignore Armor.",
+        "Ignore Guard."
+      ],
+      "exceed_cost": "5G",
+      "description": "Vivi的終極奧義——作為「追求真正之美的求道者」，她將對美的所有領悟凝聚為至高無上的一擊。極慢速度但毀滅性威力，象徵她對美的追求需要時間淬煉。無視所有防禦，代表真正的美麗能夠穿透一切偽裝與保護，直擊靈魂深處。"
+    }
+  ]
+}

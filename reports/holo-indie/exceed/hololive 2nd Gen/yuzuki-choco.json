@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Choccon!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Greeting Flash",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "癒月ちょこの代名詞的な挨拶「ちょっこーん！」。配信開始の一言で瞬時に視聴者の注目を集める彼女のように、最高速度の軽打で戦闘の主導権を一瞬で奪い取る開幕の一枚。"
+  },
+  {
+    "name": "School Health Check",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Medical Observation",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of your turn, name a card. Your opponent reveals their hand and discards all copies of it."
+      ]
+    },
+    "effect": [
+      "HIT: Your opponent reveals their hand. Choose 1 card. They discard it."
+    ],
+    "description": "ちょこ先生の名物企画「健康診断」——魔界の保健医として、相手の隠し事をすべて暴き出し最も危険な要素を排除する。観察眼と診断能力が光る、情報戦を制する一枚。"
+  },
+  {
+    "name": "ASMR Therapy",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "3",
+    "armor": "2",
+    "guard": "6",
+    "boost": {
+      "name": "Whisper Calm",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Armor.",
+        "NOW: Gain 1 life."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Gain 3 life."
+    ],
+    "description": "ちょこ先生のASMR配信は聴く者の心身を深い癒しへと導く。極限まで防御に振ったこのカードは、どんな攻撃を受けても怯まずじっくりと体力を回復させる。彼女の優しい囁きが戦場に安らぎをもたらす。"
+  },
+  {
+    "name": "Choco Cooking",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "4",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "Recipe Check",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card. Discard 1 card."
+      ]
+    },
+    "effect": [
+      "BEFORE: Search your deck for a card with a Boost and add it to your hand."
+    ],
+    "description": "ちょこの料理配信シリーズ——手順を踏んで丁寧に準備する姿が魅力的。いらない材料を整理し、必要な調味料（ブーストカード）を確実に揃えるセットアップ能力は、彼女の几帳面な料理スタイルを完璧に表現している。"
+  },
+  {
+    "name": "Sexy Dynamite Body",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Irresistible Charm",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Close 2 spaces.",
+        "Stun Immunity."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: Push 2 spaces."
+    ],
+    "description": "ファンから愛される「Sexy Dynamite Body（SDB）」——その名の通りの爆発的な魅力で相手の懐に飛び込み、ガードを無視した一撃を叩き込む。彼女の圧倒的な存在感に抗える者はいない。"
+  },
+  {
+    "name": "Overslept",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "5",
+    "speed": "2",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Power Nap",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "At the start of your turn, gain 1 Force."
+      ]
+    },
+    "effect": [
+      "Ignore Armor.",
+      "HIT: The opponent discards 1 card at random."
+    ],
+    "description": "配信に4時間22分遅刻、一度に2.5日間睡眠、配信中に寝落ち——眠りの伝説は数えきれない。最も遅い速度で放たれる一撃は相手の装甲を無視し、長い眠りから覚めた悪魔の真の力を思い知らせる。"
+  },
+  {
+    "name": "Demon's Prescription",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "5",
+    "armor": "1",
+    "guard": "2",
+    "boost": {
+      "name": "Bedside Manner",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Advance or Retreat up to 1 space.",
+        "Gain 1 life."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card.",
+      "HIT: Gain 1 life."
+    ],
+    "description": "魔界学校の保健医として、ちょこは悪魔の知識と医者の技術を兼ね備える。攻撃と回復、ドローをバランス良く備えた万能処方箋——彼女の多面的な才能と「先生」としての包容力が凝縮された一枚。"
+  },
+  {
+    "name": "Melty Kiss",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Sweet Harmony",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "NOW: Exceed."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close or Advance up to 2 spaces.",
+      "Ignore Guard.",
+      "HIT: Gain 2 life and draw 1 card.",
+      "Gain Advantage."
+    ],
+    "description": "夜空メルとの音楽ユニット「Melty Kiss」——二人の甘く切ない歌声が重なり合い、戦場に魔法のようなハーモニーを響かせる。ガードを無視したコンビネーションアタックは命中すれば大幅なアドバンテージをもたらす。",
+    "exceed_cost": "2G"
+  },
+  {
+    "name": "Underworld Overlord",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-4",
+    "power": "6",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Netherworld Authority",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards."
+      ]
+    },
+    "effect": [
+      "BEFORE: Move up to 2 spaces.",
+      "Ignore Guard.",
+      "Stun Immunity.",
+      "HIT: The opponent discards 1 card and loses 1 life."
+    ],
+    "description": "ちょこが出演する「冥界学園」の世界観を具現化した一撃。魔界の校医としての真の権能を解放し、冥界の力で相手の手札とライフを同時に蝕む。自由自在な機動と継続的なプレッシャーで戦場を支配する。",
+    "exceed_cost": "3G"
+  },
+  {
+    "name": "Credit Card Meltdown",
+    "type": "ultra",
+    "cost": "5G",
+    "range": "1-3",
+    "power": "10",
+    "speed": "2",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "No Regrets",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "Stun Immunity.",
+        "NOW: Exceed."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "Ignore Armor.",
+      "HIT: The opponent loses 2 life and discards 2 cards at random."
+    ],
+    "description": "ちょこがH同人誌を買いすぎてクレジットカードが凍結された伝説の逸話——欲望の代償は大きい。全ての防御を無視し、相手のライフと手札を同時に破壊する暴走の最終奥義。悪魔ですら己の欲望には抗えない。",
+    "exceed_cost": "5G"
+  }
+]

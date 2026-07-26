@@ -1,0 +1,224 @@
+[
+  {
+    "name": "WAZZUP!",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "8",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rat Squeak",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card. Retreat 1 space."
+      ]
+    },
+    "effect": [
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "以Baelz的招牌招呼'WAZZUP!'為名，代表她高能量的開場風格。高速低傷搶先手，擊中取得優勢，體現她總是用熱情招呼掌握對話節奏的特色。Boost'老鼠吱吱'象徵她標誌性的老鼠叫聲，抽牌後退展現她靈巧的本性。"
+  },
+  {
+    "name": "PLAY DICE!",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Lucky Roll",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Roll a die (1-6). If 4+, draw 2 cards. If 1-3, the opponent draws 1 card."
+      ]
+    },
+    "effect": [
+      "HIT: Roll a die (1-6). If 4+, +4 Power. If 1-3, push the opponent 1 space."
+    ],
+    "description": "以Baelz的原創曲'PLAY DICE!'和她的骰子符號🎲為名，代表她混沌與賭博的主題。中距離攻擊，無論命中或是Boost效果都加入擲骰機制，體現她一切取決於運氣的混沌本質。骰子結果高低皆有不同收益，呼應她作為'混沌化身'的不確定性。"
+  },
+  {
+    "name": "YABAE Desu wa~",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chaos Burst",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard 1 card from your hand at random. Draw 2 cards."
+      ]
+    },
+    "effect": [
+      "HIT: Choose one: the opponent discards 1 random card, or you regain 2 life."
+    ],
+    "description": "以Baelz的迷因標籤#YABAE（Baelz + yabai/やばい）為名，代表混亂不可預測的瞬間。Boost'混沌爆發'隨機棄牌後抽更多牌，體現她雖處混亂但仍能從中獲益的設定。命中後二選一的效果給玩家靈活選擇，呼應她表面混亂實則理智的核心反差。"
+  },
+  {
+    "name": "WITNESS ME!",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "3",
+    "armor": "3",
+    "guard": "4",
+    "boost": {
+      "name": "Dramatic Entrance",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Advance up to 3 spaces. If you moved 2+, +2 Power this Strike."
+      ]
+    },
+    "effect": [
+      "Ignore Guard. HIT: Gain Advantage."
+    ],
+    "description": "以Baelz戲劇化自我介紹口頭禪'WITNESS ME!'為名，代表她誇張華麗的登場風格。近戰高傷但速度慢，自帶防禦和無視防守，體現她登場時威風凜凜的姿態。Boost'戲劇性登場'讓她快速拉近距離，呼應她每次開場都極具表演性的特質。"
+  },
+  {
+    "name": "Upside Down",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "1",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "'dn ssɐʍ'",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the opponent's hand. Choose 1 card; they discard it and draw 1."
+      ]
+    },
+    "effect": [
+      "HIT: The opponent's next Strike has -2 Power and -1 Speed."
+    ],
+    "description": "以Baelz標誌性的倒置文字書寫風格為名，致敬她的第一條推文'dnssɐʍ'（wassup倒寫）。高速低傷擾亂型攻擊，命中後給對手施加Debuff，象徵她倒置文字帶來的困惑效果。Boost也以倒置文字命名，窺視並破壞對手手牌，代表她用文字遊戲迷惑對手的獨特風格。"
+  },
+  {
+    "name": "SARABADA!",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bae Bye",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card. Retreat 2 spaces."
+      ]
+    },
+    "effect": [
+      "HIT: Move the opponent 1 space. Retreat 1 space. Draw 1 card."
+    ],
+    "description": "以Baelz的告別語'SARABADA!'（日式再見）為名，體現她的日語混用特徵和瀟灑告別的風格。命中後拉開距離並抽牌，維持安全位置的同時補充資源。Boost'Bae Bye'是粉絲告別時的雙關語，進一步退後並抽牌，模擬她直播結束時優雅退場的身影。"
+  },
+  {
+    "name": "Chaos Rat",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Rat Race",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Advance up to 2 spaces. If you switched sides, +2 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Move 1 space. HIT: Advance 1 space."
+    ],
+    "description": "以Baelz的暱稱'混沌老鼠（Chaos Rat）'為名，代表她靈巧敏捷的老鼠特質。高速度加上多段移動，體現老鼠的靈敏和難以捉摸。Boost'老鼠賽跑'進一步強化機動性，若穿越對手則獲得額外傷害，呼應她在直播中快速切換話題和狀態的靈活表現。"
+  },
+  {
+    "name": "BaeRyS Forever",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "4",
+    "speed": "5",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Divorce Arc",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Discard 1 card. Choose one: draw 2, or regain 3 life."
+      ]
+    },
+    "effect": [
+      "HIT: You may add 1 card from your hand to your Gauge. If you do, the opponent discards 1 Gauge."
+    ],
+    "description": "以Baelz與IRyS的標誌性搭檔組合'BaeRyS'為名，代表她們最具活力的搭檔關係。命中後可將手牌轉化為儀表同時消耗對方資源，象徵這對搭檔在互相較勁中共同成長。Boost'離婚線'是她們長期'離婚/復婚'梗的體現，犧牲一張牌換取資源回復或補充，正如她們吵完架後和好如初的循環。"
+  },
+  {
+    "name": "ReCOLOR",
+    "type": "ultra",
+    "cost": "4G",
+    "range": "1-5",
+    "power": "10",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "CHAOS MODE",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Return all cards from your discard pile to your deck. Shuffle, then draw 3 cards."
+      ]
+    },
+    "effect": [
+      "HIT: Regain 3 life. Draw 2 cards. Gain Advantage."
+    ],
+    "exceed_cost": "4G",
+    "description": "以Baelz在2026年生日之際舉辦的'ReCOLOR 3D Live'為名，代表她華麗的個人里程碑。全距離覆蓋的強大終極技，命中後恢復生命、抽牌並取得優勢，象徵她3D Live的華麗演出和全新蛻變。Boost'混沌模式'回收所有棄牌後重新抽牌，呼應她混沌能量滿載時無人能擋的高光時刻。"
+  },
+  {
+    "name": "Febaerary Fever",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Leap Day Blessing",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw cards until you have 6 cards in hand. Gain 1 Gauge."
+      ]
+    },
+    "effect": [
+      "BEFORE: Roll a die (1-6). Gain +1 Power for each pip. If the result is 6, this card costs 0 Gauge."
+    ],
+    "exceed_cost": "3G",
+    "description": "以Baelz獨特的閏日生日慶典'Febaerary'（February + Bae）為名。擲骰決定傷害倍率的主效果體現了她'生日由骰子決定'的混沌哲學，若擲出6則免費施放——正如閏年生日每四年才真正到來一次的珍貴驚喜。Boost'閏日祝福'大量補充手牌和儀表，象徵她在Febaerary期間滿載的生日喜悅和粉絲的祝福。"
+  }
+]

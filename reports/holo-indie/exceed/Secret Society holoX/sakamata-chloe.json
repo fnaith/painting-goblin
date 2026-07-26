@@ -1,0 +1,244 @@
+[
+  {
+    "name": "もぐもぐ〜ん！",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Chomp Up",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power.",
+        "HIT: Gain 1 life."
+      ]
+    },
+    "effect": [
+      "HIT: Push 1 space.",
+      "AFTER: Close 1 space."
+    ],
+    "description": "取材自她的招牌開場台詞「もぐもぐ〜ん！Chomp, chomp, chooomp!」。高速近距離攻擊，命中後推開對手再拉近，象徵虎鯨捕食時張嘴咬住獵物的動作。Boost附帶吸血效果，呼應她「もぐもぐ（吃東西）」的角色主題。"
+  },
+  {
+    "name": "飼育員の指令",
+    "type": "special",
+    "cost": null,
+    "range": "3-6",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "🎣 釣果",
+      "cost": "1F",
+      "timing": "Instant",
+      "effect": [
+        "Draw 1 card.",
+        "If this Strike hits, add this card to your Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Pull the opponent 2 spaces."
+    ],
+    "description": "源自她的粉絲名「Handler（飼育員）」和粉絲記號🎣。遠程釣魚攻擊——從遠處把對手釣回來，象徵飼育員用釣竿操控虎鯨。Boost消耗Force抽牌並在命中後回收卡片，體現飼育員持續提供指令的循環感。"
+  },
+  {
+    "name": "Moodoku",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "5",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Mazaru Nibiiro",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power.",
+        "Ignore Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: Retreat 1 space.",
+      "HIT: Your opponent discards a card at random."
+    ],
+    "description": "命名自她的原創曲《Moodoku》（意為「猛毒」）。中距離毒屬性攻擊，隨機棄牌效果如同毒素在對手體內擴散。Boost名稱取自另一首原創曲《Mazaru Nibiiro》（交ざる鈍色），兩首代表曲的融合展現她的音樂才華與暗黑美學。"
+  },
+  {
+    "name": "Fixer's Cleanup",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "証拠隠滅",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Seal the top card of your discard pile.",
+        "Draw 1 card."
+      ]
+    },
+    "effect": [
+      "AFTER: Move 1 or 2 spaces."
+    ],
+    "description": "呼應她作為holoX處理者（Fixer/Cleaner）的職責——消滅證據、排除障礙。Boost「証拠隠滅（湮滅證據）」封印棄牌堆，象徵把骯髒工作處理乾淨。命中後機動性移動，體現處理者來無影去無蹤的專業素養。"
+  },
+  {
+    "name": "Shachiken Crash",
+    "type": "special",
+    "cost": "1F",
+    "range": "1",
+    "power": "6",
+    "speed": "3",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "尾びれ一撃",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Ignore Armor.",
+        "HIT: Push 2 spaces."
+      ]
+    },
+    "effect": [
+      "BEFORE: Close 3 spaces.",
+      "Stun Immunity."
+    ],
+    "description": "她的暱稱「Shachiken」（シャチけん＝虎鯨劍）的具象化，也是holoX中最危險的實習生的全力一擊。消耗Force展現虎鯨的壓倒性力量，必須Close 3格釋放模擬虎鯨從深海衝上的攻勢。暈眩免疫體現她不服輸的鬥志與勝負心。"
+  },
+  {
+    "name": "否定します",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "3",
+    "speed": "8",
+    "armor": "0",
+    "guard": "4",
+    "boost": {
+      "name": "ツンデレバリア",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor.",
+        "When the opponent Strikes, you may Retreat 1."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card.",
+      "AFTER: Retreat 1 space."
+    ],
+    "description": "靈感來自她的官方設定——被說防備心強時會極力「否定します！（我否定！）」。極高Speed和Guard值代表她築起的心牆與防禦姿態，命中後抽牌表示她偶爾流露的真實想法。Boost「ツンデレバリア（傲嬌屏障）」在對手攻擊時觸發後退一步，體現她口是心非時退縮的可愛反應。"
+  },
+  {
+    "name": "PON ぼんやり",
+    "type": "special",
+    "cost": null,
+    "range": "1-4",
+    "power": "X",
+    "speed": "1",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "お昼寝中",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 2 life.",
+        "Transform this card."
+      ]
+    },
+    "effect": [
+      "X is the number of cards in your hand.",
+      "BEFORE: If you have 3 or fewer cards in hand, +3 Power."
+    ],
+    "description": "她的PON（ぼんやり/走神）屬性——常常發呆放空的可愛失誤。Power為X（手牌數）代表走神時的不穩定性，Speed 1體現慵懶狀態。Boost「お昼寝中（午睡中）」回血並轉化卡片，呼應她最喜歡的活動——睡覺！手牌少時認真模式啟動，反映她偶爾的爆發力。"
+  },
+  {
+    "name": "Paralyze",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "2-5",
+    "power": "5",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "人生リセットボタン",
+      "cost": "2F",
+      "timing": "Continuous",
+      "effect": [
+        "NOW: Strike.",
+        "HIT: Seal the opponent's hand face down until the end of their next turn."
+      ]
+    },
+    "effect": [
+      "Ignore Guard.",
+      "HIT: The opponent cannot Strike with Special cards next turn."
+    ],
+    "exceed_cost": "2G",
+    "description": "命名自她的原創曲《Paralyze》。遠程麻痺攻擊，無視Guard，命中後封印對手特殊卡，呼應歌曲名「麻痺」的核心概念。Boost名稱取自出道曲《人生リセットボタンぽちーw》，消耗大量Force重置戰局，讓對手手牌全部暫時封印——如同歌曲主題「人生重置」。"
+  },
+  {
+    "name": "Secret ORDER",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "6",
+    "speed": "5",
+    "armor": "2",
+    "guard": "2",
+    "boost": {
+      "name": "オーカートの鼓動",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "Each time you Strike this turn, +1 Power.",
+        "If this card is sealed, gain 1 Gauge at the start of your turn."
+      ]
+    },
+    "effect": [
+      "HIT: Add up to 2 cards from your discard pile to your Gauge.",
+      "AFTER: Gain Advantage."
+    ],
+    "exceed_cost": "3G",
+    "description": "命名自她的首張專輯《Secret ORDER》。攻守兼備的均衡型Ultra卡，代表holoX的正式秘密任務指令。Boost「オーカートの鼓動（Orcart的心跳）」——粉絲社群的名稱，每次打擊疊加力量象徵粉絲的應援。回收棄牌堆的效果體現她作為處理者重整旗鼓的能力。"
+  },
+  {
+    "name": "シャチの夢",
+    "type": "astral",
+    "cost": "5G",
+    "range": "1-5",
+    "power": "10",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "ソロライブ",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 3 life.",
+        "Exceed.",
+        "Take another action."
+      ]
+    },
+    "effect": [
+      "This attack cannot be affected by the opponent's effects.",
+      "HIT: Seal the opponent's hand. They cannot draw cards during their next turn.",
+      "AFTER: You may Seal this card. If you do, add 2 cards from your discard pile to your hand."
+    ],
+    "description": "終極必殺卡，代表她三大夢想之首——舉辦個人演唱會（Solo Live）。全距離覆蓋（1-5）象徵音樂的感染力無遠弗屆，不受對手效果影響展現舞台的絕對領域。Boost「ソロライブ（Solo Live）」回血、Exceed並追加行動，呼應她追求夢想的熱情與永不放棄的決心。命中後封印對手一切行動，如同演唱會的壓倒性魅力讓時間為之暫停。"
+  }
+]

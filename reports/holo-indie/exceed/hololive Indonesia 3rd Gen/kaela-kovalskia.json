@@ -1,0 +1,229 @@
+[
+  {
+    "name": "G'day Mate",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "7",
+    "armor": "0",
+    "guard": "1",
+    "boost": {
+      "name": "Kaello~",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed, +1 Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: Advance 1. If you started your turn at range 3+, +1 Power."
+    ],
+    "description": "以Kaela的招牌招呼語「G'day Mate」和2025 Redebut後的新版開場招呼「Kaello~」命名的快速突襲技，開場就能搶佔先機，反映她每次直播開場的活力。"
+  },
+  {
+    "name": "Smith's Hammer",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "4",
+    "speed": "4",
+    "armor": "1",
+    "guard": "1",
+    "boost": {
+      "name": "Forge Spirit",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Power."
+      ]
+    },
+    "effect": [
+      "HIT: Gain 1 Force."
+    ],
+    "description": "以鐵匠之錘進行基礎攻擊，反映Kaela的核心身份——鐵匠。命中後回收力道轉化為Force，象徵她在鍛造中從不浪費材料的精神。"
+  },
+  {
+    "name": "Forge Mastery",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "4",
+    "armor": "1",
+    "guard": "0",
+    "boost": {
+      "name": "No Pressure",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Armor."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend 1 Force to +2 Power."
+    ],
+    "description": "展現Kaela鍛造大師的實力，可以在戰鬥中即時強化武器，以經典台詞「No Pressure」命名boost技能，反映她冷靜沉穩、從容不迫的性格。"
+  },
+  {
+    "name": "Grind Never Ends",
+    "type": "special",
+    "cost": null,
+    "range": "2-3",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Keep Grinding",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Speed."
+      ]
+    },
+    "effect": [
+      "HIT: Draw 1 card. If this is the third Strike you initiated this round, draw 2 cards instead."
+    ],
+    "description": "體現Kaela的爆肝刷怪精神——作為hololive平均直播時長最長的成員，攻擊次數越多效益越高，反映她超強的耐久力與Grinding狂熱。"
+  },
+  {
+    "name": "Quench & Temper",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Water Jug",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 1 Gauge."
+      ]
+    },
+    "effect": [
+      "HIT: Push 2. If the opponent is at range 3+, gain 1 Gauge."
+    ],
+    "description": "以吉祥物Galon（5加侖水桶）命名的淬火技，鍛造時需要用水冷卻金屬。反映Kaela的鐵匠日常與Galon生氣時水會變紅的粉絲文化梗，擊退對手同時累積Gauge。"
+  },
+  {
+    "name": "GACHAN Crash",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "6",
+    "speed": "2",
+    "armor": "2",
+    "guard": "0",
+    "boost": {
+      "name": "GACHAN!",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+2 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Spend up to 2 Force. For each Force spent, +1 Power or +1 Armor."
+    ],
+    "description": "呼喚2025年Redebut登場的錘子吉祥物GACHAN（命名自金屬碰撞擬聲詞「ガチャン」）進行重擊，傷害高但速度慢，可以投入Force進一步強化，體現鐵匠的全力一擊。"
+  },
+  {
+    "name": "JDON My Soul",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "4",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "Get Some Help!",
+      "cost": "1F",
+      "timing": "Continuous",
+      "effect": [
+        "+1 Range."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: You may swap places with the opponent."
+    ],
+    "description": "以經典迷因句「JDON my soul」命名——起源於Telephone聯播遊戲中的聽錯梗，在Know Your Meme上有獨立詞條。搭配另一經典回應「Get Some Help!」作為boost，交換位置展現Kaela調皮又從容的一面。"
+  },
+  {
+    "name": "TimeSmith Alliance",
+    "type": "ultra",
+    "cost": "3G",
+    "range": "1-3",
+    "power": "5",
+    "speed": "6",
+    "armor": "1",
+    "guard": "1",
+    "boost": {
+      "name": "Time's Forge",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Take another turn after this one."
+      ]
+    },
+    "effect": [
+      "BEFORE: Gain 2 Force.",
+      "HIT: The opponent loses 1 Gauge."
+    ],
+    "exceed_cost": "3G",
+    "description": "反映Kaela與Ouro Kronii的TimeSmith組合（時間×鐵匠）。Kaela最崇拜Kronii，兩人組合成為粉絲文化的重要一環。結合時間與鍛造之力獲得額外回合，同時削減對手資源。"
+  },
+  {
+    "name": "GrindStone Fury",
+    "type": "ultra",
+    "cost": "2G",
+    "range": "1-2",
+    "power": "6",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "Bijou's Blessing",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "+3 Power."
+      ]
+    },
+    "effect": [
+      "BEFORE: Discard any number of cards from your hand. For each card discarded, +1 Power."
+    ],
+    "exceed_cost": "2G",
+    "description": "反映與Koseki Bijou的GrindStone組合（刷資源搭檔），以手牌為代價換取爆發力，完美體現兩人一起在Minecraft中瘋狂刷素材的爆肝精神。"
+  },
+  {
+    "name": "Kaelaverse Forge",
+    "type": "ultra",
+    "cost": "5G",
+    "range": "1-4",
+    "power": "8",
+    "speed": "8",
+    "armor": "2",
+    "guard": "2",
+    "boost": {
+      "name": "Pemascape",
+      "cost": "-",
+      "timing": "Overload",
+      "effect": [
+        "Return all cards from your discard pile to your deck. Shuffle and draw 3 cards."
+      ]
+    },
+    "effect": [
+      "Stun Immunity.",
+      "HIT: Gain 3 Life.",
+      "AFTER: You may Exceed."
+    ],
+    "exceed_cost": "5G",
+    "description": "Kaela的終極大招，以2024年與Kay Yu合作的《Kaelaverse: Pemascape》為名。Pemaloe意為「錘子使用者」（粉絲名稱），結合鐵匠女神全面實力——全距離覆蓋、高攻高速、全防兼備，體現Kaela作為hololive全能型爆肝王的地位。"
+  }
+]

@@ -1,0 +1,236 @@
+{
+  "name": "Takanashi Kiara",
+  "cards": [
+    {
+      "name": "Kikkeriki!",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "1",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Crow of the Phoenix",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "NOW: Draw a card."
+        ]
+      },
+      "effect": [
+        "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "description": "以 Kiara 的招牌開場口號「Kikkeriki!!!」為靈感設計——這是德語的公雞叫聲。極高速度的牽制攻擊，雖然傷害極低但命中後搶回先手權，象徵她每次開場都以無與倫比的活力抓住所有人的注意力。Boost 抽牌表現她充滿朝氣的登場總能帶來新的可能。"
+    },
+    {
+      "name": "KFP Special Combo",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "4",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Extra Crispy",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Power."
+        ]
+      },
+      "effect": [
+        "HIT: Add 1 Force to your Gauge."
+      ],
+      "description": "以 Kiara 的粉絲文化核心 KFP（Kiara Fried Phoenix）快餐店為概念設計的招牌攻擊技。穩定的中距傷害，命中後可回收 Force 資源，模擬快餐店的高效運作——消耗與補充的良性循環。Boost 的「Extra Crispy」展現 KFP 菜單的特色，消耗 Force 進一步強化火力。"
+    },
+    {
+      "name": "Not a Chicken!",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "5",
+      "speed": "3",
+      "armor": "2",
+      "guard": "0",
+      "boost": {
+        "name": "Phoenix Pride",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Cancel any active Continuous Boost from your opponent."
+        ]
+      },
+      "effect": [
+        "Ignore Armor.",
+        "HIT: Gain Advantage."
+      ],
+      "description": "以 Kiara 最經典的迷因——粉絲故意叫她雞（Chicken）而她會拼命糾正「我是鳳凰！」——為設計概念。近距離反擊型技能，無視護甲的特性表現出她對這個誤解的強烈反應，不容任何人防禦或迴避。Boost 的淨化效果象徵她堅定維護自己身份的態度。"
+    },
+    {
+      "name": "Holotalk",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Deep Question",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Look at the opponent's hand."
+        ]
+      },
+      "effect": [
+        "HIT: Name a card. Your opponent discards a copy of that card from their hand if able."
+      ],
+      "description": "以 Kiara 主持的招牌訪談節目 Holotalk 為靈感。中遠距離的資訊戰技能——如同她在訪談中深度挖掘來賓的故事，命中後可藉由指定卡牌名稱來破壞對手戰術。Boost 窺視手牌代表她在訪談前的功課準備，總是有備而來。"
+    },
+    {
+      "name": "Pineapple Rain",
+      "type": "special",
+      "cost": null,
+      "range": "2-4",
+      "power": "2",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Orange Lights",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "BEFORE: Draw 1 card."
+        ]
+      },
+      "effect": [
+        "HIT: Draw 1 card.",
+        "Gain Advantage."
+      ],
+      "description": "以 Kiara 在 Breaking Dimensions 演唱會上的經典演出為主題——全場觀眾揮舞橙色應援棒、舞台上下起「鳳梨雨」。高速且著重抽牌的技能反映演唱會的歡樂氛圍，效果圍繞著資源循環，像徵她與粉絲之間的能量交換：粉絲給予支持，Kiara 回報以精彩的表演。"
+    },
+    {
+      "name": "Eurovision Dream",
+      "type": "special",
+      "cost": "1F",
+      "range": "3-6",
+      "power": "6",
+      "speed": "4",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "The World Isn't Ready",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "Grants immunity to attacks at range 1-2."
+        ]
+      },
+      "effect": [
+        "HIT: Move the opponent to any space.",
+        "Draw 1."
+      ],
+      "description": "以 Kiara 兩次申請 Eurovision（歐洲歌唱大賽）被拒但仍不放棄的夢想為主題。超遠射程和高傷害代表她對這個舞台的渴望——即使屢次被拒，她依然相信自己能在世界舞台上發光。Boost 的遠距防禦呼應她說「世界還沒準備好」的灑脫，命中後的強制位移則展現她要掌控舞台的決心。"
+    },
+    {
+      "name": "Tenchou's Orders",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "3",
+      "speed": "5",
+      "armor": "3",
+      "guard": "0",
+      "boost": {
+        "name": "Myth Glue",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "NOW: Draw 1 card.",
+          "AFTER: If this attack hits, gain 1 life."
+        ]
+      },
+      "effect": [
+        "HIT: Gain 2 life.",
+        "AFTER: Give 1 card from your hand to your teammate (or draw 1 if solo)."
+      ],
+      "description": "以 Kiara 在 Myth 中被稱為「店長（Tenchou）」和「團隊黏合劑」的領袖角色為概念。兼具防禦和團隊支援效果——高護甲代表她作為領導者挺身保護同伴的姿態，命中後的回復與手牌傳遞（或在單人模式中轉為抽牌）體現她總是將團隊利益置於個人之上的領袖風範。"
+    },
+    {
+      "name": "Phoenix Feather",
+      "type": "special",
+      "cost": "1F",
+      "range": "N/A",
+      "power": "N/A",
+      "speed": "4",
+      "armor": "4",
+      "guard": "0",
+      "boost": {
+        "name": "Reborn from Ashes",
+        "cost": "2F",
+        "timing": "Continuous",
+        "effect": [
+          "When you would be reduced to 0 HP or less, instead discard this card and heal to 5 HP."
+        ]
+      },
+      "effect": [
+        "BEFORE: Heal 3 HP.",
+        "Stun Immunity."
+      ],
+      "description": "以 Kiara 的核心設定——不死鳥（Phoenix）的浴火重生能力——為設計概念。純防禦型態的輔助卡，具有極高護甲與暈眩免疫，發動前即可回復生命。Boost 的「浴火重生」更是鳳凰能力的極致體現——消耗大量 Force 換取一次瀕死復活，完美再現她「燃燒自己但永遠會從灰燼中重生」的角色本質。"
+    },
+    {
+      "name": "Fire N Ice",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": "8",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Duality",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Power.",
+          "+2 Armor."
+        ]
+      },
+      "effect": [
+        "HIT: Discard the top 2 cards of the opponent's deck.",
+        "Gain Advantage."
+      ],
+      "exceed_cost": "3G",
+      "description": "以 Kiara 與 Mori Calliope 的經典雙人組合及合作曲〈Fire N Ice〉為主題。火與冰的對立統一——Kiara 的鳳凰火焰與 Calliope 的死神寒冰融合的全力一擊。Boost 同時增加攻擊和防禦表現出兩人互補的戰鬥風格，命中破壞對手牌組的效果則代表她們聯手時無可抵擋的力量。"
+    },
+    {
+      "name": "Blazing Rebirth",
+      "type": "ultra",
+      "cost": "5G",
+      "range": "1-4",
+      "power": "14",
+      "speed": "1",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Ashes to Ashes",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "If you have a 'Phoenix Feather' card in your discard, you may play it without paying its Force cost."
+        ]
+      },
+      "effect": [
+        "Cannot be guarded.",
+        "HIT: Opponent discards their hand. Draw 2 cards."
+      ],
+      "exceed_cost": "5G",
+      "description": "Kiara 的最終奧義——浴火重生的極致型態。極度緩慢但毀滅性的全力一擊，無法被防禦的特性象徵不死鳥的火焰吞噬一切阻礙。命中時強制對手棄光手牌代表舊世界的徹底燃燒，同時自身抽牌則代表從灰燼中萌生的新希望。若墓地有「Phoenix Feather」則可免費發動 Boost，呈現出死亡與重生的完整循環——真正的鳳凰永不止息。"
+    }
+  ]
+}

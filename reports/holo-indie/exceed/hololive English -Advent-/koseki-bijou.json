@@ -1,0 +1,237 @@
+{
+  "name": "Koseki Bijou",
+  "cards": [
+    {
+      "name": "Kira-kira Koseki!",
+      "type": "special",
+      "cost": null,
+      "range": "1-4",
+      "power": "2",
+      "speed": "9",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Sparkle Step",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Advance up to 2 spaces."
+        ]
+      },
+      "effect": [
+        "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "description": "以Biboo的經典開場台詞「Kira-kira Koseki!」為主題。極高的速度如她直播中閃耀登場的光芒般難以捕捉，命中後搶佔先手權，代表她總是用這句充滿活力的招呼掌握全場節奏。"
+    },
+    {
+      "name": "🗿 Moai Form",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "3",
+      "speed": "2",
+      "armor": "2",
+      "guard": "4",
+      "boost": {
+        "name": "Ancient Stone",
+        "cost": "-",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Armor."
+        ]
+      },
+      "effect": [
+        "Stun Immunity.",
+        "AFTER: Gain 2 life."
+      ],
+      "description": "以Biboo的招牌摩艾石像🗿型態為主題。開場時的她以摩艾形態出現，看似毫無威脅卻擁有極高防禦與回復能力，正如她在困難遊戲中仍能保持冷靜沉著、不輕易動搖的性格。"
+    },
+    {
+      "name": "BEEP!",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "1",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Censored!",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "The opponent discards a card at random."
+        ]
+      },
+      "effect": [
+        "HIT: The opponent cannot play cards with the same name as the discarded card during this Strike.",
+        "Draw a card."
+      ],
+      "description": "源自Biboo著名的「清楚」特質——她從不說髒話，而是用「BEEP」代替。此牌透過隨機棄牌和封鎖來模擬BEEP的淨化效果，展現她維持健康直播氛圍的同時巧妙地擾亂對手節奏。"
+    },
+    {
+      "name": "Dang it!",
+      "type": "special",
+      "cost": null,
+      "range": "1",
+      "power": "6",
+      "speed": "3",
+      "armor": "0",
+      "guard": "1",
+      "boost": {
+        "name": "Deep Breath",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Gain 1 life."
+        ]
+      },
+      "effect": [
+        "Ignore Guard.",
+        "HIT: Push the opponent 2 spaces."
+      ],
+      "description": "以Biboo的招牌挫折台詞「Dang it!」命名。當遊戲不順心時她不會爆粗口，而是喊出這句可愛的感嘆。近距離強力打擊無視防禦並將對手推開，體現她嬌小身軀中蘊含的驚人遊戲實力。"
+    },
+    {
+      "name": "Jewel of Emotions",
+      "type": "special",
+      "cost": null,
+      "range": "1-3",
+      "power": "2",
+      "speed": "5",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Radiance",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "+1 Power for each Force in your Gauge (max 3)."
+        ]
+      },
+      "effect": [
+        "HIT: Add 1 Force to your Gauge.",
+        "Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "description": "呼應她的稱號「情感之寶石」。她的光芒隨著情感能量而增強——Boost消耗Force提升威力，命中後積蓄更多情感力量。象徵Biboo遇到正面情感時光輝更加耀眼的核心設定。"
+    },
+    {
+      "name": "Bon Bijou!",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "3",
+      "speed": "6",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "French Sparkle",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Retreat up to 2 spaces.",
+          "Draw a card."
+        ]
+      },
+      "effect": [
+        "HIT: Return a card from your discard to your hand."
+      ],
+      "description": "來自她融合法語「Bonjour」與自己名字的創意招呼「Bon Bijou!」。充滿巧思的雙關語正如這張卡的靈活性——後撤抽牌並回收資源，展現Biboo聰明又可愛、總能從容應對各種局面的個人風格。"
+    },
+    {
+      "name": "Mom Collector",
+      "type": "special",
+      "cost": null,
+      "range": "1-2",
+      "power": "2",
+      "speed": "4",
+      "armor": "0",
+      "guard": "3",
+      "boost": {
+        "name": "Cute Request",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Look at the top 3 cards of your deck. Add 1 to your hand and discard the rest."
+        ]
+      },
+      "effect": [
+        "HIT: Add 1 Force to your Gauge for each card in your hand (max 3)."
+      ],
+      "description": "以Biboo著名的「媽媽收集」笑點為主題。她用可愛和撒嬌說服其他Hololive成員當她的「媽媽」，此牌透過搜尋牌組和累積Force來模擬她四處「招募」的過程，越多卡片（越多媽媽候選人）力量越強。"
+    },
+    {
+      "name": "Prison Break",
+      "type": "special",
+      "cost": null,
+      "range": "2-5",
+      "power": "3",
+      "speed": "8",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Advent Unity",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Advance up to 3 spaces. If you do, the opponent discards a card at random."
+        ]
+      },
+      "effect": [
+        "HIT: Retreat up to 2 spaces.",
+        "Draw a card."
+      ],
+      "description": "以Biboo與Advent同期成員（Shiori、Nerissa、FUWAMOCO）共同逃離囚禁的背景為主題。極高的速度和遠距離範圍象徵她們集體越獄時的敏捷與默契，命中後瀟灑撤退並重整旗鼓。"
+    },
+    {
+      "name": "Bury the Light",
+      "type": "ultra",
+      "cost": "3G",
+      "range": "1-3",
+      "power": "6",
+      "speed": "7",
+      "armor": "0",
+      "guard": "0",
+      "boost": {
+        "name": "Motivation",
+        "cost": "1F",
+        "timing": "Continuous",
+        "effect": [
+          "+2 Power."
+        ]
+      },
+      "effect": [
+        "Ignore Guard.",
+        "HIT: The opponent discards 2 cards at random.",
+        "Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+      ],
+      "exceed_cost": "3G",
+      "description": "靈感來自Biboo對《惡魔獵人5》Vergil的狂熱以及主題曲〈Bury the Light〉。這是她的招牌終極技——如Vergil的次元斬般無視防禦，命中後削減對手資源並奪回節奏，一詞以蔽之：Motivation。"
+    },
+    {
+      "name": "Biboo later~",
+      "type": "ultra",
+      "cost": "2G",
+      "range": "1-3",
+      "power": "5",
+      "speed": "6",
+      "armor": "0",
+      "guard": "2",
+      "boost": {
+        "name": "Radiance Afterglow",
+        "cost": "-",
+        "timing": "Instant",
+        "effect": [
+          "Gain 3 life.",
+          "Draw a card."
+        ]
+      },
+      "effect": [
+        "Stun Immunity.",
+        "HIT: You may spend any amount of Gauge. For each Gauge spent this way, +1 Power."
+      ],
+      "exceed_cost": "2G",
+      "description": "以Biboo的招牌道別語「Biboo later~」命名。雖是道別卻充滿希望——她標誌性大笑容中的光芒能治癒傷口，並自由燃燒剩餘計量條轉化為最終一擊，體現她每次收播時帶給Pebbles的溫暖與不捨。"
+    }
+  ]
+}
