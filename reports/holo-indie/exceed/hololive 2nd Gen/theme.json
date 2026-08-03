@@ -1,0 +1,121 @@
+[
+  {
+    "name": "封印の頭部・太陽のマネージャー",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "3",
+    "armor": "0",
+    "guard": "1",
+    "boost": {
+      "name": "しゅばしゅば",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "You cannot be Pushed or Pulled."
+      ]
+    },
+    "effect": [
+      "Cleanup: If you have the other four Exodia pieces (Right Arm, Left Arm, Right Leg, Left Leg) in your hand, you win the game.",
+      "When you take damage, reveal your hand (the Sun Manager's brilliance becomes a public secret)."
+    ],
+    "description": "大空スバル是 Exodia 的頭部——元氣太陽成為黑暗大法師的核心。Cleanup 階段若手牌集齊其他四張 Exodia 零件，二期生黑暗大法師降臨、直接獲勝。但頭部本身數值極低，拿到它等於握著一張近乎無用的廢牌；受擊時還必須公開手牌。元氣滿滿的太陽經理，一旦登場就藏不住勝利的號令。"
+  },
+  {
+    "name": "封印の右腕・海の女僕",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "3",
+    "speed": "7",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "KonAqua",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Draw 2 cards."
+      ]
+    },
+    "effect": [
+      "HIT: Retrieve 1 Exodia piece from your Discard Pile to your hand.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "湊あくあ的右腕是 Exodia 的零件檢索軸。高速先手命中後從棄牌堆撈回失去的零件，KonAqua 的高速抽牌加速湊卡節奏——她畢業後留下的傳奇迴響，本質上還是讓散落的二期生重新聚集的關鍵發動機。"
+  },
+  {
+    "name": "封印の左腕・天才黒魔術師",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "4",
+    "speed": "6",
+    "armor": "0",
+    "guard": "2",
+    "boost": {
+      "name": "天才の詠唱・NEEEE!",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Look at the top 2 cards of your deck, then rearrange them in any order.",
+        "The opponent discards 1 random card from their hand. If they discard an Exodia piece, retrieve it from their Discard Pile to your hand (the genius reclaims what is hers)."
+      ]
+    },
+    "effect": [
+      "BEFORE: Name a card. The opponent reveals their hand and discards all copies of it (a genius can read any scheme).",
+      "HIT: Draw 1 card. If it is an Exodia piece, keep it (the genius knows where the next piece is)."
+    ],
+    "description": "紫咲シオンの左腕是 Exodia 的抽牌檢索軸。天才黑魔術師窺看牌庫、重排順序，命中後抓到零件就會直接留住；若對手膽敢棄掉她的零件，她就會氣得「NEEEE!」並把零件搶回手中。當她已看穿對手計畫時，還會嘲笑對手「Heh, dummy!」。天才的詠唱，就是為了讓五張零件在手中齊聚。"
+  },
+  {
+    "name": "封印の右脚・鬼の生徒会長",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "3",
+    "speed": "4",
+    "armor": "2",
+    "guard": "5",
+    "boost": {
+      "name": "式神・Shiranui",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "You cannot be Pushed or Pulled. At the start of your turn, you may discard 1 card, then retrieve 1 Exodia piece from your Discard Pile to your hand."
+      ]
+    },
+    "effect": [
+      "When you are hit (after Hit effects), you may discard any number of cards from your hand. For each card discarded this way, +2 Armor.",
+      "AFTER: Draw 1 card. If it is an Exodia piece, keep it (the Oni's luck finds the next piece)."
+    ],
+    "description": "百鬼あやめ的右腳是 Exodia 的防禦軸。鬼族學生會長的鬼之力化為高 Armor／Guard，式神 Shiranui 使她無法被移動，受擊時以棄牌換取護體。重生後的抽牌讓「最幸運成員」的傳說繼續發威——她總能找到下一張零件。"
+  },
+  {
+    "name": "封印の左脚・悪魔の保健医",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "2",
+    "speed": "3",
+    "armor": "1",
+    "guard": "4",
+    "boost": {
+      "name": "悪魔の契約・ちょっこーん！",
+      "cost": "-",
+      "timing": "Instant",
+      "effect": [
+        "Gain 2 life. The opponent loses 1 life (a Demon's contract always takes its toll).",
+        "Retrieve 1 Exodia piece from your Discard Pile to your hand.",
+        "For each Exodia piece in your hand, +1 Guard."
+      ]
+    },
+    "effect": [
+      "BEFORE: Gain 3 life. If you are at maximum life, +2 Power (the Demon's true nature awakens).",
+      "HIT: The opponent cannot discard cards from their hand during their next turn. Pull them 1 space with your Demon's tail.",
+      "AFTER: Draw 1 card. If it is an Exodia piece, keep it (the Demon's contract ensures the pieces assemble)."
+    ],
+    "description": "癒月ちょこ的左腳是 Exodia 的續航樞紐。惡魔保健醫的契約治療維持湊卡期間的血量，並從棄牌堆撿回失去的零件；手上零件越多防禦越高——她嗜睡卻總在關鍵時刻守護夥伴，是讓五件套安然集結的後援之腳。"
+  }
+]
