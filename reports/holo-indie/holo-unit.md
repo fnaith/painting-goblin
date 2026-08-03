@@ -242,3 +242,4 @@ Legend:
 | **MUFAUBAE** | nanashi-mumei, ceres-fauna, hakos-baelz | Nanashi Mumei, Ceres Fauna, Hakos Baelz | Fan group; Fauna [R], Mumei [R]; EN Council subset |
 | **OKFAIR** | nekomata-okayu, ceres-fauna, ninomae-inanis, pavolia-reine, irys | Nekomata Okayu, Ceres Fauna, Ninomae Ina'nis, Pavolia Reine, IRyS | Fan group; Fauna [R]; cross-branch Hololive friends group |
 | **Hentai Gentlemen Three Musketeers (變態紳士三劍客)** | isaki-riona, koganei-niko, rindo-chihaya | Isaki Riona, Koganei Niko, Rindo Chihaya | Fan group; FLOW GLOW comedy trio |
+| **2nd Gen Exodia (二期生黑暗大法師)** | minato-aqua, murasaki-shion, nakiri-ayame, yuzuki-choco, oozora-subaru | Minato Aqua, Murasaki Shion, Nakiri Ayame, Yuzuki Choco, Oozora Subaru | Fan meme; likens the 5 JP 2nd Gen members to the five sealed pieces of Exodia — most are graduated/inactive, so seeing all 5 together is as rare as summoning Exodia; Aqua [R], Shion [R] |
