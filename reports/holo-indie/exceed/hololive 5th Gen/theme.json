@@ -1,0 +1,94 @@
+[
+  {
+    "name": "雨の精霊・NePoLaBoの雨女",
+    "type": "special",
+    "cost": null,
+    "range": "1-2",
+    "power": "2",
+    "speed": "4",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "雨勢增強",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your attack gains +X Power (X is the number of NePoLaBo cards in your boost area)."
+      ]
+    },
+    "effect": [
+      "Relay: When this card is sealed from your boost area as a cost, at the start of your next turn, you may return it from your sealed area to your boost area.",
+      "HIT: Push the opponent 1 space."
+    ],
+    "description": "獅白ぼたん的雨女迷因化為雨の精霊——暴雨讓她的攻擊力道增強。boost 區每有一張 NePoLaBo 卡，攻擊 +1 Power；四張齊聚時雨勢達到最強。被作為 seal 代價封存後，下一回合飛回 boost 區，如同雲雨循環永不散去。"
+  },
+  {
+    "name": "水の精霊・NePoLaBoの水神",
+    "type": "special",
+    "cost": null,
+    "range": "1-3",
+    "power": "2",
+    "speed": "5",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "水之湧泉",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "When you Strike, draw X cards (X is the number of NePoLaBo cards in your boost area)."
+      ]
+    },
+    "effect": [
+      "Relay: When this card is sealed from your boost area as a cost, at the start of your next turn, you may return it from your sealed area to your boost area.",
+      "HIT: Draw 1 card."
+    ],
+    "description": "桃鈴ねね的水神 Hydrohomie 迷因化為水の精霊——如同她直播時狂喝水補給，每次 Strike 時湧出泉水，boost 區每有一張 NePoLaBo 卡抽 1 張牌。被 seal 後飛回 boost 區，如同她的水桶永遠裝滿、源源不絕。"
+  },
+  {
+    "name": "雪の精霊・NePoLaBoの雪女",
+    "type": "special",
+    "cost": null,
+    "range": "1",
+    "power": "1",
+    "speed": "3",
+    "armor": "1",
+    "guard": "3",
+    "boost": {
+      "name": "雪之結界",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "When you Strike, gain +X Armor (X is the number of NePoLaBo cards in your boost area)."
+      ]
+    },
+    "effect": [
+      "Relay: When this card is sealed from your boost area as a cost, at the start of your next turn, you may return it from your sealed area to your boost area.",
+      "BEFORE: Gain 2 life."
+    ],
+    "description": "雪花ラミィ的雪女設定化為雪の精霊——冰雪凍結成護盾，每次 Strike 時結界累積 Armor，boost 區每有一張 NePoLaBo 卡 +1 Armor，如同雪之壁壘層層加厚。被 seal 後飛回 boost 區，如紛飛的雪永不停止，雪女的身影總會再次降臨。"
+  },
+  {
+    "name": "晴の精霊・NePoLaBoの100℃",
+    "type": "special",
+    "cost": null,
+    "range": "2-4",
+    "power": "2",
+    "speed": "6",
+    "armor": "0",
+    "guard": "0",
+    "boost": {
+      "name": "高溫加速",
+      "cost": "-",
+      "timing": "Continuous",
+      "effect": [
+        "Your attack gains +X Speed (X is the number of NePoLaBo cards in your boost area)."
+      ]
+    },
+    "effect": [
+      "Relay: When this card is sealed from your boost area as a cost, at the start of your next turn, you may return it from your sealed area to your boost area.",
+      "HIT: Gain Advantage (you take the next turn, regardless of who initiated the Strike)."
+    ],
+    "description": "尾丸ポルカ的「1 Polka = 100℃」化為晴の精霊——沸騰的太陽讓攻擊加速。boost 區每有一張 NePoLaBo 卡，攻擊 +1 Speed；座長 100℃ 的高溫熱力讓行動永遠快人一步。被 seal 後飛回 boost 區，如同太陽無論如何都會再次升起。"
+  }
+]
