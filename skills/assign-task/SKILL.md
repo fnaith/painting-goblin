@@ -1,5 +1,5 @@
 ---
-name: assign_task
+name: assign-task
 description: Create and assign tasks to the painting-goblin task processing system. Use this skill when users want to add new tasks to the system, understand how the task processing workflow works, or need guidance on task file formats and placement. This skill covers task creation, file placement, system monitoring, and troubleshooting.
 ---
 
