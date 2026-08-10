@@ -22,7 +22,21 @@ description: 設計 Exceed 的 Hololive 同人遊戲主題（theme）。當使�
 ### 角色對應與各自專屬效果
 ### 平衡設計
 ### 確保擴展性
-...
+## 主題設計3
+### 核心機制
+### 角色對應與各自專屬效果
+### 平衡設計
+### 確保擴展性
+## 主題設計4
+### 核心機制
+### 角色對應與各自專屬效果
+### 平衡設計
+### 確保擴展性
+## 主題設計5
+### 核心機制
+### 角色對應與各自專屬效果
+### 平衡設計
+### 確保擴展性
 ```
 
 ## 設計流程
@@ -49,7 +63,8 @@ description: 設計 Exceed 的 Hololive 同人遊戲主題（theme）。當使�
     - **5th Gen**：團體名「NePoLaBo」正是四位成員名字的連結（Ne-ne＋Po-lka＋La-my＋Bo-tan），且由座長ポルカ親自命名
 - **避免**：只套用常見框架（學園、電競、祭典）而沒有同期獨特的連結。主題必須從同期自己的故事長出來。
 - 根據同期專屬的核心概念，參考遊戲王或MTG的套牌機制，設計能運作於Exceed的主題機制。
-- 不使用 Gauge／Force／Exceed／Character Cards／Additional Cards 機制
+- 不使用 Gauge／Force／Exceed／Character Cards／Additional Cards 機制。
+- 不使用或額外的記數方式或雙面卡。
 
 #### 主題零件的角色對應
 
