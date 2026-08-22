@@ -1,222 +1,60 @@
-# hololive English -Justice- — 正義の執行者（Executors of Justice）規劃
+# hololive English -Justice- — 正義追捕（The Great Manhunt）規劃
 
 ## 參考概念（設計靈感來源）
 
-holoJustice（ホロライブEnglish -Justice-）是 hololive 進軍海外的第四個期生（EN 4th Gen），也是 hololive 唯一以「正義」為官方主題的期生。最獨特的是──四位成員皆是為了執行「正義」而組成的機構，各司其職：
+Justice（holoJustice）是 hololive English 第四期生，2024 年 6 月出道，共四位成員（holo-unit.md 記載）：**Elizabeth Rose Bloodflame（エリザベス・ローズ・ブラッドフレイム）、Gigi Murin（ジジ・ムリン）、Cecilia Immergreen（セシリア・イマーグリーン）、Raora Panthera（ラオーラ・パンテーラ）**。
 
-- **エリザベス・ローズ・ブラッドフレイム（Elizabeth Rose Bloodflame）**：Justice 的**領導者（Leader）**。英國女王氣場的「薔薇之炎」，Cockney 腔與 RP 腔切換、Voice Mimicry、Thorn of Justice。稱號為**正義の女王**。
-- **セシリア・イマーグリーン（Cecilia Immergreen）**：Justice 的**古代自動人偶（Ancient Automaton）**。自永恆服務中解放的機械存在，SPIN TO WIN!、Immersions 系列、Cello Suite。稱號為**解放の自動人形**。
-- **ジジ・ムリン（Gigi Murin）**：Justice 的**追獵者（Chaser）**。混沌的能量化身，Boat Goes Binted、GG Fister、The Fister、CHAOS THEORY。稱號為**混沌の追獵者**。
-- **ラオラ・パンテーラ（Raora Panthera）**：Justice 的**偵探（Detective）**。黑豹獸娘，神之眼（God Eyes）、藝術家兼偵探、Pizza Margherita。稱號為**神眼の探偵**。
+Justice 最獨特、最「別無分號」的集體迷因，是**「以執法組織追捕逃亡者」的組織身分**與**「四國同盟」的跨國結構**：
 
-### 集體迷因：正義の執行
+- **執法組織（The Justice Organization）**：Justice 不是偶像出道，而是**被派遣追捕逃亡中 Advent 期成員的執法／狩獵組織**。總部位於「The Lookout」，配備能跨維度觀察目標的「**The Panscope（多維望遠鏡）**」。官方動態漫畫 **Advent VS Justice（#AdVSJus）** 即「Justice＝獵人 vs Advent＝逃亡者」的追逐劇。
+- **與 Advent 的 Seal 對照**：Advent 主題「囚犯越獄」的鏡像——Advent 靠逃出 Seal 區（The Cell 監獄），Justice 則**把敵人的卡關進 Seal 區**（逮捕罪犯、關回監獄），獵人與逃亡者的攻防由此形成。
+- **四國同盟（Four-Nation Alliance）**：四人官方人設對應不同西方國家（Elizabeth＝英國／Gigi＝美國／Cecilia＝德國／Raora＝義大利），組成跨國正義聯盟——不是單打獨鬥，而是「四國齊心、共同執法」。
+- **荒誕的官僚體制**：Justice 有權任命「**第五名成員**」，但那是**臨時職位**（「像換襪子一樣頻繁更換」）；吉祥物「**Sergeant Smokey**」偶爾會下達命令。Justice 的會議室名為「The Lookout」。
+- **內部雙人羈絆**：最知名的官方配對是 **CCGG / Autofister（Cecilia × Gigi）**，粉絲愛稱「腦腐二人組（Brainrot Duo）」，舉辦過聯合 3D LIVE《CCGG MADNESS》；另一組 **BloodRaven（Elizabeth × Nerissa Ravencroft）**。
+- **原創曲敘事**：Justice 團體曲「**SUPERNOVA SUPER GIRL**」（超級英雄風）、「ABOVE BELOW」「Odyssey」「All for One」，強化「四人英雄組織」意象。
 
-Justice 最獨特的集體迷因是「**正義的執行者**」──四位成員組成 Justice 機構，為了執行「正義」而行動，是 hololive 中「主題性」最一致的期生：
+### 每位成員的招牌迷因（作為 boost 名稱與效果意象）
 
-1. **正義的主題**：Justice 是 hololive 唯一以「正義」為官方主題的期生──四位成員（女王領導者／自動人偶／追獵者／偵探）各司其職執行正義。
-2. **CCGG（腦腐雙人組）**：Cecilia×Gigi 的「Brainrot Duo」雙人組合與合作曲〈CCGG MADNESS〉（holo-unit.md 記載為 official pair CCGG / Autofister）──理性吐槽役與混沌的絕妙搭配。
-3. **BloodRaven**：Elizabeth×Nerissa（Advent）的官方雙人組合（holo-unit.md 記載為 official pair）──薔薇之炎與音之惡魔的羈絆。
-4. **Rocku Wawa**：Raora×Fuwawa（Advent）的官方雙人組合（holo-unit.md 記載為 official pair）──黑豹與魔界看守犬的可愛組合。
-5. **RENEGADE 的共同主題**：Elizabeth 與 Cecilia 皆有原創曲〈RENEGADE〉──「叛逆者」的贖罪與自我解放，是 Justice 的精神象徵。
-6. **正義的定義**：Justice 的「正義」是自由的（RENEGADE）、混沌的（Gigi）、神聖的（Elizabeth）、真實的（Raora）──四位成員各自詮釋「正義」。
-7. **EN 的新世代**：Justice 是 hololive EN 的最新期生（2024年出道），開啟 EN 的另一篇章。
+| 成員 | 稱號 | 國家／種族 | 招牌迷因 |
+|------|------|-----------|---------|
+| Elizabeth Rose Bloodflame | The Scarlet Queen / Harbinger of Order（深紅女王／秩序的先驅） | 英國（推定 Great Exardia）／人類 | "OH- HOHOHOHO~!"、"Ello Ello Ello~!"（Cockney 腔）、"Let my voice be your strength."、聲音模仿、胸前藍色火焰、荊棘之劍「Thorn」（劍身刻天秤鱗片）、Queen's Speech、靠午睡紓壓 |
+| Gigi Murin | The Chaser / The Fister（追獵者） | 美國／人類 | "GG stands for GIGI!"、"The Fister"、"Boat Goes Binted"、"Gi Murin!"、Gremlin 搗蛋能量、最混亂 VTuber 獎、腦腐二人組（與 Cecilia）、混沌 |
+| Cecilia Immergreen | Ancient Automaton（古代自動人偶） | 德國／自動人偶 | "SPIN TO WIN!"、🍵 紅茶、巴哈無伴奏大提琴組曲、程式設計／技術、"ABOVE BELOW"、腦腐二人組（與 Gigi） |
+| Raora Panthera | The God Eyes（神之眼）藝術家偵探 | 義大利／黑豹獸娘 | "Ciaora!"（Ciao＋Raora）、神之眼、瑪格麗特披薩（絕不加鳳梨）、La Dolce Vita、黑豹的敏捷、偵探情報收集 |
 
 ---
+## 主題設計：把敵卡關進 Seal — 監禁引擎（The Lockdown Engine）
 
-## 主題設計 1：正義の機構（The Institution of Justice）— 職責共鳴
+### 核心機制：逮捕・關押・防逃（Arrest・Incarcerate・Anti-Escape）
 
-### 核心機制：正義職責（Justice Ranks）
+Justice 是執法組織，使命就是把逃亡的罪犯（Advent）關回監獄。此主題與 Advent「從 Seal 區越獄」互為鏡像：Advent 靠逃出 Seal 區，Justice 則**把敵人的卡關進 Seal 區（The Cell 監獄）**，以「囚禁」並削弱對手資源：
 
-以 Justice「四位執行正義的機構」為核心。四位成員各有明確的職責（女王領導者／自動人偶／追獵者／偵探），設計**正義職責（Justice Ranks）**：
+- **逮捕（Arrest）**：Justice 四位執法者各司一職，分別針對 **手牌／牌庫頂／棄牌堆／Boost 區** 其中一個區域執法。當你命中對手時，可依該成員的「執法區域」將該區域中的一張卡關進 **Seal 區**（Justice 執法、把罪犯關回監獄）。被封存的卡在獄中無法被使用，對手損失該卡的資源與效果。
+- **全面執法（Full Sweep）**：當你已在**全部四個區域**各關押過至少 1 張敵卡時，Justice 完成全面掃蕩——你每回合首次命中 +1 Power（四區皆覆蓋的徹底壓制）。
+- **關押的壓制**：你每在 Seal 區關押 1 張敵卡，你對該對手的攻擊 **+1 Power**（Justice 不斷建功、士氣高漲）。
+- **防逃（Anti-Escape）**：Justice 防止越獄——當對手試圖將卡從 Seal 區返回（如 #407 效果）時，你可檢視後選擇：允許其返回，或改為將其牌庫頂 1 張一併關押（獄卒加派看守、阻止脫逃）。
 
-- 每位玩家擁有一張**職責卡（Rank Card）**，標記當前主導的職責（對應所選成員）。
-- **職責技能（Rank Skill）**：每個職責有獨特的常駐技能，由玩家行為（Strike／Boost／受擊）觸發：
-  - **女王（Elizabeth）**：每回合首次命中的卡牌 +1 Power（女王的威壓），但受擊時須支付 1 張手牌（女王的尊嚴）。
-  - **自動人偶（Cecilia）**：每回合首次 Boost 時額外抽 1（機械的運算），但命中 Power-1（理性的克制）。
-  - **追獵者（Gigi）**：每回合首次命中時可棄對手 1（追獵的壓制），但受擊時隨機棄 1（混沌的混亂）。
-  - **偵探（Raora）**：每回合首次 Boost 時可檢視牌頂 2 張（神眼的洞察），但命中 Power-1（觀察優先）。
-- **職責切換（Rank Switch）**：每回合 1 次，玩家可切換職責（如同機構彈性調配）。
-- **機構共鳴（Institution Resonance）**：場上存在 2 張以上不同成員的主題卡時，獲得「**機構加成**」──每回合首次 Boost 效果 +1（Justice 機構的團結）。
+**共通 effect「Lockdown（封鎖）」**：
+> 「命中時，依該 Justice 成員的『執法區域』（手牌／牌庫頂／棄牌堆／Boost 區），將該區域中的一張卡關進 Seal 區（The Cell）。」
 
-### 角色對應與各自專屬效果
+### 角色對應與各自專屬效果（成員 → 稱號 → 執法區域 → 執法方式）
 
-四位成員各代表 Justice 的一種職責（成員 → 稱號 → 職責與專屬效果）：
-
-| 成員 | 稱號 | 職責 | 專屬效果 |
-|------|------|------|---------|
-| Elizabeth Rose Bloodflame | 正義の女王 | 女王領導者 | 命中 +1 Power 但受擊付手牌；Voice Mimicry：可複製 1 張棄牌堆卡（聲音模仿） |
-| Cecilia Immergreen | 解放の自動人形 | 自動人偶 | Boost 抽 1 但命中 -1；Spin to Win：命中後可操控對手 1 格位置（旋轉操控） |
-| Gigi Murin | 混沌の追獵者 | 追獵者 | 命中棄 1 但受擊隨機棄 1；GG Fister：可支付 1 手牌換取 +2 Power（拳擊爆發） |
-| Raora Panthera | 神眼の探偵 | 偵探 | Boost 檢視牌頂 2 張但命中 -1；God Eyes：可窺視對手手牌（神眼的洞察） |
+| 成員 | 稱號 | 執法區域 | 執法方式（專屬 boost） | 專屬效果 |
+|------|------|---------|----------------------|---------|
+| Elizabeth Rose Bloodflame | The Scarlet Queen | 手牌 | **Queen's Verdict**：命中時點名，將對手**手牌**中一張關進 Seal（法官當庭宣判） | 關押後你可抽 1（宣判後的從容） |
+| Gigi Murin | The Chaser | 牌庫頂 | **Takedown**：命中時將對手**牌庫頂** 1 張關進 Seal（追捕中直接把目標抓進監獄） | 逮捕時對手多棄 1（一網打盡） |
+| Cecilia Immergreen | Ancient Automaton | Boost 區 | **Lockdown**：命中時將對手**一張公開 Boost** 關進 Seal（系統遠端封鎖、覆寫增益） | 關押時你抽 1（機械效率） |
+| Raora Panthera | The God Eyes | 棄牌堆 | **Case Closed**：命中時將對手**棄牌堆**中一張關進 Seal（扣留證物、結案） | 逮捕時可重排對手牌頂 1（調查取證） |
 
 ### 平衡設計
 
-1. **職責技能太強？** → 各職責技能都附帶弱點（Elizabeth 受擊付手牌、Cecilia 命中-1、Gigi 受擊隨機棄、Raora 命中-1），無法無代價強化。
-2. **職責切換太強？** → 每回合限 1 次切換，且切換時需支付 1 張手牌（機構調動的代價）。
-3. **女王太強？** → Elizabeth 女王命中 +1 Power 但受擊付手牌，女王的尊嚴雙面刃。
-4. **既有機制運用** → 職責技能為常駐能力（類比角色卡能力），職責切換不涉及翻面，不使用 Gauge／Force／Exceed 等既有機制。
+1. **永久移除敵卡太強？** → Exceed 既有 Seal 區規則（#407 等）仍允許對手救回被封存的卡；且每位執法者只針對**單一區域**，無法一次清空手牌／牌庫／棄牌堆。
+2. **過度壓制？** → 逮捕以「命中」為觸發、每次最多關 1 張，並受各成員「執法區域」限制——針對不同區域的成員互相補位，需四張成員配合才能覆蓋全區。
+3. **Exceed 既有機制** → 以既有 Seal 區作為監獄（The Cell），善用封存區既有效果（#407 返回手牌、#544、#551），不另造輪子、不新增計數器／雙面卡。全面執法以「四區域各關押過」的狀態判斷，無額外計數器。
 
 ### 確保擴展性
 
-- 職責可擴充（追加 Justice 的跨期連動或新職責）。
-- 與各成員既有抽濾／檢索卡（Elizabeth的Ello Ello Ello、Cecilia的SPIN TO WIN、Raora的God Eyes）輔助機構節奏。
-
----
-
-## 主題設計 2：荊棘の女王（Thorn of Justice）— 薔薇之炎的審判
-
-### 核心機制：審判天平（Scales of Judgment）
-
-以 Elizabeth「Justice 領導者」的薔薇之炎之劍（Thorn）為核心──刻有天秤鱗片的黑紅大劍象徵正義。這是 Justice 的精神象徵。設計**審判天平（Scales of Judgment）**：
-
-- 每位玩家擁有一張**審判天平卡（Scales of Judgment）**，記錄審判值（0-5）。
-- **審判來源**：使用附帶「命中」效果的卡牌時，審判值 +1（罪證的累積）。
-- **審判效果（審判值門檻）**：
-  - **審判 2（起訴）**：每回合首次 Boost 時額外抽 1（控訴的準備）。
-  - **審判 4（裁決）**：每回合首次命中的卡牌 +1 Power（正義的裁決）。
-  - **審判 5（執行）**：獲得「命中時對手棄 1」且受擊時回復 1（正義的完全執行），但**每回合結束時審判值 -2**（審判的終結）。
-- **審判的阻礙（現實）**：若對手上回合成功防禦我方攻擊，審判值 -1（正義的耽擱）。
-
-### 角色對應與各自專屬效果
-
-四位成員各代表審判的一種型態（成員 → 稱號 → 審判專屬效果）：
-
-| 成員 | 稱號 | 審判型態 | 專屬效果 |
-|------|------|---------|---------|
-| Elizabeth Rose Bloodflame | 正義の女王 | 正義的宣判 | 審判值上昇時可棄對手 1（女王的口諭）；審判 5 時命中的卡牌 Ignore Guard |
-| Cecilia Immergreen | 解放の自動人形 | 理性的判決 | 審判值上昇時可檢視牌頂 2 張（機械的運算）；審判 5 時 Boost 效果 +1 |
-| Gigi Murin | 混沌の追獵者 | 混沌的裁決 | 審判值上昇時可擲骰（4+ 時棄對手 1）；審判 5 時命中追加 Push 1 |
-| Raora Panthera | 神眼の探偵 | 真實的證詞 | 審判值上昇時可窺視對手手牌（神眼的見證）；審判 5 時命中追加 Pull 1 |
-
-### 平衡設計
-
-1. **審判 5 太強？** → 審判 5 效果強大但每回合結束 -2，無法永久維持；且審判的阻礙（被防禦）時 -1。
-2. **審判累積太快？** → 審判值僅在「命中」時上昇，且每回合結束自然衰減，無法無限期堆疊。
-3. **個別審判型態太強？** → 各審判型態都附帶弱點（Gigi 擲骰不確定），無法無代價強化。
-4. **既有機制運用** → 審判天平卡類似記分方式（Score 區），不使用 Gauge／Force／Exceed 等既有機制。
-
-### 確保擴展性
-
-- 審判門檻可調整（追加審判 3「審問」、審判 5「執行」等中間效果）。
-- 與抽濾／命中機制連動，讓審判累積自然融入牌組。
-
----
-
-## 主題設計 3：腦腐雙人組（Brainrot Duo）— CCGG 混沌
-
-### 核心機制：混沌共鳴卡（Chaos Resonance Cards）
-
-以 Cecilia×Gigi 的「Brainrot Duo」雙人組合與合作曲〈CCGG MADNESS〉為核心。這是 Justice 最具代表性的內部羈絆──理性吐槽役（Cecilia）與混沌能量（Gigi）的絕妙搭配（holo-unit.md 記載為 official pair CCGG / Autofister）。設計**混沌共鳴卡（Chaos Resonance Cards）**：
-
-- Cecilia 與 Gigi 各擁有一張**混沌共鳴卡**，互為對應。
-- **共鳴連結（Resonance Link）**：當雙方的共鳴卡皆在場（公開區或手牌），觸發腦腐共鳴。
-- **共鳴效果（腦腐蔓延）**：
-  - **雙方各抽 1**（腦腐的擴散）
-  - **同時觸發「CCGG MADNESS」**：該回合我方命中時 +1 Power（理性與混沌的交織）。
-- **共鳴的代價（現實）**：共鳴卡可被對手的棄牌效果破壞（現實的阻礙），但被破壞的共鳴卡可從棄牌堆回收（腦腐永續）。
-- **共鳴的條件（同步）**：共鳴效果以「場上 Boost 卡數量」為條件──雙方場上合計 2 張以上 Boost 卡時觸發強化（如同腦腐的擴散需要共同環境）。
-
-### 角色對應與各自專屬效果
-
-CCGG 是 Justice 的核心羈絆，但完整共鳴機制需涵蓋四人（成員 → 稱號 → 共鳴卡與效果）：
-
-| 成員 | 稱號 | 共鳴卡 | 羈絆對象 | 效果 |
-|------|------|--------|---------|------|
-| Cecilia Immergreen | 解放の自動人形 | CCGG（理性面） | Gigi Murin | 雙方各抽 1，觸發 CCGG MADNESS |
-| Gigi Murin | 混沌の追獵者 | CCGG（混沌面） | Cecilia Immergreen | 雙方各抽 1（腦腐的擴散），命中時可選擇抽 1 |
-| Elizabeth Rose Bloodflame | 正義の女王 | 王の裁き | 全體夥伴 | 任一同伴共鳴生效時，抽 1（女王的監督） |
-| Raora Panthera | 神眼の探偵 | 神眼の共鳴 | 全體夥伴 | 任一同伴共鳴生效時，可窺視手牌（神眼的見證） |
-
-### 平衡設計
-
-1. **CCGG 太強？** → 共鳴卡需雙方同時在場才觸發共鳴，且共鳴卡本身 Power 低（1-2），主價值在共鳴效果。
-2. **共鳴被破壞？** → 對方可透過棄牌效果破壞共鳴卡，但從棄牌堆回收需消耗行動資源，形成「要不要拆散腦腐」的博弈。
-3. **雙方獲益的公平性？** → 共鳴共鳴雙方各抽 1，是公平交易而非單方優勢，如同「腦腐」是共享的。
-4. **既有機制運用** → 共鳴卡即為角色特殊卡，共鳴效果以公開區／手牌的卡牌狀態判斷，不使用 Gauge／Force／Exceed 等既有機制。
-
-### 確保擴展性
-
-- 共鳴可擴充為其他組合（BloodRaven、Rocku Wawa 等），沿用既有 official pair 資料。
-- 共鳴效果可依環境調整，作為平衡修正切入點。
-
----
-
-## 主題設計 4：神眼の探偵（Detective of God Eyes）— 真相搜查
-
-### 核心機制：搜查計數（Investigation Counter）
-
-以 Raora「神之眼偵探」的能力為核心──神之眼（God Eyes）能看穿一切偽裝與謊言，包括藝術繪畫與情報收集。這是 Justice 最具「情報戰」特色的機制。設計**搜查計數（Investigation Counter）**：
-
-- 每位玩家擁有一張**搜查計數卡（Investigation Counter）**，記錄搜查值（0-5）。
-- **搜查來源**：使用附帶「檢視／窺視」效果的卡牌時，搜查值 +1（證據的收集）。
-- **搜查效果（搜查值門檻）**：
-  - **搜查 2（線索）**：每回合首次 Boost 時額外抽 1（線索的發現）。
-  - **搜查 4（突破）**：每回合首次命中的卡牌 +1 Power（案件的突破）。
-  - **搜查 5（真相）**：獲得「命中時對手棄 1」且受擊時回復 1（真相大白），但**每回合結束時搜查值 -2**（案件的結案）。
-- **搜查的阻礙（現實）**：若對手上回合成功防禦我方攻擊，搜查值 -1（線索的中斷）。
-
-### 角色對應與各自專屬效果
-
-四位成員各代表搜查的一種型態（成員 → 稱號 → 搜查專屬效果）：
-
-| 成員 | 稱號 | 搜查型態 | 專屬效果 |
-|------|------|---------|---------|
-| Raora Panthera | 神眼の探偵 | 神眼的搜查 | 搜查值上昇時可窺視對手手牌（神眼的洞察）；搜查 5 時命中追加 Pull 1 |
-| Elizabeth Rose Bloodflame | 正義の女王 | 女王的訊問 | 搜查值上昇時可棄對手 1（女王的口諭）；搜查 5 時命中的卡牌 Ignore Guard |
-| Cecilia Immergreen | 解放の自動人形 | 機械的解析 | 搜查值上昇時可檢視牌頂 2 張（機械的運算）；搜查 5 時 Boost 效果 +1 |
-| Gigi Murin | 混沌の追獵者 | 混沌的追蹤 | 搜查值上昇時可擲骰（4+ 時棄對手 1）；搜查 5 時命中追加 Push 1 |
-
-### 平衡設計
-
-1. **搜查 5 太強？** → 搜查 5 效果強大但每回合結束 -2，無法永久維持；且搜查的阻礙（被防禦）時 -1。
-2. **搜查累積太快？** → 搜查值僅在「檢視／窺視」時上昇，且每回合結束自然衰減，無法無限期堆疊。
-3. **Raora 太強？** → Raora 神眼窺視手牌是雙面刃（情報優勢但行動資源消耗），無法無代價強化。
-4. **既有機制運用** → 搜查計數卡類似記分方式（Score 區），不使用 Gauge／Force／Exceed 等既有機制。
-
-### 確保擴展性
-
-- 搜查門檻可調整（追加搜查 3「調查」、搜查 5「真相」等中間效果）。
-- 與檢視／窺視機制連動，讓搜查累積自然融入牌組。
-
----
-
-## 主題設計 5：正義の結束（Unity of Justice）— 執行者的傳說
-
-### 核心機制：正義之章（Tome of Justice）
-
-收束「Justice 正義的執行者」主題。設計**正義之章（Tome of Justice）**──四位執行者的正義詮釋以羈絆交織，達成 Justice 精神的完全體現：
-
-- 每位玩家擁有一張**正義之章卡（Tome of Justice）**，上有 4 個正義格（對應 4 位 Justice 成員的職責）。
-- **正義觸發**：達成該職責相關的條件時，在正義格上標記 1 個**正義點（Justice Point）**。
-- **正義效果（正義點門檻）**：
-  - **正義 1（覺醒）**：每回合首次 Boost 時額外抽 1（正義的覺醒）。
-  - **正義 3（共鳴）**：每回合首次命中的卡牌 +1 Power（執行者的共同正義）。
-  - **正義 4（Justice 完全體）**：獲得「命中時對手棄 1」且受擊時回復 1（正義的完全執行）。
-- **正義的代價（現實）**：正義格可被對手的反制效果移除（現實的阻礙），但被移除的正義格可從棄牌堆回收（正義不滅）。
-- **正義的真相（反差）**：達成正義 4 時，觸發「**正義的日常**」──雙方各回復 1（即使是正義的執行者，最終也是搞笑的 EN 日常）。
-
-### 角色對應與各自專屬效果
-
-每位成員的正義代表其職責的力量（成員 → 稱號 → 正義條件與效果）：
-
-| 成員 | 稱號 | 正義條件 | 效果 |
-|------|------|---------|------|
-| Elizabeth Rose Bloodflame | 正義の女王 | 使用 3 次命中效果（女王的裁決） | 王の裁き：觸發時可棄對手 1 |
-| Cecilia Immergreen | 解放の自動人形 | 使用 2 次 Boost 效果（機械的運算） | Spin to Win：觸發時可操控對手 1 格位置 |
-| Gigi Murin | 混沌の追獵者 | 達成 2 次棄牌效果（混沌的追獵） | GG Fister：觸發時可選擇 +1 Power |
-| Raora Panthera | 神眼の探偵 | 使用 2 次檢視效果（神眼的洞察） | God Eyes：觸發時可窺視手牌 |
-
-### 平衡設計
-
-1. **Justice 完全體太強？** → 需達成 4 個正義格，且各正義條件與職責戰術風格掛鉤，無法同時快速達成；正義格可被對手的反制效果移除。
-2. **正義的代價？** → 觸發正義效果時需支付該正義格的正義點（消耗），無法永久維持。
-3. **Elizabeth 太強？** → Elizabeth 正義需 3 次命中（與女王職責連動），且效果僅棄對手 1（象徵性）。
-4. **既有機制運用** → 正義之章卡類似 Score 區（記分），不使用 Gauge／Force／Exceed 等既有機制。
-
-### 確保擴展性
-
-- 正義格可擴充（追加 Justice 的跨期連動或更多正義敘事）。
-- 與抽濾／檢索機制連動，讓正義條件的觸發卡更容易上手。
+- 可與 Advent「越獄」對接成**跨期對局**：Justice 逮捕 vs Advent 越獄的攻防循環（獵人 vs 逃亡者，#AdVSJus 的實戰化）。
 
 ---
 
@@ -224,10 +62,6 @@ CCGG 是 Justice 的核心羈絆，但完整共鳴機制需涵蓋四人（成員
 
 | 主題 | 核心機制 | 集體迷因連結 |
 |------|---------|-------------|
-| 1. 正義の機構 | 正義職責（Justice Ranks）職責共鳴 | Justice 四位執行正義的機構職責 |
-| 2. 荊棘の女王 | 審判天平（Scales of Judgment）審判累積 | Elizabeth 薔薇之炎之劍 Thorn 的正義象徵 |
-| 3. 腦腐雙人組（CCGG） | 混沌共鳴卡（Chaos Resonance Cards）腦腐擴散 | Cecilia×Gigi 的 Brainrot Duo 與 CCGG MADNESS |
-| 4. 神眼の探偵 | 搜查計數（Investigation Counter）真相搜查 | Raora 神之眼的偵探情報戰 |
-| 5. 正義の結束 | 正義之章（Tome of Justice）守護收集 | 四位正義執行者以羈絆交織的完全體 |
+| 1. 監禁引擎 | 逮捕・關押・防逃（四位執法者分區把敵卡關進 Seal：手牌／牌庫頂／棄牌堆／Boost 區） | 執法組織逮捕罪犯、把敵卡關回 The Cell 監獄 |
 
-**資源設計**：所有主題皆不使用 Gauge／Force／Exceed／Character Cards／Additional Cards 機制，純粹以既有 Zones（手牌、棄牌堆、公開區、Boost 區）與記分式計數器運作。
+**資源設計**：不使用 Gauge／Force／Exceed／Character Cards／Additional Cards 機制，無額外計數器、無雙面卡、無額外卡牌，卡片效果盡量不綁卡名。純粹以既有 Zones（手牌、棄牌堆、公開區、Boost 區）與 **Seal 封存區**運作（善用 #407 封存區返回手牌等既有規則），將 Justice「獵人 vs 逃亡者」的組織敘事實作於 Exceed 的既有空間中。
